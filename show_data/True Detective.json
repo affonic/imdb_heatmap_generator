@@ -1,0 +1,673 @@
+[
+  {
+    "id": "tt2657398",
+    "title": "The Long Bright Dark",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjcyMjJmYzEtNzI4Yi00OWNmLWJlZWMtNmM2NGE2NjQ0YjU0XkEyXkFqcGc@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3480,
+    "plot": "In 2012, former detective partners Rust Cohle and Martin Hart recap one of their very first cases together involving a serial killer, back in 1995.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 34033
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt2704380",
+    "title": "Seeing Things",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzI3YWU5NTEtY2YzNC00Yjc0LThjMzAtNWE1NmVlMmEyY2FiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1242,
+      "height": 810
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3540,
+    "plot": "Cohle and Hart travel around trying to track down leads to their case. Darker sides of Hart's personal and family lives are revealed.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 29252
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt2790184",
+    "title": "The Locked Room",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWUyZWE2MWEtNzg4Yi00ODk4LWJhMTctMDQ1M2MwOTc1ZGVkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3600,
+    "plot": "Cohle and Martin finally get a new wind in the case and can confirm a suspect. Martin's mistress gets on with somebody else leaving him furious. Cohle's theory becomes increasingly more convincing than ever.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 28412
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt2790174",
+    "title": "Who Goes There",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGU4NDg5MWQtMTQyMi00Y2U2LWI3OWMtZTc2ZjVmYzVmYzU4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3360,
+    "plot": "Martin is faced with marital problems. The search for Reggie Ledoux leads the detectives to a motorcycle gang called the Iron Crusaders, which Rust worked undercover in the past.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 40571
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 2,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt2790196",
+    "title": "The Secret Fate of All Life",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjA5ZGZlOGMtNzZmOC00YWExLWI5ZjktNWY1ZjNiZmU1MDQxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3420,
+    "plot": "Hart and Cohle share the spoils of a solved case; Papania and Gilbough confront the detectives with troubling new intelligence.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 31382
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 2,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt2790238",
+    "title": "Haunted Houses",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2I4NjM0ZmMtN2JhZS00NTU4LWFjZjAtYTliY2ZhMzVmM2QwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1242,
+      "height": 819
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3540,
+    "plot": "Cohle's activities in 2002, when his partnership with Hart disintegrated and he quit the force, are recalled by Maggie.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 26763
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 2,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt2790240",
+    "title": "After You've Gone",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTUzNDM0YzUtNzc0OS00NDljLWFjNzctMTZiNWViMjVkYjNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1242,
+      "height": 818
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3240,
+    "plot": "Cohle and Hart try to discover if a series of missing persons reports could be related to the Dora Lange murder and the Tuttle family.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 26338
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt2790254",
+    "title": "Form and Void",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjZjZjFkZGItMjE3Yi00NmU4LWI4MGItZWFkZGQ1OTZkZDJlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 3240,
+    "plot": "An overlooked detail provides Hart and Cohle with an important new lead in their 17-year-old case.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 36746
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt3792838",
+    "title": "The Western Book of the Dead",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzI3OTUzMzczM15BMl5BanBnXkFtZTgwOTY1OTQyNTE@._V1_.jpg",
+      "width": 2000,
+      "height": 1331
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3600,
+    "plot": "A bizarre murder brings together three police officers and a career criminal in the corrupt city of Vinci, California.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 17184
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 6,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt4057166",
+    "title": "Night Finds You",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTc4ZTYwNmYtYmZiOC00YzIwLWE1MTAtZDllYmRhMzYxMzY0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3480,
+    "plot": "Ray, Ani, and Paul are assigned to Casper's murder case. Frank tries to keep his business deals going, even after Caspere's death.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 12473
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 6,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt4057164",
+    "title": "Maybe Tomorrow",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY0MjUyNjQ3N15BMl5BanBnXkFtZTgwMTg1MjgxNjE@._V1_.jpg",
+      "width": 3900,
+      "height": 2595
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3480,
+    "plot": "Paul works the prostitute angle; Frank receives the first casualty in a secret war.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 11192
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt4057168",
+    "title": "Down Will Come",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzY0MGJlNTgtZTUzMS00MDZlLWJjODAtODY4ZDYzZjcwM2JjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3300,
+    "plot": "The detail works a pawn shop lead to close in on a suspect in the Caspere case. Frank revisits his past to pay for the present.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 11915
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt4057170",
+    "title": "Other Lives",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NDM0MjU0M15BMl5BanBnXkFtZTgwNzYwMDgzNjE@._V1_.jpg",
+      "width": 4058,
+      "height": 2700
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3540,
+    "plot": "Ray and Frank consider new life choices; Ani and Paul go up to the coast to follow a lead.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 10166
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt4057176",
+    "title": "Church in Ruins",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQzODgxNzMzNF5BMl5BanBnXkFtZTgwMjkwMDgzNjE@._V1_.jpg",
+      "width": 2700,
+      "height": 4046
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3540,
+    "plot": "Desperate to locate a missing woman with intel about Caspere, Frank meets with Mexican drug dealers; Ani infiltrates an exclusive inner circle, with Ray and Paul keeping close tabs.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 10816
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt4057172",
+    "title": "Black Maps and Motel Rooms",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ3ODkyMjc1M15BMl5BanBnXkFtZTgwNDg0ODU0NjE@._V1_.jpg",
+      "width": 3600,
+      "height": 2403
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3840,
+    "plot": "As Ani, Paul, and Ray get closer to finding out the truth about Caspere, circumstances become more dangerous for them all and everyone around them. Frank deals with an inside betrayal, learns important information, and plans his next move.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 12158
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 8,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt4057174",
+    "title": "Omega Station",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzNhOWU2YWQtODI2Mi00OWFmLTg1MDctMTkzMWNhOThmNGJmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 5160,
+    "plot": "Ray and Ani attempt to escape their desperate situation while Frank ties up some loose ends.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 13938
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 8,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt6710716",
+    "title": "The Great War and Modern Memory",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGM5OTZhNjAtODc1OS00MmI1LTlkMmUtN2EyZWZkMWUyNTQ1XkEyXkFqcGc@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3540,
+    "plot": "The disappearance of a young brother and sister leads to a frantic search which will haunt one detective for the rest of his life.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 11713
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 1,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt7320860",
+    "title": "Kiss Tomorrow Goodbye",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDg3ZjI5ZDItYTdmMC00NjZhLWJmOTYtMjU0ZTMxN2E4MWZhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 800
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3480,
+    "plot": "As the search for Julie continues, the doll discovered at the crime scene provokes a reaction, while Wayne and Roland learn of a potential suspect.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 9285
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 1,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt7320868",
+    "title": "The Big Never",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGYwOTYzNGQtNThhNC00ZGYyLWJhNTQtZWMxM2Y4NTVlM2ZhXkEyXkFqcGc@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3300,
+    "plot": "The search for Julie brings Wayne and Amelia together again, Wayne and Roland retrace their investigation to spot missed clues, while one White Finger resident receives a warning.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 8331
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 1,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt7320854",
+    "title": "The Hour and the Day",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDBjY2QyYjUtNDAwYS00NTI0LWJkNzctZGYzNTM0NzJiNDZiXkEyXkFqcGc@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 4020,
+    "plot": "Wayne and Roland investigate possible connections between the local church and the Purcell crimes as tensions in West Finger reach boiling point.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 8088
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 1,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt7320886",
+    "title": "If You Have Ghosts",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjAwNGI5ZGItYmI5Ni00ZmM0LWFjNmMtZTcyODg0NTU2NGU1XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3540,
+    "plot": "In 1980, all hell breaks loose at the home of Woodard, while in the present, Wayne and Roland reconnect after Wayne makes a discovery.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 8188
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 2,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt7320878",
+    "title": "Hunters in the Dark",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjUzNzM5YzEtODg1Yi00MDM2LWFhNjEtMjQzZGJlZTI0NDljXkEyXkFqcGc@._V1_.jpg",
+      "width": 3900,
+      "height": 2600
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3540,
+    "plot": "In 1990, Wayne and Roland revisit the Purcell case to uncover previously hidden or forgotten clues, while Tom looks for answers and two faces from the past resurface.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 7905
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 2,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt8215522",
+    "title": "The Final Country",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmVhNTRlNWYtOTA2Zi00N2U0LWE2OWYtNDBiZTRhNmU0YzI0XkEyXkFqcGc@._V1_.jpg",
+      "width": 4200,
+      "height": 2800
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3480,
+    "plot": "In 1990, following an apparent suicide, the Purcell case is deemed solved, but Wayne and Roland have other ideas, which leads them to a defining course of action.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 8134
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 2,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt8215524",
+    "title": "Now Am Found",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWQ3NTk1ZmYtYTJlNi00ZmY3LThmMDYtMzg5OWY3ODYxZTM5XkEyXkFqcGc@._V1_.jpg",
+      "width": 4200,
+      "height": 2800
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 4500,
+    "plot": "Wayne struggles to hold on to his memories, and his grip on reality, as the truth behind the Purcell case is finally revealed.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 10246
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 2,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt18925452",
+    "title": "Night Country: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDI0NjQyMGQtMjYwMy00M2VjLTg5NDMtYjk0ZGY4NDMyNDQ2XkEyXkFqcGc@._V1_.jpg",
+      "width": 4096,
+      "height": 2731
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3540,
+    "plot": "In Ennis, Alaska, the men that operate a research station vanish. To solve the case, Chief Danvers and Navarro will have to confront the darkness themselves, and dig into the haunted truths that lie buried under the eternal ice.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 19826
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 1,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt29314270",
+    "title": "Night Country: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWFhOTM0MTYtYmQzYi00N2U1LWFlMGEtM2RiNTNiNjJjYzgzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1283
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3780,
+    "plot": "While Connolly threatens to transfer the Tsalal case to Anchorage, Navarro and Danvers make a discovery that brings the former colleagues closer together.",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 14246
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 1,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt29314274",
+    "title": "Night Country: Part 3",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDI0NjE3ZjUtYzVkYi00ZjY4LWFlYTQtNmMwYjkzMTk2YTEzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 684
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3480,
+    "plot": "While searching for Clark, Prior asks Danvers about the case that strained her partnership with Navarro. Sifting through Clark's trailer, they find a lead about another Tsalal worker. Danvers clashes with her stepdaughter.",
+    "rating": {
+      "aggregateRating": 6.3,
+      "voteCount": 12900
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 1,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt29314277",
+    "title": "Night Country: Part 4",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmZiNmZmZjgtODY1Ny00YmYyLWEyYzUtMTk0MWI2NGRhMDVlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1662,
+      "height": 896
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3600,
+    "plot": "Navarro takes Julia to a local facility when her mental health issues resurface, promising improvement. Danvers and Navarro locate where Annie was killed. Danvers severely punishes Leah for protesting.",
+    "rating": {
+      "aggregateRating": 6.2,
+      "voteCount": 12299
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt29314279",
+    "title": "Night Country: Part 5",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWVhYjdiZjktODhmZC00MTI0LTgxZTEtNzE3Y2M0ODNhMTljXkEyXkFqcGc@._V1_.jpg",
+      "width": 1264,
+      "height": 593
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3780,
+    "plot": "While investigating connections between Tsalal and Silver Sky mining, Navarro saves Leah from a violent protest. Kate McKitterick of Silver Sky cautions Danvers against pursuing the case.",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 11923
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 2,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt29314280",
+    "title": "Night Country: Part 6",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODJhNWQ4OTItMGRlZi00NmZiLWJkZWQtYzY1ODMyZjc4MmVhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1268,
+      "height": 591
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "runtimeSeconds": 4560,
+    "plot": "When night falls in Ennis, Alaska, the eight men who operate the Tsalal Arctic Research Station vanish without a trace; to solve the case, detectives Danvers and Navarro will have to confront the darkness they carry in themselves.",
+    "rating": {
+      "aggregateRating": 5.4,
+      "voteCount": 16512
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 2,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt31449837",
+    "title": "Episode #5.1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjgwYzA1NWMtNDYyZi00ZGQyLWI5NTktMDYwZjE2OTIwZWEwXkEyXkFqcGc@._V1_.jpg",
+      "width": 736,
+      "height": 1031
+    },
+    "season": "5",
+    "episodeNumber": 1
+  }
+]

@@ -1,0 +1,1365 @@
+[
+  {
+    "id": "tt0801470",
+    "title": "The Boy in the Iceberg",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTc1NTgzOWMtMjBjNi00NWUwLWJkZjUtMjM4YWU3YTI2YWNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 954,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1380,
+    "plot": "The legend of the Avatar is told. Katara and Sokka find a strange boy within an iceberg.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 8176
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 2,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0772328",
+    "title": "The Avatar Returns",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDMwZTNkZWYtNDQ2OC00Zjk5LWFhNDQtYWNlY2Y2ZjIzNDk4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1500,
+    "plot": "Aang and Katara inadvertently set off a trap the brings the warmongering Fire Nation to the Southern Water Tribe's peaceful village at the South Pole.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 7404
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 2,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0805800",
+    "title": "The Southern Air Temple",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2RlZmJjM2ItMzYzOC00NGQ4LWI1NzQtZDQzODg0ZGM2NTRmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1500,
+    "plot": "After his departure from the Southern Air Temple 100 years ago, an excited Aang finally returns home but is disillusioned by what he finds there.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 7253
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 2,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt0516776",
+    "title": "The Warriors of Kyoshi",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjY1Njg5Y2UtOGQ3YS00Y2Q0LThmNzEtNTZhNjdjOTU1MWU4XkEyXkFqcGc@._V1_.jpg",
+      "width": 640,
+      "height": 360
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1380,
+    "plot": "The gang arrives at Kyoshi Island and are captured by some Kyoshi warriors. When Aang reveals that he is the avatar, news quickly spreads out and suddenly reaches to Prince Zuko who then goes to Kyoshi Island to capture him.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 7044
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 3,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt0760062",
+    "title": "The King of Omashu",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjRjODkxZGMtNWI1My00M2E4LWJmNjEtYzlhNmVlNTk2ZWY4XkEyXkFqcGc@._V1_.jpg",
+      "width": 786,
+      "height": 600
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1500,
+    "plot": "Aang's abilities as an airbender are challenged by a king.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 7017
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 3,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt0516774",
+    "title": "Imprisoned",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDRjOWRkYTktMmU3Yy00MGQwLWIwNGMtYTBmMGYwYjAwOWE0XkEyXkFqcGc@._V1_.jpg",
+      "width": 941,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1500,
+    "plot": "In a nearby Earth Village, the gang meets a teenage earthbender named Haru. This village lives in fear of the Fire Nation, for soldiers there capture any earthbenders they can find.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 6792
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 3,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt0805801",
+    "title": "The Spirit World (Winter Solstice, Part 1)",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGQ3NzU3ZmMtY2IyZS00MDA4LTkyOWEtNWRlMWJiN2RmMDU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1500,
+    "plot": "Aang and friends visit a village being terrorized by an angry spirit. Iroh is captured by Earth Kingdom soldiers.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 6612
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 4,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt0800734",
+    "title": "Avatar Roku (Winter Solstice, Part 2)",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzgzNzcyYjYtZjEwNi00YzJjLWFjNDItMjdkOTg1MzMxYTI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1440,
+    "plot": "To contact the spirit of the previous Avatar, Aang must reach a temple in the Fire Nation before the sun sets on the following day. There he will learn what he must do to restore balance. Zuko must defy his banishment to follow Aang.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 7126
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 4,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt0822879",
+    "title": "The Waterbending Scroll",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDMxOWIxNDQtZWVkZS00Y2E4LWFhYmYtYzczOTFkYjQ0NTNlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1500,
+    "plot": "Katara, desperate to improve her abilities and teach Aang, steals an expensive waterbending scroll from pirates, causing them to pursue the group.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 6461
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 4,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt0516775",
+    "title": "Jet",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTUzMjhiMWUtOTdhNy00YzlhLWE2ZWQtOWY5MGFhOTA1ODgxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1500,
+    "plot": "Aang, Katara, and Sokka have their friendships tested by a charismatic rebel leader who is fighting against the Fire Nation.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 6631
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 5,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt0827262",
+    "title": "The Great Divide",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjk4NWFmNzEtNDJhNi00ZGMxLWExNDYtMWU4MTE3NzhjYjhiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1500,
+    "plot": "Aang is tested as the Avatar when he must help two feuding clans cross a dangerous canyon peacefully.",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 6915
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 5,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt0829522",
+    "title": "The Storm",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZThhOTIwODEtZjYwZi00ZjZiLTlhMzktNzVkMGI4ZDAyOWViXkEyXkFqcGc@._V1_.jpg",
+      "width": 950,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1500,
+    "plot": "Aang relives the events after finding out that he is the Avatar 100 years ago and tells them to Katara, while Iroh tells the story of Zuko's scar and banishment to the crew.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 7528
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 6,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt0824795",
+    "title": "The Blue Spirit",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDljYzg4NzctNDljOC00YzEzLTljYzEtNjY5MTg3NzJjZTliXkEyXkFqcGc@._V1_.jpg",
+      "width": 950,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1500,
+    "plot": "When Aang is captured by the Fire Nation, his only hope is a mysterious masked figure.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 7614
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 6,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt0516778",
+    "title": "The Fortuneteller",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDUzZDQ2ZDYtZDg2My00OWFhLWIxMDktM2MyM2Y1ODRmNDM5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1440,
+    "plot": "The gang visits a village where a fortuneteller lives who is said to never be wrong. Aang tries to show Katara how he feels about her.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 6320
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 9,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt0758992",
+    "title": "Bato of the Water Tribe",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTdjYjEzNmEtZmM3NC00M2E2LWE5MTgtMGQzNThiNjUzYTNlXkEyXkFqcGc@._V1_.jpg",
+      "width": 720,
+      "height": 480
+    },
+    "season": "1",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1500,
+    "plot": "Sokka and Katara meet a friend of their father who offers to take them to join the Water Tribe's navy. Aang fears his friends will choose seeing their father again over staying with him.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 6227
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 10,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt0516777",
+    "title": "The Deserter",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjU4MWEwYjAtYzJlNi00NTUxLTg0ODEtODg0YzgyOGVjYjZkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1500,
+    "plot": "When he meets an outcast from the Fire Nation, Aang is impatient to skip ahead in his training.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 6342
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 10,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0516779",
+    "title": "The Northern Air Temple",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmQ5YWEwN2MtM2EyNC00N2Q4LWE1M2UtMmQ4NjkxYjhiZGQ1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 17,
+    "runtimeSeconds": 1440,
+    "plot": "Aang is upset when he finds an old Air Temple has been desecrated by an old inventor and his son.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 6150
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 11,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt0516782",
+    "title": "The Waterbending Master",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjEwOWNiNTAtZGMyNC00MmQ2LTg1MTItZjIzNmVkNjBmMWIwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 18,
+    "runtimeSeconds": 1440,
+    "plot": "The heroes finally arrive at the North Pole. But for Katara, the trip may have been in vain, as Master Pakku refuses to teach girls waterbending.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 6372
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 11,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt0516780",
+    "title": "The Siege of the North, Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTljMmY5NjMtYzFkMy00YmQwLWFlMTgtMDhiYjhhZmU1MWE0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1438,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 19,
+    "runtimeSeconds": 1500,
+    "plot": "While Katara herself becomes a great waterbending master, Commander Zhao plans a siege on the Northern Water Tribe. Meanwhile, Sokka's on a mission to stop this siege while Aang tries to buy them some time.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 7685
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 12,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt10512638",
+    "title": "The Siege of the North, Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDViMGFhZmItNGU2NS00Njg2LWI1ZWItMTQzYjA4NDU1ZWUxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 20,
+    "runtimeSeconds": 1440,
+    "plot": "As the Fire Nation continues its assault on the Northern Water Tribe, Sokka, Katara and Yue set out on a search for Aang, being guided by his spirit.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 7544
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 12,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt5827942",
+    "title": "Avatar: The Last Airbender",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDY5YjBlODMtOTgzYi00YzM0LTk3YTQtMDFiODdkNjdkMDk3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1374,
+      "height": 896
+    },
+    "season": "1",
+    "runtimeSeconds": 900,
+    "plot": "Sokka and his sister Kya - later renamed Katara, must travel the world to find masters for Aang, who is the Avatar. However, they must evade a critical foe, Prince Zuko of the Fire Nation, who wants to capture Aang.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3967
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 2,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0762600",
+    "title": "The Avatar State",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTNkOTM0YTItMzg3OS00ZGExLTljNjQtZTRkODFlOWRmZDdjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1500,
+    "plot": "Aang and friends arrive in the Earth Kingdom to begin his training, but a local general convinces Aang that all he needs to do is learn to control his Avatar state. Azula arrives to escort her brother and uncle back to the Fire Nation.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 6328
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 3,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt0766472",
+    "title": "The Cave of Two Lovers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTNlZjdlOWItNzVkYi00OTFmLWEwNDUtMDZjZjliZjU3MzU3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1500,
+    "plot": "On their way to Omashu, Team Avatar is forced to travel underground to avoid Fire Nation attacks. Iroh and Zuko adjust to life as fugitives.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 6226
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 3,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt0784201",
+    "title": "Return to Omashu",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDkyMDQ2NjgtNTdlMi00ZTA1LTgwYmItNDUzNmE2NDcxZjI1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1500,
+    "plot": "Finding the city of Aang's old friend, King Bumi, captured by the Fire Nation, the heroes hatch a plan to rescue Aang's earthbending teacher. Azula gathers two old friends to help her hunt the Avatar.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 5886
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 4,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt0762601",
+    "title": "The Swamp",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDU5ODFhN2QtMWU2ZC00NzI2LWE5ZTItNzllYWZmMDE2NWM3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1500,
+    "plot": "Aang hears a swamp calling to him. In the swamp, Aang and the gang find out that this is not any natural swamp.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 6016
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 4,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt0516772",
+    "title": "Avatar Day",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmUzMjI3MWMtY2M2NS00MDA4LWJhM2EtOGJmYmNjNjYwMjkzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1440,
+    "plot": "Sokka and Katara have to solve a centuries-old crime when Aang is imprisoned for a murder allegedly committed by one of his past incarnations.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 5955
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 4,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt0789294",
+    "title": "The Blind Bandit",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWM5NDYzYmItMDA4Ny00ZjQxLWFjODgtZThjOGQwNTgwZTQ2XkEyXkFqcGc@._V1_.jpg",
+      "width": 959,
+      "height": 720
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1500,
+    "plot": "While looking for an Earthbending teacher, Aang, and his friends discover a young blind girl with secrets of her own.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 7302
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 5,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt0516783",
+    "title": "Zuko Alone",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjdiOTY3MDQtMzQyYi00YjIwLWE4MDEtOTEyZGZjNjJmNmIzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1500,
+    "plot": "As Zuko tries to make it by in exile without his uncle, he remembers how his father became Firelord and what happened to his mother.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 9362
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 5,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt0805799",
+    "title": "The Chase",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzUyNjdhM2EtZjk1NC00NjhjLThkYjgtMzcyODk0YWYyMmVlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1500,
+    "plot": "Aang and friends are chased by a mysterious machine. Katara and Toph get into a heated argument. Aang realizes the reason why they are being followed by the crown princess and her friends is because of Appa's shedding.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 6634
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 5,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt0789293",
+    "title": "Bitter Work",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDI1ZjMwZGYtZGFiNS00YmQ1LWI2M2UtZDE5MTk0ZGJjNWQ3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1500,
+    "plot": "Aang begins to learn earthbending from Toph; Uncle Iroh resumes teaching Zuko firebending to better prepare him for facing Azula, and reveals a new technique he learned from watching waterbenders.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 6034
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 6,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt0829521",
+    "title": "The Library",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmEyZGY2NDctMTM5MS00MWY0LWI0OGYtNGMwZjE0MjFlMGRkXkEyXkFqcGc@._V1_.jpg",
+      "width": 957,
+      "height": 720
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1500,
+    "plot": "When he learns that there is a lost Library with all the knowledge in the world, Sokka convinces the others to seek it out in hopes of finding a weakness of the Fire Nation.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 6291
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 7,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt0829520",
+    "title": "The Desert",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGZlYTAzNDEtOWU1Mi00MzA5LWFlMDYtYmUyNmVjZjA2ZDQ4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1237,
+      "height": 930
+    },
+    "season": "2",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1500,
+    "plot": "Lost in the desert without Appa, Team Avatar must find a way out. Iroh and Zuko make contact with a secret organization.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 6132
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 7,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt0827261",
+    "title": "The Serpent's Pass",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTFmN2I0NWEtNmI3YS00YWRkLTk4ZjItZmVmZWY0MzI1M2MxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1440,
+    "plot": "After getting tickets for the ferry headed to Ba Sing Se, the gang meets an old friend. They skip the ride to help refugees get to Ba Sing Se. They must lead the refugees through the Serpent's Pass, a dangerous mountain-side path.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 5758
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt0831940",
+    "title": "The Drill",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWI0ZjViY2YtN2IzYi00ZmJhLWJiMjctZDI0NjQ2MjYzNDNkXkEyXkFqcGc@._V1_.jpg",
+      "width": 959,
+      "height": 720
+    },
+    "season": "2",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1440,
+    "plot": "After arriving at the great wall of Ba Sing Se, Aang and the gang discover that the Fire Nation has constructed a drilling machine to penetrate the wall. Zuko and Iroh are having trouble hiding the fact that they are both Firebenders.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 6300
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt0516773",
+    "title": "City of Walls and Secrets",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDBjODM3MjktYjFiOS00ZTlmLWIxYzYtZWNmMWMwYjdmZjY1XkEyXkFqcGc@._V1_.jpg",
+      "width": 786,
+      "height": 600
+    },
+    "season": "2",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1500,
+    "plot": "After getting a house to stay in, Aang and company are given a city tour. As they try to get in to tell the Earth King the news, they find that nothing is what it seems. Jet is in the city, too, and has suspicions about Iroh and Zuko.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 5990
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 9,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt0775583",
+    "title": "The Tales of Ba Sing Se",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTg3OGMyNmItYzBlYS00NTZjLTg5NTAtZDI2ZjE4MGFlN2UxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1500,
+    "plot": "A series of short stories covering some of the time spent by Katara, Toph, Iroh, Sokka, Aang, Zuko and Momo as they live in Ba Sing Se.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 9190
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 9,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt0794679",
+    "title": "Appa's Lost Days",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTliYjc5N2QtODViYS00OWQ1LTliNzMtY2Y4ZThlMmNjMTY2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1500,
+    "plot": "In this special episode, we go back in time to the moment Appa was stolen, will find out where he has gone and who he has met along the way and more importantly where he is now!",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 6606
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 10,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt0887307",
+    "title": "Lake Laogai",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzk0NTM3MWItZWQ0Ni00OGQ2LTljYzktNjE3ZmEwMmIxMTdmXkEyXkFqcGc@._V1_.jpg",
+      "width": 946,
+      "height": 720
+    },
+    "season": "2",
+    "episodeNumber": 17,
+    "runtimeSeconds": 1500,
+    "plot": "The Avatar gang encounters Jet in Ba Sing Se and he helps them to discover the location of Appa. But they will end up discovering something else, a secret of the city.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 6460
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 11,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt0876938",
+    "title": "The Earth King",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDgzZGZmYjItNjA1Ni00Mjc2LWE0OGEtOTA3YjE0NmJjZDAyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 18,
+    "runtimeSeconds": 1500,
+    "plot": "The kids battle Long Feng and the Dai Li when they attempt to show the Earth King the vast conspiracy taking place in his city. Zuko becomes seriously ill and has feverish dreams as he faces a spiritual crisis.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 5750
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 11,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt0831941",
+    "title": "The Guru",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzcyOTQ0ZGUtOGE5YS00ODBhLWE1ZmQtNWJlMTc0NTBjYjE5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 19,
+    "runtimeSeconds": 1500,
+    "plot": "Aang receives guidance from Guru Pathik at the Eastern Air Temple; Sokka is reunited with his long-lost father; Princess Azula has something diabolical in store for her enemies; Uncle and Zuko run their own tea shop.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 6490
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 12,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt0822878",
+    "title": "The Crossroads of Destiny",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmNmZTFlZTUtNmY2ZC00YzcxLTllMWMtMDYxZjllZDA1YjNkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 20,
+    "runtimeSeconds": 1500,
+    "plot": "The heroes work together to stop Azula's destructive plans; Zuko finds companionship in an unlikely source and learns the time has come to make an imperative choice about his future.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 8728
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 12,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt0967584",
+    "title": "The Awakening",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTZhZGQ0YzAtMTFmNy00Yjg5LThlMTctZTVkMmQyMzk4NGRmXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 2160
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1500,
+    "plot": "Weeks after the fall of the Earth Kingdom, Aang and his friends must infiltrate the Fire Nation. Katara meets her father for the first time in years. Zuko returns home, but is uneasy with his newfound reputation.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 6257
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 9,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0966647",
+    "title": "The Headband",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2NhZTk1OGMtZjBlYi00NjBiLWI2ZDQtM2Q0ODE1NjM4NjgyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1500,
+    "plot": "Posing as a regular kid, Aang goes to a Fire Nation school and sees what's missing from their lives. Zuko visits his uncle in prison.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 6106
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 9,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt0888742",
+    "title": "The Painted Lady",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDg1MWIyNzUtNDI4My00ZTcwLWJhNTgtMDZiNWZjNzY3ZDNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 2160
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1380,
+    "plot": "When Aang and his friends come across a fishing village being poisoned by a nearby factory, a local legend comes to life to help the townspeople.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 6106
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 10,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt0888741",
+    "title": "Sokka's Master",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2YwMGYxY2MtYjU4OS00YjEwLWIyZDYtMjE0ODZlZjg4ZmQ4XkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 2160
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1500,
+    "plot": "After deciding he's the least valuable member of the team, Sokka seeks an apprenticeship with a sword-master. The rest of the gang tries to adjust to being without him. The imprisoned Iroh may not be as beaten as he seems.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 6523
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 10,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt0888739",
+    "title": "The Beach",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDUzYmNiZDQtNTVkOC00YjY1LWFmMDYtYjU5OWY1NzRlZWQyXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 2160
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1500,
+    "plot": "On a forced vacation, Zuko, Azula, Ty Lee and Mai try to blend in with normal teenagers and learn about themselves and one another. Aang and company are attacked by an ominous assassin.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 6738
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 10,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt1117701",
+    "title": "The Avatar and the Fire Lord",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGExMDZjNGYtMjdhMy00MTdkLTk3MzktNDFjZDY2MmYxYmNjXkEyXkFqcGc@._V1_.jpg",
+      "width": 720,
+      "height": 480
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1500,
+    "plot": "Both Aang and Zuko must learn the history of how the war began. Zuko learns a secret about his great-grandfather's past.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 8108
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 10,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt0888740",
+    "title": "The Runaway",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzhjNzg4MDctNjAxYy00YjQ4LTg2NjktMmFmNDdkZWE3MzQ0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1440,
+    "plot": "When Toph discovers a quick way to make cash, Katara disapproves, and the rift between them has disastrous consequences.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 5778
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 11,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt0900434",
+    "title": "The Puppetmaster",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWE5YzA3N2YtOGFhYi00NzA4LWJmNDItM2E0YmM5ODVmNTM0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1500,
+    "plot": "Creepy things are afoot when the gang meets a mysterious old innkeeper with a secret.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 7159
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 11,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt1127369",
+    "title": "Nightmares and Daydreams",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDAzZDk5NmYtMGE0My00MGY2LWE3YWItOTRhMTNlYWM5NWJkXkEyXkFqcGc@._V1_.jpg",
+      "width": 720,
+      "height": 405
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1800,
+    "plot": "As the invasion approaches, Aang has recurring nightmares about being unprepared to face the Firelord. Zuko feels the perks and pressures of being the prince again.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 6128
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 11,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt1133641",
+    "title": "The Day of Black Sun",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmJmZDFjZTQtOWRlZi00NWNmLWFlMGItNmJmZTdhY2JkYjQ3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "Zuko makes a decision about his future. Aang reunites with many of his old friends in a full-scale invasion of the Fire Nation capitol to coincide with an eclipse which will remove the Fire Nation's powers.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 6554
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 11,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt1132642",
+    "title": "The Day of Black Sun, Part 2: The Eclipse",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmYyMjQzODctOTFhMi00OWY5LWJmZTItZWIzNjBhZDBhY2M2XkEyXkFqcGc@._V1_.jpg",
+      "width": 948,
+      "height": 720
+    },
+    "season": "3",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1320,
+    "plot": "The invasion seems to be succeeding until Aang learns that their arrival was anticipated. Zuko confronts his father.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 7204
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 11,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt1136036",
+    "title": "The Western Air Temple",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmQxZTEwMmMtYzM0NC00NTYyLWEwZTMtOWJmNmJhOTgyMjdkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1500,
+    "plot": "The gang hides out in the Western Air Temple. Zuko tries to convince the gang of his change in heart, but they are very hesitant. Combustion Man/Sparky-Sparky Boom Man attacks again.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 6350
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 7,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt1166830",
+    "title": "The Firebending Masters",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2I4YzdkYTUtOWJmMS00YzI1LWJjMzItZTcyYmZhYTFiNDIzXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 2160
+    },
+    "season": "3",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1440,
+    "plot": "Zuko has joined up with Aang's group and is now ready to teach Aang fire bending. Unfortunately, Zuko has found out that he has lost his ability and must now relearn it. Zuko and Aang travel to find the original source of fire bending.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 7177
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt1176477",
+    "title": "The Boiling Rock: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWY1ZmUxMTctN2Y0YS00MjA1LWI3MDYtMzdmZjU2OTlkZmI4XkEyXkFqcGc@._V1_.jpg",
+      "width": 720,
+      "height": 480
+    },
+    "season": "3",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1380,
+    "plot": "Sokka and Zuko head to the Fire Nation's most heavily guarded prison, the Boiling Rock, in hopes of finding and breaking out the captured invasion force.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 6072
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 7,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt1194313",
+    "title": "The Boiling Rock, Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGY3MjEyZWUtNDhjZS00MTBmLWJkY2ItNGJlM2NkNzZkY2M1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1438,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1320,
+    "plot": "The escape is planned and the heroes attempt to break from the prison that very day. But problems come when Azula, Mai and Ty Lee arrive at the prison.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 6668
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 7,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt1193652",
+    "title": "The Southern Raiders",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDg2OTJkMTUtZWJlZS00MGU3LTlkMTUtMzlmODlmOGIyMDljXkEyXkFqcGc@._V1_.jpg",
+      "width": 1242,
+      "height": 930
+    },
+    "season": "3",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1440,
+    "plot": "Trying to prove that she can trust him, Zuko helps Katara track down the man who killed her mother.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 6540
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt1204261",
+    "title": "The Ember Island Players",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzhlNjhjNjgtZTFjMy00YjRlLWJkY2YtMmI1ZDM4OTQ3NTFjXkEyXkFqcGc@._V1_.jpg",
+      "width": 786,
+      "height": 600
+    },
+    "season": "3",
+    "episodeNumber": 17,
+    "runtimeSeconds": 1500,
+    "plot": "The gang, now hiding at Ember Island, watch a play about themselves and their adventures.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 6663
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 7,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt1204262",
+    "title": "Sozin's Comet, Part 1: The Phoenix King",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGRhOGUxMmMtOTMzMS00Zjk0LTllZjYtZGFiMzRhYTQwYTBkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 18,
+    "runtimeSeconds": 1320,
+    "plot": "Sozin's Comet is only three days away. Zuko tells the others what the Fire Lord plans on the day of the comet and the gang realizes that they must stop him before then. But Aang doubts that he can do what is expected of him.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 7289
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 7,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt1204263",
+    "title": "Sozin's Comet, Part 2: The Old Masters",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjI2YTVlZDItN2ViNC00NTA2LWFhZjItYmZjYTJmYjc4NGI2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 19,
+    "runtimeSeconds": 1320,
+    "plot": "Aang awakes on a mysterious island and confronts his past lives for advice on how to stop the Fire Lord without killing him. The rest of the group searches for Aang.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 8228
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 7,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt1204264",
+    "title": "Sozin's Comet, Part 3: Into the Inferno",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTlkYzZjZmYtNDI0ZS00YmE3LWI5YTYtNjhlYjU3YzljYThkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 20,
+    "runtimeSeconds": 1320,
+    "plot": "Zuko battles his sister with Katara's help for the right to be named Fire Lord. Elsewhere, Aang meets Ozai just as the comet arrives.",
+    "rating": {
+      "aggregateRating": 9.8,
+      "voteCount": 12500
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 7,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt1204265",
+    "title": "Sozin's Comet, Part 4: Avatar Aang",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGMzZGI0MGYtMTJmYi00ZjJhLWJhZWYtYTEyNTNhZWExMzU4XkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 2160
+    },
+    "season": "3",
+    "episodeNumber": 21,
+    "runtimeSeconds": 1260,
+    "plot": "Aang's moment of truth arrives. Can he defeat Ozai, the Phoenix King? Will he be forced to take a human life? All the characters face their greatest challenges.",
+    "rating": {
+      "aggregateRating": 9.9,
+      "voteCount": 20972
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 7,
+      "day": 19
+    }
+  }
+]

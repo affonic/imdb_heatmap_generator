@@ -35,7 +35,12 @@ Shows = {
     "BobsBurgers" : "tt1561755",
     "DeathNote" : "tt0877057",
     "DerryGirls" : "tt7120662",
-    "PrettyLittleLiars" : "tt1578873"
+    "PrettyLittleLiars" : "tt1578873",
+    "Merlin" : "tt1199099",
+    "American Sweethearts: Dallas Cowboys Cheerleaders" : "tt32146518",
+    "True Detective" : "tt2356777",
+    "Sherlock" : "tt1475582",
+    "Avatar" : "tt0417299"
 }
 
 def fetch_imdb_data(show_name):
@@ -135,4 +140,7 @@ shows_for_heatmap = ["AOT", "BreakingBad", "Archer", "HIMYM", "Friends", "Bojack
                      "TheOffice", "Brooklyn99", "SouthPark", "TheSopranos", "TheWire",
                      "Futurama", "StrangerThings", "Lost", "Dexter", "Suits", "TeenWolf",
                      "LoveDeathRobots", "DerryGirls", "DeathNote", "BobsBurgers", "PrettyLittleLiars"]
-generate_heat_map(shows_for_heatmap)
+
+requested_shows = ["RvB", "Merlin", "American Sweethearts: Dallas Cowboys Cheerleaders",
+                   "True Detective", "SouthPark", "Sherlock", "GameOfThrones", "BreakingBad", "Avatar"]
+generate_heat_map(requested_shows)    
