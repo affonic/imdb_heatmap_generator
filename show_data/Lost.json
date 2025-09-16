@@ -1,0 +1,2664 @@
+[
+  {
+    "id": "tt0636289",
+    "title": "Pilot: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTk2ZTIwNTQtYWVhYy00NWQyLTk4NGMtOWM2MTk5MmViOWIxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1001,
+      "height": 635
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2520,
+    "plot": "Forty-eight survivors of an airline flight originating from Australia, bound for the U.S., which crash-lands onto an unknown island 1000 miles off course, struggle to figure out a way to survive while trying to find a way to be rescued.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 17545
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 9,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt0636290",
+    "title": "Pilot: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTgwODkyNTQwNF5BMl5BanBnXkFtZTgwOTk1MTg1NjM@._V1_.jpg",
+      "width": 1365,
+      "height": 2048
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2400,
+    "plot": "Having retrieved the plane tranceiver, a group of survivors try to transmit a signal, only to receive a strange transmission from another inhabitant.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 12381
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 9,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt0636294",
+    "title": "Tabula Rasa",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjJjYWI4NGQtN2YxNS00ZGYyLWE3MjgtODI1MzAyYzJlMTUzXkEyXkFqcGc@._V1_.jpg",
+      "width": 749,
+      "height": 415
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2580,
+    "plot": "Jack and Hurley discover an alarming secret about Kate, while the marshal's life hangs in the balance.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 9833
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 10,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt0636300",
+    "title": "Walkabout",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODNjYTcyYjUtNjc0OC00MWY5LWFmZTItYTk0YmJhYTg3ZjgyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2520,
+    "plot": "When the survivors run out of food, Locke, Kate, and Michael go out hunting for boar. Michael gets injured, so he and Kate go back. But Locke stays out hunting, and ends up running into the creature living in the jungle.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 11155
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 10,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt0636303",
+    "title": "White Rabbit",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODMxYzdlNWMtODRiNS00YTMxLWJkZDYtMGFmNDZmNWQxYzg2XkEyXkFqcGc@._V1_.jpg",
+      "width": 784,
+      "height": 1126
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2520,
+    "plot": "Jack begins to experience visions of his father. Things go wrong when he runs into the jungle after him. Claire has difficulties with her pregnancy.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 8958
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 10,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt0636284",
+    "title": "House of the Rising Sun",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTVjODNmM2YtZjMxMy00NjNjLTlkZWYtM2Y1M2FkYTllYjUyXkEyXkFqcGc@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2520,
+    "plot": "Jin attacks Michael for seemingly no reason; Jack wants to move the survivors over to the caves, although some people disagree.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 8744
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 10,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt0636298",
+    "title": "The Moth",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGRmNjZhZTctMzkzYS00MzIwLTg4NDctOGNlMDJlZTIyYzAxXkEyXkFqcGc@._V1_.jpg",
+      "width": 600,
+      "height": 812
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2580,
+    "plot": "Charlie begins a journey of withdrawal from drugs aided by Locke, whose true motive is a mystery. Jack is buried alive in a cave collapse.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 8800
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 11,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt0636275",
+    "title": "Confidence Man",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTFlYmUzMDUtZGVjYS00MmY1LThkMGItMjAzMDY1ZTNhZDllXkEyXkFqcGc@._V1_.jpg",
+      "width": 1136,
+      "height": 640
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2580,
+    "plot": "Shannon is having an asthma attack and Boone is sure that Sawyer has her medication. As Kate's way of dealing with this situation doesn't work, Sayid takes things into his own hands.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 8945
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 11,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt0636292",
+    "title": "Solitary",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzlmYjVlYmUtZTUyMS00NTdmLTkwOTQtYWJhNWRlZTI5MmU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 829,
+      "height": 1498
+    },
+    "season": "1",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2580,
+    "plot": "Sayid's life is in danger after finding the source of the French transmission, while Hurley hatches a ridiculous plan to make life more civilized.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 8392
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 11,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt0636291",
+    "title": "Raised by Another",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI2N2IwMzQtOTczZS00ZWEwLThkNDItNjk2ZTRiZjM5MGEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 728,
+      "height": 579
+    },
+    "season": "1",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2520,
+    "plot": "Claire has a horribly realistic nightmare about her baby being harmed, while flashbacks reveal her troubled past.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 8516
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 12,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt0636272",
+    "title": "All the Best Cowboys Have Daddy Issues",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2Y1MWUxZjktZTc5Ni00ZTRmLWFkZDUtM2RkYTU5NzQxMmJkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1631,
+      "height": 1271
+    },
+    "season": "1",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2520,
+    "plot": "Jack, Kate, Locke and Boone go after Ethan, Claire and Charlie. They separate, and while Jack and Kate confront Ethan, Locke and Boon find another mystery at the jungle. Flashbacks reveal more about Jack's past with his dad.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 8646
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 12,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt0636302",
+    "title": "Whatever the Case May Be",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjkyOWJiNDQtZTgzYi00NjhmLTgyZjItMTZkYzIzYTEwZjliXkEyXkFqcGc@._V1_.jpg",
+      "width": 595,
+      "height": 864
+    },
+    "season": "1",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2580,
+    "plot": "Kate and Sawyer discover a briefcase and the race begins to win ownership of it. Charlie is still depressed over Claire, and is given a sharp talking to by Rose.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 8133
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 1,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt0636282",
+    "title": "Hearts and Minds",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmRiMzYyN2YtOTI4OS00ZjAzLWJiODktOTIxN2QxMzQ0MTVhXkEyXkFqcGc@._V1_.jpg",
+      "width": 599,
+      "height": 899
+    },
+    "season": "1",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2580,
+    "plot": "Locke plans to teach Boone a lesson, when he learns that Boone wants to share their secret with Shannon.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 7987
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 1,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt0636293",
+    "title": "Special",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmM2OTI2MTUtOGE4NC00ZGJkLWJiMTYtZGZlNTcxYmIzZWFjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1276,
+      "height": 702
+    },
+    "season": "1",
+    "episodeNumber": 14,
+    "runtimeSeconds": 2580,
+    "plot": "A mysterious island beast reappears when Michael and Locke clash. Sayid enlists Shannon to help decipher the French woman's map.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 7818
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 1,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt0636283",
+    "title": "Homecoming",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjZhNGI0MmItYmNjYy00MjljLTg4MWYtOGY4ODY5YWM0YzlhXkEyXkFqcGc@._V1_.jpg",
+      "width": 598,
+      "height": 884
+    },
+    "season": "1",
+    "episodeNumber": 15,
+    "runtimeSeconds": 2460,
+    "plot": "After Claire returns with no memory since the flight, Jack and Locke form a plan against her kidnapper, who threatens to kill the other survivors.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 7899
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 2,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt0636288",
+    "title": "Outlaws",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjM5NWQ0ZWQtMDAzZS00ODRiLWJhNzMtNmQwZGI4NmJmMTU5XkEyXkFqcGc@._V1_.jpg",
+      "width": 625,
+      "height": 874
+    },
+    "season": "1",
+    "episodeNumber": 16,
+    "runtimeSeconds": 2580,
+    "plot": "Sawyer believes that a boar is harassing him. So he and Kate go to find it. They bond on the journey. They run into Locke, who tells them a story that seems to mean something to Sawyer.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 8095
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 2,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt0636268",
+    "title": "...In Translation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGU4YjU4ODItYjNiZS00YjVlLWI0YjEtZjhlOWMzOWRkM2Y2XkEyXkFqcGc@._V1_.jpg",
+      "width": 736,
+      "height": 536
+    },
+    "season": "1",
+    "episodeNumber": 17,
+    "runtimeSeconds": 2580,
+    "plot": "When the raft the survivors have been building burns down, Michael accuses Jin of sabotage. Sun makes a surprising revelation.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 7853
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 2,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt0636286",
+    "title": "Numbers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjUyYmNlMDMtNmNlZC00NDU5LTllYzgtZWEzM2IzZGY4MmMzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1518,
+      "height": 862
+    },
+    "season": "1",
+    "episodeNumber": 18,
+    "runtimeSeconds": 2580,
+    "plot": "When Hurley becomes obsessed with the French woman and heads into the jungle to find her, Jack, Sayid and Charlie have no choice but to follow. Meanwhile, Locke asks Claire to help build a mysterious item.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 9022
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 3,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt0636276",
+    "title": "Deus Ex Machina",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTM3ODA5NGUtNWJkNy00ZGE3LTk3YjgtMDM5YTJkYWFmNTMxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "season": "1",
+    "episodeNumber": 19,
+    "runtimeSeconds": 2580,
+    "plot": "Locke thinks he knows how to get the hatch open, and he and Boone venture inland. Jack is reluctant to help Sawyer get glasses.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 8902
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 3,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt0636277",
+    "title": "Do No Harm",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTNkMzE1NzMtMjI3Yy00MDVmLWI1MGQtMzgxZTNjOTFjMmZiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1500,
+      "height": 1000
+    },
+    "season": "1",
+    "episodeNumber": 20,
+    "runtimeSeconds": 2580,
+    "plot": "Claire goes into labor while a helpless Charlie goes into panic mode. Meanwhile Locke is missing, Jack tends to a wounded Boone and Sayid presents Shannon with a romantic surprise.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 8644
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 4,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt0636296",
+    "title": "The Greater Good",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjdhYTM4YmQtYjk4NS00Njc1LTkwZDItMDllNGM1Nzk0Zjc3XkEyXkFqcGc@._V1_.jpg",
+      "width": 731,
+      "height": 610
+    },
+    "season": "1",
+    "episodeNumber": 21,
+    "runtimeSeconds": 2580,
+    "plot": "After burying one of their own, tempers flare as the castaways' suspicions of each other grow -- and an unlikely survivor vows revenge. Meanwhile, Claire and Charlie struggle to calm her newborn.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 7498
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 5,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt0636273",
+    "title": "Born to Run",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWY0NTg3ODAtMDkzNS00NDQ5LTlhZWMtZmM3MTkzMGE3YTMxXkEyXkFqcGc@._V1_.jpg",
+      "width": 571,
+      "height": 432
+    },
+    "season": "1",
+    "episodeNumber": 22,
+    "runtimeSeconds": 2580,
+    "plot": "Jack suspects foul play when Michael becomes violently ill while building the raft. Meanwhile a secret from Kate's past is revealed, the mysterious hatch is shown to a few of the survivors, and Walt gives Locke a warning.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 7587
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 5,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt0636279",
+    "title": "Exodus: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWZmYWQyNTMtYjc0Yy00YWY0LTk4M2EtZmFjYWY3OGNlMDVhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 800
+    },
+    "season": "1",
+    "episodeNumber": 23,
+    "runtimeSeconds": 2580,
+    "plot": "The French woman arrives at the camp with a dire warning about a group of survivors known as the Others.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 8841
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 5,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt0636280",
+    "title": "Exodus: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGVjZDE1MDYtY2U3NC00NmYwLTg3NDAtYmZmMjgyYTQxNzFmXkEyXkFqcGc@._V1_.jpg",
+      "width": 629,
+      "height": 1077
+    },
+    "season": "1",
+    "episodeNumber": 24,
+    "runtimeSeconds": 2580,
+    "plot": "The castaways on the raft are surprised at sea by something unexpected. Meanwhile, remaining islanders attempt to blow open the hatch, and a visitor to the encampment might be a threat to Claire's infant son.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 9517
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 5,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt6222548",
+    "title": "Exodus: Part 3",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmYyYzc4NzUtZmExNC00YmUyLWExZGQtZTQ5MGIwYTRmOTNkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1999,
+      "height": 1174
+    },
+    "season": "1",
+    "episodeNumber": 25,
+    "runtimeSeconds": 2580,
+    "plot": "A visitor to the encampment could be a threat to Claire's son.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 6730
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 5,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt0636285",
+    "title": "Man of Science, Man of Faith",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTdhYWU4NmMtMmVjYi00Yzg0LWJhYjYtYTBmOGU3ZGJkZTk5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1076,
+      "height": 852
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2580,
+    "plot": "One of the castaways is chosen to descend into the mysterious hatch, and Shannon stumbles upon a shockingly familiar face in the jungle.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 9287
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 9,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0636271",
+    "title": "Adrift",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYwMGMyMjMtMWI2OS00YzE1LWJhODQtYzZlN2M0MjZhYTQwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1916,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2520,
+    "plot": "Michael and Sawyer fight for their lives on the high seas and discover a new threat. Locke descends into the hatch to find a missing Kate.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 7321
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 9,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt0636287",
+    "title": "Orientation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGM1Y2Y3MGItN2MwNi00ZjI0LWEyZDAtN2VmZDljNmFhMTJhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1916,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2580,
+    "plot": "Jack, Locke and Kate learn more secrets about the hatch. Meanwhile, after being beaten and taken captive, Sawyer, Michael and Jin wonder if their captors are fellow survivors or the dreaded \"Others.\"",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 7630
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 10,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt0636278",
+    "title": "Everybody Hates Hugo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTY3MWEtYjhmMS00MDc0LWE5MWQtNDM1NTFkOWNmMjUxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 710
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2580,
+    "plot": "Hurley struggles with a task inside the hatch as he flashes back to disturbing memories. Sawyer and the others learn their captors' identities.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 7325
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 10,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt0636269",
+    "title": "...And Found",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWQwMGMyNzUtZmM0OC00ZjI5LThmMzItOTVmOWM2OTJkNDg3XkEyXkFqcGc@._V1_.jpg",
+      "width": 750,
+      "height": 592
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2520,
+    "plot": "Michael goes into the jungle to find Walt, but discovers he's not alone. Sawyer and Jin's captors demand to be taken to their camp.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 7063
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 10,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt0636270",
+    "title": "Abandoned",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2M1ODdkMDQtNjFmMC00ZjIzLTliZDQtZjkyYWI5MjgxODQwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1500,
+      "height": 1000
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2580,
+    "plot": "Sawyer's wound becomes life threatening as he, Michael and Jin make their way across the island with the tail section survivors.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 7065
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 11,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt0636299",
+    "title": "The Other 48 Days",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTM4OWE2MjMtMzQwNS00NDIxLWEzN2UtYzBkYzEzZGMyODljXkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 3000
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2760,
+    "plot": "Forty-eight days ago, the tail section of Flight 815 crashes. The survivors struggle to live when some other people on the island continue to kidnap some of them.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 8156
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 11,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt0636274",
+    "title": "Collision",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGU5ZmI3YzktMjNhMy00NjA3LTgyMTAtZTg0OGE3NTlmOTVlXkEyXkFqcGc@._V1_.jpg",
+      "width": 630,
+      "height": 1200
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2520,
+    "plot": "Tempers flare when Ana Lucia and her group stumble upon Sayid and the other castaways.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 7208
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 11,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt0636301",
+    "title": "What Kate Did",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmIxMmFlNjEtNjBjYS00ZDJhLTk2NmItM2M4MGQ1MTQzYTU1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1004,
+      "height": 1374
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2760,
+    "plot": "Kate's original crime that started her life on the run is revealed. Meanwhile, the survivors lay one of their own to rest, Kate sleeplessly watches over a feverish Sawyer, and Mr. Eko has a surprise for Locke regarding the hatch.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 6991
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 11,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt0636295",
+    "title": "The 23rd Psalm",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2Q0MmE0MGYtYzE2Ni00YTU4LWFlOTktYWZhYzAwMTg4OTU1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1916,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2580,
+    "plot": "Claire loses faith in Charlie after Eko questions him about the Virgin Mary statues.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 7410
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 1,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt0636297",
+    "title": "The Hunting Party",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjFhNTY2MjctMzE0My00MzdkLWI3YWYtM2ZmYzk3Njc2NmZmXkEyXkFqcGc@._V1_.jpg",
+      "width": 750,
+      "height": 485
+    },
+    "season": "2",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2580,
+    "plot": "Jack, Locke and Sawyer follow Michael who left to look for his son. They meet \"the others\". More is shown about Jack's back-story.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 6926
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 1,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt0636281",
+    "title": "Fire + Water",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjJlOTlhYzUtMjQ5Ni00YTY1LWE1NzUtMzAyZmIzMjhkN2E4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1500,
+      "height": 1000
+    },
+    "season": "2",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2580,
+    "plot": "When Charlie's dreams lead him to believe Claire's baby's in peril, Locke suspects he may be using drugs again. Charlie's back story reveals a difficult relationship with his brother. Hurley's encouraged to act on his attraction to Libby.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 7121
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 1,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt0756934",
+    "title": "The Long Con",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDRhZGE4MzYtMDFlNy00ZTM2LTljNDQtOGUwNDgwYTdiNTgzXkEyXkFqcGc@._V1_.jpg",
+      "width": 597,
+      "height": 404
+    },
+    "season": "2",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2640,
+    "plot": "Survivors fear that \"The Others\" may have returned after someone attempts to kidnap Sun. Sawyer is an amused, highly interested bystander when tension escalates between Jack, Locke, Kate, and Ana Lucia over control of the weapons storage.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 7273
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 2,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt0758090",
+    "title": "One of Them",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGFkOGVhZDQtMmE5Yi00YmU3LWJkODctYTcyNjhiNWYxOTdiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1607,
+      "height": 1236
+    },
+    "season": "2",
+    "episodeNumber": 14,
+    "runtimeSeconds": 2640,
+    "plot": "The mysterious French woman, Danielle Rousseau returns to lead Sayid to a mysterious captive who claims he crashed on the island. Meanwhile, Sawyer recruits Hurley to help him find another island animal that is harassing him: a loud tree frog.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 6962
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 2,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt0764076",
+    "title": "Maternity Leave",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGYxYWNmOWMtODJkMi00NGMzLWI5Y2EtOWIxMjFiODlhMjVjXkEyXkFqcGc@._V1_.jpg",
+      "width": 749,
+      "height": 402
+    },
+    "season": "2",
+    "episodeNumber": 15,
+    "runtimeSeconds": 2760,
+    "plot": "When Claire's baby falls ill, she becomes determined to find out what happened to her and tries to regain her memory during her captivity with the Others. Mr. Eko learns about Henry Gale and requests a meeting with him.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 6894
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 3,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt0769314",
+    "title": "The Whole Truth",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODdiNDE5YjMtMzJjNi00ZmQ3LTlhOWQtNmMzZTFkOWVhZWJhXkEyXkFqcGc@._V1_.jpg",
+      "width": 381,
+      "height": 531
+    },
+    "season": "2",
+    "episodeNumber": 16,
+    "runtimeSeconds": 2580,
+    "plot": "When Sun finds out she's pregnant, she struggles on whether to tell Jin. Ana Lucia is called in by Locke to interrogate Henry Gale. Ana Lucia, Sayid, and Charlie then set out into the jungle to try and confirm Henry's story.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 6639
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 3,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt0771860",
+    "title": "Lockdown",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDk5OGU3NTMtZDA1MC00ZWRmLWI5MWYtZTZiNWMyZTVmMzdmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 694
+    },
+    "season": "2",
+    "episodeNumber": 17,
+    "runtimeSeconds": 2580,
+    "plot": "When the hatch suddenly takes on a life of its own, Locke is trapped and is forced to enlist the help of an unlikely ally. Jack faces off against Sawyer in a series of poker games for supplies. The truth about Henry is revealed.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 7771
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 3,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt0784695",
+    "title": "Dave",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmFlY2Q0ODgtOTg3Yi00NmYzLWFiZjktOTM3ODk5ZjM1ZmQ3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1500,
+      "height": 1000
+    },
+    "season": "2",
+    "episodeNumber": 18,
+    "runtimeSeconds": 2760,
+    "plot": "Hurley thinks the island is affecting him in a strange way and starts recalling his past in a mental hospital with his friend Dave. Libby offers him support. Henry Gale reveals something to Locke, severely shaking his sense of purpose.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 7187
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 4,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt0771861",
+    "title": "S.O.S.",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWUwZGNlYTAtZjBmOS00OGU2LThmYjItMzVkZTI1MDNmNzI0XkEyXkFqcGc@._V1_.jpg",
+      "width": 688,
+      "height": 549
+    },
+    "season": "2",
+    "episodeNumber": 19,
+    "runtimeSeconds": 2580,
+    "plot": "Rose is opposed to Bernard's plan to build an SOS sign on the beach. Jack and Kate venture into the jungle to propose a trade with the Others.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 6976
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 4,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt0782394",
+    "title": "Two for the Road",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTc0MGQ4ZDgtYjdhZi00MWQ2LWE4NTMtYjUzMTYwYjNhYmVmXkEyXkFqcGc@._V1_.jpg",
+      "width": 588,
+      "height": 480
+    },
+    "season": "2",
+    "episodeNumber": 20,
+    "runtimeSeconds": 2580,
+    "plot": "Jack and Kate bring an exhausted Michael back to camp, where he gives them news about \"The Others\". Henry attacks Ana Lucia. Hurley plans a surprise date for Libby.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 7840
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 5,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt0786169",
+    "title": "?",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTc5YzI5MjQtZmFjYS00NjdhLWI1ZjUtYWRjOWRiNGIyMzE1XkEyXkFqcGc@._V1_.jpg",
+      "width": 750,
+      "height": 619
+    },
+    "season": "2",
+    "episodeNumber": 21,
+    "runtimeSeconds": 2760,
+    "plot": "Mr. Eko enlists Locke's help to find a secret location he believes houses answers to the island's mysteries. Jack has a difficult, but unavoidable decision to make about Libby.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 7254
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 5,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt0799198",
+    "title": "Three Minutes",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzBmYWIxYzctM2MzZC00MDQ2LTk1YjAtMjA5NzFkNDQzNTRmXkEyXkFqcGc@._V1_.jpg",
+      "width": 474,
+      "height": 681
+    },
+    "season": "2",
+    "episodeNumber": 22,
+    "runtimeSeconds": 2700,
+    "plot": "Michael's whereabouts during his 13 days in captivity in the \"Others\" camp are detailed. Back in the present, he tries to mount a search party for Walt, but his behavior makes Sayid suspicious.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 6822
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 5,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt0793130",
+    "title": "Live Together, Die Alone: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTEzZGNjMTUtYWU2NC00YmI5LTkxMWMtMjc2OTc1YWYzNWE0XkEyXkFqcGc@._V1_.jpg",
+      "width": 750,
+      "height": 584
+    },
+    "season": "2",
+    "episodeNumber": 23,
+    "runtimeSeconds": 2640,
+    "plot": "After discovering a sailboat just offshore containing Desmond, Jack and Sayid come up with a plan to confront \"The Others\". Eko and Locke come to blows as Locke makes a potentially cataclysmic decision regarding the \"button\".",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 10069
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 5,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt21802166",
+    "title": "Live Together, Die Alone: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmFlMTZlNGUtODI5OS00OGY1LTlhMmItNjg1Y2EwZDZhYjFmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 523
+    },
+    "season": "2",
+    "episodeNumber": 24,
+    "runtimeSeconds": 2580,
+    "plot": "Jack, Kate, Sawyer, and Hurley are captured by the Others. Michael achieves his goal. Desmond realizes that Locke is wrong about the \"button\".",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 3032
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 5,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt0836956",
+    "title": "A Tale of Two Cities",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODA4MjcwMzYtNDdkMy00MGNjLTgxZGItNjZlMGZiOTNiMzAyXkEyXkFqcGc@._V1_.jpg",
+      "width": 750,
+      "height": 1122
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2580,
+    "plot": "Jack, Kate and Sawyer are kidnapped by the Others, who reveal themselves as more sophisticated and savvy than anyone guessed.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 7956
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 10,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt0847791",
+    "title": "The Glass Ballerina",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGRmN2YwYzYtZmUwMC00ZmNmLTgyMjUtMGE2ZTUwMDk2YzQ3XkEyXkFqcGc@._V1_.jpg",
+      "width": 266,
+      "height": 390
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2580,
+    "plot": "Sayid's attempt to rescue Jack, Kate, and Sawyer from the others jeopardizes Sun and Jin's lives. Ben makes Jack an offer which may be too hard to refuse.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 6901
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 10,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt0840616",
+    "title": "Further Instructions",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGI2OTc3NjEtMjcwZS00ZjZmLTg1YTAtNzExNzljNDcxMDAzXkEyXkFqcGc@._V1_.jpg",
+      "width": 746,
+      "height": 581
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2520,
+    "plot": "Locke experiences visions of Boone, leading him to a new mystery on the island.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 6822
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 10,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt0850964",
+    "title": "Every Man for Himself",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzViY2MyOGUtYzUxNS00YmU3LTk3NDEtNDFmZTk3OWRkNDA4XkEyXkFqcGc@._V1_.jpg",
+      "width": 708,
+      "height": 572
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2580,
+    "plot": "The Others perform a sadistic medical procedure on Sawyer in order to prevent him from causing any more mischief.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 6890
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 10,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt0863695",
+    "title": "The Cost of Living",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2Y5N2NhZjAtYTJlMi00Yjc2LTg4MjktOTkxZTBkZTRiMGI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 750,
+      "height": 1203
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2580,
+    "plot": "After Mr. Eko has a vision of his dead brother, he sets out to return to the site of his plane crash.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 6882
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 11,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt0883770",
+    "title": "I Do",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTU5ZGJhN2YtZWU2ZS00MzRmLWI0ZWItOTdmZWFiNmUzMzM4XkEyXkFqcGc@._V1_.jpg",
+      "width": 458,
+      "height": 640
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2580,
+    "plot": "Kate desperately tries to protect Sawyer from The Others. Juliet uses her as a pawn on Jack to get him to perform surgery on Ben.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 7225
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 11,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt0891077",
+    "title": "Not in Portland",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTMxMTg1NDYzOF5BMl5BanBnXkFtZTYwNTIzMzI3._V1_.jpg",
+      "width": 339,
+      "height": 512
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2580,
+    "plot": "Sawyer and Kate struggle to escape the island while Jack sabotages Ben's surgery. Juliet's deal with Jack to kill Ben on the operating table is exposed.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 7193
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 2,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt0928284",
+    "title": "Flashes Before Your Eyes",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzAxYThlZjctOGI2Yi00NTk2LTk0NTYtNjM2MzQwZTZhNzc3XkEyXkFqcGc@._V1_.jpg",
+      "width": 723,
+      "height": 562
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2580,
+    "plot": "After Desmond saves Claire from drowning, Charlie and Hurley suspect that he can see the future, so they come up with a plan to get some answers out of him.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 9071
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 2,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt0954439",
+    "title": "Stranger in a Strange Land",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjdmZmE3NzUtYTQxOS00YmE2LThkYjctMzMwYmRkNjliNzI2XkEyXkFqcGc@._V1_.jpg",
+      "width": 455,
+      "height": 640
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2580,
+    "plot": "A power play ensues between Jack and Ben as Juliet's future lies in the balance. Kate and Sawyer deal with the consequences of their escape.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 7057
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 2,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0913743",
+    "title": "Tricia Tanaka Is Dead",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmExNDFiNDYtNWQzNC00MTgwLWJjY2UtZTUxOWQ1OGFlZWNmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1156,
+      "height": 973
+    },
+    "season": "3",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2580,
+    "plot": "Having returned to camp, Sawyer's help is enlisted by Hugo, who has an obsession with retrieving an old VW van found on the island. More events in Hugo's life are also revealed, showing what brought him to be on the doomed flight.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 7297
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 2,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt0936198",
+    "title": "Enter 77",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM0Mzg4MDk5N15BMl5BanBnXkFtZTYwODkyMzI3._V1_.jpg",
+      "width": 485,
+      "height": 324
+    },
+    "season": "3",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2580,
+    "plot": "Sayid, John and Kate find another Dharma station on their way to rescue Jack. In the meantime Sawyer tries to get his stuff back in the camp.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 6982
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 3,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt0959403",
+    "title": "Par Avion",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM4NzY0NTc5OV5BMl5BanBnXkFtZTYwNDYyMzI3._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "3",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2580,
+    "plot": "Claire launches a plan to use migratory birds to send a message, but Desmond keeps sabotaging it. Sayid, Locke, and Kate scale The Others' protective perimeter and discover their camp.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 6736
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 3,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt0968992",
+    "title": "The Man from Tallahassee",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGEzMjRkOTItZGU0Ni00NjM5LThkMWMtZmM2NzJmZGFkNTc5XkEyXkFqcGc@._V1_.jpg",
+      "width": 663,
+      "height": 493
+    },
+    "season": "3",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2580,
+    "plot": "Jack tells Kate that he has made a deal with The Others; Locke hinders Jack's plan to leave the island.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 8041
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 3,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0988050",
+    "title": "Exposé",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTI0MzM2MDkwOF5BMl5BanBnXkFtZTYwNzcyMzI3._V1_.jpg",
+      "width": 339,
+      "height": 512
+    },
+    "season": "3",
+    "episodeNumber": 14,
+    "runtimeSeconds": 2520,
+    "plot": "Nikki and Paulo are two more of the castaways with a past just like any of the others. What have they been doing since the plane crash?",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 8035
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 3,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt0979596",
+    "title": "Left Behind",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzY4NzYwMzg1NV5BMl5BanBnXkFtZTYwMjQzMzI3._V1_.jpg",
+      "width": 436,
+      "height": 640
+    },
+    "season": "3",
+    "episodeNumber": 15,
+    "runtimeSeconds": 2580,
+    "plot": "With their secret location now compromised, The Others abandon camp and take Locke with them. But they also leave Juliet behind, handcuffed to Kate in the middle of the jungle.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 6632
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 4,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt0979597",
+    "title": "One of Us",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWY4NTlhODktYzU0YS00Yjk1LWEzYmYtNjg2OWUxNmM4ZmMwXkEyXkFqcGc@._V1_.jpg",
+      "width": 750,
+      "height": 543
+    },
+    "season": "3",
+    "episodeNumber": 16,
+    "runtimeSeconds": 2580,
+    "plot": "Jack takes Juliet back to their camp after being abandoned by The Others. However, nobody else at the camp trusts her or wants her there.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 6881
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 4,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt0979594",
+    "title": "Catch-22",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjZkNmI1NjItZTU4MS00ZTcxLTlkZmItMTAzZWQ3NmJlOWVmXkEyXkFqcGc@._V1_.jpg",
+      "width": 750,
+      "height": 616
+    },
+    "season": "3",
+    "episodeNumber": 17,
+    "runtimeSeconds": 2520,
+    "plot": "After Desmond has another vision, he convinces Hurley, Jin, and Charlie to follow him into the jungle.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 6624
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 4,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt0979595",
+    "title": "D.O.C.",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjc5MzI0ZTItOWIzNy00NjM0LWExMGEtMzE5YjFhMzgyNzE1XkEyXkFqcGc@._V1_.jpg",
+      "width": 669,
+      "height": 496
+    },
+    "season": "3",
+    "episodeNumber": 18,
+    "runtimeSeconds": 2580,
+    "plot": "An unlikely person helps Desmond save the life of the mysterious woman who crashed onto the island, and Juliet helps Sun find out whether she conceived on the island or before the plane crash.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 6570
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 4,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt0992243",
+    "title": "The Brig",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjc1MjJjYzctOWU0ZS00YTZmLTg3MGQtNTk5Njk4MDVmMmVlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 1506
+    },
+    "season": "3",
+    "episodeNumber": 19,
+    "runtimeSeconds": 2580,
+    "plot": "Locke needs to prove himself to Ben before he can be accepted into the Others' group and tricks Sawyer into doing his dirty work for him. The secret of the woman who parachuted onto the Island is revealed.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 7865
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 5,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt0992244",
+    "title": "The Man Behind the Curtain",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmRhZGRjZmItNjA2YS00YTM0LWI0ZGUtMzkyZGVhNzRjZDc1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 710
+    },
+    "season": "3",
+    "episodeNumber": 20,
+    "runtimeSeconds": 2580,
+    "plot": "As Ben takes Locke to see Jacob and reveal the island's secrets, Ben's background on the island is exposed--as well as what happened to the Dharma Initiative.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 8628
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 5,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt0998660",
+    "title": "Greatest Hits",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjExY2VjYmItODczNy00NmI2LWI1MTYtM2QxMTgyMzhiMTEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 505
+    },
+    "season": "3",
+    "episodeNumber": 21,
+    "runtimeSeconds": 2580,
+    "plot": "Desmond has another vision of Charlie's death, but this time his death ultimately will result in Claire's rescue. Meanwhile, the survivors discover that an attack by the others is even more imminent than originally expected.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 8552
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 5,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt1004798",
+    "title": "Through the Looking Glass: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUyYTZjM2UtMWE4My00ZjIxLTkyNTQtNWYxNjI5YzNhMDk3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "3",
+    "episodeNumber": 22,
+    "runtimeSeconds": 2580,
+    "plot": "Jack and the survivors wait for Charlie to turn off The Others' signal-jamming device, not knowing that he has been captured at the Looking Glass station.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 15376
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 5,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt26421545",
+    "title": "Through the Looking Glass: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTYxY2Y0MmYtZTcyZi00ZmIwLTk2MjMtZGQ5MjE1NGJlMzNmXkEyXkFqcGc@._V1_.jpg",
+      "width": 2229,
+      "height": 3000
+    },
+    "season": "3",
+    "episodeNumber": 23,
+    "runtimeSeconds": 2580,
+    "plot": "On the island, Jack and the survivors come closer to finding rescue. In the flashback, Jack is shown in Los Angeles, living though a meaningless existence as a drunkard.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 4144
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 5,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt0994348",
+    "title": "The Beginning of the End",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGQ1MmZjNDAtN2UxYy00OWY5LWFkYjItMzk1YmRiNDY1OGNjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 800
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2580,
+    "plot": "Charlie's dying message casts doubt on the intentions of the people that Jack believes to be their rescuers. A power struggle ensues between Jack, who wants to leave the island, and Locke, who thinks that they're supposed to stay.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 8241
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 1,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt0994359",
+    "title": "Confirmed Dead",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmNmNjlkOTMtMzg1Ny00OWE1LWE0MzgtZGE2NTljNTZhZGU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1736,
+      "height": 1080
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2580,
+    "plot": "The surviving members of the supposed \"rescue team\" are scattered around the island. Once they are located, they reluctantly reveal that they are indeed not there to rescue the Oceanic 815 survivors.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 7115
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 2,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt0994363",
+    "title": "The Economist",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2QzMGU3NDgtZmRlOC00N2YxLTlhYWItZThhYTZhMzU1NmUzXkEyXkFqcGc@._V1_.jpg",
+      "width": 720,
+      "height": 588
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2580,
+    "plot": "Sayid negotiates a deal with Locke to hand over Charlotte from the \"rescue team,\" so that he can get on their helicopter and reach their ship. Kate joins Sayid for the mission, but she decides to stay behind with Sawyer.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 6720
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 2,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt0994364",
+    "title": "Eggtown",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMThlMDM2OTktZGFjOS00ZjljLWJhMTAtZTJjMTg1MTZjYjQwXkEyXkFqcGc@._V1_.jpg",
+      "width": 750,
+      "height": 573
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2580,
+    "plot": "Kate goes behind Locke's back to arrange a meeting between Miles and Ben, where Miles offers his terms for not giving Ben up to his colleagues. Locke discovers what she has done and banishes her from his camp.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 6598
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 2,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0994365",
+    "title": "The Constant",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTBmOWE3NTQtNzhlMC00Njk4LThmODktNGNkMTRhZGY3MGM4XkEyXkFqcGc@._V1_.jpg",
+      "width": 700,
+      "height": 388
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2580,
+    "plot": "During the helicopter ride to the ship, Desmond's consciousness begins jumping back and forth between present day 2004 and 1996. He is forced to find Daniel Faraday in 1996 in order to get answers and stop the jumps.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 18798
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 2,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt0994366",
+    "title": "The Other Woman",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzU3YTAxMDAtZmIwNS00OTgzLTgwMGUtODA3MWQyODVjMjYzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1371,
+      "height": 1080
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2580,
+    "plot": "Daniel and Charlotte leave Jack's camp to fulfill their objective, and Jack and Juliet try to track them down before they are successful. Juliet's romantic history on the island with The Others is exposed.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 6465
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 3,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt0994367",
+    "title": "Ji Yeon",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTYzYTAwYjMtYzg1Ny00NDI4LWIzYmMtN2IwNGJhNjlhOGQxXkEyXkFqcGc@._V1_.jpg",
+      "width": 562,
+      "height": 410
+    },
+    "season": "4",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2580,
+    "plot": "Juliet exposes Sun's pre-island affair to Jin so that they won't defect to Locke's camp. Sayid and Desmond meet the ship's captain and discover who is working on the boat.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 6649
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 3,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt0994368",
+    "title": "Meet Kevin Johnson",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODFlMWNkMzktN2VmYS00NzAxLWFiNzQtNWI2ZmY2Yjc1ZGJkXkEyXkFqcGc@._V1_.jpg",
+      "width": 715,
+      "height": 600
+    },
+    "season": "4",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2580,
+    "plot": "Michael's journey from escaping the island to working as Ben's spy on Widmore's ship is revealed, as well as his mission. Ben tells Danielle and Alex to leave Locke's camp and go to the island temple, but they are ambushed on the way.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 6557
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 3,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt0994369",
+    "title": "The Shape of Things to Come",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjM4NDgxNjUyOF5BMl5BanBnXkFtZTgwMTA2MTg1NjM@._V1_.jpg",
+      "width": 1480,
+      "height": 2048
+    },
+    "season": "4",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2580,
+    "plot": "The team from the ship attacks Locke's camp looking for Ben, with Alex as a hostage. The doctor from the ship washes up on shore at Jack's camp and Faraday provides some distressing news.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 7747
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 4,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt0994349",
+    "title": "Something Nice Back Home",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzMxMTE4ZGItZDBhZC00OWE3LWEyOGYtOTkyZTc5OWUyOGYyXkEyXkFqcGc@._V1_.jpg",
+      "width": 512,
+      "height": 288
+    },
+    "season": "4",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2580,
+    "plot": "Juliet is forced to perform an emergency appendectomy on Jack, Jack's post-rescue relationship with Kate is revealed, and Sawyer, Claire, and Aaron head back to Jack's camp with Miles.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 6316
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 5,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt0994350",
+    "title": "Cabin Fever",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjRlZjJlZDgtM2FhNy00M2ViLTkyMTgtN2Y4NTU5ZTIyODVkXkEyXkFqcGc@._V1_.jpg",
+      "width": 646,
+      "height": 450
+    },
+    "season": "4",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2640,
+    "plot": "Locke, Ben, and Hurley continue their search for the cabin so that Locke can talk to Jacob. Back on the boat, Keamy prepares to take off again, this time for an all-out assault on the island.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 6519
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 5,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt0994351",
+    "title": "There's No Place Like Home: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2M0NzRlMWQtOGZjYi00YjAzLWExOWMtYjQwMmEwMmUzNjc4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 900
+    },
+    "season": "4",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2580,
+    "plot": "Ben, Locke, and Hurley go to The Orchid, only to find Keamy and his men already there. Jack and Kate go after the helicopter and come across Sawyer in the jungle. Sayid comes back to the island with a rescue boat and goes after them too.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 7123
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt0994352",
+    "title": "There's No Place Like Home: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTc4MTYzMzUwMV5BMl5BanBnXkFtZTcwMTUwNDU4MQ@@._V1_.jpg",
+      "width": 448,
+      "height": 640
+    },
+    "season": "4",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2400,
+    "plot": "Ben tries to escape Keamy's custody so that he and Locke can follow through with Jacob's request to move the island. Michael tries to neutralize the explosives on the boat, while the \"Oceanic 6\" move closer to rescue.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 8343
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 5,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt1952703",
+    "title": "There's No Place Like Home: Part 3",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2E5NjkxZDctNzBjMC00ZDAyLTkxMjQtODk3ZWQ0MDUwMDE5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    "season": "4",
+    "episodeNumber": 14,
+    "runtimeSeconds": 2640,
+    "plot": "In the season finale, the Oceanic Six find themselves closer to rescue.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 6452
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 5,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt1280267",
+    "title": "Because You Left",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM3NzMzODYyNl5BMl5BanBnXkFtZTcwMjc5MDMyMg@@._V1_.jpg",
+      "width": 640,
+      "height": 457
+    },
+    "season": "5",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2580,
+    "plot": "As a result of Ben moving the island, the survivors left on the island begin skipping through time. Meanwhile, three years later in Los Angeles, Ben starts convincing the Oceanic 6 to return to the island.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 7313
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 1,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt1313407",
+    "title": "The Lie",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzI3NjczODI4Ml5BMl5BanBnXkFtZTgwNTM5MjY2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2520,
+    "plot": "While Ben and Jack try to round the Oceanic 6 up, Sayid and Hurley are on the run from the law. Meanwhile, back on the island, the survivors, still skipping through time, come under attack.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 6327
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 1,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt1319361",
+    "title": "Jughead",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDIyMTUyNzE5N15BMl5BanBnXkFtZTcwMzY0NzgyMg@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "5",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2580,
+    "plot": "Desmond returns to Oxford to fulfill Faraday's request to find his mother. Back on the island, the survivors discover that they've run into The Others 50 years in the past, but Richard Alpert is the same age.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 6452
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 1,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt1321693",
+    "title": "The Little Prince",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmFkNGZhNGYtOWI0ZC00Mzc2LTkyNGUtZDMzMWRiNjU4YjliXkEyXkFqcGc@._V1_.jpg",
+      "width": 749,
+      "height": 1106
+    },
+    "season": "5",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2580,
+    "plot": "In Los Angeles, Kate tries to find out who is trying to take Aaron away from her. Back on the island, Locke convinces everyone that they have to go to The Orchid.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 6148
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 2,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt1322105",
+    "title": "This Place Is Death",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjIwNDQ1ODA3OF5BMl5BanBnXkFtZTcwMzI1MDIzMg@@._V1_.jpg",
+      "width": 640,
+      "height": 427
+    },
+    "season": "5",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2580,
+    "plot": "In order to avoid being killed, Ben promises to offer proof to Sun that Jin is still alive. On the island, Jin meets up with the survivors as Locke reaches The Orchid and fulfills his mission.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 6480
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 2,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt1340502",
+    "title": "316",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzEzMzUwNDQ2M15BMl5BanBnXkFtZTcwNzAzOTMzMg@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "5",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2580,
+    "plot": "Eloise explains that the Oceanic 6 have a very limited window to return to the island, and leaves Jack instructions to bring one of his father's items to John Locke.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 6312
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 2,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt1321692",
+    "title": "The Life and Death of Jeremy Bentham",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTAxMDg3ODA4MDNeQTJeQWpwZ15BbWU4MDE1Mjk1NjIx._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2760,
+    "plot": "John Locke, now alive again and back on the island after the second plane crash, flashes back to his return to civilization, where he is brought in by Charles Widmore and asked to convince the Oceanic 6 to return to the island.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 7037
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 2,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt1341555",
+    "title": "LaFleur",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTMzNTc5NDU2MF5BMl5BanBnXkFtZTcwNzQyODczMg@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "5",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2580,
+    "plot": "The survivors left on the island, now led by Sawyer after Locke's departure, find themselves back in the 1970s, where they are now forced to become members of the Dharma Initiative.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 7243
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 3,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt1353861",
+    "title": "Namaste",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTMxODU3NjQxOF5BMl5BanBnXkFtZTcwNjUwNTE0Mg@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "5",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2580,
+    "plot": "Jack, Kate and Hurley wind up on the island in 1977, where they meet up with Sawyer and also join the Dharma Initiative. Meanwhile, Sun is stuck on the island in the present with Ben and the other passengers after the plane crash.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 6060
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 3,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt1358333",
+    "title": "He's Our You",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjE3MzA3MzI2OF5BMl5BanBnXkFtZTcwMjc1NjI0Mg@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "5",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2520,
+    "plot": "Sayid is held as a prisoner by the Dharma Initiative, presumed to be a Hostile. However, during his capture, he believes he has discovered the reason why he's back on the island.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 6005
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 3,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt1363399",
+    "title": "Whatever Happened, Happened",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTMxNDQ4NzQyMV5BMl5BanBnXkFtZTcwMTYyNDQ0Mg@@._V1_.jpg",
+      "width": 400,
+      "height": 600
+    },
+    "season": "5",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2580,
+    "plot": "Jack refuses to help save young Ben after Sayid shoots him, so Sawyer and Kate turn to Richard Alpert for help. Meanwhile, what Sawyer said to Kate on the chopper is revealed, as well as what Kate did with Aaron before the flight.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 5976
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt1368702",
+    "title": "Dead Is Dead",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTcwMTM1ODUwNl5BMl5BanBnXkFtZTgwOTkwNzU2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2580,
+    "plot": "Ben and Locke return to the island, where Ben says he is going to summon the Smoke \"monster\" and atone for his daughter's death. The falling-out on the island between Ben and Charles Widmore is revealed.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 6356
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt1378943",
+    "title": "Some Like It Hoth",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjAzMDE5NDk1OV5BMl5BanBnXkFtZTgwMDY5NDY2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2580,
+    "plot": "Miles is chosen by Horace to transport a dead body across the island. During the trip, Miles reveals to Hurley that Dr. Pierre Chang (a.k.a. Dr. Marvin Candle) is his father, whom he resents for leaving him and his mother.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 5685
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt1378944",
+    "title": "The Variable",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYyMzk2MTI3OV5BMl5BanBnXkFtZTcwNDMxOTc0Mg@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "5",
+    "episodeNumber": 14,
+    "runtimeSeconds": 2580,
+    "plot": "Faraday returns to the island and tells Jack that his mother, Eloise Hawking, lied to them--they don't belong on the island. He then initiates a dangerous plan to get them back home.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 6642
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt1400160",
+    "title": "Follow the Leader",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTA2ODI1NDQ0MF5BMl5BanBnXkFtZTcwNTkyMjQ1Mg@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "5",
+    "episodeNumber": 15,
+    "runtimeSeconds": 2580,
+    "plot": "Jack attempts to follow through with Daniel Faraday's plan to detonate the hydrogen bomb after Faraday is killed, Locke instructs Alpert to take him to Jacob, and Sawyer is interrogated about an incriminating surveillance video.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 6096
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 5,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt1399779",
+    "title": "The Incident: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDY3NmFhMTYtYTJlYi00MjZiLThjZDctOGQ1YmQ5OTU0NThjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 699
+    },
+    "season": "5",
+    "episodeNumber": 16,
+    "runtimeSeconds": 2520,
+    "plot": "Jack and Sayid's plan faces resistance from Sawyer, Juliet, and Kate. Locke, Richard, Ben, and The Others reach Jacob at the Foot of the Statue.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 8191
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 5,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt2197294",
+    "title": "The Incident: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDYxMTY0YTUtYzUyNS00OWVhLWI2MWEtMDc0OTM3ZTM0OWE3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1121,
+      "height": 716
+    },
+    "season": "5",
+    "episodeNumber": 17,
+    "runtimeSeconds": 2520,
+    "plot": "At the site of the ancient statue remains, Locke assigns Ben a difficult task that involves Jacob's fate. Jack is determined to go ahead with Faraday's plan.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 6362
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 5,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt1453335",
+    "title": "LA X: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTA1MjU4MzgxOTReQTJeQWpwZ15BbWU3MDI1ODY2MTM@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "6",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2460,
+    "plot": "Flight 815 is shown successfully landing in Los Angeles with no crash on the island, but the survivors are simultaneously shown still on the island after Juliet detonates the bomb.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 7158
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 2,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt2524344",
+    "title": "LA X: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTMwY2VlZGEtZTNjNi00OTY4LTg1OTEtMzJiMTY1YjdiNjk5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1600,
+      "height": 2400
+    },
+    "season": "6",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2580,
+    "plot": "The man impersonating John Locke reveals his true intentions.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 5040
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 2,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt1560343",
+    "title": "What Kate Does",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDMxNzg3ODMxMl5BMl5BanBnXkFtZTcwNzI4NjcxMw@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "6",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2580,
+    "plot": "Sayid miraculously comes back to life, but his problems have only just begun. Sawyer escapes, and Kate and Jin go after him. Back in Los Angeles, fugitive Kate helps Claire as she goes into labor.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 6213
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 2,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt1533421",
+    "title": "The Substitute",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTkyODA0NTEyOF5BMl5BanBnXkFtZTcwMDUwMjkxMw@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "6",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2580,
+    "plot": "On the island, the being now occupying Locke's body turns to Sawyer and promises to tell him why he's on the island. Back in Los Angeles, Locke loses his job and encounters a number of familiar faces.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 5885
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 2,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt1467640",
+    "title": "Lighthouse",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjE1ODM1OTAyMF5BMl5BanBnXkFtZTcwMzY1NTAyMw@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "6",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2640,
+    "plot": "Jacob sends Hurley on a mission across the island, but Jack must accompany him. In Los Angeles, Jack's difficult relationship with his son is revealed. Meanwhile, Jin discovers that Claire thinks the people at the temple stole her son.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 5808
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 2,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt1467641",
+    "title": "Sundown",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY5OTY4NzUyN15BMl5BanBnXkFtZTcwNjQ4MDIyMw@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "6",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2520,
+    "plot": "Claire arrives at the temple and warns the inhabitants that the being inhabiting Locke wants to talk, but Dogen sends Sayid to kill him instead. In Los Angeles, Sayid saves his brother, who is in trouble with a loan shark.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 5703
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 3,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt1467642",
+    "title": "Dr. Linus",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODcwMDkwODM3NF5BMl5BanBnXkFtZTcwMTQ3NjMyMw@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "6",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2580,
+    "plot": "Ilana prepares to kill Ben after Miles reveals that Ben killed Jacob. In Los Angeles, Ben contemplates a power play at his high school. Meanwhile, Richard and Jack share their secrets and experiences with Jacob and form an alliance.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 6013
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 3,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt1467643",
+    "title": "Recon",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA4MDg0MTk2Ml5BMl5BanBnXkFtZTcwNTQ2NTUyMw@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "6",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2580,
+    "plot": "Locke sends Sawyer on a recon mission to the other island, where he runs into Charles Widmore and his submarine crew. In Los Angeles, Sawyer works as a police officer obsessed with finding the conman who destroyed his family.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 5750
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 3,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt1467644",
+    "title": "Ab Aeterno",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTk4MzEzODUyOF5BMl5BanBnXkFtZTcwODU3MjgyMw@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "6",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2880,
+    "plot": "The mysteries behind Richard Alpert's arrival to the island, his immortality, and his alliance with Jacob are revealed--plus more details about the purpose of the island and the relationship between Jacob and the smoke monster.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 9387
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 3,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt1467629",
+    "title": "The Package",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjEzMjUwMDMwM15BMl5BanBnXkFtZTcwNDExODkyMw@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "6",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2580,
+    "plot": "Sun and Jin's search for each other is interrupted when Widmore's crew kidnaps Jin, and Locke heads to the other island to bring him back. In Los Angeles, Jin's job for Sun's father is sidetracked when his money is taken at customs.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 5659
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 3,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt1467630",
+    "title": "Happily Ever After",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTc5MzMzNjMyM15BMl5BanBnXkFtZTcwNTgwNDIzMw@@._V1_.jpg",
+      "width": 640,
+      "height": 412
+    },
+    "season": "6",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2580,
+    "plot": "Charles Widmore brings Desmond back to the island so that he can conduct a dangerous electromagnetic experiment, which sends him back to the alternate reality in Los Angeles, a reality where he has never met Penny.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 7015
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 4,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt1467631",
+    "title": "Everybody Loves Hugo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTMwNTk0OTI0OV5BMl5BanBnXkFtZTcwMDkxMDUzMw@@._V1_.jpg",
+      "width": 640,
+      "height": 427
+    },
+    "season": "6",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2580,
+    "plot": "Michael appears to Hurley and gives him a new mission, and Sayid captures Desmond and sends him to Locke. In Los Angeles, Desmond sets up a meeting between Libby and Hurley to further his assignment.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 5801
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 4,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt1603637",
+    "title": "The Last Recruit",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NTY5NTczN15BMl5BanBnXkFtZTcwMjg4MDczMw@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "6",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2580,
+    "plot": "As the battle between Locke and Widmore commences, Sawyer launches his plan to change allegiances. Back in Los Angeles, fate continues to intervene and bring the original survivors together.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 5726
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 4,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt1467632",
+    "title": "The Candidate",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTMzNzg3NjA4MV5BMl5BanBnXkFtZTcwMTUwMjI0Mw@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "6",
+    "episodeNumber": 14,
+    "runtimeSeconds": 2580,
+    "plot": "With Jack's help, Locke rescues the candidates from Widmore's compound, but their plans for leaving the island are forced to change. In Los Angeles, Jack tries to convince Locke to try an experimental surgery for his paralysis.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 7429
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt1467633",
+    "title": "Across the Sea",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY3MzQwNDcyNl5BMl5BanBnXkFtZTcwMDY4NTY0Mw@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "6",
+    "episodeNumber": 15,
+    "runtimeSeconds": 2580,
+    "plot": "The story of how Jacob and his brother came to the island, their uneasy relationship with their \"mother,\" their eventual falling-out, and revelation of what Jacob was on the island to protect.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 7371
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt1467634",
+    "title": "What They Died For",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg1Mzg3ODUxOV5BMl5BanBnXkFtZTcwOTEwODg0Mw@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "6",
+    "episodeNumber": 16,
+    "runtimeSeconds": 2580,
+    "plot": "Jacob appears to the survivors of the submarine explosion and tells them what they were chosen for. Ben joins forces with Locke, as they both have a final showdown with Charles Widmore.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 6590
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt1467635",
+    "title": "The End: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjM3MDI4OTkzNV5BMl5BanBnXkFtZTcwMTM5Mzk0Mw@@._V1_.jpg",
+      "width": 427,
+      "height": 640
+    },
+    "season": "6",
+    "episodeNumber": 17,
+    "runtimeSeconds": 3000,
+    "plot": "The Man in Black searches for Desmond to achieve his goal of destroying the island. Jack, the newly-appointed \"protector\" of the island, sets out to stop him. In Los Angeles, the survivors reunite and recall their island experiences.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 13619
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt15049668",
+    "title": "The End: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmMxMmQxZWMtMDk3Zi00MWRhLWE0ZDEtYmI0NWU2ZTFkMzE0XkEyXkFqcGc@._V1_.jpg",
+      "width": 2250,
+      "height": 1432
+    },
+    "season": "6",
+    "episodeNumber": 18,
+    "runtimeSeconds": 2580,
+    "plot": "Locke puts his plan into action, which could liberate him from the island.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 5505
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 23
+    }
+  }
+]

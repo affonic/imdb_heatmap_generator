@@ -25,7 +25,17 @@ Shows = {
     "TheOffice" : "tt0386676",
     "TheSopranos" : "tt0141842",
     "TheWire" : "tt0306414",
-    "Bojack" : "tt3398228"
+    "Bojack" : "tt3398228",
+    "Futurama" : "tt0149460",
+    "StrangerThings" : "tt4574334",
+    "Lost" : "tt0411008",
+    "Dexter" : "tt0773262",
+    "Suits" : "tt1632701",
+    "LoveDeathRobots" : "tt9561862",
+    "BobsBurgers" : "tt1561755",
+    "DeathNote" : "tt0877057",
+    "DerryGirls" : "tt7120662",
+    "PrettyLittleLiars" : "tt1578873"
 }
 
 def fetch_imdb_data(show_name):
@@ -119,8 +129,10 @@ def generate_heat_map(shows): #shows is a list of show titles (as strings)
     
     plt.show()
 
-shows_for_heatmap = ["AOT", "BreakingBad", "Archer", "HIMYM", "Friends", "Bojack",
+shows_for_heatmap = ["AOT", "BreakingBad", "Archer", "HIMYM", "Friends", "Bojack", 
                      "RickAndMorty", "ParksAndRecreation", "House", 
                      "RvB", "Simpsons", "ModernFamily", "GameOfThrones",
-                     "TheOffice", "Brooklyn99", "SouthPark", "TheSopranos", "TheWire"]
+                     "TheOffice", "Brooklyn99", "SouthPark", "TheSopranos", "TheWire",
+                     "Futurama", "StrangerThings", "Lost", "Dexter", "Suits", "TeenWolf",
+                     "LoveDeathRobots", "DerryGirls", "DeathNote", "BobsBurgers", "PrettyLittleLiars"]
 generate_heat_map(shows_for_heatmap)

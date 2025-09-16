@@ -1,0 +1,2950 @@
+[
+  {
+    "id": "tt1973786",
+    "title": "Pilot",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTM5ZTM5NmYtMDEyZi00YjAyLWI3NTEtYzUwNmRhMDE0YWYxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 5400,
+    "plot": "An unexpected opportunity results in Mike Ross, who doesn't actually have a law degree, becoming the new associate at a Manhattan law firm.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 7738
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 6,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt1973785",
+    "title": "Errors and Omissions",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWYwYTJiMjMtNDdjOS00YmI4LTljOGUtYzk3NTA2MjU5YWY5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3600,
+    "plot": "An open and closed case becomes anything but when Harvey discovers that the judge in his case has a personal vendetta against him. Louis tries to blackmail Mike in order to get his help bringing in a valuable client.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 4902
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 6,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt1976882",
+    "title": "Inside Track",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmE5NjUyZjktN2IwZS00ZTU4LWJlYWYtZDYwYTQ2NzQ3NGQ3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3600,
+    "plot": "Harvey asks Mike to find a loophole so that he can oust the incoming CEO of a motor company he represents. Louis puts outrageous demands on Mike as he tries to make arrangements for the Rookie Dinner.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 4450
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 7,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt1977541",
+    "title": "Dirty Little Secrets",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWYzY2Q5MGYtYzM3ZC00NTRhLWE3NjktZjBmZmM2ZWI0MTBhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2700,
+    "plot": "As Harvey defends someone from Jessica's past, Mike is assigned his first solo case (where his secret is almost discovered).",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 4232
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 7,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt2003931",
+    "title": "Bail Out",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU4NzM4MTE1MF5BMl5BanBnXkFtZTgwMDY0MDYyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2700,
+    "plot": "Harvey, a witness for his driver in a civil suit, has to rely on Louis for help. Mike bails his old friend Trevor out of jail.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 4088
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 7,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt1973787",
+    "title": "Tricks of the Trade",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjQyZDFhMzctZjIyNC00NzUyLTkwNzItNGZlNWE0N2IzYWM1XkEyXkFqcGc@._V1_.jpg",
+      "width": 769,
+      "height": 434
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2520,
+    "plot": "Harvey and Mike try to prove that a woman accused of insider trading is innocent. Mike also tries to help Rachel study for the LSAT, but he soon finds her close to uncovering his secret.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 4010
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 7,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt1987364",
+    "title": "Play the Man",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTE1YmVmNGMtNDY3OS00OWE0LTgwYTEtNzNmMTM2ZDlkNDgwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2520,
+    "plot": "It's mock trial time at Pearson Hardman as Mike faces off against Louis' protege, Kyle. Harvey's history with opposing counsel creates complications during a sweetheart merger between two global hotel chains.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 4189
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt1987365",
+    "title": "Identity Crisis",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY3MDcwNzY3N15BMl5BanBnXkFtZTgwODQwMTYyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2580,
+    "plot": "While Harvey and Louis come to blows after Louis' reckless behavior threatens to cost the firm a case, Mike is assigned to a businessman who is trying to get back money from his estranged daughter.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 3873
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt1985804",
+    "title": "Undefeated",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjM3NDA3MzY0NF5BMl5BanBnXkFtZTgwNTYzNDUyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "1",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2700,
+    "plot": "Harvey meets his match in a cocky opposing counsel in a class action lawsuit, and Mike unknowingly helps frame Rachel as a traitor to the firm.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3778
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt1986650",
+    "title": "The Shelf Life",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjE5YjIwZDMtM2Q2NS00OTdlLWE1OWUtNTFiNjU3YTA5NTM3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "1",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2700,
+    "plot": "Harvey must fire an accountant for falsifying his credentials, but Mike finds a more sinister motive for his termination and becomes concerned about his own employment. Meanwhile, Louis thinks he's found his future wife.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3705
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt1995990",
+    "title": "Rules of the Game",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI5NDM0ODgyMF5BMl5BanBnXkFtZTgwMDE4NDUyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "1",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2700,
+    "plot": "Harvey is threatened with disbarment if he doesn't testify against his old mentor in the DA's office. Meanwhile, Harvey wagers Mike's services in a bet with Louis, and Mike goes out on an awkward double date.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 3696
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt2014019",
+    "title": "Dog Fight",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjE3MzIyOWEtNzg5Zi00YTk5LWEzZTAtYmRkOGM0YzBkNDFmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "1",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2700,
+    "plot": "Harvey's efforts to free an innocent man hit a wall when he goes against the new district attorney.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 4152
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt2185442",
+    "title": "She Knows",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjczMzk3ODc4NV5BMl5BanBnXkFtZTcwMjYzMDM5Nw@@._V1_.jpg",
+      "width": 600,
+      "height": 398
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2880,
+    "plot": "Harvey entrusts Mike with closing a major lawsuit while he must make a decision about guarding Mike's secret.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 4357
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 6,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt2397283",
+    "title": "The Choice",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI3ODE0NjM2OV5BMl5BanBnXkFtZTcwMzQzMDM5Nw@@._V1_.jpg",
+      "width": 600,
+      "height": 398
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2580,
+    "plot": "With Hardman back and knowing that it's a matter of time before he challenges Jessica for control, she decides to make sure she has enough support, so she asks Harvey to go out and get it. The problem is that he rubbed so many members of the firm the wrong way.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 3533
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 6,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt2199752",
+    "title": "Meet the New Boss",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjg3MDAzMzYwMV5BMl5BanBnXkFtZTcwMTUzMDM5Nw@@._V1_.jpg",
+      "width": 600,
+      "height": 398
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2580,
+    "plot": "Hardman tries to ingratiate himself by asking Jessica to let him handle a case wherein they're trying to keep some nurses from going on strike, but Jessica lies that she already gave it to Harvey to negotiate a contract. Hardman tries to horn in by getting Mike to give him some info.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 3414
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 6,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt2199756",
+    "title": "Discovery",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTcwNDE0OTczMV5BMl5BanBnXkFtZTcwNDQ4NDExOA@@._V1_.jpg",
+      "width": 600,
+      "height": 398
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2580,
+    "plot": "With Harvey's career on the line in a lawsuit for fraud, he gives Mike to Louis.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 3425
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt2253942",
+    "title": "Break Point",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTA5OTQ2MzYwMzNeQTJeQWpwZ15BbWU3MDE0MjgxMTg@._V1_.jpg",
+      "width": 600,
+      "height": 398
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey balks when Jessica puts him in the passenger seat on a lawsuit that could make or break the firm.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 3663
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt2199758",
+    "title": "All In",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjIxMzY2Njc1Nl5BMl5BanBnXkFtZTcwMjYyODExOA@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey deals with a gambling addict who just lost his company, Louis and Rachel look into a ballet company's problem, and Jessica encounters a judge desiring payback for a past prank.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3392
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt2268628",
+    "title": "Sucker Punch",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjE4OTgxNjU0OV5BMl5BanBnXkFtZTcwMTEyNTAyOA@@._V1_.jpg",
+      "width": 600,
+      "height": 398
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2580,
+    "plot": "As the fallout continues to reverberate from the pending lawsuit against Pearson Hardman, Harvey turns to a former colleague.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 4063
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt2305044",
+    "title": "Rewind",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQwMzg1NjkwNV5BMl5BanBnXkFtZTcwMjcxNTAyOA@@._V1_.jpg",
+      "width": 600,
+      "height": 401
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2580,
+    "plot": "With the continuing upheaval at the firm, Mike and Harvey reflect on how their past decisions have influenced their present situation.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 3612
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt2310538",
+    "title": "Asterisk",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjAyNzIxODQ5NF5BMl5BanBnXkFtZTcwNjcxNTAyOA@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey is tasked with closing the one person whose vote will decide Pearson Hardman's future.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 3466
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt2310526",
+    "title": "High Noon",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ1OTcwMzAwM15BMl5BanBnXkFtZTcwMzUyNjIyOA@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey needs Mike's help as the battle for control of Pearson Hardman reaches its climax.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 4585
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt2583678",
+    "title": "Blind-Sided",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY0NjY5NTc4N15BMl5BanBnXkFtZTcwNjgwMTc5OA@@._V1_.jpg",
+      "width": 600,
+      "height": 497
+    },
+    "season": "2",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2580,
+    "plot": "Mike gets too emotional when Harvey allows him to negotiate a hit-and-run settlement, and Louis runs into trouble as he tries to hire his first associate.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 3397
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 1,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt2583680",
+    "title": "Blood in the Water",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjA0MTQzMl5BMl5BanBnXkFtZTcwMDkwMTc5OA@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "2",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey must protect Pearson Hardman from a rival firm. Louis and Mike pay the price for previous actions.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 3261
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 1,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt2583682",
+    "title": "Zane vs. Zane",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk2ODE4MjQ4NV5BMl5BanBnXkFtZTgwMjAzMDYyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2580,
+    "plot": "Rachel's father becomes the defense attorney in a gender discrimination lawsuit being prosecuted by Pearson Hardman, and Louis wages war against the new associate hired by Harvey.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 3179
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 1,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt2660120",
+    "title": "He's Back",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTkwODgwNDk5N15BMl5BanBnXkFtZTcwNjYyMDcwOQ@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "2",
+    "episodeNumber": 14,
+    "runtimeSeconds": 2580,
+    "plot": "Daniel Hardman plays a dirty trick on his old firm when he takes over the defense in the gender discrimination case, and Rachel has second thoughts about applying to Harvard Law School.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 3143
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 2,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt2671864",
+    "title": "Normandy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY5NTk0NTYzMF5BMl5BanBnXkFtZTcwMzcyMDcwOQ@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "2",
+    "episodeNumber": 15,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey joins forces with and old familiar face to take down Daniel Hardman, Mike and Katrina play a sneaky game of one-upmanship, and Rachel gets some bad news about her Harvard application.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3143
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 2,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt2560618",
+    "title": "War",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ0NTk4Mzk4NF5BMl5BanBnXkFtZTcwNzcwMDQxOQ@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "2",
+    "episodeNumber": 16,
+    "runtimeSeconds": 3000,
+    "plot": "Harvey's vision for the firm's future clashes with Jessica's when a British firm offers a tempting proposition.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 3739
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 2,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt2529130",
+    "title": "The Arrangement",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI2MzQzOTg4NF5BMl5BanBnXkFtZTcwMTY2NTg3OQ@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2820,
+    "plot": "Jessica's partnership with Darby is tested when he assigns Harvey a high-profile client who faces the loss of her company unless proven innocent. Mike works to reconcile with Harvey and to manage the fallout from his revelation to Rachel.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3667
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt2850832",
+    "title": "I Want You to Want Me",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjE1MzM4MTU1MV5BMl5BanBnXkFtZTcwNDUwMDM4OQ@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2580,
+    "plot": "Louis offers Mike a case that could change his future at the firm. Also, Harvey and Jessica team up to bring down an old nemesis who complicates their case to keep Ava Hessington out of jail.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3131
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt2983982",
+    "title": "Unfinished Business",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYxMzQ1NTAzOV5BMl5BanBnXkFtZTcwNDQ3MzE5OQ@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2640,
+    "plot": "Cameron Dennis strikes back at Harvey by arresting one of his clients for murder. Meanwhile, Katrina Bennet and a British version of Harvey arrive to stir things up at the firm.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 3042
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt2983986",
+    "title": "Conflict of Interest",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjAyOTY3OTAwOV5BMl5BanBnXkFtZTcwNTQ4Nzk5OQ@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey's defense of Ava hits a roadblock when the interests of her murder trial are at odds with Louis' work to thwart a hostile takeover of Hessington Oil by a rival businessman.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2974
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt2983988",
+    "title": "Shadow of a Doubt",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTFhNTBiNDgtMTlhYy00MDI2LThhN2MtNzdiMjEyZjE0YzM5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2520,
+    "plot": "Amidst a lot of office wheelings and dealings, a bet between Harvey and Huntley moves Mike onto a new case, whereby he takes Rachel along as his own \"Mike\" to his \"Harvey.\"",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2877
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt2983994",
+    "title": "The Other Time",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NzU3MzY0Ml5BMl5BanBnXkFtZTgwMzEwMzgwMDE@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2580,
+    "plot": "Cameron's continuing use of shady tactics on Ava's case brings up memories of why Harvey left the DA's office to work for Jessica. Mike looks back on what cost him his one chance at a Harvard degree.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 3123
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt2983996",
+    "title": "She's Mine",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjM3NjA1Mjk1NF5BMl5BanBnXkFtZTgwMjQwMzgwMDE@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey clashes with Stephen over Ava's case. Meanwhile, things are still tense between Harvey and Jessica as they strategize how best to defend Ava. Louis enlists Rachel in his battle with Nigel over a broken contract...and heart.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 3234
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt3053154",
+    "title": "Endgame",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzA1YWIxYTAtYWY5NS00ZjM2LWIwNmItZTM4OGVmZWViYmJiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2520,
+    "plot": "As Ava Hessington's murder trial begins, Harvey, Mike and Jessica fight off betrayal from both inside the firm and out. Meanwhile, Louis and Donna seek to even the score with those who have done them wrong.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 2955
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt3132574",
+    "title": "Bad Faith",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzg1NjcxODEwNl5BMl5BanBnXkFtZTgwOTg2MjEyMDE@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2580,
+    "plot": "Trust issues are brought to the forefront as Harvey and Scottie battle again. Louis wants to handle the dissolution talks. Mike wants to move forward in his relationship with Rachel.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2860
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt3132584",
+    "title": "Stay",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY5NjE3MTUyOV5BMl5BanBnXkFtZTgwNTE3MjEyMDE@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "3",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2820,
+    "plot": "An old nemesis returns to complicate the Pearson Darby negotiations and put Harvey and Scottie on opposite sides once again. Meanwhile, Mike and Rachel find themselves under Jessica's scrutiny. Louis ends up in Sheila's crosshairs.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3001
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt3563802",
+    "title": "Buried Secrets",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmI1ZjFiZTQtNjE5OS00YzQzLWE5OTgtMWIzNzM4ZGFhYjk1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "3",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2580,
+    "plot": "With Darby finally out, Harvey and Jessica look at bringing Scottie into the firm. Louis tries to figure out how Mike got into the firm without a Harvard file.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2804
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt3570124",
+    "title": "Yesterday's Gone",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGU4MDVlNjItZjYxMC00YmNlLTgxMTgtZWY1MWNmZDhmOTEwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "3",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2580,
+    "plot": "Both Mike and Jessica lean on Harvey for support when things from their respective pasts throw them off their game.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 3298
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt3591456",
+    "title": "Moot Point",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzBjNTQwMGItNWU4NS00NDljLTk3ZTMtNDcyYzE4Y2RmNGYzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "3",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2520,
+    "plot": "Harvey finally gets his chance to take on Elliott Stemple, a man who beat Harvey three times in moot court and has avoided him since. Meanwhile, Dana Scott picks a fight with Louis.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2645
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt3599424",
+    "title": "Heartburn",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk5MDUwNzE5MV5BMl5BanBnXkFtZTgwMTM0Nzc0MTE@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 14,
+    "runtimeSeconds": 2580,
+    "plot": "While Harvey and Mike have unpleasant work to do for one of their biggest clients, Louis faces a huge challenge and Rachel tries to collect on an old debt.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 2939
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt3607734",
+    "title": "Know When to Fold 'Em",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUzMjE2MjI4MV5BMl5BanBnXkFtZTgwOTM0Nzc0MTE@._V1_.jpg",
+      "width": 1000,
+      "height": 583
+    },
+    "season": "3",
+    "episodeNumber": 15,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey faces off with a relentless attorney who goes after one of his biggest clients.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 2797
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt3639420",
+    "title": "No Way Out",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGI0MDM0YWYtNDYwOC00NzJiLWI0YTUtMTUyOTkyNzY4YjY1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "3",
+    "episodeNumber": 16,
+    "runtimeSeconds": 2760,
+    "plot": "Harvey and Mike find themselves at odds with a tenacious U.S. Attorney.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 4230
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt3285896",
+    "title": "One-Two-Three Go...",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTc3MTAzMjA0NF5BMl5BanBnXkFtZTgwMTQ0MTY5MTE@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2580,
+    "plot": "Mike, now working as an investment banker, comes to Harvey with a plan to buy out a corporation, but Harvey is soon stuck with a conflict of interest. Meanwhile, Jessica must choose between a romantic or professional relationship.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 3233
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 6,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt3783016",
+    "title": "Breakfast, Lunch and Dinner",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjIxNjEyMjMxNl5BMl5BanBnXkFtZTgwODM0MTY5MTE@._V1_.jpg",
+      "width": 2048,
+      "height": 1322
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2580,
+    "plot": "Mike and Harvey go into battle with each other when Harvey leaves Mike high and dry, with Rachel stuck in the middle. Meanwhile, Louis is threatened by Jessica's latest hire.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2724
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 6,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt3800126",
+    "title": "Two in the Knees",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTgwNzkyNTI3MF5BMl5BanBnXkFtZTgwOTI4ODIwMjE@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2580,
+    "plot": "Logan Sanders orders Harvey to play dirty in his battle with Mike, and Mike's reputation and relationship with Rachel are not off limits. Meanwhile, Louis tries to bury the hatchet and make friends with Jeff Malone.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2706
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 6,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt3832646",
+    "title": "Leveraged",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYyNjQ3OTU0N15BMl5BanBnXkFtZTgwNDAyNDUxMjE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2640,
+    "plot": "Mike moves to a hostile takeover of Gillis Industries while Harvey and Louis get serious about the fight. Jessica and Malone encounter Sean Cahill from the SEC. Rachel comes to Logan's assistance.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2623
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 7,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt3839596",
+    "title": "Pound of Flesh",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTc5MTU2ODU3MV5BMl5BanBnXkFtZTgwOTkxNDUxMjE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2580,
+    "plot": "Mike tries to bluff Harvey with his newfound money, but the move backfires, and the case takes a physical toll on Rachel. Meanwhile, Louis helps Donna memorize some Shakespeare for a play.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2608
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 7,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt3839598",
+    "title": "Litt the Hell Up",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjIzMDIwNzg3Nl5BMl5BanBnXkFtZTgwNzQ0MDEyMjE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey tries to put an end to the Gillis Industries takeover, but when Mike continues to play hardball, Louis sees an opportunity to make a name for himself. Meanwhile, Rachel must contend with the fallout of a moment of weakness.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 2898
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 7,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt3881112",
+    "title": "We're Done",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUxNTg3NDY1NF5BMl5BanBnXkFtZTgwMDcwODEzMjE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "4",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2580,
+    "plot": "Mike is reeling from the takeover battle when Rachel shares some troubling news. In recognition of Louis' victory for the firm, Jessica allows him to name his own reward, but choosing his reward proves to be more complicated than expected.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 2993
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 7,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt3895112",
+    "title": "Exposure",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQyMTIzMzI3MV5BMl5BanBnXkFtZTgwMjAxODEzMjE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "4",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2520,
+    "plot": "The firm is under attack when Sean Cahill stops at nothing to get the documents on the Gillis takeover. Rachel tries to repair things with Mike.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 2873
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt3953700",
+    "title": "Gone",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2FiMmU3ODktM2UwYy00MTJhLTg0MTctMTE0YzViYzYzODEzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "4",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2520,
+    "plot": "Louis comes clean to Harvey and Jessica. Pearson Specter faces an uncertain future as Cahill begins a round of depositions.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 3381
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt3923868",
+    "title": "This Is Rome",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzIzNTk0Mzc1OF5BMl5BanBnXkFtZTgwOTc5NjA1MjE@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "4",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2640,
+    "plot": "Harvey and Jessica take measures to protect the firm from an outsider attempting to poach their clients. Louis struggles to get his personal and professional affairs in order.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 4719
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt4231052",
+    "title": "Enough Is Enough",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjM4MTUzNTg5NV5BMl5BanBnXkFtZTgwMzE3MTUxNDE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "4",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2580,
+    "plot": "Jessica tries to appease Louis while he starts persecuting Mike hoping to get him to quit. Zane calls in a favor with Harvey.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 3065
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 1,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt4383488",
+    "title": "Respect",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjE3OTg0MTQ1MF5BMl5BanBnXkFtZTgwNjczNDUzNDE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2580,
+    "plot": "As Harvey takes on Professor Gerard as a client in a bribery investigation and discovers that he may have committed an ethics violation, Louis makes a catastrophic mistake with his first client as name partner.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2537
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt4410566",
+    "title": "Fork in the Road",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQyNDAzMDYxN15BMl5BanBnXkFtZTgwMzU5NzQzNDE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "4",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2700,
+    "plot": "Harvey and Louis take a drive to aid an out-of-town client to whom they both have deep ties, and Harvey uses the opportunity to force a confrontation between Louis and Mike about their trust issues.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 2848
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt3951374",
+    "title": "Derailed",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTEwMzc1Njc0MDZeQTJeQWpwZ15BbWU4MDM4OTc0MzQx._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "4",
+    "episodeNumber": 14,
+    "runtimeSeconds": 2580,
+    "plot": "When Mike takes on a humanitarian case that could potentially harm firm business, Harvey must consider how to deal with him. Jessica struggles with the distance between herself and Jeff. Louis wants respect.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 2659
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt4434386",
+    "title": "Intent",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTcwMjEyNDc2OF5BMl5BanBnXkFtZTgwMzI4NDU1NDE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "4",
+    "episodeNumber": 15,
+    "runtimeSeconds": 2580,
+    "plot": "When Evan Smith brings new evidence nullifying the firm's victory against Liberty Rail, Harvey and Mike must scramble to save the case. Jessica and Malone try to adjust to their new roles in each other's lives.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 3402
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt4454772",
+    "title": "Not Just a Pretty Face",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTA1NzEwNzMwMDFeQTJeQWpwZ15BbWU4MDUzMTU1NTQx._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "4",
+    "episodeNumber": 16,
+    "runtimeSeconds": 2700,
+    "plot": "Sean fails to link his corrupt boss to Charles Forstman, leading Harvey to revisit his uncomfortable past in order to out Eric and Charles away. Mike and Rachel confront their different roles. Donna helps Louis with a personal matter.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 3110
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 3,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt4503862",
+    "title": "Denial",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjkxNDYwNTYzOF5BMl5BanBnXkFtZTgwMDAxNjEwNjE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "5",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2580,
+    "plot": "Donna tries to adjust to working for Louis, while Harvey tries to keep his focus amid changes. Mike and Rachel prepare to share their big news.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 3555
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt4649068",
+    "title": "Compensation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYwMzMxMjAyM15BMl5BanBnXkFtZTgwODU2NDgxNjE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "5",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey searches for a replacement for Donna. Mike takes a case as a favor, while Robert Zane offers some unsolicited advice Mike and Rachel's engagement.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 2877
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt4649074",
+    "title": "No Refills",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjc3NjI0MTIwN15BMl5BanBnXkFtZTgwNTg2NDgxNjE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "5",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2580,
+    "plot": "Mike brings in Robert Zane to co-counsel a case, pitting his instincts as a lawyer against his desire to stay in his future father-in-law's good graces.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 2840
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt4800888",
+    "title": "No Puedo Hacerlo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQzMDc5NDczNl5BMl5BanBnXkFtZTgwNDE3NDgxNjE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "5",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2640,
+    "plot": "Harvey steps outside his usual area of expertise in order to take a case for a client who has a special tie to the firm. Mike and Zane have a disagreement over what constitutes a win while working their class-action. Donna counsels Louis.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 3062
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt4845228",
+    "title": "Toe to Toe",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUyMjEwNjgxNl5BMl5BanBnXkFtZTgwNDYzNzMzNjE@._V1_.jpg",
+      "width": 600,
+      "height": 900
+    },
+    "season": "5",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey's rival claims to be a changed man, while his sessions with Dr. Agard continue. Jessica asks Louis to make things right between himself and Harvey.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 2634
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt4779252",
+    "title": "Privilege",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg4NjEwNjE5Ml5BMl5BanBnXkFtZTgwMDMyNDcyNjE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "5",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2520,
+    "plot": "Reeling from Dr. Agard's revelation, Harvey is forced to make a difficult and personal decision in a case. Mike and Louis must decide what to do when a client's demands go against his best interests. Donna works on Rachel's dream wedding.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 2640
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt4815634",
+    "title": "Hitting Home",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk2ODU0Njg1MV5BMl5BanBnXkFtZTgwNTc1ODU0NjE@._V1_.jpg",
+      "width": 900,
+      "height": 736
+    },
+    "season": "5",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2640,
+    "plot": "Donna and Harvey try to get their friendship back to normal. Esther Litt returns to solve a problem discreetly, but Louis rarely handles anything quietly when it comes to family. At Jessica's behest, Mike co-counsels a case with Soloff.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 3617
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 8,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt4905626",
+    "title": "Mea Culpa",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTkzMjg2MDQwNl5BMl5BanBnXkFtZTgwOTE2ODU0NjE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "5",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2640,
+    "plot": "Harvey confesses and apologizes to Louis for punching him, but will it be enough to keep him from getting revenge? Mike's promotion goes through, but the opponent in his first case as partner knows his secret.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 3000
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 8,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt4923722",
+    "title": "Uninvited Guests",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQwMDk5NjYyMV5BMl5BanBnXkFtZTgwMjA0MTM1NjE@._V1_.jpg",
+      "width": 900,
+      "height": 601
+    },
+    "season": "5",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2640,
+    "plot": "Rachel and her mother, Laura Zane, plan for Rachel's dream wedding, but Rachel fears the event may reveal Mike's secret. Meanwhile, Harvey and Mike tangle with Hardman's mysterious backer. Louis tries find Jack Soloff's Achilles heel.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 2884
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 8,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt4938410",
+    "title": "Faith",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDI1OTE4NzM0M15BMl5BanBnXkFtZTgwOTA3ODU2NjE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "5",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2700,
+    "plot": "Jessica and Louis make an effort to rally the support of the partners as Daniel Hardman and Jack Soloff attempt a takeover. Mike and Harvey must each face down the demons of their past in order to make potentially life-altering decisions.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 11086
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 8,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt5176286",
+    "title": "Blowback",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY5MDA4ODc4MF5BMl5BanBnXkFtZTgwMDM0ODM4NzE@._V1_.jpg",
+      "width": 900,
+      "height": 601
+    },
+    "season": "5",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2700,
+    "plot": "Jessica and Harvey must figure out how to build a defense for Mike, knowing full well that he's guilty of the crime for which he stands accused.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 3862
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 1,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt5181364",
+    "title": "Live to Fight...",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjgwMzQzNDU0NF5BMl5BanBnXkFtZTgwNDY3NDE5NzE@._V1_.jpg",
+      "width": 900,
+      "height": 601
+    },
+    "season": "5",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2580,
+    "plot": "Mike and Louis look into an anonymous tipper in order to diffuse a damning piece of evidence. Meanwhile, Gibbs has set her sights on Jessica and Harvey.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 2861
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 2,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt5181368",
+    "title": "God's Green Earth",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ5Njg5NDc4OF5BMl5BanBnXkFtZTgwODY3NDE5NzE@._V1_.jpg",
+      "width": 900,
+      "height": 601
+    },
+    "season": "5",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2520,
+    "plot": "Mike is furious when Anita Gibbs tries to scare Rachel into making a deal, while he turns to Dana to help save Harvey. A scathing newspaper article damages the firm's reputation, leaving Jack and Louis to resort to desperate measures.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 2727
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 2,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt5181370",
+    "title": "Self Defense",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUxNzk0NzcyMF5BMl5BanBnXkFtZTgwNDAxNDg5NzE@._V1_.jpg",
+      "width": 900,
+      "height": 599
+    },
+    "season": "5",
+    "episodeNumber": 14,
+    "runtimeSeconds": 2520,
+    "plot": "As time runs out before the trial, Mike wants to represent himself while Harvey wants to lead the charge and challenges Mike to a winner takes all showdown. Louis tries to get Sheila out of the picture.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 3404
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 2,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt5181372",
+    "title": "Tick Tock",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTU3NGRiNTMtN2YyZi00NDJhLTg3ZmMtNjFkMzNlNzAxZDA3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "5",
+    "episodeNumber": 15,
+    "runtimeSeconds": 2580,
+    "plot": "Mike works on another case as he awaits word on his own fate, while Louis and Harvey each consider taking drastic action before the verdict comes in.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 4780
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 2,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt5181374",
+    "title": "25th Hour",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUxNjU5MjA4OV5BMl5BanBnXkFtZTgwNjU2ODAyODE@._V1_.jpg",
+      "width": 1000,
+      "height": 668
+    },
+    "season": "5",
+    "episodeNumber": 16,
+    "runtimeSeconds": 2700,
+    "plot": "As Mike's immediate future begins to come into focus, he's forced to deal with the personal and professional consequences of the decisions he's made.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 4616
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 3,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt5498940",
+    "title": "To Trouble",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQ0MDU5NjMxM15BMl5BanBnXkFtZTgwMTE2NzEzOTE@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2460,
+    "plot": "On his first night in prison, Mike creates a big problem for himself and Harvey. Meanwhile, Jessica, Harvey and Louis are left to deal with the aftermath of Mike's decision and the departure of the entire firm's staff.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 3131
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt5513372",
+    "title": "Accounts Payable",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTA4NTEwMTkxODJeQTJeQWpwZ15BbWU4MDk4MDcxNDkx._V1_.jpg",
+      "width": 1000,
+      "height": 668
+    },
+    "season": "6",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2520,
+    "plot": "Louis, Jessica and Harvey fend off a class action lawsuit from PSL's former clients. Meanwhile, Mike runs afoul of a fellow prisoner due to reasons beyond his own control.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2489
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt5895102",
+    "title": "Back on the Map",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU2NDE2NzA5N15BMl5BanBnXkFtZTgwNzIwNjE1OTE@._V1_.jpg",
+      "width": 1000,
+      "height": 668
+    },
+    "season": "6",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2460,
+    "plot": "Mike tries to stay safe without breaking Danbury's unwritten rules. Jessica and Harvey try to land a whale. Louis searches for an office tenant. Rachel goes up against a fellow student.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2352
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt5895096",
+    "title": "Turn",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU1MTQ0MzIwOV5BMl5BanBnXkFtZTgwMTAxNjQ2OTE@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2520,
+    "plot": "Harvey and Sean Cahill launch a plan to get Mike to take a deal, but Harvey calls an audible at the last minute. Rachel takes a case involving a death row inmate. Jessica steps in to settle a dispute between Louis and their new tenant.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2304
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 8,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt5895106",
+    "title": "Trust",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjEyOTMyMzA5M15BMl5BanBnXkFtZTgwODIyNjQ2OTE@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2520,
+    "plot": "The plan to get Mike out early becomes more complicated when Harvey and Sean Cahill become opposing counsel. Rachel needs a new sponsor for her death row case. Louis needs Donna's help buying a summer home to get a woman.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2152
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 8,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt5895108",
+    "title": "Spain",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmQ1N2VkYTUtODliOS00MTE0LTg2ZjItYTUxM2ZjOWJiMzJjXkEyXkFqcGc@._V1_.jpg",
+      "width": 768,
+      "height": 512
+    },
+    "season": "6",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2580,
+    "plot": "Jessica makes a play for Sutter's business that could jeopardize Mike's deal, and Kevin's confession creates a rift between him and Mike. Meanwhile, Rachel catches a break in her death row case, and Louis has to get a Hamptons home ASAP.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2162
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 8,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt5895110",
+    "title": "Shake the Trees",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjNmNTlmYzEtMjJhZi00NTY0LWEzN2EtYTViYzc4ZmVjYWE3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 668
+    },
+    "season": "6",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2520,
+    "plot": "Harvey, Louis and Donna search for a missing link to Sutter's inside trading. Mike takes a drastic step to get Kevin on his side. Rachel and Jessica give Leonard Bailey some bad news.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2150
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 8,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt5895112",
+    "title": "Borrowed Time",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjM3MTU4MzIwM15BMl5BanBnXkFtZTgwOTE1ODc4OTE@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2520,
+    "plot": "Harvey counters Cahill's star witness while Mike tries to deliver a witness himself. Jessica and Rachel try to delay Leonard's execution. Louis adjusts to life as the other man.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 2294
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 8,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt5880940",
+    "title": "The Hand That Feeds You",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjNlYTcwYjQtMDFkNi00MThiLTg1NzMtMGRhMmNjNDc4NmYzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1397,
+      "height": 736
+    },
+    "season": "6",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2460,
+    "plot": "In order to protect Mike, Harvey considers putting Gallo back on the streets. Jessica and Rachel get Bailey's case reopened, but winning it is no slam dunk. Louis deals with his anxiety over Tara.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 3143
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 9,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt5880946",
+    "title": "P.S.L.",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQxMzk4Nzk4M15BMl5BanBnXkFtZTgwMTU2MzMwMDI@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2640,
+    "plot": "Jessica and Rachel fight to save Leonard Bailey's life. Meanwhile, Harvey and Louis must keep P.S.L.'s clients from leaving by convincing their oldest and most loyal client to stay.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 4878
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt5880950",
+    "title": "She's Gone",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2M0Njg4YzAtYmYwZC00YWZhLTlkMmYtOWRiYjdmMzQ3ZDk0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2580,
+    "plot": "Jessica has left Pearson Specter Litt and now Harvey and Louis have to figure out how things will proceed with the firm's future lying exclusively in their hands only.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2396
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 1,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt5880956",
+    "title": "The Painting",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2RlNmQwOTMtNzUyYS00MGZjLWJjNmQtOWQxNGFiYzEzNGVhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2520,
+    "plot": "Harvey tries to repair a broken relationship - leaving Louis, Donna and Rachel to manage PSL in his absence. Meanwhile, Mike gets a helping hand from an unexpected place.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 2359
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 2,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt5880960",
+    "title": "Teeth, Nose, Teeth",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDFlNTM3NzMtOGRlMC00NDZkLTgwODctNzk5ZmNkY2UzODk2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2580,
+    "plot": "Rachel receives a letter that creates an unexpected issue for Harvey and Louis. Mike's mentorship of Oliver and Marissa gets put to the test. And Donna gets a surprise from the IT department.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2100
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 2,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt5895116",
+    "title": "Admission of Guilt",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzBjYjg1YjItMGUwYi00ZWI2LThmNmQtNzcxYjUxZGYwMjI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 14,
+    "runtimeSeconds": 2460,
+    "plot": "Harvey and Mike team up to take on Velocity for Mike's admission in the bar. Meanwhile, Louis tries to retain a huge client on his own.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1963
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 2,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt5937920",
+    "title": "Quid Pro Quo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDMzODJhOWItYTNhYy00NTg5LWIwOWEtMWRiMjM1MzIxOWQwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 15,
+    "runtimeSeconds": 2460,
+    "plot": "When Mike's class action hits a snag, it might cost him more than the case. Harvey, Louis and Rachel consider getting their hands dirty. And Donna and Benjamin seek an investor.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1979
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 2,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5937924",
+    "title": "Character and Fitness",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjFhZmQzMGMtZTIyMi00N2U5LTg2OGItMzgyOTA2MDExYWEzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 668
+    },
+    "season": "6",
+    "episodeNumber": 16,
+    "runtimeSeconds": 2640,
+    "plot": "Mike needs Harvey and Rachel's help to defeat an impossible obstacle, or his dream of becoming a real lawyer is over. Donna's new venture hits a stumbling block. Louis tries to fix things with Tara.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 5514
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 3,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt5934988",
+    "title": "Skin in the Game",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODkyMzMwZWYtODdlNC00ZjhjLWEwOWItMTNhY2Y3MGY1YjU3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 1333
+    },
+    "season": "7",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2700,
+    "plot": "Mike returns to Pearson Specter Litt while Harvey takes the reins. Louis manages the new class of associates while Donna and Rachel find their places in the new world order.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 2803
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 7,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt5937932",
+    "title": "The Statue",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODg3YWFmOWEtNzI3MC00OWE3LThkZmUtYjBjNjRhNjI2ZTlkXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2460,
+    "plot": "Harvey butts heads with his partners over a bold move; Mike pursues a pro bono case with the legal clinic; and Donna's actions raise tough questions at the firm.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2057
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 7,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt7006210",
+    "title": "Mudmare",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWVhZDc4NjYtMmU2Yy00YmYzLTg1NmEtNzFkNGJkZjk1MWE2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "7",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2460,
+    "plot": "Louis and Harvey wrangle with new firm dynamics. Mike's latest success brings him unexpected new business. And Rachel's leadership is challenged by an insubordinate associate.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1924
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 7,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt6896678",
+    "title": "Divide and Conquer",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDFhODkzM2YtZWU3YS00N2I3LTlhNWYtYmQ1Y2Q2M2ExM2Q4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2460,
+    "plot": "Harvey, Louis and Donna must get on the same page - and fast - when Bratton Gould comes after PSL for poaching an attorney. Mike and Rachel struggle to make time for their wedding plans.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1845
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt6949856",
+    "title": "Brooklyn Housing",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjNiZDAxZDYtZWQwYi00YWEwLWI2MWQtODY1ZjE1NDNhYmM1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2580,
+    "plot": "Mike juggles his work obligations with his promise to help a hurting family. Harvey asks for Louis's discretion in handling a sensitive matter. Donna vets a possible addition to the firm.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1767
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt7022000",
+    "title": "Home to Roost",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODQyZThiNzctMjU5Yy00MmQ3LWFhMzAtMThhMDYyNjRiNjc5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 699
+    },
+    "season": "7",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2460,
+    "plot": "Mike deals with the blow back on his prison case; Harvey tries to tell Donna about his relationship with Paula. Louis past behavior comes back to haunt him.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1842
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt7016302",
+    "title": "Full Disclosure",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjY2ZGM3N2UtYmFkNS00ODQzLWJjYTgtMTk4Y2IzY2I5NDg3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2878,
+      "height": 1640
+    },
+    "season": "7",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey learns the scope of Alex's involvement in the prison case, while Mike races to keep it alive. Lipschitz forces Louis out of his comfort zone. Donna struggles with her work/life balance.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 1861
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt7027760",
+    "title": "100",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODZmZmM3NTItYjUyNi00MjY5LTliZDItNzQ5NDI5YjZkNGU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2640,
+    "plot": "Harvey and Mike seek outside help to overcome an impossible situation. An unexpected encounter derails Louis's search for a new associate. Donna receives a surprising proposition.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 1935
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt7222256",
+    "title": "Shame",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWY3NmY2YTUtZmZiYy00ZmUyLTllNTAtNDRjZDlmOWZjOTk2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2520,
+    "plot": "Mike proposes a power move to boost business, but Harvey's past complicates matters. Rachel is surprised when her dad offers a chance to join forces. Louis mentors.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1740
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt7222258",
+    "title": "Donna",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjk5NGRlMjItYzZmNS00MjVlLWE0NjQtMTk4ZWVjOWI5Y2FkXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2700,
+    "plot": "Mike and Harvey's power move is countered, putting their backs up against the ropes. Rachel fears her father's judgment is clouded by the past. Louis aids Alex when his client comes under fire.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 2540
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt7222260",
+    "title": "Hard Truths",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjBhZjFkZTUtZDg0OC00ZGZmLTgxZGMtNzY5ZjQ2NDliMmU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2460,
+    "plot": "Harvey and Louis fight to protect the future of the firm from its past; Alex worries Mike's instincts could risk a client relationship; Donna and Harvey delve into the aftermath of their kiss.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1863
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 3,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt7222262",
+    "title": "Bad Man",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzc4MTM0YjMtZTg0YS00ZmJiLTk1NjQtNDc3M2M4YTg1MzZhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 718
+    },
+    "season": "7",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey has to call in an old debt for the firm. Mike goes toe-to-toe with an unlikely opponent. Louis comes to terms with his new role.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 1685
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt7222264",
+    "title": "Inevitable",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjAwY2Q4MTUtMmFkMi00YzhhLTkxNzgtYjFmY2I1NWNkZDI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1133,
+      "height": 705
+    },
+    "season": "7",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2640,
+    "plot": "Harvey is forced into a difficult decision when the impossible is asked of him. Mike and Rachel try to make some time to discuss their future. Louis struggles with the rules of his relationship.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 1977
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt7222268",
+    "title": "Pulling the Goalie",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmM3YzgzMWUtMTUzZS00OTBlLTgxZGQtMTM0MTE0MWIxNGZiXkEyXkFqcGc@._V1_.jpg",
+      "width": 945,
+      "height": 545
+    },
+    "season": "7",
+    "episodeNumber": 14,
+    "runtimeSeconds": 2640,
+    "plot": "Harvey and Mike team up to defend a judge accused of impropriety while Donna fights for the firms' offices.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 1735
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt7222270",
+    "title": "Tiny Violin",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmZhNjA3NGYtYjk5Mi00ZDBiLWFjNjEtMjFlZDU1OTMwMDk1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 718
+    },
+    "season": "7",
+    "episodeNumber": 15,
+    "runtimeSeconds": 2520,
+    "plot": "Mike handles a class action with the clinic while Jessica asks Harvey for help. The firm fights a former partner who wants to take over the firm.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 1669
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt7222272",
+    "title": "Good-Bye",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTNjOWIwMTYtMjZlYi00MTI0LTkwNjMtYWU4NDYyYTkzOTRkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1018,
+      "height": 679
+    },
+    "season": "7",
+    "episodeNumber": 16,
+    "runtimeSeconds": 3300,
+    "plot": "Mike and Rachel decide to give their personal life priority over the firm.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2266
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt8258536",
+    "title": "Right-Hand Man",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTcxZjkwZGYtMWU3Zi00M2FmLWI5NTQtN2IxZTI2M2M5M2RhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "8",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2520,
+    "plot": "Harvey and Zane grapple over who should lead as the firm works through its transition.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 1979
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 7,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt8717372",
+    "title": "Pecking Order",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI5MmJjYWYtY2E3MS00YmY2LTg3MzAtODFiM2UxNzA3Yzc1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey and Donna get their first taste of how Samantha operates; Alex tries to impress Zane.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 1656
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 7,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt8726852",
+    "title": "Promises, Promises",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjhiYjkxNWMtYWMzZS00MzExLWFkZmQtN2IxNjFjMzIzMzkxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "8",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2460,
+    "plot": "Harvey is drawn into a dispute with the firm's landlord. Alex pursues Samantha's former client.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1609
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 8,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt8744648",
+    "title": "Revenue Per Square Foot",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjAwNzI5MDAtY2RmZC00ZGUzLTk3MzctODIxMzk3M2VlYjIxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 718
+    },
+    "season": "8",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2520,
+    "plot": "Alex is caught between Harvey and Zane as Louis struggles to overcome a shocking setback.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1604
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 8,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt8788454",
+    "title": "Good Mudding",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTUxOTUxYWQtY2EzYi00YjQ1LTlhMDUtNDg1MjZmYjYwMWRkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "8",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2520,
+    "plot": "Harvey confronts his personal issues to defend his brother. Louis sacrifices for family.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 1570
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 8,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt8790900",
+    "title": "Cats, Ballet, Harvey Specter",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzA0OWY3ZjUtZDQ5NS00MjYwLTgwM2UtOGQ4Njc5ZDM3ZWIzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "8",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2520,
+    "plot": "Harvey and Louis assess their relationship. Donna doubts Samantha's motives for helping her.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1637
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 8,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt8885702",
+    "title": "Sour Grapes",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGJkOTM4YmUtYTM0MC00YmJmLThkYTMtMjVkYmY1MjMzN2UwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1868,
+      "height": 1051
+    },
+    "season": "8",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2520,
+    "plot": "Donna's agreement forces Harvey to help David Fox. Alex comes to Zane's aid on a personal venture.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1506
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 8,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt8885706",
+    "title": "Coral Gables",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzQ3YmNhMjktM2RmYi00ZWI0LThjNGQtMTQ3YzI2YjY5MDI2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 718
+    },
+    "season": "8",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2640,
+    "plot": "Harvey helps Samantha settle an old score. Louis faces a hurdle on the path to fatherhood.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 1457
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 9,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt8967858",
+    "title": "Motion to Delay",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWJiMDgxNDktZDhiYi00ZGIzLWFjNzUtN2FmYTRkNzVmMTgyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "8",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2580,
+    "plot": "An old foe backs the firm into a corner. Samantha and Alex try to broker a peace between clients.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 1423
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 9,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt8947536",
+    "title": "Managing Partner",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQ2YTUzOGUtMTVkMy00MzdlLWE4M2UtODRiZWUyODZlM2NkXkEyXkFqcGc@._V1_.jpg",
+      "width": 5000,
+      "height": 2813
+    },
+    "season": "8",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2700,
+    "plot": "When Harvey and Zane can't stay on the sidelines, Donna does what's best for the firm.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 1969
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 9,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt9068346",
+    "title": "Rocky 8",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjk0Mjk1NDAtNWIzMC00YzY3LWFjZDgtNjNlZGYyNWE3NDhlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "8",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey laces up for a rematch against an old foe. Louis struggles to hold the reins of the firm.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 1428
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 1,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt9318630",
+    "title": "Whale Hunt",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzhmNjY2ZDgtZjJhOS00OTA2LThjMjEtZDY1NzhjYjAxZGUyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1688,
+      "height": 949
+    },
+    "season": "8",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2580,
+    "plot": "Louis learns the finer points of managing Harvey. Alex is caught between Samantha and his wife.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1364
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 1,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt9318632",
+    "title": "The Greater Good",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDU0OTM0NTUtNDI0OC00MmI5LTk2OTktMmJlM2QyNGE5YjAxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "8",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2460,
+    "plot": "Harvey and Donna are caught in the crosshairs when Stu is blackmailed. Samantha revisits her past.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 1327
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 2,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt9318634",
+    "title": "Peas in a Pod",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWYwZGMyOTMtMzk0NC00MmU2LTg3MmMtMWE1ZDNmN2Y2MzEwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "8",
+    "episodeNumber": 14,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey's forced to choose a side when Samantha and Scottie go toe-to-toe. Louis represents Lipschitz.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1381
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 2,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt9318636",
+    "title": "Stalking Horse",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDE1NmFiNDgtMGM2Mi00ODIwLWE1N2UtMTg2ODc0MTI4MDM1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "8",
+    "episodeNumber": 15,
+    "runtimeSeconds": 2580,
+    "plot": "Donna's relationship complicates a deal for Harvey and Alex. Samantha helps Louis get justice.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1341
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 2,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt9318638",
+    "title": "Harvey",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmNmYTJiNWUtN2Q2NC00ZTc3LWJmMmMtODcwYTUwYjJlMWY5XkEyXkFqcGc@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "8",
+    "episodeNumber": 16,
+    "runtimeSeconds": 2700,
+    "plot": "When Hardman comes looking for retribution, the firm rallies to Harvey's defense.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 2035
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 2,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt9654274",
+    "title": "Everything's Changed",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDBiNTE4YzYtM2I3Mi00ZGU4LTkxODMtMDhkYmI4MzRlYmE2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1923,
+      "height": 943
+    },
+    "season": "9",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2640,
+    "plot": "Harvey and Samantha fight to keep Zane's name on the wall. Alex warns Louis of the consequences.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1673
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt9788428",
+    "title": "Special Master",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWE2N2RlY2ItNzQ4ZC00MmY5LWFkZTktOGExYTgwYTM4ODUzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "9",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2580,
+    "plot": "The firm faces the repercussions of its actions. Samantha enlists Katrina to help an old friend.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 1436
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt9788430",
+    "title": "Windmills",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTc5NmFkNzAtOWE5NC00NTM5LWJmMjMtOTA3MWIxYjU2MGM3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "9",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey takes a case to send Faye a message. Louis finds a new opportunity.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1394
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt9788432",
+    "title": "Cairo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjk4ZjQxM2UtMjI4YS00NDg5LTk0OGItOTJhYmI1ZDlhYzgyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "9",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2520,
+    "plot": "Faye decides to take action against Harvey and Donna's relationship. Harvey looks to impress Donna's father.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1393
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 8,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt9788434",
+    "title": "If the Shoe Fits",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDUwYmVmZTQtZjAwNy00MmIzLThjMWUtNDQ2NzY3N2FmOWM1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1052,
+      "height": 590
+    },
+    "season": "9",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2580,
+    "plot": "Samantha gets caught in the middle when Mike picks a fight with Harvey. Katrina wrestles with lingering feelings for Brian. Louis and Sheila hit a rough patch.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 1593
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 8,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt9788436",
+    "title": "Whatever It Takes",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTBlYWRiNjUtNjg0Ni00MmMyLWFmOGUtZWFiOTg1YTg4MDk4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1060,
+      "height": 594
+    },
+    "season": "9",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2520,
+    "plot": "Harvey makes a play to get Samantha's job back. Katrina faces off against an old friend.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1385
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 8,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt9788438",
+    "title": "Scenic Route",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjg4ODY5YjgtODJjNi00ZDkxLTg5MDAtZGM5N2Y4MDc0ZDVlXkEyXkFqcGc@._V1_.jpg",
+      "width": 730,
+      "height": 487
+    },
+    "season": "9",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2580,
+    "plot": "Harvey and Samantha go on a road trip. Louis gets in over his head with a potential client.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1566
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 9,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt9788440",
+    "title": "Prisoner's Dilemma",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmFlZWQ3NWQtZmQ1ZC00OGE0LTljNjYtMDRhYzIxNGQ2Y2FlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "9",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2580,
+    "plot": "An old foe forces Harvey to account for past actions. Esther has a problem only Louis can solve.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 1764
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 9,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt9788442",
+    "title": "Thunder Away",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGU2NGM0N2EtMzc2Zi00N2U2LWFmMTEtZjZhZmU4ODI0NWIwXkEyXkFqcGc@._V1_.jpg",
+      "width": 769,
+      "height": 434
+    },
+    "season": "9",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2700,
+    "plot": "Mike helps Harvey get over a personal loss. An attempt to take down Faye becomes complicated.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 2115
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 9,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt9788424",
+    "title": "One Last Con",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDE3YmI5YjAtYjUxOC00NjJjLWFkNjMtMzk3YTc0ODBjNjJlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 563
+    },
+    "season": "9",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2820,
+    "plot": "As the firm faces potential destruction, the partners must go all-in to save it.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 4411
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 9,
+      "day": 25
+    }
+  }
+]

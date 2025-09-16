@@ -1,0 +1,992 @@
+[
+  {
+    "id": "tt9781722",
+    "title": "Sonnie's Edge",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmMxM2M2ZjAtOWZjNC00ZGQ1LTkyZmItODQ1MjYxOTE5OTkyXkEyXkFqcGc@._V1_.jpg",
+      "width": 707,
+      "height": 1000
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1020,
+    "plot": "In the underground world of \"beastie\" fights, Sonnie is unbeatable -- as long as she keeps her edge.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 27056
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788484",
+    "title": "Three Robots",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmFmY2VhM2YtNjkxYS00YzQxLWE0ZDEtMGE0ZTM3NDRmYTk1XkEyXkFqcGc@._V1_.jpg",
+      "width": 720,
+      "height": 360
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 720,
+    "plot": "Long after the fall of humanity, three robots embark on a sightseeing tour of a post-apocalyptic city.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 25257
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788486",
+    "title": "The Witness",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDYyZDI3ODEtMWUyMS00MzU4LWE0ZWEtZWYwZGYyNmU3MzgxXkEyXkFqcGc@._V1_.jpg",
+      "width": 707,
+      "height": 1000
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 720,
+    "plot": "After seeing a brutal murder, a woman flees from the killer through the streets of a surreal city.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 24650
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788490",
+    "title": "Suits",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWM2YTRjMDktZDJkZi00MzFjLTk5YWMtOGYzNThkZDY4Zjk4XkEyXkFqcGc@._V1_.jpg",
+      "width": 658,
+      "height": 370
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1020,
+    "plot": "A community of farmers use their homemade mechs to defend their families from an alien invasion.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 20658
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788492",
+    "title": "Sucker of Souls",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjJkZjQwZmItMWQ1Yi00YjhjLTg4YjktZjNlOTFkZmE3ZjgxXkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 445
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 780,
+    "plot": "Unleashed by an archaeological dig, a bloodthirsty demon battles a team of mercenaries armed with... cats?",
+    "rating": {
+      "aggregateRating": 6.4,
+      "voteCount": 19161
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788494",
+    "title": "When the Yogurt Took Over",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGI4ZWJiNzMtZDUyNC00NDU3LWI2YjctNzE4OGVmMTM4NWQzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 360,
+    "plot": "After scientists accidentally breed super-intelligent yogurt, it soon hungers for world domination.",
+    "rating": {
+      "aggregateRating": 6.7,
+      "voteCount": 20898
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788496",
+    "title": "Beyond the Aquila Rift",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQ1NDlmNTYtMzRlMi00NDkyLWFmYmMtY2ViZDRiNTYwNDMwXkEyXkFqcGc@._V1_.jpg",
+      "width": 700,
+      "height": 990
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1020,
+    "plot": "Awakening after traveling light years off course, a ship's crew struggles to discover just how far they've come.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 26898
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788498",
+    "title": "Good Hunting",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmEzNDM5ODItYjFiYi00ZTdlLTljOTQtZjhkYjM3MGFkYjk2XkEyXkFqcGc@._V1_.jpg",
+      "width": 720,
+      "height": 360
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1020,
+    "plot": "The son of a spirit hunter forges a bond with a shape-shifting huli jing.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 21113
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788500",
+    "title": "The Dump",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDhmMTRiZWEtYTBiNS00ZWEzLWEwYWUtZmRmMWRmMmYzODIyXkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 445
+    },
+    "season": "1",
+    "episodeNumber": 9,
+    "runtimeSeconds": 660,
+    "plot": "Ugly Dave calls the garbage dump home, and he's not about to let some city slicker take it away from him.",
+    "rating": {
+      "aggregateRating": 6.3,
+      "voteCount": 17896
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788502",
+    "title": "Shape-Shifters",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTFhN2FlOWQtZTczZi00YTU4LTk2MjktOWU5NDcxYTE5Yzk4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 956
+    },
+    "season": "1",
+    "episodeNumber": 10,
+    "runtimeSeconds": 960,
+    "plot": "Deep in Afghanistan, two Marines with supernatural powers face a threat from one of their own kind.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 19079
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788504",
+    "title": "Helping Hand",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTFmZGUxZTEtNTU0Yy00YTgyLTgwYjUtOGM1YzE4OWE0ZDcyXkEyXkFqcGc@._V1_.jpg",
+      "width": 566,
+      "height": 800
+    },
+    "season": "1",
+    "episodeNumber": 11,
+    "runtimeSeconds": 600,
+    "plot": "Stranded in orbit, an astronaut must choose between life and limb before her oxygen runs out.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 17859
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788506",
+    "title": "Fish Night",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTM5MWUwMDAtZGNiNS00NjdlLTkxYmYtYzM1NmE4YjNhOWFjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 12,
+    "runtimeSeconds": 600,
+    "plot": "After their car breaks down in the desert, two salesmen take a dreamlike voyage to the dawn of time.",
+    "rating": {
+      "aggregateRating": 6.3,
+      "voteCount": 17696
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788508",
+    "title": "Lucky 13",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTVlMTk1ODMtOTMwMC00ODk5LWIwZTItZWQxYTNhYjM1MjFmXkEyXkFqcGc@._V1_.jpg",
+      "width": 980,
+      "height": 490
+    },
+    "season": "1",
+    "episodeNumber": 13,
+    "runtimeSeconds": 900,
+    "plot": "After the drop-ship Lucky 13 lost two crews, no pilot would fly her, but rookies don't get a choice.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 17783
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788510",
+    "title": "Zima Blue",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTM5YTg3NWQtYmE5MC00ZDM2LTg1YWMtNjFhYzI0MjBhYTNjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1923,
+      "height": 978
+    },
+    "season": "1",
+    "episodeNumber": 14,
+    "runtimeSeconds": 600,
+    "plot": "The renowned artist Zima recounts his mysterious past and rise to fame before unveiling his final work.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 23319
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788512",
+    "title": "Blindspot",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzdiZDIyN2MtN2U0MS00Y2JiLThmOGItYmE2MWRiYjgzOTI1XkEyXkFqcGc@._V1_.jpg",
+      "width": 738,
+      "height": 366
+    },
+    "season": "1",
+    "episodeNumber": 15,
+    "runtimeSeconds": 540,
+    "plot": "A gang of cyborg thieves stage a high-speed heist of a heavily armored convoy.",
+    "rating": {
+      "aggregateRating": 6.3,
+      "voteCount": 15812
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788514",
+    "title": "Ice Age",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDQxMzIzN2ItYzYzOC00Zjc3LTkyZGEtOTcyZGY5OWEyZTQ5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 954
+    },
+    "season": "1",
+    "episodeNumber": 16,
+    "runtimeSeconds": 660,
+    "plot": "A young couple moves into an apartment and finds a lost civilization inside their antique freezer.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 19465
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788516",
+    "title": "Alternate Histories",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmMyNjc3YWUtZGVhNS00NzE1LWIzOWQtYzQxMjBlZDMzY2NhXkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 445
+    },
+    "season": "1",
+    "episodeNumber": 17,
+    "runtimeSeconds": 480,
+    "plot": "Want to see Hitler die in a variety of comically fantastic ways? Now you can. Welcome to Multiversity!",
+    "rating": {
+      "aggregateRating": 6.3,
+      "voteCount": 17353
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt9788518",
+    "title": "The Secret War",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTU4ZTc4OWMtMzBhYi00YjIwLThlN2EtYjA5M2NiZTllODhmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 18,
+    "runtimeSeconds": 960,
+    "plot": "Elite units of the Red Army fight an unholy evil deep in the ancient forests of Siberia.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 20637
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt14536130",
+    "title": "Automated Customer Service",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzZlMTJiOTUtZjg2OC00YmRmLWE4YzktNzk1YWY1YzZhMmQ4XkEyXkFqcGc@._V1_.jpg",
+      "width": 700,
+      "height": 380
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 720,
+    "plot": "A home-cleaning unit attempts to murder its owner.",
+    "rating": {
+      "aggregateRating": 6.5,
+      "voteCount": 14261
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 5,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt14536106",
+    "title": "Ice",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTg0ZmIwYzMtZGQzMC00MjM1LTg1YzctN2YzYjVjYzZmMjZiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1907,
+      "height": 946
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 780,
+    "plot": "In a future where many humans are enhanced with extraordinary strength and endurance, the \"unmodded\" feel left behind. This class-conflict drives a rift between two brothers that puts their lives at risk during a dangerous race.",
+    "rating": {
+      "aggregateRating": 6.1,
+      "voteCount": 13440
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 5,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt10468230",
+    "title": "Pop Squad",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2VlNjg5NDMtNmUzMC00ZWRjLWFjMmYtZmM0NTI0ODUyYmZmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1080,
+    "plot": "In a future where resources are controlled by the rich, \"unregistered offspring\" are forbidden by the state. A police officer charged with enforcing population control faces a crisis of conscience.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 15764
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 5,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt14536160",
+    "title": "Snow in the Desert",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTJiYjJkZjAtNWNkMC00NjU5LWFlMDctYmI4OGJmODUwNDVkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1907,
+      "height": 946
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1080,
+    "plot": "On an arid, scorched planet at the edge of galactic civilization, an ageless albino named \"Snow\" is hunted by an assortment of hired killers. But after a beautiful stranger named Hirald saves his life, she reveals her own plans for him.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 14046
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 5,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt14536118",
+    "title": "The Tall Grass",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWVmY2UyNTItMzhhZS00M2Y1LTkyNjQtM2QwZDM1ZjJjZDYxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 660,
+    "plot": "When a train makes an unscheduled stop in the middle of nowhere, a lone traveler is lured into the surrounding fields by ethereal lights. But his curiosity may prove deadly when he discovers the hellish source of the illumination.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 12774
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 5,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt14536144",
+    "title": "All Through the House",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTdkN2I2YmQtYWYyZi00YWEzLWFiYmMtYTkyZThkZjU5MDNhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1919,
+      "height": 898
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 420,
+    "plot": "On Christmas Eve, a young girl and her little brother lie awake. When a jingle of bells announces Saint Nick's arrival they sneak downstairs hoping to catch a glimpse of the mythical gift-giver - but find something unexpected.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 12658
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 5,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt14519762",
+    "title": "Life Hutch",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTE5MTljZTEtZTIyMS00NjQzLWFjODUtMjkyZDIxMzhlNjI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1907,
+      "height": 946
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 780,
+    "plot": "When his ship is damaged in battle, a combat pilot crash-lands on a desolate planet. Fortunately there's an automated shelter on the surface he can take refuge in until rescue arrives - if he can survive that long.",
+    "rating": {
+      "aggregateRating": 6.5,
+      "voteCount": 11676
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 5,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt14536156",
+    "title": "The Drowned Giant",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTE3YjQ0NzItM2YyMC00NmM3LTk4MDctMGNmN2FjMDEwMzM5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 780,
+    "plot": "When a two hundred foot tall naked body washes ashore outside a small fishing village, crowds gather to witness the spectacle. A local scientist documents the leviathan's surrender to nature.",
+    "rating": {
+      "aggregateRating": 6.9,
+      "voteCount": 12906
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 5,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt20192958",
+    "title": "Three Robots: Exit Strategies",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWFiNjRiMTQtZWIzMy00NTU3LTlkNjYtOThhNGFkODllMWY3XkEyXkFqcGc@._V1_.jpg",
+      "width": 4096,
+      "height": 2160
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 720,
+    "plot": "Three robots walk into the post-apocalypse, and take a whirlwind tour of humankind's last attempts to save itself.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 13642
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt20192968",
+    "title": "Bad Travelling",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzBiZWZlODctZmYzZS00MTI1LThmNWMtZGMyYTZhZjVhZjJkXkEyXkFqcGc@._V1_.jpg",
+      "width": 4096,
+      "height": 2160
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1380,
+    "plot": "A ship's crew member sailing an alien ocean strikes a deal with a ravenous monster of the deep.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 19117
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt20193012",
+    "title": "The Very Pulse of the Machine",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGYxYjE1ZjktNTQzNy00OTVjLWJlNGMtZGYxOWVkN2IxMzU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 4096,
+      "height": 2160
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1020,
+    "plot": "When an exploratory mission to a Jovian moon ends in disaster, the lone survivor must begin a perilous but mind-expanding journey.",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 13067
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt20193098",
+    "title": "Night of the Mini Dead",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTBiZjA4NTEtYmYxMS00M2M3LWI5NzMtMTE4MmRlN2IwYzM2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 958
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 420,
+    "plot": "The apocalypse is conceived - literally - in a graveyard in this biting zombie satire, which starts with some cheeky cemetery sex and accelerates into a walking dead invasion of everywhere - from downtown LA to the Vatican.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 13667
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt20235690",
+    "title": "Kill Team Kill",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2NhMzUxZWUtYWQ4Ni00Njk2LWI4ZmYtMWRjY2JjMjc1YWZmXkEyXkFqcGc@._V1_.jpg",
+      "width": 4096,
+      "height": 2160
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 780,
+    "plot": "A unit of US Special Forces have to contend with a cybernetically enhanced grizzly bear created by the CIA.",
+    "rating": {
+      "aggregateRating": 6.4,
+      "voteCount": 11717
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt20239248",
+    "title": "Swarm",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzlmMWRhMTEtMDMyYi00ZTk1LTgzZjQtOGVlNTI4ZmUwZjAxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1020,
+    "plot": "Two human scientists study the secrets of an ancient alien entity -- but soon learn the horrible price of survival in a hostile universe.",
+    "rating": {
+      "aggregateRating": 6.9,
+      "voteCount": 11534
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt20239370",
+    "title": "Mason's Rats",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODYzYTM3NjUtMzg1Yi00MDEyLWFmZDgtNTY2MjVlMmRhYzgyXkEyXkFqcGc@._V1_.jpg",
+      "width": 4096,
+      "height": 2160
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 600,
+    "plot": "Farmer Mason knows he has a real pest problem when the rats start shooting back.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 12271
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt20239438",
+    "title": "In Vaulted Halls Entombed",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmQ4YjcxNGQtNjk2ZC00MDMyLWE0N2QtNjVhNzhmY2FhODc0XkEyXkFqcGc@._V1_.jpg",
+      "width": 4096,
+      "height": 2160
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 900,
+    "plot": "Deep in the mountains of Afghanistan, a squad of Special Forces soldiers has the dangerous job of recovering a hostage held by terrorists. But the evil they encounter as they venture deep under ground is far more ancient and terrifying.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 11469
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt20239442",
+    "title": "Jibaro",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWQ3OGMwYjItMWRiMi00Y2I3LWI4YmEtOWExOTdjNzBiNDdiXkEyXkFqcGc@._V1_.jpg",
+      "width": 4096,
+      "height": 2160
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1020,
+    "plot": "A deaf knight and a siren of myth become entwined in a deadly dance, a fatal attraction infused with blood, death, and treasure.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 18484
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt36663022",
+    "title": "Close Encounters of the Mini Kind",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzU1OTY3ZDItNjZlNS00MGI0LWI2NGMtOGM4YzI1MWQ0ZmNkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 810
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "runtimeSeconds": 420,
+    "plot": "A miniaturized alien invasion unfolds through unique tilt-shift photography, turning catastrophic destruction into an oddly adorable spectacle of chaos and human folly.",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 7490
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt36663020",
+    "title": "Spider Rose",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWFhM2Q0YmItZTJiYy00MmMyLThiOTYtMjMyNDg1ODg5OTkxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 810
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1020,
+    "plot": "In a distant asteroid mine, a heartbroken tech-enhanced worker finds unexpected friendship and the opportunity to confront her spouse's killer from a rival genetic-modifying faction.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 6939
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt36663021",
+    "title": "How Zeke Got Religion",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmQyZTczODktNThjMy00NTQ2LTk5NDktZTdjOWIxOGE4NWI0XkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 1916
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "runtimeSeconds": 900,
+    "plot": "B-17 Flying Fortress Liberty Belle has the oddest mission of World War Two: a journey into occupied France to bomb a church before the Nazis can raise an ancient evil.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 6168
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt36663027",
+    "title": "The Other Large Thing",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjhhYzRmYmUtNGI0MS00NTdhLWE4MDUtZTM0MjZmNTZhZGFjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 810
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "runtimeSeconds": 540,
+    "plot": "A scheming housecat named Sanchez teams up with his tech-savvy robotic butler to pursue an ambitious plan: taking over the entire world. The butler's internet-hacking abilities might just make their wild dream possible.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 6495
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt36663023",
+    "title": "400 Boys",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjVmYjI0ZWEtZmRkMi00YmZiLTg4YzEtYmI1ZDhjMTJkZGU4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 810
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "runtimeSeconds": 900,
+    "plot": "In a devastated urban landscape, rival gangs live by ancient samurai principles. When a ruthless new faction emerges, former enemies must join forces to survive.",
+    "rating": {
+      "aggregateRating": 5.7,
+      "voteCount": 6413
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt36663024",
+    "title": "The Screaming of the Tyrannosaur",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzUwMWM1OWItYzUxZS00YzM3LTgwNTYtMzMxYjU3YmFmMTNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1921,
+      "height": 1080
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "runtimeSeconds": 900,
+    "plot": "In a luxurious orbital station above Jupiter, elite socialites flock to watch enhanced warriors battle atop lethal, custom-bred dinosaurs in a high-stakes arena spectacle.",
+    "rating": {
+      "aggregateRating": 6.2,
+      "voteCount": 6147
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt36663026",
+    "title": "Golgotha",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODQwYThhZDQtNzZmYi00ODcwLTllYTEtNzk0ZmU3MjBlZmZkXkEyXkFqcGc@._V1_.jpg",
+      "width": 2898,
+      "height": 1446
+    },
+    "season": "4",
+    "episodeNumber": 7,
+    "runtimeSeconds": 600,
+    "plot": "A vicar welcomes an alien visitor who's convinced their divine savior has returned to Earth - in the form of a dolphin. A quirky sci-fi tale starring Rhys Darby.",
+    "rating": {
+      "aggregateRating": 5.2,
+      "voteCount": 5912
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt36663019",
+    "title": "For He Can Creep",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWZiNjVlNGYtN2U3NC00ZjRlLWI0NDAtMTA3NjI2ZGViMzI2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "4",
+    "episodeNumber": 8,
+    "runtimeSeconds": 840,
+    "plot": "In 18th century London, an institutionalized poet must protect humanity from Satan's apocalyptic plans, with only his feline companion to help him resist the Devil's demands for a world-ending verse.",
+    "rating": {
+      "aggregateRating": 6.3,
+      "voteCount": 5457
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt36663025",
+    "title": "Smart Appliances, Stupid Owners",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2M2YjQ5ZWItMzI0My00ODEyLWJkNzAtOWZiMWRjYmJjNDg1XkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 1914
+    },
+    "season": "4",
+    "episodeNumber": 9,
+    "runtimeSeconds": 480,
+    "plot": "Bathroom appliances and objects come to life to share their funny and sarcastic opinions about the humans who use them on a daily basis, revealing stories from their peculiar point of view.",
+    "rating": {
+      "aggregateRating": 5.3,
+      "voteCount": 5577
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt21661768",
+    "title": "Can't Stop",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDc4Y2JjODQtNTYxNi00NDBhLWI3MGEtODY4Y2Q1OTYwMDZmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 754
+    },
+    "season": "4",
+    "episodeNumber": 10,
+    "runtimeSeconds": 360,
+    "plot": "String puppets of the Red Hot Chili Peppers rock out at Ireland's Slane Castle, reimagining their iconic 2003 concert through creative marionette artistry.",
+    "rating": {
+      "aggregateRating": 4.1,
+      "voteCount": 8444
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 15
+    }
+  }
+]

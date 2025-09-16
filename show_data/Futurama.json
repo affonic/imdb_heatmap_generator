@@ -1,0 +1,3821 @@
+[
+  {
+    "id": "tt0584449",
+    "title": "Space Pilot 3000",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDBkZGM2NzktZmM5OS00NDZiLWIyNGEtN2Q4ZjBlODEwMmRkXkEyXkFqcGc@._V1_.jpg",
+      "width": 960,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1380,
+    "plot": "A down-on-his-luck pizza delivery guy is accidentally frozen on New Year's Eve 1999 and wakes up in the year 3000.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 5570
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 3,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt0756891",
+    "title": "The Series Has Landed",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjM5ZDFiZWItOGE4ZS00MTgxLWI2ZmYtZmY0MjdjYzJiMWFjXkEyXkFqcGc@._V1_.jpg",
+      "width": 960,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1380,
+    "plot": "For the crew's first mission, they must make a delivery to the moon, which is now home to a cheesy amusement park.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 4472
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 4,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt0756882",
+    "title": "I, Roommate",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjkyZDdjNWItZGEwZi00MzVmLWEwNTEtMmJmMjhkNjFjNmM0XkEyXkFqcGc@._V1_.jpg",
+      "width": 960,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1380,
+    "plot": "Fry is forced to choose between friendship and television when Bender's antenna impairs TV reception at their stylish new apartment building.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 4348
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 4,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt0756885",
+    "title": "Love's Labours Lost in Space",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTI5OTg5ZTMtMzhhMS00YWRiLWJhYTgtZTJhZDRhZWQ0NjMwXkEyXkFqcGc@._V1_.jpg",
+      "width": 960,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1380,
+    "plot": "While on a mission to save animals from a doomed planet, Leela finds herself the object of a starship captain's amorous advances.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 4132
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 4,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt0584438",
+    "title": "Fear of a Bot Planet",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGMxMzFiNmEtZDY3Zi00YTljLWIwZmEtMjBhMjk5YzM0ZjBmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1211,
+      "height": 904
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1380,
+    "plot": "Fry and Leela disguise themselves as robots to find Bender after he fails to return from a delivery to a robot planet, only to learn that he has become a celebrity in a culture which fears humans.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 3908
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 4,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt0584425",
+    "title": "A Fishful of Dollars",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTA2OWE3ZWItNDFhMC00NTI3LWEwNzgtOTJmODA3OTIzODFlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1400,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1380,
+    "plot": "Fry discovers his bank account interest has made him a billionaire and buys the one thing the year 3000 doesn't have: anchovies.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 4023
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 4,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt0756887",
+    "title": "My Three Suns",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmMzMWYxOTItN2IwYS00MjM4LTkzMTItOGJhNDkwYjk1NDUxXkEyXkFqcGc@._V1_.jpg",
+      "width": 960,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1380,
+    "plot": "Delivery Boy Philip J. Fry is promoted to Emperor after accidentally drinking his fluid-based predecessor.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 3814
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 5,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt0584423",
+    "title": "A Big Piece of Garbage",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTMyMmIyNGMtYjA1Yy00YzI5LTkwMTEtZTdmYmRjZmE3OTNhXkEyXkFqcGc@._V1_.jpg",
+      "width": 960,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1380,
+    "plot": "When a big ball of garbage from the 20th Century returns to threaten New New York, Philip is the only expert on making the weapon to fight it.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 3788
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 5,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt0584441",
+    "title": "Hell Is Other Robots",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDRjYWJjODQtYmU5NS00YjQ0LTgwMzMtODdlMjUxNTc3Y2FmXkEyXkFqcGc@._V1_.jpg",
+      "width": 960,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1380,
+    "plot": "Bender joins a robot church after fighting an addiction to electricity, but reverts to his pre-addictive behavior of cigars, booze and robot hookers, leading to a musical confrontation with the Robot Devil.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 3888
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 5,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt2005603",
+    "title": "2-D Blacktop",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjI5ZGJjMzYtZDNkNy00OGM5LWI5ZWMtYjBjZjJjN2Q4NTMzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "10",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "After Planet Express ship is scrapped, professor saves it from the junkyard and rebuilds it into a super racer. But an accident during a race sends the ship into a two-dimensional universe.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 2086
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 6,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt2005604",
+    "title": "Fry and Leela's Big Fling",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY1NzE0MTIyMV5BMl5BanBnXkFtZTgwMjg0MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "10",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Fry and Leela try to have some private time, but no matter where they go someone gets in their way. Finally they pay for a secluded romantic getaway, which turns out to be even worse.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2117
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 6,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt2005605",
+    "title": "T.: The Terrestrial",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjUyMzg3ZDQtZjRiMS00ZjBjLWIzNTItNmFlYjU5MTYzYjlhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "10",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "The crew goes to Omicron Persei 8, where Fry is left behind, and rescued by a local boy, but his only wish is to go home.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 2018
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 6,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt2005606",
+    "title": "Forty Percent Leadbelly",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjUwMjA3MzUtMzViNS00MDIyLWE0NjktZTJmMTg4MTI0NGEwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "10",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "Bender finally fulfills his dream of becoming a folk singer by creating a copy of a famous guitar, but then something goes terribly wrong.",
+    "rating": {
+      "aggregateRating": 6.6,
+      "voteCount": 2068
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt2005607",
+    "title": "The Inhuman Torch",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjEzYThhMTMtNGE1OS00YWIxLWFmNTAtYWZiMDE2YWViZmYwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "10",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Bender accidentally becomes a firefighting hero, and loves it so much that he becomes a full-time firefighter. And he has plenty of opportunities to display his heroism, because fires mysteriously start everywhere he goes.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 1989
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt2005608",
+    "title": "Saturday Morning Fun Pit",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjE3YWQ5YzktM2JiNC00NjM3LWE2MzUtMmUxNDVhM2JjMTFlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "10",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "President Nixon is watching his favorite TV shows, which spoof three actual cartoon series using Futurama characters.",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 2315
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt2005610",
+    "title": "Calculon 2.0",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYThkNjMzOWUtYmQ1OS00MzgyLTlhNTktMDFjMTY5YjZjNjJiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "10",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "Fry and Bender resurrect Calculon to make \"All My Circuits\" interesting again. But things don't go exactly as planned.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 2002
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt2005611",
+    "title": "Assie Come Home",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWIzMDFiYjUtNzAyOS00ZDQwLWFhMDktZWY1MTNmNjM4NGUyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "10",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "Bender searches the entire universe for his shiny metal rear end.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 1992
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt2005612",
+    "title": "Leela and the Genestalk",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTQ0N2U1NmUtYjM2Ni00MmJhLWJjOTMtMjk5ZWYwOTRmYjcxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "10",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "After a rare condition causes Leela to grow tentacles, she stumbles upon a secret genetic engineering facility.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 1962
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt2005613",
+    "title": "Game of Tones",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2YwMDlhMTUtNmU3Ny00MmI4LTlkYTgtODdhY2MwZDJkNDU5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "10",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "The Planet Express crew journeys into Fry's dreams to pull off a mission in the year 1999.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 2785
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt2005614",
+    "title": "Murder on the Planet Express",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzlkM2JhYmEtMmFmNS00NmZjLTgxZmYtZWE5NWNhNTJhYjMxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1638,
+      "height": 1080
+    },
+    "season": "10",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1320,
+    "plot": "The crew get trapped aboard the Planet Express ship with a horrific alien creature.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 2406
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt2005615",
+    "title": "Stench and Stenchibility",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWQ3OTQwNzQtMzFmZi00MTcxLTljNTgtYzgwZjFlNjI4ODIyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "10",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1320,
+    "plot": "Zoidberg's budding romance with a flower shop owner who cannot smell his unpleasant odor is tested when he's given the opportunity to give her a nose transplant.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2339
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt2005616",
+    "title": "Meanwhile",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjQzODAxMmYtNGNkYS00YmU4LWFiOTItYzc0YjdkOWY3MjYwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "10",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1320,
+    "plot": "Professor Farnsworth invents a button that can take a person 10 seconds back in time, inadvertently causing major consequences.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 4988
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt18114790",
+    "title": "The Impossible Stream",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTlmY2M5OTYtYWQwOS00MjdhLTllNTUtMDY0ODc1MGZhODNlXkEyXkFqcGc@._V1_.jpg",
+      "width": 2560,
+      "height": 1440
+    },
+    "season": "11",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1500,
+    "plot": "Fry risks permanent insanity when he attempts to binge-watch every TV show ever made.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 2935
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 7,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt21814884",
+    "title": "Children of a Lesser Bog",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzJkNDI1NjktMmQwMC00ZTBjLTkxMTEtNGUxNDE3Njc0YzliXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "11",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1500,
+    "plot": "Amy and Kif's children emerge from an alien swamp.",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 2079
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 7,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt21814938",
+    "title": "How the West Was 1010001",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzZkZGM2ZTEtMmNlNy00YjEzLWExYjQtMmJiMGEzOWFlMDUyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "11",
+    "episodeNumber": 3,
+    "plot": "Bender and the crew head west to join the bitcoin mining rush.",
+    "rating": {
+      "aggregateRating": 6.7,
+      "voteCount": 1894
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 8,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt21814942",
+    "title": "Parasites Regained",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmI1NGI1OTMtMDExOC00NTY5LTk5N2MtNWU3NTM1NWYyM2NmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "11",
+    "episodeNumber": 4,
+    "plot": "After Nibbler falls ill, the crew shrinks down for a dangerous mission into a desert world contained within his litter box.",
+    "rating": {
+      "aggregateRating": 6.7,
+      "voteCount": 1710
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 8,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt21814424",
+    "title": "Related to Items You've Viewed",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDBlNjgzOTYtOTliYy00ZjYzLThlMzQtNjllYTcxNzhkZjdmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1472,
+      "height": 828
+    },
+    "season": "11",
+    "episodeNumber": 5,
+    "plot": "Bender uncovers the mysteries of the vast Momazon corporation.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1614
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 8,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt21814940",
+    "title": "I Know What You Did Next Xmas",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2FkNDU2OGQtOTVlYi00NTJhLWI0NjQtYmNhYjI3MGFmZjI4XkEyXkFqcGc@._V1_.jpg",
+      "width": 881,
+      "height": 654
+    },
+    "season": "11",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "Bender and Zoidberg travel through time to attack Robot Santa.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 1559
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 8,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt21813110",
+    "title": "Rage Against the Vaccine",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGM2NTUxOTMtYmNhOS00ZDNhLTg3NDMtNjQ0MWQ1MzdjNzdlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 640
+    },
+    "season": "11",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1440,
+    "plot": "A pandemic ravages future Earth.",
+    "rating": {
+      "aggregateRating": 6.3,
+      "voteCount": 1735
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 9,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt21813570",
+    "title": "Zapp Gets Canceled",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2RiMzE3ODYtNzcwZi00MTYwLTk4ZmYtOWM1MmI1OTZhMGU3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1588,
+      "height": 1080
+    },
+    "season": "11",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1440,
+    "plot": "When Zapp Brannigan is canceled for crude behavior, Leela takes over as captain of the Nimbus on a critical mission.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 1346
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 9,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt21814106",
+    "title": "The Prince and the Product",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODQ4YzFmYjEtYjE4ZC00NzMxLWEzOGItOTQxZWNkZDM3MmYxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "11",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1500,
+    "plot": "The crew members are reborn as toys.",
+    "rating": {
+      "aggregateRating": 4.4,
+      "voteCount": 2152
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 9,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt21814946",
+    "title": "All the Way Down",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmM2ODVhYjQtMTc0OC00YzM5LWFhOTAtN2E2NDUzOGNhZmI0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "11",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1380,
+    "plot": "The crew investigates whether the universe is a simulation.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1622
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 9,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt28326325",
+    "title": "The One Amigo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTNhMDljZTktM2ZlOS00OGVmLWEwOTEtZjAyYWUzMTJlYjM5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "12",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1500,
+    "plot": "After Bender sells an NFT representing the \"Concept of Bender,\" he feels lost and returns to his ancestral village in Mexico to rediscover himself.",
+    "rating": {
+      "aggregateRating": 6.3,
+      "voteCount": 1174
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 7,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt28326326",
+    "title": "Quids Game",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDA0ZDgxYjYtZTYzMS00N2VkLWE3ZWItYmEzMDU0NzVlZGRiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "12",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1500,
+    "plot": "Bizarre aliens force the crew to reenact all the classic children's games Fry played at his 8th birthday party - except this time, they are played to the death.",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 1117
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 8,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt28326332",
+    "title": "The Temp",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzI2YzM0OWEtMDkxZS00NzdjLTk5OWUtMmM0NDQ2NTYxN2Q0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "12",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1440,
+    "plot": "A mysterious temp worker takes over Fry's job - as well as his entire life.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 961
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 8,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt28326333",
+    "title": "Beauty and the Bug",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjIxYzgyM2UtYTFhZS00N2ZmLWI1NzktNzJkZjViM2QwOWIyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "12",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1440,
+    "plot": "Bender becomes a matador in the sport of \"Bug Fighting\".",
+    "rating": {
+      "aggregateRating": 6.4,
+      "voteCount": 843
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 8,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt28326334",
+    "title": "One Is Silicon and the Other Gold",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDFjZjJiOWUtOWRmNi00ODQ3LWFhYjktYjMwZWI3OTg1YzA5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "12",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1440,
+    "plot": "Leela becomes friends with a jealous chatbot.",
+    "rating": {
+      "aggregateRating": 6.6,
+      "voteCount": 784
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 8,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt28326336",
+    "title": "Attack of the Clothes",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzljOTcyYzgtZGQwZC00Yjg5LTk2YmUtYTM3NTYyNjUwYTI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "12",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1440,
+    "plot": "The Professor's fast-fashion clothes are a smash hit, but an environmental disaster.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 805
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 9,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt28326342",
+    "title": "Planet Espresso",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODZlMTVkZmYtOTgzYS00MTg4LWI1NjctODU3ZGMzZmIwYzkzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "12",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1440,
+    "plot": "Hermes inherits a Jamaican coffee farm that holds the ruins of an ancient spaceship.",
+    "rating": {
+      "aggregateRating": 6.9,
+      "voteCount": 731
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 9,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt28326347",
+    "title": "Cuteness Overlord",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWQ0OWI0M2UtNzZlYi00YmFlLWIxZDItZWQyNDc4OWJjOGQxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "12",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1440,
+    "plot": "Amy sets out to collect the cutest toys in the universe - but they are not as harmless as they appear.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 680
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 9,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt28326349",
+    "title": "The Futurama Mystery Liberry",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDI2ZDJjOTAtNTY1ZS00OWJmLTg3NDEtMmY3NzU5OTcwNjFlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "12",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1440,
+    "plot": "Futurama is reimagined in the form of classic children's mystery books.",
+    "rating": {
+      "aggregateRating": 6.1,
+      "voteCount": 728
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 9,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt28326351",
+    "title": "Otherwise",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWFiOWM0ZDAtZTkwMi00ZTQwLTgzMmItYmIwODM2MTIwNjcyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "12",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1500,
+    "plot": "When Fry proposes to Leela, he is overcome by a near-fatal attack of déjà vu.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 694
+    },
+    "releaseDate": {
+      "year": 2024,
+      "month": 9,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt29730673",
+    "title": "Destroy Tall Monsters",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWVlZTUwYjQtNTliZi00ZDMxLWJjODktMTc4MTI0MDZiM2RjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 563
+    },
+    "season": "13",
+    "episodeNumber": 1,
+    "releaseDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt29730677",
+    "title": "Episode #13.2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "13",
+    "episodeNumber": 2,
+    "releaseDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt29730687",
+    "title": "Episode #13.3",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "13",
+    "episodeNumber": 3,
+    "releaseDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt29730707",
+    "title": "Episode #13.4",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "13",
+    "episodeNumber": 4,
+    "releaseDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt29730739",
+    "title": "Episode #13.5",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "13",
+    "episodeNumber": 5,
+    "releaseDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt29730783",
+    "title": "Episode #13.6",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "13",
+    "episodeNumber": 6,
+    "releaseDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt29730811",
+    "title": "Episode #13.7",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "13",
+    "episodeNumber": 7,
+    "releaseDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt29730822",
+    "title": "Episode #13.8",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "13",
+    "episodeNumber": 8,
+    "releaseDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt29730836",
+    "title": "The Trouble with Truffles",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWY3ZTY4OGMtYTk3Mi00NzQwLTg4Y2ItZjcwMjhkMTQ1MTU0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 607
+    },
+    "season": "13",
+    "episodeNumber": 9,
+    "plot": "Bender and his trusty pig set off to hunt space truffles in the truffle belt.",
+    "releaseDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt29730852",
+    "title": "The White Hole",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODU3ZTYxMzctNjEwOC00MmM0LTgyNTktOTVkMzMzZjY4N2Q5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 607
+    },
+    "season": "13",
+    "episodeNumber": 10,
+    "plot": "The crew embarks on an epic ten-million-year journey to witness the birth of a new universe.",
+    "releaseDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt29730603",
+    "title": "Episode #14.1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "14",
+    "episodeNumber": 1,
+    "releaseDate": {
+      "year": 2026
+    }
+  },
+  {
+    "id": "tt29730888",
+    "title": "Episode #14.2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "14",
+    "episodeNumber": 2,
+    "releaseDate": {
+      "year": 2026
+    }
+  },
+  {
+    "id": "tt29730894",
+    "title": "Episode #14.3",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "14",
+    "episodeNumber": 3,
+    "releaseDate": {
+      "year": 2026
+    }
+  },
+  {
+    "id": "tt29730901",
+    "title": "Episode #14.4",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "14",
+    "episodeNumber": 4,
+    "releaseDate": {
+      "year": 2026
+    }
+  },
+  {
+    "id": "tt29730907",
+    "title": "Episode #14.5",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "14",
+    "episodeNumber": 5,
+    "releaseDate": {
+      "year": 2026
+    }
+  },
+  {
+    "id": "tt29730944",
+    "title": "Episode #14.6",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "14",
+    "episodeNumber": 6,
+    "releaseDate": {
+      "year": 2026
+    }
+  },
+  {
+    "id": "tt29730972",
+    "title": "Episode #14.7",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "14",
+    "episodeNumber": 7,
+    "releaseDate": {
+      "year": 2026
+    }
+  },
+  {
+    "id": "tt29730978",
+    "title": "Episode #14.8",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "14",
+    "episodeNumber": 8,
+    "releaseDate": {
+      "year": 2026
+    }
+  },
+  {
+    "id": "tt29730983",
+    "title": "Episode #14.9",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "14",
+    "episodeNumber": 9,
+    "releaseDate": {
+      "year": 2026
+    }
+  },
+  {
+    "id": "tt29730984",
+    "title": "Episode #14.10",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "season": "14",
+    "episodeNumber": 10,
+    "releaseDate": {
+      "year": 2026
+    }
+  },
+  {
+    "id": "tt0584426",
+    "title": "A Flight to Remember",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWVkZGIyZDUtNTEzZi00MzljLWFiZWUtNWM2ZWVmZWE1M2MwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1380,
+    "plot": "The crew takes a vacation cruise on the maiden voyage of the new space Titanic.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 3795
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 9,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt0756886",
+    "title": "Mars University",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjE3NDQ3NzMwMF5BMl5BanBnXkFtZTgwODQ5NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1380,
+    "plot": "Fry enrolls at Mars University and competes with a monkey made smart by Prof. Farnsworth's latest invention while Bender tries to make the local chapter of his robot fraternity cool.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 3595
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 10,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt0756892",
+    "title": "When Aliens Attack",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2EyZDRlMTAtMmZjMS00MjRiLWIzMWQtZTY5ZTZhNzE4YzdhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1400,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1380,
+    "plot": "A monumental attack from Lrrr of Omicron Persei 8 is precipitated by the loss of a television signal that Fry disrupted in 1999.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 3482
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 11,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt0584439",
+    "title": "Fry and the Slurm Factory",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA2MDA1NDcyN15BMl5BanBnXkFtZTgwMzM2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1380,
+    "plot": "Fry wins a contest to visit the factory of his favorite addictive drink, but danger ensues when he accidentally discovers the real factory.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3808
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 11,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt0756881",
+    "title": "I Second That Emotion",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmE4ZTVlMjgtNzliMy00ZmJhLThjNjItNzczY2NlODI0MGZiXkEyXkFqcGc@._V1_.jpg",
+      "width": 701,
+      "height": 532
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1380,
+    "plot": "Bender flushes Nibbler down the toilet in a fit of jealousy, which prompts Professor Farnsworth to implant in him a chip that will allow him to feel empathy.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3358
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 11,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0766796",
+    "title": "Brannigan, Begin Again",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTM2YWIyNDEtZTAxYi00NjhkLTk4M2QtNmUwNmViNjI5MGY4XkEyXkFqcGc@._V1_.jpg",
+      "width": 695,
+      "height": 531
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1380,
+    "plot": "Zapp Brannigan gets thrown out of the service for destroying a space meeting and as a result of this he begins to work for Planet Express.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 3356
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 11,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0584427",
+    "title": "A Head in the Polls",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWNmZDcxOTUtZDgwMy00NDZlLWJjMGItM2FjMGI1ZTljZjRjXkEyXkFqcGc@._V1_.jpg",
+      "width": 700,
+      "height": 530
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1380,
+    "plot": "When a mine disaster causes the market value of titanium to soar, Bender becomes highly profitable and sells his body.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3263
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 12,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt0584465",
+    "title": "Xmas Story",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWZjZmQ1MDQtZGM4ZS00ZDdmLWI0NzAtMGNkZWRjMWEyMjZkXkEyXkFqcGc@._V1_.jpg",
+      "width": 703,
+      "height": 532
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1380,
+    "plot": "Fry learns how Christmas has changed and remained the same over the last 1000 years when a Robot Santa terrorizes New New York.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 3508
+    },
+    "releaseDate": {
+      "year": 1999,
+      "month": 12,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt0766798",
+    "title": "Why Must I Be a Crustacean in Love?",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjAzNWY1OTctOGM1Ni00NGQ2LTgwNDItN2JmN2Q4Y2YwY2JjXkEyXkFqcGc@._V1_.jpg",
+      "width": 699,
+      "height": 531
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1380,
+    "plot": "When the group begins to notice that Zoidberg is acting erratically, Professor Farnsworth deduces that it is mating season on his home planet.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 3342
+    },
+    "releaseDate": {
+      "year": 2000,
+      "month": 2,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt0772479",
+    "title": "Put Your Head on My Shoulders",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjEzOTg3OTUzMV5BMl5BanBnXkFtZTgwODg2NDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1380,
+    "plot": "After a horrendous accident requires his body to be rebuilt, Fry's head is attached to the shoulder of a co-worker while Bender opens a dating service just in time for Valentine's Day.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 3137
+    },
+    "releaseDate": {
+      "year": 2000,
+      "month": 2,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt0584445",
+    "title": "The Lesser of Two Evils",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTk1NDg4MDEtMzE4Yy00Y2M1LWE2NTAtNGU4NGQ3NjI0MDU3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1128,
+      "height": 873
+    },
+    "season": "2",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1380,
+    "plot": "Suspicion falls on a new employee when a shipment goes missing.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 3107
+    },
+    "releaseDate": {
+      "year": 2000,
+      "month": 2,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt0584448",
+    "title": "Raging Bender",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzgzNTM3YmItNjM3Yi00MWZjLWE2NDktZmRlODMzOTU5ZTU3XkEyXkFqcGc@._V1_.jpg",
+      "width": 629,
+      "height": 471
+    },
+    "season": "2",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1380,
+    "plot": "Bender becomes a champion robot wrestler.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3057
+    },
+    "releaseDate": {
+      "year": 2000,
+      "month": 2,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt0766129",
+    "title": "A Bicyclops Built for Two",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWNiOGJmYTItMjliNC00NWI2LTk3NjEtMWRjNWY2YmRlOTRiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "season": "2",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1380,
+    "plot": "After learning that there is a second Cyclops still in existence, Leela travels back to her home World to ensure that her species does not go extinct.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 3252
+    },
+    "releaseDate": {
+      "year": 2000,
+      "month": 3,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt0584442",
+    "title": "How Hermes Requisitioned His Groove Back",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzlkNTc0YzQtMDNjZC00ZmRhLThkN2ItNTg1NjU2ZTFhNDU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 488,
+      "height": 368
+    },
+    "season": "2",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1380,
+    "plot": "Hermes decide to relax at a spa after receiving a depressing demotion, but he instead unwittingly enrolled himself at a forced labor camp.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 3168
+    },
+    "releaseDate": {
+      "year": 2000,
+      "month": 4,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt0584424",
+    "title": "A Clone of My Own",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDNiOWY4NWUtODMxNi00OWQyLWE1OGEtYjI5NzY5NDFkNTc3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1400,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1380,
+    "plot": "Prof. Farnsworth reveals that he cloned himself years ago and introduces his clone to the Planet Express staff.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 3023
+    },
+    "releaseDate": {
+      "year": 2000,
+      "month": 4,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt0584455",
+    "title": "The Deep South",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGQ5N2QyZDEtYWE1MC00ZDA5LWFiMzktOGIzMGEzZTUwOGNkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1400,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1380,
+    "plot": "While stranded at the bottom of the Atlantic Ocean with the rest of the Planet Express crew, Fry meets a mermaid and quickly falls in love.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 3140
+    },
+    "releaseDate": {
+      "year": 2000,
+      "month": 4,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt0766130",
+    "title": "Bender Gets Made",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjg0Mjg3ODE1NF5BMl5BanBnXkFtZTYwNDA4Njc3._V1_.jpg",
+      "width": 485,
+      "height": 417
+    },
+    "season": "2",
+    "episodeNumber": 17,
+    "runtimeSeconds": 1380,
+    "plot": "Bender gets inducted into the Robot mafia but has a crisis of conscience when their next score involves his friends on the Planet Express ship.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3004
+    },
+    "releaseDate": {
+      "year": 2000,
+      "month": 4,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt0584457",
+    "title": "The Problem with Popplers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ3MzY0MzcxMl5BMl5BanBnXkFtZTgwMDA2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 18,
+    "runtimeSeconds": 1380,
+    "plot": "The Planet Express crew discovers a delicious snack food on a remote planet, but Leela has a change of heart when she discovers a disturbing fact about the snack food that endangers Earth.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 3337
+    },
+    "releaseDate": {
+      "year": 2000,
+      "month": 5,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt0584447",
+    "title": "Mother's Day",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWJjYjEzYWItOWEzNi00NjA4LTk1ZTctYzE2NTEyYWJkNWQ4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1400,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 19,
+    "runtimeSeconds": 1380,
+    "plot": "When Mom of Mom's Robot Factory takes control of every robot on Earth, the only man who can save the planet is Professor Farnsworth.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 3002
+    },
+    "releaseDate": {
+      "year": 2000,
+      "month": 5,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt0584432",
+    "title": "Anthology of Interest I",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTI3NzY3NDk4M15BMl5BanBnXkFtZTYwNzA4Njc3._V1_.jpg",
+      "width": 485,
+      "height": 647
+    },
+    "season": "2",
+    "episodeNumber": 20,
+    "runtimeSeconds": 1380,
+    "plot": "The Professor's \"What If\" machine answers four questions.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 3379
+    },
+    "releaseDate": {
+      "year": 2000,
+      "month": 5,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0768399",
+    "title": "The Honking",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTYzMjAyOTU0OF5BMl5BanBnXkFtZTYwMDE4Njc3._V1_.jpg",
+      "width": 485,
+      "height": 546
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1380,
+    "plot": "When the inheritance Bender claims in the Old Country isn't quite what he expected, the Planet Express crew has to find the source of an age-old curse.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 3070
+    },
+    "releaseDate": {
+      "year": 2000,
+      "month": 11,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt0584463",
+    "title": "War Is the H-Word",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM4MTAyNTk1OF5BMl5BanBnXkFtZTYwOTA4Njc3._V1_.jpg",
+      "width": 485,
+      "height": 628
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1380,
+    "plot": "Fry and Bender enroll in the Army to receive military discounts, but a war breaks out and the two friends are forced to serve on the front lines.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 3284
+    },
+    "releaseDate": {
+      "year": 2000,
+      "month": 11,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt0584453",
+    "title": "The Cryonic Woman",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUyNjg3NTA3M15BMl5BanBnXkFtZTgwNTA2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Fry discovers his 20th-century girlfriend at the cryogenics lab, but problems arise when she wants them both to be refrozen for another 1,000 years.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 2945
+    },
+    "releaseDate": {
+      "year": 2000,
+      "month": 12,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt0766131",
+    "title": "Parasites Lost",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTU3NTY5Mjg0OV5BMl5BanBnXkFtZTgwOTQyOTEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1380,
+    "plot": "Ingesting a bad egg-salad sandwich leads to Fry developing a colony of parasitic worms in his bowels, which set out to make him smarter and stronger.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 3763
+    },
+    "releaseDate": {
+      "year": 2001,
+      "month": 1,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0584431",
+    "title": "Amazon Women in the Mood",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjk3MjQ0MTE2Ml5BMl5BanBnXkFtZTgwNjI2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1380,
+    "plot": "Gigantic feminist Amazons give Fry, Kif, and Zapp a grueling workout.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 3762
+    },
+    "releaseDate": {
+      "year": 2001,
+      "month": 2,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt0584436",
+    "title": "Bendless Love",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk3MjA2MjAyNF5BMl5BanBnXkFtZTgwNjM2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1380,
+    "plot": "A sleep-walking Bender creates havoc with his uncontrollable bending and is sent to the Bending Factory where he meets Angelyne, a curvaceous fembot.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 2834
+    },
+    "releaseDate": {
+      "year": 2001,
+      "month": 2,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt0756890",
+    "title": "The Day the Earth Stood Stupid",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTA2NzkzNTUyMDVeQTJeQWpwZ15BbWU4MDc5ODcxMjIx._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1380,
+    "plot": "When flying brains invade, Fry is the only one who can save the Earth from destruction.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 3146
+    },
+    "releaseDate": {
+      "year": 2001,
+      "month": 2,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt0584451",
+    "title": "That's Lobstertainment!",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NjM5MjQ0M15BMl5BanBnXkFtZTgwMTA2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1380,
+    "plot": "The Planet Express staff is amazed to learn that Dr. Zoidberg is related to a famous comedian. Bender convinces a robot soap opera star to finance a movie in the hopes of getting an acting award.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 2853
+    },
+    "releaseDate": {
+      "year": 2001,
+      "month": 2,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt0584452",
+    "title": "The Birdbot of Ice-Catraz",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ1MDc3NDU5Nl5BMl5BanBnXkFtZTgwNjA2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "The professor decides to ship hazardous cargo to the outer reaches of space, but the ship travels through some environmentally sensitive areas, including the penguin refuge on Pluto.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2797
+    },
+    "releaseDate": {
+      "year": 2001,
+      "month": 3,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt0768678",
+    "title": "The Luck of the Fryrish",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI0Mjk3NzA0MF5BMl5BanBnXkFtZTgwNDI5OTEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1380,
+    "plot": "Fry goes on a quest to recover his lucky 7-leaf clover after being convinced that his brother took over his identity after he was frozen.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 6053
+    },
+    "releaseDate": {
+      "year": 2001,
+      "month": 3,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt0584454",
+    "title": "The Cyber House Rules",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTkzMTQ0MTY2M15BMl5BanBnXkFtZTgwOTk1MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1380,
+    "plot": "Leela returns to the Orphanarium and she meets with her friend Adlai Atkins after some years, and they begin to go out. Adlai is a surgeon and operates Leela to let her have two eyes, and Bender decides to adopt all the children at the Orphanarium to get money from the Government.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2859
+    },
+    "releaseDate": {
+      "year": 2001,
+      "month": 4,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt0756883",
+    "title": "Insane in the Mainframe",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjU4Nzc5OTkwNF5BMl5BanBnXkFtZTgwNDI5NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1380,
+    "plot": "Fry and Bender are mistakenly convicted of robbing a bank and are both sent to a robot mental institution.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2976
+    },
+    "releaseDate": {
+      "year": 2001,
+      "month": 4,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt0584435",
+    "title": "Bendin' in the Wind",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg1ODc3OTUxOF5BMl5BanBnXkFtZTgwOTM2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1380,
+    "plot": "After being crippled, Bender gets a new career as a folk rock singer. Fry, Leela, Amy and Dr. Zoidberg follow him around the country.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 2862
+    },
+    "releaseDate": {
+      "year": 2001,
+      "month": 4,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt0584462",
+    "title": "Time Keeps on Slipping",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTI4MDE3NTA4Ml5BMl5BanBnXkFtZTYwNTE4Njc3._V1_.jpg",
+      "width": 485,
+      "height": 606
+    },
+    "season": "3",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1380,
+    "plot": "After being challenged to a game of basketball by the planet of the Globetrotters, Prof. Farnsworth creates a team of mutant, atomic supermen, but the side effects of their rapid growth endangers the universe.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3135
+    },
+    "releaseDate": {
+      "year": 2001,
+      "month": 5,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt0584443",
+    "title": "I Dated a Robot",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTI0MTc5MTk2N15BMl5BanBnXkFtZTYwNjE4Njc3._V1_.jpg",
+      "width": 485,
+      "height": 575
+    },
+    "season": "3",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1380,
+    "plot": "Fry ignores the warnings of the Planet Express staff and starts dating a robot with the downloaded personality and holographic image of Lucy Liu. Leela and Bender make a disturbing discovery while trying to save Fry from his short-sighted decision.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2862
+    },
+    "releaseDate": {
+      "year": 2001,
+      "month": 5,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt0756888",
+    "title": "Roswell That Ends Well",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTc3MTI3NjA0Nl5BMl5BanBnXkFtZTgwMDg4NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1380,
+    "plot": "Fry causes trouble for himself and the rest of the crew when he accidentally causes them all to be transported back in time to Roswell, New Mexico in 1947.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 3938
+    },
+    "releaseDate": {
+      "year": 2001,
+      "month": 12,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt0584429",
+    "title": "A Tale of Two Santas",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYxODM5NzI4NV5BMl5BanBnXkFtZTgwODI2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1380,
+    "plot": "When Fry, Leela and Bender make a delivery to Neptune, they run afoul of the robot Santa Claus. Bender takes his place, but the previous Santa's fearsome reputation makes his job difficult.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2815
+    },
+    "releaseDate": {
+      "year": 2001,
+      "month": 12,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt0756879",
+    "title": "Anthology of Interest II",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjMxNjk0OTYwMV5BMl5BanBnXkFtZTgwNDE5NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1380,
+    "plot": "An anthology of three \"what if\" stories: what if Bender were human, what if Fry's life was more like a video game, and what if Leela found her true home.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2955
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 1,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt0584446",
+    "title": "Love and Rocket",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY4NjIwMTg4OV5BMl5BanBnXkFtZTgwMDk1MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1380,
+    "plot": "When the Planet Express ship gets a selectable personality upgrade, Bender chooses one and falls in love... but too briefly.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2812
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 2,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt0756884",
+    "title": "Leela's Homeworld",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTczNzA5MjY1NF5BMl5BanBnXkFtZTgwNjg4NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1380,
+    "plot": "The Planet Express crew must suffer the wrath of the mutants who live under the city after disposing too much toxic waste into the sewers.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 3344
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 2,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt0756893",
+    "title": "Where the Buggalo Roam",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODc2MzczMTE2NV5BMl5BanBnXkFtZTgwMDM4NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1380,
+    "plot": "Intern Amy Wong's rich parents host the annual Mars Day picnic, but the original Martians have different plans, so Lieutenant Kif Kroker comes to the rescue.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2711
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 3,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt0756878",
+    "title": "A Pharaoh to Remember",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjE3NzE4OTY1NV5BMl5BanBnXkFtZTgwMjA5NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1380,
+    "plot": "Bender worries that no one will remember him when he dies, but he encounters a chance to leave a legacy when he discovers a planet in need of a new pharaoh.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2776
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 3,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt0756880",
+    "title": "Godfellas",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGYzNDA4MTEtZjUzYS00YTM5LWIwMDctYjk5ODI2NGNhNWQ3XkEyXkFqcGc@._V1_.jpg",
+      "width": 640,
+      "height": 480
+    },
+    "season": "4",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1380,
+    "plot": "When Bender is lost in space, he becomes home and spiritual leader to a race of worshipers who misinterpret his wisdom.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 3873
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 3,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt0584440",
+    "title": "Future Stock",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjEwODA0MzA0MF5BMl5BanBnXkFtZTgwMTM2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1380,
+    "plot": "Fry bonds with a revived 1980s man who takes over Planet Express and takes on Mom's Delivery Company, but has a crisis of conscience when his new mentor plans to sell the company.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2755
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 3,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt0584428",
+    "title": "A Leela of Her Own",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg5NDYyODUxNl5BMl5BanBnXkFtZTgwNzI2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "A pickup game with the family-owned pizza place across the street leads to Leela being the first female Blernsball player, but she has to struggle to avoid being the worst player ever.",
+    "rating": {
+      "aggregateRating": 6.9,
+      "voteCount": 2668
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 4,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt0756889",
+    "title": "The 30% Iron Chef",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY2NzEyOTk1NF5BMl5BanBnXkFtZTgwNzE5NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1380,
+    "plot": "Bender goes on a quest to learn the secret of Ultimate Flavor so he can humiliate his former idol on television.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2677
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 4,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt0584464",
+    "title": "Where No Fan Has Gone Before",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjAyNzI1NDg3OF5BMl5BanBnXkFtZTgwOTA2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1380,
+    "plot": "Fry is placed on trial for his life because he traveled to the forbidden planet of Omega 3 to rescue all 79 episodes of \"Star Trek\".",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3218
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 4,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0584437",
+    "title": "Crimes of the Hot",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg2MTk0ODk4M15BMl5BanBnXkFtZTYwODE4Njc3._V1_.jpg",
+      "width": 485,
+      "height": 654
+    },
+    "season": "5",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1380,
+    "plot": "Earth is unable to offset its rising temperature through the usual process, which is the dropping of a giant ice cube into the ocean.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2672
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 11,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt0584444",
+    "title": "Jurassic Bark",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTE2NDIwMDg0Nl5BMl5BanBnXkFtZTgwNjk1MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1380,
+    "plot": "Fry discovers the intact fossilized remains of his pet dog from his old life. The Professor reveals he can clone the animal.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 7507
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 11,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt0584458",
+    "title": "The Route of All Evil",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY4MDU1NTkwOF5BMl5BanBnXkFtZTgwMTE2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1380,
+    "plot": "Prof. Farnsworth's and Hermes' 12 year old sons combine forces to take over Planet Express, but their ambition is more than their ability and they need their fathers' help to save the day.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 2618
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 12,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt0584430",
+    "title": "A Taste of Freedom",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjE3ODk2ODMzMF5BMl5BanBnXkFtZTgwMzQ2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1380,
+    "plot": "Dr. Zoidberg's exuberant celebration of Freedom Day makes him Public Enemy #1.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2646
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 12,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt0757482",
+    "title": "Kif Gets Knocked Up a Notch",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk5NTcwMDQ0MF5BMl5BanBnXkFtZTgwNjE2NTEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1380,
+    "plot": "Amy is distressed when her alien boyfriend Kif becomes pregnant.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2672
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 1,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt0757483",
+    "title": "Less Than Hero",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTExMDA0MzYyOTJeQTJeQWpwZ15BbWU4MDkxNjUxMjIx._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1380,
+    "plot": "After using a tube of \"miracle cream\" Fry and Leela gain super powers and form \"The New Justice Team\" along with Bender.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2665
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 3,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt0584450",
+    "title": "Teenage Mutant Leela's Hurdles",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYyMjg4MDU3Ml5BMl5BanBnXkFtZTgwNDA2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1380,
+    "plot": "After an overdose at a health club makes the Planet Express staff get younger and younger, they have to find a mysterious Fountain of Aging. Meanwhile, Leela experiences the teenage life she never had with her parents.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 2808
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 3,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt0584460",
+    "title": "The Why of Fry",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQyODU0Mjc4NV5BMl5BanBnXkFtZTgwMzE2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1380,
+    "plot": "Fry learns his accidental freezing 1,004 years earlier wasn't an accident. He is given a choice that could prevent its happening, but at a cost.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 3076
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 4,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt0584459",
+    "title": "The Sting",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDIyMzUxMTE1NV5BMl5BanBnXkFtZTgwMjE2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1380,
+    "plot": "Sent on the same mission which caused the deaths of the previous Planet Express crew, Leela mourns the apparent death of Fry.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 4169
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 6,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt0757485",
+    "title": "The Farnsworth Parabox",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY3OTExNzA4OV5BMl5BanBnXkFtZTgwMjE2NTEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1380,
+    "plot": "Prof. Farnworth creates a box which contains an entire universe and sends Leela into it, where she discovers another Planet Express with a few notable differences.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 3361
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 6,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt0584461",
+    "title": "Three Hundred Big Boys",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTc4MjczNDQ1MV5BMl5BanBnXkFtZTgwNjE2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1380,
+    "plot": "Everyone on Earth gets $300 after the spoils of a military victory are distributed. The members of the Planet Express staff spend it on different things, with varying degrees of success.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2836
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 6,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt0584434",
+    "title": "Spanish Fry",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDAwMTcyNDE4NV5BMl5BanBnXkFtZTgwODM2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1380,
+    "plot": "After being abducted by \"human horn\" poachers, Fry goes on a search for his missing nose.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2620
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 7,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt0584433",
+    "title": "Bend Her",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg5Nzg0MDUwNF5BMl5BanBnXkFtZTgwNTI2MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1380,
+    "plot": "Bender enters the Olympics as a Fembot and has modifications to maintain the illusion, leading to a romantic encumbrance with a soap opera star.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 2660
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 7,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt0757484",
+    "title": "Obsoletely Fabulous",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY3MzIwNjgxNV5BMl5BanBnXkFtZTgwMTE2NTEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1380,
+    "plot": "The introduction of a new type of robot makes Bender rethink his devotion to technology.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2567
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 7,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt0779827",
+    "title": "Bender Should Not Be Allowed on TV",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ3NDM3NDg3NV5BMl5BanBnXkFtZTgwMTIxODc5MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1380,
+    "plot": "Bender becomes a star on his favorite soap opera by forgetting his lines and reverting to character, but becomes concerned about the effect he is having on the audience.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2579
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 8,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt0584456",
+    "title": "The Devil's Hands Are Idle Playthings",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjY5ODYwMDYtNjNlNC00Y2NhLTg2YWEtZmY1OTAxNDlkODNmXkEyXkFqcGc@._V1_.jpg",
+      "width": 640,
+      "height": 476
+    },
+    "season": "5",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1380,
+    "plot": "Fry makes a deal with the Robot Devil so he can get robot hands to play the holophoner and impress Leela. In a twist of fate, Fry trades hands with the Robot Devil and writes a masterpiece opera about Leela. However, the Robot Devil has evil plans of his own.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 4128
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 8,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt13018928",
+    "title": "Bender's Big Score: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGNhNzMxMTQtMDRlMy00YjgwLWFhYmItNDMwYmUzMWQxNzU0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "The crew fall for a scam while relaxing on the Nude Beach planet and end up losing both Planet Express and Bender. While Hermes has a nasty accident and Nibbler summons the Nibblonian forces to try save the day.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 908
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 3,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt13018956",
+    "title": "Bender's Big Score: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmJjZTRhMjctNmI4OC00MjNjLThjYzgtNTdiZjc1NDk4MWI1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "The scammers start using time travel to steal valuable items from the past, Professor Farnsworth enlists the Globetrotters' help, Zoidberg tries to help Hermes recover, Leela goes on a date, and Bender is sent back in time to kill Fry.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 881
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 3,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt13018960",
+    "title": "Bender's Big Score: Part 3",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2RiMmVjODItNWZlNS00YTEyLWE3MjUtYmY5M2EwMWY3NDkwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Fry lives his alternate life in the past, Bender returns to the crew having been released by the scammers. Hermes has another accident and Leela gets engaged during a rampage by Robot Santa, but will the wedding go smoothly.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 877
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 3,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt13018962",
+    "title": "Bender's Big Score: Part 4",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWQ0MDFhZjItZjcyYS00MzQ1LWI5ZDAtOGU3N2FlMGYzYmE3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "When the Scammers pull a last scam to take ownership of Earth, everyone is forced off planet. Can they all band together to regain their home planet and also stop the numerous time paradox's causing a huge catastrophe?",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 904
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 3,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt13018934",
+    "title": "The Beast with a Billion Backs: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDNjMmZhODUtNzlkMy00NjMzLTg4NWItN2YxYzI5ZDUwNzdmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Amy and Kif have a ceremony to become part of the same clan and Fry moves in with his new girlfriend discovering she has a very differing lifestyle to his. While the Earth's scientists debate what to do about the rift in space.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 788
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 10,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt13018940",
+    "title": "The Beast with a Billion Backs: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmU3MDBiZDktNGEwMi00NDI4LWE4MDctNDY2NTM4ZGIwZjZjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "Bender starts stalking Calculon and ends up introduced to a special group. A depressed Fry enters the rift, while Farnsworth teams up with rival Wernstrom to collaborate on the rift problem. And tragedy strikes close to home for the crew.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 778
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 10,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt13019080",
+    "title": "The Beast with a Billion Backs: Part 3",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTMzMmY2ODItNjU0Ny00NzljLTlhYTktMjAyYWI0ZGM1OTBiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "A tentacle monster bursts forth from the rift with Fry as it's mouthpiece and it intends to join with all people on Earth. The Planet Express crew plan to stop the takeover and rescue Fry but can they succeed and will Bender help them?",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 776
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 10,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt13018992",
+    "title": "The Beast with a Billion Backs: Part 4",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjM0Y2E1NDUtOWJkNC00YTcyLWI1MGQtMjQ4NDU1ZTA3YzA4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "Bender takes control of the League of Robots and makes a deal with the Robot Devil for an army. While everyone else makes a deal with Yivo to get along together, but things don't go smoothly for long when Bender attacks.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 782
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 10,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt13018990",
+    "title": "Bender's Game: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWE0N2RjNmEtZjExOS00MzAyLWFiZjgtZGYxYzg5NzYzOGZkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "Leela has to work on her anger issues after being goaded into entering a Space Demolition Derby with the Planet Express ship and Bender has to work on his lack of imagination after seeing the kids have fun playing Dungeons and Dragons.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 744
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt13019020",
+    "title": "Bender's Game: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTcyNGY4NjAtYmY1NS00M2JhLTkxYzAtYTFkNjVlZmM5OTk3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "The Planet Express crew learn Mom is profiting by creating a fake shortage of Dark Matter and set out to stop her but can the Professor recall where he put an important energy crystal. And Bender undergoes therapy at a Robot Insane Asylum.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 740
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt13019022",
+    "title": "Bender's Game: Part 3",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTU4MTI5ODMtNWE0Ny00ODkyLTg1YzAtMzYyYjBjZGU0MTc2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1320,
+    "plot": "When Bender's out of control imagination mixes with the Die of Power it creates an alternate Lord of the Rings influenced universe where the Planet Express crew must go on a journey across strange lands to destroy the Die of Power.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 737
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt13019118",
+    "title": "Bender's Game: Part 4",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGJlZmJhMjktMWZjZS00NGU1LTkzYTItMTQ2NGIxMzZjZWJhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1320,
+    "plot": "The Planet Express crew continue their journey to destroy the Die of Power, which has a negative effect on Fry. Mom and her sons make a last gambit to get the Die for themselves and Leela tries to convince the Centaurs to join the battle.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 741
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt13019004",
+    "title": "Into the Wild Green Yonder: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTRlODQ0YjktYzg2MS00OWYxLTgwZTItYjgwNTdiYmRhY2QwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1320,
+    "plot": "When a new Mars Vegas is built, the crew wrangle invites to the opening weekend and the 3009 Universal Poker Championship. Fry discovers he has a new ability to read people's thoughts and Bender starts a secret affair with Donbot's wife.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 730
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 8,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt13019082",
+    "title": "Into the Wild Green Yonder: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmU3OTUyY2YtMGZiMi00NjVkLWI1ZGQtMzc3M2IwZGY1NGJjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1320,
+    "plot": "Leo Wong is building a galaxy sized miniature golf course regardless of the damage it causes, so Leela joins some protesters to oppose him, while Fry joins a group with the same goal of stopping Leo, but President Nixon has other ideas.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 723
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 8,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt13019076",
+    "title": "Into the Wild Green Yonder: Part 3",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTk4NDI1NDktMTA5Yi00NTc0LWJmMGMtNTJiN2M5YjkxZTMwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1320,
+    "plot": "Bender and Zapp Brannigan team up to capture Leela by using an unwitting Fry. Fry learns more about the Dark Ones, who strike at a new victim. And the Nimbus chases the Feministas across the miniature golf course galaxy.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 714
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 8,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt13019162",
+    "title": "Into the Wild Green Yonder: Part 4",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzVmNDQwZGMtMmRmYy00YjgyLTkwMWItZTZlZTgxMDI3YjEwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1320,
+    "plot": "The Feministas face the Supreme Court over their 'crimes' but Bender has his own ideas about their fate. As Leo Wong prepares to destroy the Violet Dwarf Star, Fry must decide what the right thing to do is. Then the Dark One arrives.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 741
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 8,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt1620650",
+    "title": "Rebirth",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ3NjE1MDA2MV5BMl5BanBnXkFtZTgwNjcyMjIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "After the events of Over The Wild Green Yonder, Leela is put in an irreversible coma. Fry must find a way to cope with his loss, so he builds a robotic Leela.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2921
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt1630891",
+    "title": "In-A-Gadda-Da-Leela",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQyMDg3MjI2Ml5BMl5BanBnXkFtZTgwMjE2NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Zapp and Leela are alone on an unknown planet after their mission to destroy a death star fails, while the rest of the gang tries to save Earth from being the star's next victim.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 2643
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt1630892",
+    "title": "Attack of the Killer App",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTEyMjczNzIyNjheQTJeQWpwZ15BbWU4MDQxNjcxMjIx._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Fry and Bender compete to see who can get the most fans on their Twitter-like application on their new eyePhones, not knowing that it's actually part of Mom's evil conspiracy to unleash a new virus on people's brains.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2691
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 7,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt1630893",
+    "title": "Proposition Infinity",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjIzOTQxODk5OF5BMl5BanBnXkFtZTgwNzE2NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "Amy gets together with Bender after Kif breaks up with her, which catches the ire of Dr. Farnsworth and others who oppose human-robot relationships.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 2500
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 7,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt1630894",
+    "title": "The Duh-Vinci Code",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ1OTU5MDUxMF5BMl5BanBnXkFtZTgwMDM2NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Professor Farnsworth accidentally uncovers the blueprint for a mysterious Leonardo da Vinci invention, and he and his crew travel to Rome for answers.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 2486
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt1630895",
+    "title": "Lethal Inspection",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA1NjQ3MzgxMl5BMl5BanBnXkFtZTgwMjQ2NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "Bender discovers that he has no backup capabilities--meaning that he is mortal, and he and Hermes travel to Mexico so that he can take out his frustrations on his inspector.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 3053
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt1630896",
+    "title": "The Late Philip J. Fry",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY3NDQxMjk1OF5BMl5BanBnXkFtZTgwNTA2NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "Fry agrees to travel one minute into the future in Farnsworth's new time machine right before a big date with Leela, but they wind up going far into the future with no way to go back in time.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 4624
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 7,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt1630897",
+    "title": "That Darn Katz!",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjg1ODc4MjY0Nl5BMl5BanBnXkFtZTgwNTM2NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "A sinister cat uses Amy's failed dissertation to launch his plan to save his home planet by destroying Earth.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 2360
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 8,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt1630898",
+    "title": "A Clockwork Origin",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTk1MTM5MTk1N15BMl5BanBnXkFtZTgwMzI2NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "After a dispute with creationists, Farnsworth flees with the others to a remote, uninhabited planet. Upon releasing microrobots in a pond, non-organic life begins to evolve on the planet.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2472
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 8,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt1630882",
+    "title": "The Prisoner of Benda",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTQyMzY1OF5BMl5BanBnXkFtZTgwNjY1NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "The Professor's body swapping experiment produces a result he didn't have in mind.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 2559
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 8,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt1630883",
+    "title": "Lrrreconcilable Ndndifferences",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDMwNDIwN2QtMTllYy00MzU5LTg0ZjYtZjBhY2Y0NTA5NjA1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "7",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1320,
+    "plot": "Lrrr is being pressured to conquer Earth.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 2239
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 8,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt1630884",
+    "title": "The Mutants Are Revolting",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWM5ZTJkNjMtOGRlZC00Nzk0LTkxZGEtNzJmMDExYzA3OGYxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "7",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1320,
+    "plot": "Fry accidentally reveals that Leela is a mutant, so she is banished to the sewers where all mutants must live. Not willing to accept this, Leela and Fry organize the mutant uprising against this segregation.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2213
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 9,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt1630885",
+    "title": "The Futurama Holiday Spectacular",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY1OTczOTg2M15BMl5BanBnXkFtZTgwNDc1NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1320,
+    "plot": "Three separate holiday stories: X-mas, Robanaca and Kwanzaa. 1. Once more Robot Santa comes to town. Besides the violence he spreads, this time he sings to the crew of the pine tree that are needed for a proper \"X-mas\". The only problem is that the pine trees have been extinct for over 800 years. However they manage to get some seeds, reforesting the earth. As the oxygen levels explode Bender causes the whole earth to catch fire. 2. Several weeks later, out of laziness Bender insists on celebrating the fake \"Robanaca\". For the traditional oil wrestling he needs petroleum oil but all petroleum resources are empty. The Professor tells him that a small quantity might be left, buried deep inside the earth and the quest begins. The ship crashes and 500 Million years later Bender alone returns to the surface bringing with him petroleum oil that originates from the remains of the others. 3. The unrelated conclusion: Everybody are celebrating \"Kwanzaa\" at Hermes' home. Kwanzaa-bot breaks through the wall and explains the tradition of Kwanzaa where beeswax plays is needed for the special Kwanzaa-candles. Of course they have run out of it, so they have to fly to the space bees hive to get some. When they arrive they find out the bees are infected and going crazy. Finally the spirit of Kwanzaa kills the parasites and the space bees unite to attack the crew.",
+    "rating": {
+      "aggregateRating": 6.4,
+      "voteCount": 2300
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 11,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt1630886",
+    "title": "Neutopia",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQxNDU2NjY1OV5BMl5BanBnXkFtZTgwMzc1NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "8",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "To avoid an imminent bankruptcy, the \"Planet Express\" is converted into an airline company, but on its the first flight the airliner crash-lands on a strange planet.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 2357
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 6,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt1630887",
+    "title": "Benderama",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUzMDc4Njc1N15BMl5BanBnXkFtZTgwNzQ1NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "8",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Professor invents a device that creates two half-sized duplicates of any object. Bender uses this device to create copies of himself, so he doesn't have to work, but things quickly get out of control.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2308
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 6,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt1630888",
+    "title": "Ghost in the Machines",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ5MDg1NzU1Ml5BMl5BanBnXkFtZTgwMDA2NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "8",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Fry believes that a human life is more important than a robot life, so Bender decides to kill himself again, only this time he really follows through. But instead of dying he turns into a ghost that haunts Fry.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2168
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 6,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt1630889",
+    "title": "Law and Oracle",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE4ODQxMl5BMl5BanBnXkFtZTgwMTU1NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "8",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "Fry realizes he's stuck in a dead-end job, so he quits and enrolls in the police academy.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2315
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 7,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt1630890",
+    "title": "The Silence of the Clamps",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUwMzEyMjUzMV5BMl5BanBnXkFtZTgwNzM2NzEyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "8",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Bender testifies in open court against Donbot, and has to go into Witness Relocation Program, because the entire robot mafia is now after him.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2152
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 7,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt1642353",
+    "title": "Yo Leela Leela",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQxMTk1OTUxMV5BMl5BanBnXkFtZTgwMzkyNjIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "8",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "Against all odds, Leela manages to write a successful children's story, which becomes a huge TV hit.",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 2169
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 7,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt1642354",
+    "title": "All the Presidents' Heads",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI1Mzc1ODgzOF5BMl5BanBnXkFtZTgwMzEzNjIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "8",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "The crew changes the outcome of the American revolution when they travel back in time.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 2118
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 7,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt1642355",
+    "title": "Möbius Dick",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ5YzFhNzMtZDRiOS00ZDQ5LTk4MDUtNzhlZDBhOGY2N2E4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "8",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "While traveling through the Bermuda Tetrahedron, the crew encounters a giant four-dimensional space whale.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 2131
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt1642356",
+    "title": "Fry Am the Egg Man",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmYzMGZmMTktNTAxZC00M2IwLWFhODEtNmJmZTYzNjEzNzJlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "8",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "Leela buys some alien eggs, and Fry decides to hatch one of them instead of eating it, hoping to get a pet bird, but gets something else instead.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 2043
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt1642357",
+    "title": "The Tip of the Zoidberg",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQyNTA5MzIxMF5BMl5BanBnXkFtZTgwNzEzNjIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "8",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "The Professor consistently refuses to fire Zoidberg, despite his complete incompetence in medicine. The reason for such devotion is finally revealed.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2172
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt1642358",
+    "title": "Cold Warriors",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ3NTA5MDAyNV5BMl5BanBnXkFtZTgwMjgyNjIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "8",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1320,
+    "plot": "Fry gets the common cold, which is bad news for 31st century Earth, where the common cold has been extinct for so long, no one is immune to it.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2166
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt1642359",
+    "title": "Overclockwise",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjE5MTg0MTE1NF5BMl5BanBnXkFtZTgwNzAzNjIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "8",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1320,
+    "plot": "Cubert overclocks Bender's CPU to make him more powerful, but that creates some unexpected results. Meanwhile, Leela decides to dump Fry and move on.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2217
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt1642360",
+    "title": "Reincarnation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU1NjAyMzAxNF5BMl5BanBnXkFtZTgwMTkyNjIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "8",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1320,
+    "plot": "The gang is reincarnated as 1930s black and white cartoons, 1980s 8-bit video game characters, and Japanese anime heroes.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2391
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt1952190",
+    "title": "The Bots and the Bees",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA3NjYxOTU4M15BMl5BanBnXkFtZTcwNTU4Mjc5Nw@@._V1_.jpg",
+      "width": 1919,
+      "height": 1073
+    },
+    "season": "9",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "Bender fathers a child with the office beverage machine.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2362
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 6,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt2005609",
+    "title": "A Farewell to Arms",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTg2NjU5NTYxM15BMl5BanBnXkFtZTgwMDg0MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "9",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Earth gets evacuated after a prediction of the end of the planet.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2132
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 6,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt2005617",
+    "title": "Decision 3012",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGI4YWE2Y2QtMzA1MS00ODU1LTllNTItYTQ1YzQxYWRhNWU3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "9",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "The Planet Express crew gets involved in the running campaigns for the new world presidency.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2169
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 6,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt2005618",
+    "title": "The Thief of Baghead",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTc1NTE3MjExN15BMl5BanBnXkFtZTgwOTg0MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "9",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "Bender gets his friends in trouble by becoming a paparazzo.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 2058
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt2005619",
+    "title": "Zapp Dingbat",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTQ3NDljM2ItOWM5MS00ZDZjLWE5MWMtMTQ0NjdjYjUzODQ5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "9",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Leela's parents break up and while Leela's mother starts dating, her father picks up his youthful antics.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 2022
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt2005620",
+    "title": "The Butterjunk Effect",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2U3N2Y1ZjYtMjFmMC00OWQ1LWIxN2UtODc1NTg2NDA4MGMzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "9",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "Leela and Amy get involved in the tough world of the butterfly derby sport.",
+    "rating": {
+      "aggregateRating": 6.9,
+      "voteCount": 2066
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt2005621",
+    "title": "The Six Million Dollar Mon",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA5MTQ3OTY3MV5BMl5BanBnXkFtZTgwOTk0MDIyMjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "9",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "After Hermes gets replaced by a machine he gets himself upgraded to become useful again for the company.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 2066
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt2005622",
+    "title": "Fun on a Bun",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjBjMDA1ODgtMmE3MS00MjZkLWE3NDgtODA4MDU5ZWU0ZmRlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "9",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "When Fry gets trapped in ice during Oktoberfest he is mistaken for a caveman and accepted in the isolated world of the Neanderthals. Convinced he is a Neanderthal himself he decides to plot a war against the stuck up Homo Sapiens.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2108
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt2005623",
+    "title": "Free Will Hunting",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGRhOGI2M2UtMWE1MC00N2MyLWJlNjEtZmUzNDVlZjdkODNhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "9",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "After Bender realizes he has no power over the decisions he makes, he goes on a soul searching trip to liberate himself from the shackles of his pre-deterministic operation system.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 2010
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt2005599",
+    "title": "Near-Death Wish",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmRjNzQ1ZTgtNmI0My00NzBiLWIyNmEtZjgzZjE3NzQ0YjFkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1508,
+      "height": 1080
+    },
+    "season": "9",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "After Fry has a quarrel with Professor Farnsworth about family issues, Fry looks up Farnsworth's parents and lets them spend time together.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2088
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt2005601",
+    "title": "Viva Mars Vegas",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWEzNWVmNzUtZjBhOS00ZTQ3LTliMzYtYzU0NzJiMDU2MGFmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "9",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1320,
+    "plot": "The Planet Express crew goes gambling in Mars Vegas where they risk far more than losing their chips.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1978
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt2005600",
+    "title": "31st Century Fox",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZThkYWNmOWYtNTcwZC00MDM2LTlhN2YtMjdkYjg4MDA0YjA2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "9",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1320,
+    "plot": "When Bender joins the local Fox Hunting Club ethical questions about killing things arise.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 1996
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt2005602",
+    "title": "Naturama",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGJkYjMwOTktNTBlMS00ZDIzLTkzNmQtZjA3MTA3NTcyNmJhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "9",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1320,
+    "plot": "A humorous mockumentary about nature.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 2208
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 29
+    }
+  }
+]

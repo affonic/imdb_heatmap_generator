@@ -1,0 +1,878 @@
+[
+  {
+    "id": "tt4593118",
+    "title": "Chapter One: The Vanishing of Will Byers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUwNTE0ODYzOF5BMl5BanBnXkFtZTgwOTc0ODE0OTE@._V1_.jpg",
+      "width": 3600,
+      "height": 2405
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2820,
+    "plot": "On his way home from a friend's house, young Will sees something terrifying. Nearby, a sinister secret lurks in the depths of a government lab",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 30969
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt4593122",
+    "title": "Chapter Two: The Weirdo on Maple Street",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzNmZGI4ZGItODUzNi00NmE3LWJjOWYtZTQwOTQzMGE3YjA2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 960
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3300,
+    "plot": "Lucas, Mike and Dustin try to talk to the girl they found in the woods. Meanwhile, Hopper questions an anxious Joyce about an unsettling phone call.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 27376
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt4593126",
+    "title": "Chapter Three: Holly, Jolly",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjMwNzQ4ODkzMl5BMl5BanBnXkFtZTgwNzY0ODE0OTE@._V1_.jpg",
+      "width": 3840,
+      "height": 1918
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3060,
+    "plot": "An increasingly concerned Nancy looks for Barb and finds out what Jonathan's been up to. Joyce is convinced Will is trying to talk to her.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 27158
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt4593124",
+    "title": "Chapter Four: The Body",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI2MTc2MzEwNF5BMl5BanBnXkFtZTgwNzc0ODE0OTE@._V1_.jpg",
+      "width": 5120,
+      "height": 2876
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2940,
+    "plot": "Refusing to believe Will is dead, Joyce tries to connect with her son. The boys give Eleven a makeover. Jonathan and Nancy form an unlikely alliance.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 26784
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt4593128",
+    "title": "Chapter Five: The Flea and the Acrobat",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ5Mjc0Njg2Ml5BMl5BanBnXkFtZTgwOTg0ODE0OTE@._V1_.jpg",
+      "width": 5872,
+      "height": 3922
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3120,
+    "plot": "Hopper breaks into the lab to find the truth about Will's death. The boys try to locate the \"gate\" that will take them to Will.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 25341
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt4593132",
+    "title": "Chapter Six: The Monster",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTQ1ZmZhMDYtN2VlNS00YjE3LTg2MmQtNDM1ZjU5YTIzM2RiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 960
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2760,
+    "plot": "A frantic Jonathan looks for Nancy in the darkness, but Steve's looking for her, too. Hopper and Joyce uncover the truth about the lab's experiments.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 25251
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt4593134",
+    "title": "Chapter Seven: The Bathtub",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGU3YjBlYzQtMTBkYy00OTc5LTgyMmQtY2JjYjI4Nzg1OGI5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 960
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2460,
+    "plot": "The government comes searching for Eleven. Eleven looks for Will and Barb in the Upside Down.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 26365
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt4593138",
+    "title": "Chapter Eight: The Upside Down",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTEzNzk3MDY5MDdeQTJeQWpwZ15BbWU4MDg4NDgxNDkx._V1_.jpg",
+      "width": 5120,
+      "height": 2876
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 3240,
+    "plot": "Joyce and Hopper are taken in for questioning. Nancy and Jonathan prepare to fight the monster and save Will.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 30770
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt6020684",
+    "title": "Chapter One: MADMAX",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTkyODU5NTEwN15BMl5BanBnXkFtZTgwODg3MzcyNDM@._V1_.jpg",
+      "width": 2048,
+      "height": 952
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2880,
+    "plot": "As the town preps for Halloween, a high-scoring rival shakes things up at the arcade, and a skeptical Hopper inspects a field of rotting pumpkins.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 24392
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt6020792",
+    "title": "Chapter Two: Trick or Treat, Freak",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQwMjE1ODc4NV5BMl5BanBnXkFtZTgwMzA4MzcyNDM@._V1_.jpg",
+      "width": 2048,
+      "height": 952
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3360,
+    "plot": "After Will sees something terrible on trick-or-treat night, Mike wonders whether Eleven's still out there. Nancy wrestles with the truth about Barb.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 22919
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt6020796",
+    "title": "Chapter Three: The Pollywog",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA1NDQ2MjM5MV5BMl5BanBnXkFtZTgwMjg4MzcyNDM@._V1_.jpg",
+      "width": 2048,
+      "height": 952
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3060,
+    "plot": "Dustin adopts a strange new pet, and Eleven grows increasingly impatient. A well-meaning Bob urges Will to stand up to his fears.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 22455
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt6020802",
+    "title": "Chapter Four: Will the Wise",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWVmODQxYWUtYmZkYS00MzRlLWFhYzktNjZlOWU3MzJlN2QzXkEyXkFqcGc@._V1_.jpg",
+      "width": 8192,
+      "height": 4320
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2760,
+    "plot": "An ailing Will opens up to Joyce -- with disturbing results. While Hopper digs for the truth, Eleven unearths a surprising discovery.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 22185
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt6020806",
+    "title": "Chapter Five: Dig Dug",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODI0NDQ4ZDYtYWQ2ZS00M2U1LTlhODAtZDIyOTk4OWRlZjg5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1904,
+      "height": 956
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3480,
+    "plot": "Nancy and Jonathan swap conspiracy theories with a new ally as Eleven searches for someone from her past. \"Bob the Brain\" tackles a difficult problem.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 22652
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt6020808",
+    "title": "Chapter Six: The Spy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzRkM2Y0OWEtNTNmNS00MzM4LThiMTItNWMxODFiOWZkM2JjXkEyXkFqcGc@._V1_.jpg",
+      "width": 8000,
+      "height": 3720
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3060,
+    "plot": "Will's connection to a shadowy evil grows stronger but no one's quite sure how to stop it. Elsewhere, Dustin and Steve forge an unlikely bond.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 24270
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt6020810",
+    "title": "Chapter Seven: The Lost Sister",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI3NTI4MjA5OF5BMl5BanBnXkFtZTgwMzg0NDcxNDM@._V1_.jpg",
+      "width": 2048,
+      "height": 952
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2700,
+    "plot": "Psychic visions draw Eleven to a band of violent outcasts and an angry girl with a shadowy past.",
+    "rating": {
+      "aggregateRating": 6.1,
+      "voteCount": 33419
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt6020812",
+    "title": "Chapter Eight: The Mind Flayer",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzdiMTYyMDQtNDg4Mi00MDY3LTg2NzMtN2NkYWY4MjBlZjgxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1912,
+      "height": 956
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2820,
+    "plot": "An unlikely hero steps forward when a deadly development puts the Hawkins lab on lockdown, trapping Will and several others inside.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 26167
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt6020876",
+    "title": "Chapter Nine: The Gate",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTc4NTE2MjcxMV5BMl5BanBnXkFtZTgwOTg4MzcyNDM@._V1_.jpg",
+      "width": 2048,
+      "height": 952
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 3720,
+    "plot": "Eleven makes plans to finish what she started while the survivors turn up the heat on the monstrous force that's holding Will hostage.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 28974
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt7445494",
+    "title": "Chapter One: Suzie, Do You Copy?",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjk2MTIxNDYtYzM3Zi00OThhLWJiYmQtMmNkNDI5ZjBlMWFjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1440,
+      "height": 717
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3060,
+    "plot": "Summer brings new jobs and budding romance. But the mood shifts when Dustin's radio picks up a Russian broadcast, and Will senses something is wrong.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 25705
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt7640050",
+    "title": "Chapter Two: The Mall Rats",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWQ4NmUyMDktNTBmZC00NjNjLTkyMDYtMjQ3YTFjMWFjNTRiXkEyXkFqcGc@._V1_.jpg",
+      "width": 4000,
+      "height": 2000
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3060,
+    "plot": "Nancy and Jonathan follow a lead, Steve and Robin sign on to a secret mission, and Max and Eleven go shopping. A rattled Billy has troubling visions.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 23583
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt7911866",
+    "title": "Chapter Three: The Case of the Missing Lifeguard",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmNhZmRkY2MtMzc0NC00ZTBkLTg2ZGEtOTJhMTAxMTA0NGE2XkEyXkFqcGc@._V1_.jpg",
+      "width": 6000,
+      "height": 3000
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2940,
+    "plot": "With El and Max looking for Billy, Will declares a day without girls. Steve and Dustin go on a stakeout, and Joyce and Hopper return to Hawkins Lab.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 22825
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt7911884",
+    "title": "Chapter Four: The Sauna Test",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGFiYmYxN2UtZjFmNi00YzljLWIwNTEtMGUwNWM5MDU3ZGVlXkEyXkFqcGc@._V1_.jpg",
+      "width": 6000,
+      "height": 3000
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3120,
+    "plot": "A code red brings the gang back together to face a frighteningly familiar evil. Karen urges Nancy to keep digging, and Robin finds a useful map.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 24431
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt7911894",
+    "title": "Chapter Five: The Flayed",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY4OTkxMDE0N15BMl5BanBnXkFtZTgwOTk0ODk2NzM@._V1_.jpg",
+      "width": 2048,
+      "height": 1024
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3060,
+    "plot": "Strange surprises lurk inside an old farmhouse and deep beneath the Starcourt Mall. Meanwhile, the Mind Flayer is gathering strength.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 22326
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt7911914",
+    "title": "Chapter Six: E Pluribus Unum",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2I4ZGI4M2MtYTllMy00NTQ3LTlmNTctMzg3YzRlOTBhODQwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 630
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3540,
+    "plot": "Dr. Alexei reveals what the Russians have been building, and Eleven sees where Billy has been. Dustin and Erica stage a daring rescue.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 22495
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt7911930",
+    "title": "Chapter Seven: The Bite",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTFmYWQ4YTItN2YwZC00M2UyLTk5ODItZmFjNTZhMmExMGRhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 595
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3300,
+    "plot": "With time running out - and an assassin close behind - Hopper's crew races back to Hawkins, where El and the kids are preparing for war.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 23233
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt7911942",
+    "title": "Chapter Eight: The Battle of Starcourt",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTJmYmI2NmEtNDY2YS00MTQ1LWI4ZmUtNzE3ZGQ0NTM3NzA4XkEyXkFqcGc@._V1_.jpg",
+      "width": 2890,
+      "height": 1414
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 4560,
+    "plot": "Terror reigns in the food court when the Mind Flayer comes to collect. But down below, in the dark, the future of the world is at stake.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 34305
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt11043488",
+    "title": "Chapter One: The Hellfire Club",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGMzOTE5YTQtYzM0MS00MDk1LWEwYTgtOWEyMmMyZDczZjM4XkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 1920
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "runtimeSeconds": 4680,
+    "plot": "Still reeling from the events last year, the gang tries to move on with their lives. However, a threat is brewing both on Earth and the Upside Down.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 26691
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt11171932",
+    "title": "Chapter Two: Vecna's Curse",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjIxNjg1NTYtYmUwMS00MWFiLWI0YzEtYzdjOTM5NzM3OGVlXkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 993
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "runtimeSeconds": 4620,
+    "plot": "A plane brings Mike to California -- and a dead body brings Hawkins to a halt. Nancy goes looking for leads. A shaken Eddie tells the gang what he saw.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 23517
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt11171954",
+    "title": "Chapter Three: The Monster and the Superhero",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTZlYTJmMGMtOTRjZS00ZDBkLWJlZWEtMTNiNDcyODMzMmFmXkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 1912
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3780,
+    "plot": "Murray and Joyce fly to Alaska, and El faces serious consequences. Robin and Nancy dig up dirt on Hawkins' demons. Dr. Owens delivers sobering news.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 22725
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt11171978",
+    "title": "Chapter Four: Dear Billy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDgwMDIzZTgtYWIyYy00OTkyLWEyZDgtOTM4OWRhNjBhZjY1XkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 1901
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "runtimeSeconds": 4680,
+    "plot": "Max is in grave danger - and running out of time. A patient at Pennhurst Asylum has visitors. Elsewhere, in Russia, Hopper is hard at work.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 42384
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt11172000",
+    "title": "Chapter Five: The Nina Project",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjVmMDBjYWYtYjgwOS00NDdhLThiNmUtZGQ3YTFiYWYyZGFlXkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 1901
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "runtimeSeconds": 4560,
+    "plot": "Owens takes El to Nevada, where she's forced to confront her past, while the Hawkins kids comb a crumbling house for clues. Vecna claims another victim.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 21888
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt11172012",
+    "title": "Chapter Six: The Dive",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjIzMzQxOWYtZmY3Mi00YjU4LThkNDEtMjY3MjU1MzQ1ZTJhXkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 1920
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "runtimeSeconds": 4500,
+    "plot": "Behind the Iron Curtain, a risky rescue mission gets underway. The California crew seeks help from a hacker. Steve takes one for the team.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 22389
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt11172022",
+    "title": "Chapter Seven: The Massacre at Hawkins Lab",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWU4MGUyZmUtMTdiNC00MzJkLWI2ZGYtZWFkMThmOGE3OGZkXkEyXkFqcGc@._V1_.jpg",
+      "width": 2125,
+      "height": 1235
+    },
+    "season": "4",
+    "episodeNumber": 7,
+    "runtimeSeconds": 5880,
+    "plot": "As Hopper braces to battle a monster, Dustin dissects Vecna's motives -- and decodes a message from beyond. El finds strength in a distant memory.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 46241
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 5,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt11172054",
+    "title": "Chapter Eight: Papa",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjc4MWI3MTctYTFkYy00MzM5LTlhMmMtODdmMWZlMWIzZDNmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 633
+    },
+    "season": "4",
+    "episodeNumber": 8,
+    "runtimeSeconds": 5100,
+    "plot": "Nancy has sobering visions, and El passes an important test. Back in Hawkins, the gang gathers supplies and prepares for battle.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 24547
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 7,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt12810166",
+    "title": "Chapter Nine: The Piggyback",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjYyNTk0ZDAtZjlhYi00Y2EwLTlhM2MtZDEwMzFiY2Q1Y2E4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 960
+    },
+    "season": "4",
+    "episodeNumber": 9,
+    "runtimeSeconds": 8340,
+    "plot": "With selfless hearts and a clash of metal, heroes fight from every corner of the battlefield to save Hawkins - and the world itself.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 36600
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 7,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt18268644",
+    "title": "Chapter One: The Crawl",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTU0NWE4YzEtYzY0MS00OWI5LTkzOTItOGU4MjhmNjU2YTA5XkEyXkFqcGc@._V1_.jpg",
+      "width": 5319,
+      "height": 2992
+    },
+    "season": "5",
+    "episodeNumber": 1,
+    "releaseDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt21914626",
+    "title": "Chapter Two: The Vanishing of",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWYxYjM2NjEtM2FlNC00OWQ2LTljNjktZDhkNDk3ZGY4ZDRlXkEyXkFqcGc@._V1_.jpg",
+      "width": 3831,
+      "height": 1712
+    },
+    "season": "5",
+    "episodeNumber": 2,
+    "releaseDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt21912360",
+    "title": "Chapter Three: The Turnbow Trap",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDYwMTQ2MGQtOTVlOC00NWU3LWE0ZDMtMjVmZWQ1ZWUyNTQ1XkEyXkFqcGc@._V1_.jpg",
+      "width": 2900,
+      "height": 1446
+    },
+    "season": "5",
+    "episodeNumber": 3,
+    "releaseDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt21914648",
+    "title": "Chapter Four: Sorcerer",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1500,
+      "height": 2222
+    },
+    "season": "5",
+    "episodeNumber": 4,
+    "releaseDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt21912384",
+    "title": "Chapter Five: Shock Jock",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1500,
+      "height": 2222
+    },
+    "season": "5",
+    "episodeNumber": 5,
+    "releaseDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt21912386",
+    "title": "Chapter Six: Escape from Camazotz",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1500,
+      "height": 2222
+    },
+    "season": "5",
+    "episodeNumber": 6,
+    "releaseDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt21912390",
+    "title": "Chapter Seven: The Bridge",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1500,
+      "height": 2222
+    },
+    "season": "5",
+    "episodeNumber": 7,
+    "releaseDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt21914684",
+    "title": "Chapter Eight: The Rightside Up",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1500,
+      "height": 2222
+    },
+    "season": "5",
+    "episodeNumber": 8,
+    "releaseDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 31
+    }
+  }
+]
