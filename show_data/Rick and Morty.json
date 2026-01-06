@@ -1,0 +1,1828 @@
+[
+  {
+    "id": "tt2169080",
+    "title": "Pilot",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjIwYzBiNjUtMGRhMS00NjE4LWJiOTctNjRiZmEzMmIyYjg5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "A strangely eccentric genius scientist and inventor moves into the home of his daughter and her family and begins to strongly influence his young grandson.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 19646
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 12,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt3333824",
+    "title": "Lawnmower Dog",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGE0NWM3NTEtMjY1NS00YmExLWE1ZWUtNDI2NmJjZTVlN2NiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 608
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Jerry is tired of the family's dog being so dumb, so Rick builds a device to make it smarter, however the dog becomes a little too efficient. Rick takes Morty into the mind of his maths teacher.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 19451
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 12,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt3333828",
+    "title": "Anatomy Park",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTdhNDRkYzMtNGYyYS00ODU4LWJjMGEtNGNjMTY3YTI5YmMzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "It's Christmas. Rick shrinks Morty, injecting him into a homeless man to save Anatomy Park. Jerry tries to have a Christmas free of electronic devices, but regrets his decision when his parents introduce him to their new friend.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 17773
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 12,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt3333830",
+    "title": "M. Night Shaym-Aliens!",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGU2ZjJkNGMtNjViOS00ZjEyLTgxOTEtNjY1YmUyODFmYTkzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1088
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "Morty wakes up in a world where everyone wants to be his friend, but only if he hands over the secret to making concentrated dark matter. Rick quickly discovers they are trapped inside a simulation ran by aliens.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 17730
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt3333832",
+    "title": "Meeseeks and Destroy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTA1NmM5ZmUtYWMxZi00NWZlLTg0M2MtMDBjZmUyNmIwZDAzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1088
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Rick provides the family with a solution to their problems, freeing him up to go on an adventure led by Morty.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 19784
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt3333834",
+    "title": "Rick Potion #9",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDkxODhhZDAtNDc4Yi00ZGU4LWI0YTAtYzAwNTY1MDk4MDRkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "After Rick gives Morty a love potion for a school dance, things quickly spiral out of control when the serum splices with the flu - causing it to spread. Rick and Morty scramble to cure the crisis, making matters worse in the process.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 19604
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt3333836",
+    "title": "Raising Gazorpazorp",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmU2NmQ2MWEtZTFmYy00NDExLWI3NzQtNDg3MTE4ZjdlNTY4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1088
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1380,
+    "plot": "Morty becomes a father to an alien baby, while Rick and Summer get trapped in a dangerous dimension.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 16277
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt3333838",
+    "title": "Rixty Minutes",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGEyOTJkNDEtZGZiNi00NWJjLWEyZTEtYTRiYTMxMDA2Mzk3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1088
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1380,
+    "plot": "Rick hooks up the family's TV with interdimensional cable, allowing them to watch infinite TV from across the multiverse.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 17828
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt3333840",
+    "title": "Something Ricked This Way Comes",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMThjMDY1MzctMmEzMi00YjkwLTg5ZTktNWJjOTg1NTc5ZDlmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1088
+    },
+    "season": "1",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1380,
+    "plot": "Summer gets a job at a pawn shop owned by the devil. Jerry helps Morty with his science fair project.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 16085
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt3333846",
+    "title": "Close Rick-Counters of the Rick Kind",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmMxOTFmZGItOWI4Yy00ZDgwLWI3YzAtNDkyYzkxYmQxMjdlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1334,
+      "height": 750
+    },
+    "season": "1",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1380,
+    "plot": "Rick, falsely blamed for Murder by the council of Ricks, begins a cross-dimensional pursuit with the authorities while attempting to prove his innocence.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 20443
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt3333854",
+    "title": "Ricksy Business",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmU0NjkyOGUtMjk3MS00YzkwLTk2MTctNzhkMmQwZmYxOWJkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1090
+    },
+    "season": "1",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1380,
+    "plot": "Beth and Jerry head for an iceberg of a date leaving Rick in charge. Morty doesn't get to go on any more adventures if the house isn't in the same condition when they get back.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 15820
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt28608181",
+    "title": "Episode #10.1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 1920
+    },
+    "season": "10",
+    "episodeNumber": 1
+  },
+  {
+    "id": "tt34067847",
+    "title": "Episode #11.1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 1920
+    },
+    "season": "11",
+    "episodeNumber": 1
+  },
+  {
+    "id": "tt34067848",
+    "title": "Episode #12.1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 1920
+    },
+    "season": "12",
+    "episodeNumber": 1
+  },
+  {
+    "id": "tt4462494",
+    "title": "A Rickle in Time",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmE3MjdiOGQtZjg3Ni00MzcwLTg1ZTYtMzFmNTM2MTRiZGFmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1090
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1380,
+    "plot": "Having restarted time, Rick, Morty and Summer are in a quantum-uncertain state of existence. An argument leads to the creation of two alternate timelines, which need to be stitched back together fast if they are to escape quantum collapse.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 17624
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt4832254",
+    "title": "Mortynight Run",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTUzMTNiZjAtNzBhZi00NDhlLWI2ZTctYTY5ZTVkNWQwM2MzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1170,
+      "height": 658
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1380,
+    "plot": "Rick and Morty try to save a gas life form while Jerry resides in a daycare made for Jerrys.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 16686
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 8,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt4832260",
+    "title": "Auto Erotic Assimilation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWQwOWFkZWUtOGYzMi00YmE5LTkzZWQtZmM1ZDVkNzRmZTk2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1450,
+      "height": 815
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1380,
+    "plot": "Rick, Morty, and Summer go to an idyllic planet controlled by a hive mind Rick has a surprising history with. Jerry and Beth go to couples therapy.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 16122
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 8,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt4832262",
+    "title": "Total Rickall",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjIxNWI3NDUtNDUyNy00Y2JhLWFmZGQtZjRlMjVkNjMwYzk0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "The Smith house is locked down after parasites threaten to take over the world by multiplying through flashbacks.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 23343
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 8,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt4832266",
+    "title": "Get Schwifty",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGM3NTRhOWYtNGUxNS00ZjQ2LWE0YTAtMGVkY2E0MWY2OGNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1090
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1440,
+    "plot": "Rick and morty must aid Earth after a giant head disrupts the planet, demanding to see a hit song performed.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 16052
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 8,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt4832268",
+    "title": "The Ricks Must Be Crazy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjc0NGJiN2ItNjkxNy00MmM1LWJkOWYtOWEzMjU2NDRhMGE4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1168,
+      "height": 659
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1380,
+    "plot": "Rick's car has a dead battery so him and Morty try and fix it, which of course entails travelling to a micro civilization inside the battery.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 19377
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 8,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt4832272",
+    "title": "Big Trouble in Little Sanchez",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDZlZDdiODMtNzBhYy00OWY0LWJhNzMtM2YxMzIxNDk3NWFhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1450,
+      "height": 816
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1380,
+    "plot": "Rick joins in on some hijinks by transferring his consciousness into teenage \"Tiny Rick.\" Beth and Jerry sort out their relationship.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 15161
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 9,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt4832274",
+    "title": "Interdimensional Cable 2: Tempting Fate",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTMyNmMwMzUtOThiMi00MDBmLTk5YmYtNGZiZjhkYzBiYjEwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1380,
+    "plot": "Jerry is faced with the difficult decision of losing his manhood in order to save an alien leader from imminent death. Meanwhile, Rick, Morty and Summer explore the possibilities of interdimensional television.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 15649
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 9,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt4832276",
+    "title": "Look Who's Purging Now",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjNlZTE0OTMtNDc4Mi00ZmU5LTg0ZDMtMDBmODg5ZmE1NzI4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1448,
+      "height": 816
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1380,
+    "plot": "Rick and Morty arrive on an alien planet to fix their ship just as the day of the purge begins there, Jerry and Summer work on their father-daughter relationship, but his lack of employment keeps coming up.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 15544
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 9,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt4832278",
+    "title": "The Wedding Squanchers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzA4ZWFiNGMtMGJhOC00MGI3LTkwMjItMDA5MDFlNTM4OGYxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 608
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1380,
+    "plot": "The Smith family is invited to the wedding of Rick's best friend, Birdperson. Things go south when it's discovered that the bride isn't who she says she is.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 19130
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 10,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt5218228",
+    "title": "The Rickshank Rickdemption",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWVlMGE5NGEtZTI4Yi00YWUxLTk2NDktMjRkODhlNGI0MzYxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1449,
+      "height": 816
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "Rick, still in galactic prison, puts an intricate escape plan into action. Back on Earth, which is now under federation control, Morty and Summer have an argument about their grandpa.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 27036
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt5218256",
+    "title": "Rickmancing the Stone",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2Q1MGEzZDYtMmZmYS00MDBkLTgwODAtNTIxNGNjN2VmZTMyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1042
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "With the kids dealing with their parents' divorce, Rick takes them to a Mad Max-style universe where he tries to steal a green crystal from a group of scavengers.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 16065
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 7,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt5218268",
+    "title": "Pickle Rick",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmIwM2IyM2UtOGRlNC00OGE1LTgzZjAtYWZmNjBjOGMyYzI4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1380,
+    "plot": "Rick turns himself into a pickle while Beth, Summer, and Morty go to family therapy.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 24673
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt5218288",
+    "title": "Vindicators 3: The Return of Worldender",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTBiZmRiOWItNjdiZC00NTI0LWI1NTEtYTg2MjU5Njg2OWI1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1380,
+    "plot": "Rick and Morty are summoned by the Vindicators to stop Worldender but end up in a deathtrap conceived by Drunk Rick.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 15904
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt5218310",
+    "title": "The Whirly Dirly Conspiracy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDc3YzIxOTMtOGJmOS00ZDE2LWEyNDEtY2Q2NDhiMmZhMzM3XkEyXkFqcGc@._V1_.jpg",
+      "width": 770,
+      "height": 442
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Rick takes Jerry on a sympathy adventure to a resort where everyone is immortal when there, and Jerry meets some old acquaintances of Rick's who want payback.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 15258
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt5218318",
+    "title": "Rest and Ricklaxation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzBjMWRmMzItZjM2Ny00M2ZjLWJlNGUtNDg2NjVjYjMyYTM3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1013
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "Following a stressful adventure, Rick and Morty go on a break to a spa where they remove their toxins, which in turn take a form of their own.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 16604
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt5218332",
+    "title": "The Ricklantis Mixup",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDYwMjYzNjktMjNkYy00MWFmLWE2ZTgtYmVlNzgyOWI3ZTcwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "While Rick and Morty go off to adventure in Atlantis, we take a look at how the Citadel has rebuilt itself since both Rick and Morty visited.",
+    "rating": {
+      "aggregateRating": 9.8,
+      "voteCount": 40006
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt5218350",
+    "title": "Morty's Mind Blowers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTFhNzFjZDgtZWEzZS00ODZjLWIyMDItMGM5ZTUyMzE3MDlkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "Rick reveals to Morty his \"Morty's mind blowers,\" a collection of memories Morty asked Rick to erase from his mind.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 16251
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt5218370",
+    "title": "The ABCs of Beth",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjdiNWQxMWMtZjEzYS00YmFlLTlkZjEtY2U1ZGI0NWFiNWYyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 608
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "Rick brings Beth to a world he created for her when she was younger while Beth looks for a long-lost childhood friend trapped there for years.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 13973
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt5218386",
+    "title": "The Rickchurian Mortydate",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmYxZTA4OGQtNTE1Yy00NmEzLWE4ZDMtOTUxNjY5MTQ0NTU4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "Rick and Morty are called upon by the president to kill a vicious alien in the secret tunnels under the White House.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 14206
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt7446798",
+    "title": "Edge of Tomorty: Rick Die Rickpeat",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWYyMzRmMWItMTg0MS00MTFmLWI3NmUtZWU2OTJmMTM0ZTY5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "Rick brings Morty to a planet containing crystals that show whoever is touching them all the ways they may die depending on their choices.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 17737
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 11,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt10655676",
+    "title": "The Old Man and the Seat",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWZkNWU2NzEtODZmYS00YTlhLWE5NTItMTBkYzlhMGUyZTczXkEyXkFqcGc@._V1_.jpg",
+      "width": 1334,
+      "height": 750
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Rick goes to his private bathroom to find that someone else has used it. Jerry creates an app with an unlikely alien and Morty pays the price.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 15749
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 11,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt10655678",
+    "title": "One Crew over the Crewcoo's Morty",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTQ5Nzk5ODItYzk3Yy00YzZiLTk1NDktMWQ5NjNhMWU1NTZkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1631,
+      "height": 915
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "On a treasure-seeking expedition in an alien temple, Rick and Morty discover that a heist expert has snatched the prize from under their noses. Further twists, turns and double-crosses abound.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 15219
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 11,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt10655680",
+    "title": "Claw and Hoarder: Special Ricktim's Morty",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjExNzdjNjQtZTMwNi00Zjc2LTkxYWItZGJlNjFlMTAwMWRlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1334,
+      "height": 750
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "Morty asks Rick for a dragon and Rick finds a wizard of another dimension who makes a soul bonding contract between Morty and a dragon called Balthromaw. Meanwhile, Jerry meets a talking cat in his bedroom who wants to fly to Florida.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 15384
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt10655682",
+    "title": "Rattlestar Ricklactica",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGIyOGVkYTUtZTExZi00NWRlLTg3ODUtYWIyNDJiNDc0ODFlXkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 1270
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Morty discovers a race of intelligent space snakes after suffering a potentially lethal bite. Jerry attempts to prove that he isn't completely incompetent.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 14964
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt10655686",
+    "title": "Never Ricking Morty",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmExYjk1N2ItOTk1My00MzA3LWI0NDctNWY2MDZkMzI3MDc5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 976
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1260,
+    "plot": "An anthology episode that follows Rick and Morty on a train with people who don't like Rick. They have to find their way out but they bump into unexpected situations along the way.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 14117
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 5,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt10655690",
+    "title": "Promortyus",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzlhM2JjYmItYWU2Yi00YmVjLWIwODItYjg3Mjk3N2M4YzNjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1064
+    },
+    "season": "4",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1260,
+    "plot": "Rick, Morty and Summer visit an alien civilisation, where Rick and Morty are controlled by parasites and Summer lives a luxurious lifestyle.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 11992
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 5,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt10655692",
+    "title": "The Vat of Acid Episode",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWM5YjMyZjEtYzJmYi00NDgyLWI5N2EtYjE5MzU5ZTRjMTUxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "4",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "Rick & Morty go on a simple exchange as Rick tells Morty if something goes wrong jump into the same vat of acid as he does.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 18997
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 5,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt10655694",
+    "title": "Childrick of Mort",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmM5MzY2ZjYtMTU1MC00ZTAxLTg4NjctMWVjMTM4NTkwYWRlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1631,
+      "height": 918
+    },
+    "season": "4",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "Rick, Morty, Beth, Summer and Jerry share a galactic adventure.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 11769
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 5,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt10655696",
+    "title": "Star Mort Rickturn of the Jerri",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTE3NTIwNTQtMjk1NS00ZjJiLWEwYjItMThkMWYxMzIxOTgwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1629,
+      "height": 916
+    },
+    "season": "4",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "An adventure with an invisibility belt, but a family that disappears together, must stay together.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 13672
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 5,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt12396812",
+    "title": "Mort Dinner Rick Andre",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzI4NTlmOTUtZGQwMi00YWMxLWE1NWQtMjExMjM5ZDBhYjNjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "5",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "Rick is hosting an old 'friend' for dinner and Morty is in charge of fetching the wine. What could possibly go wrong?",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 17344
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 6,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt14889190",
+    "title": "Mortyplicity",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDhkZjg1ZWItYjA5NS00MzYxLTkyNmYtMTA3NjcxNGU0YjllXkEyXkFqcGc@._V1_.jpg",
+      "width": 1630,
+      "height": 918
+    },
+    "season": "5",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "A mysterious attack on the Smith's home by aliens turns even more mysterious when the real identity of the attackers are revealed. The mystery only mystifies when more and more mysterious attackers show up. Needless to say, it's a mystery.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 15336
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 6,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt14889192",
+    "title": "A Rickconvenient Mort",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjg5ZWY1MjQtOWJkMC00MmZlLTgyYWUtYzc3MjUyYmVhOGQ0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 628
+    },
+    "season": "5",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Morty falls in love with an ecological heroine named Planetina, and quickly has trouble with the people that created her. Rick and Summer visit planets that are about to stop existing to have crazy parties and forget their problems.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 14023
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 7,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt14898020",
+    "title": "Rickdependence Spray",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2U1Y2YxZGUtODVjNy00MDY3LTkyM2UtZDdkNDBhMGY5ZjA3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "5",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "Morty has the idea to use a horse breeding mount to extract his semen, but after Rick tries to use it to create a weapon, thinking it was horse sperm, he ends up creating sperm monsters that threaten the entire country.",
+    "rating": {
+      "aggregateRating": 5.7,
+      "voteCount": 16001
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 7,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt15000920",
+    "title": "Amortycan Grickfitti",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2Q2NTg3MDAtOTk2Yy00NTc2LTgwY2UtODNhMzA2ODQwNDgwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "5",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Summer and Morty steal Rick's car to impress a new kid at school. Meanwhile, Rick and Jerry have a guys' night from hell.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 11551
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 7,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt15041140",
+    "title": "Rick & Morty's Thanksploitation Spectacular",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzNlOWRhNjgtMjI0MC00NzBkLTlhYjQtMjA1ZTA0YTQwMmNjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "5",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1380,
+    "plot": "Rick is out to prank the President on Thanksgiving, but a confusion leads to a national crisis. Rick's made a real turkey out of this plan.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 11692
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 7,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt15041318",
+    "title": "Gotron Jerrysis Rickvangelion",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDc4M2FjM2YtY2RjNi00MDVjLWI3MTEtMmMxNmNhNWY2MDEzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "5",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1380,
+    "plot": "Summer enables Rick's addiction to collecting giant combining robots, and the family becomes The Family.",
+    "rating": {
+      "aggregateRating": 6.3,
+      "voteCount": 11247
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 8,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt15041146",
+    "title": "Rickternal Friendshine of the Spotless Mort",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTI1MWE4MDEtNjA3YS00ODZhLTkxYzQtOTE4NTdmM2I5ODEwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1625,
+      "height": 915
+    },
+    "season": "5",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "Rick goes on a (literal) trip down memory lane and meets an old friend.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 11536
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 8,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt15041328",
+    "title": "Forgetting Sarick Mortshall",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGYxM2Q1NWMtMTQ0ZC00YTRkLWIxNzQtODM0NTI4ZGZiZGIzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "5",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1260,
+    "plot": "Rick gets new sidekicks, while Morty makes a new friend.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 10349
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 9,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt15041334",
+    "title": "Rickmurai Jack",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjFhM2M5OWEtZDgxMy00MDE2LTkzOWYtOGRjNTQyMTUxZDA3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1629,
+      "height": 916
+    },
+    "season": "5",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "Morty makes an interesting plead for Rick to come home. Meanwhile in the Citadel of Ricks, a long game played by one particular Morty is reaching its conclusion; once Rick is at his mercy, he can no longer ignore from his past.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 15788
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 9,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt21599650",
+    "title": "Solaricks",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTIwZGRhMDEtOTJlNi00NWQ3LTk2OWEtMWQ3NzZmOTVmMjVmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "6",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "The Smiths deal with last season's fallout, and Rick and Morty are stranded in space floating in the remnants of the Citadel.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 11709
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 9,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt21601996",
+    "title": "Rick: A Mort Well Lived",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI4ZjA5NmMtNWM5YS00YjM3LThlYTktZGUyZjU2NzcyZWE4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "6",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Morty is trapped and Rick needs to save him, but to do so, Summer must do a Die Hard (1988). This won't be easy, because she has never seen it.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 9584
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 9,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt15389382",
+    "title": "Bethic Twinstinct",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWY1OTgwOGYtOGFiMi00NmE0LTgwMzctYTI1N2M5NGM5NTZmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "6",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Thanksgiving brings Space Beth home, with the two Beths forming a bond. Morty has the most realistic gaming console ever.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 9963
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 9,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt21599640",
+    "title": "Night Family",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjI0NzNmYTgtN2ZmMy00NGJhLWIzODctMjMyNDIzMDQ2ZmFjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "6",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "Rick's latest piece of alien technology allows the family to order their sleeping bodies to perform tasks whilst they continue to rest. Whilst the family see immediate benefits, the \"night family\" start to question their side of the deal.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 10225
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 9,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt21599628",
+    "title": "Final DeSmithation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmI1YzNmYjItYjQxYS00NmVlLWE0ZWMtMjNhNzA5MmM3NDk3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1450,
+      "height": 816
+    },
+    "season": "6",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1380,
+    "plot": "After a fortune cookie at Panda Express somehow has the ability to change someone's fate, Rick and Jerry must go on an adventure to stop and steal this ability.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 8998
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt21599634",
+    "title": "Juricksic Mort",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGI3NGZlYjktNjY3Ni00MmU1LThhNWQtNDk3NmIwNzE4Nzc1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "6",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "Seemingly out of the blue, Earth's old rulers return. They make a great case for changing the way society does business, but Rick isn't going to put up with it.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 8373
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt21599638",
+    "title": "Full Meta Jackrick",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDY5OTkxMzItMWRmMS00MDRhLTgyNTgtYjA1ZGY1ZmE0MTQ0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1912,
+      "height": 1077
+    },
+    "season": "6",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1260,
+    "plot": "Rick and Morty find themselves caught in a confusing, meta-powered loop of adventures, leading to a showdown with an unmotivated nemesis.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 8255
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 11,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt21599642",
+    "title": "Analyze Piss",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjhkNzgyZjItNzdhNS00YTVkLTk5ZjItMWQxNDYwYzliZDBmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1918,
+      "height": 1083
+    },
+    "season": "6",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "Tired of being attacked by goofball supervillains, Rick decides to seek advice about why he's always a target, leading to a breakthrough - for Jerry.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 8163
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 11,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt21599652",
+    "title": "A Rick in King Mortur's Mort",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTdlNzlkZjItMjgyZC00YzA1LWJjM2ItMzIxYjAyNzRjY2Q5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1079
+    },
+    "season": "6",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "Morty starts a war on worlds after debunking the entire existence of the Knights of the Sun and is forced to take extreme measures in order to put an end to it all.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 7270
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 12,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt21599658",
+    "title": "Ricktional Mortpoon's Rickmas Mortcation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDI2YjQyMmYtNzE0My00OTAzLWIyOWUtNzdlYmU3ZjE2M2IzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1077
+    },
+    "season": "6",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1380,
+    "plot": "What starts as a merry Christmas in the Smith household takes an ugly turn when Morty uncovers a betrayal thanks to a gift from a galaxy far, far away.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 7174
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 12,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt28244512",
+    "title": "How Poopy Got His Poop Back",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjNkMzNkYWItMmVlMC00YzAxLThjNDUtZDcxODJlZTExNjI5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1334,
+      "height": 750
+    },
+    "season": "7",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "When Mr Poopybutthole stays longer than expected at the Smiths' home, Rick decides to arrange an intervention to help his friend reduce his alcohol use.",
+    "rating": {
+      "aggregateRating": 6.2,
+      "voteCount": 10609
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 10,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt28252882",
+    "title": "The Jerrick Trap",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzkxMmUwMmEtYzUwOS00YmY0LTljYjItNzc2NTAyOTdiYTVkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1652,
+      "height": 925
+    },
+    "season": "7",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Rick and Jerry's minds are accidentally scrambled; they have to learn to set aside their differences to save their family.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 8847
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 10,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt29371866",
+    "title": "Air Force Wong",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODFlYzJkZGQtYTZmZC00YzUwLTkxZmQtNWEyZTUyZDhhN2ZiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1647,
+      "height": 927
+    },
+    "season": "7",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Rick, along with the president and Dr. Wong, deal with a situation when an ex-lover of Rick takes over Virginia.",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 8279
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 10,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt29371869",
+    "title": "That's Amorte",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjBkMTBlMzgtMzQ3Yi00Y2JmLWI4NjQtNmJlOGEwYzY2NDAxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1650,
+      "height": 925
+    },
+    "season": "7",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "Rick and Morty venture into Earth-like planet 41-Kepler-B to solve spaghetti problems.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 10394
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 11,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt29371870",
+    "title": "Unmortricken",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDZhMGE0YWMtYWVlYy00ZTBhLThiNGUtMGFlZTljOGQxNmU0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "7",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Rick is destined to find Rick Prime, when an unexpected person comes to help out.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 13000
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 11,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt29371871",
+    "title": "Rickfending Your Mort",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGUwMzI3ZDAtODAzNC00NWFmLWE0ODItMDA3ZDZmMjFiNzA5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1648,
+      "height": 928
+    },
+    "season": "7",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "Rick hires an Observer to verify Morty's homemade punch cards, but the cosmic all-seeing entity won't stop playing clips from their lives out of spite.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 7830
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 11,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt29371872",
+    "title": "Wet Kuat Amortican Summer",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGE2ZTE1YTgtYWMxOC00OWQ5LTljMjMtM2E0ZDc4NDYxOTExXkEyXkFqcGc@._V1_.jpg",
+      "width": 1448,
+      "height": 815
+    },
+    "season": "7",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "An accident happens at a frolf party, causing Summer and Morty to fuse together, making a kuato?",
+    "rating": {
+      "aggregateRating": 6.4,
+      "voteCount": 7401
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 11,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt29371874",
+    "title": "Rise of the Numbericons: The Movie",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmI1Y2EyMGUtMmYyNS00OTRiLWEwNzItNTQ0YTUxYmRkMzhjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1630,
+      "height": 917
+    },
+    "season": "7",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "Math is hard. Saving the universe is harder.",
+    "rating": {
+      "aggregateRating": 4.4,
+      "voteCount": 10234
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 12,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt29371875",
+    "title": "Mort: Ragnarick",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTZmNGE4OTYtZTdhMi00ZjdiLTkyOTMtNGYzNTYwMDI5MDVjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1446,
+      "height": 816
+    },
+    "season": "7",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "After killing Jerry in an experiment, Rick discovers the Afterlife exists and it possesses an infinite amount of energy. Rick and Morty go to Norway so Rick can enter Valhalla and encounter the Pope and the Universal Monsters.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 7674
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 12,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt29371876",
+    "title": "Fear No Mort",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTZhNTgzMDMtMTc2Yy00YWNhLWI5ZDctZWVmMDhhNzE0Njg5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1630,
+      "height": 915
+    },
+    "season": "7",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1440,
+    "plot": "After jumping into a hole that manifests one's greatest fear, Rick and Morty survive, only to go home to a surprise - and new nightmares to conquer.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 12280
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 12,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt28608179",
+    "title": "Summer of All Fears",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWZjZjcyZTAtMGFiOS00NTAwLWI4OGItYzQ1ZDI3OTc2NDQ1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "8",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1800,
+    "plot": "Rick left the kids in a matrix.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 6914
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt33253107",
+    "title": "Valkyrick",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzQxZjNkOTAtMjU0NS00YmVjLWFjOTktOGFlMTcxZWJmNzYxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1456,
+      "height": 808
+    },
+    "season": "8",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "Space Beth calls her dad for a ride, broh.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 5206
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 6,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt33290444",
+    "title": "The Rick, The Mort & The Ugly",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTllNGEzZmItNzRkNC00YmVjLTg1NWEtNTYxYjY5ZTgwMDIzXkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    "season": "8",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1200,
+    "plot": "Some guys wanna rebuild the citadel, broh; seems like a bad idea, broh; yeehaw stuff, broh.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 5385
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 6,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt36329661",
+    "title": "The Last Temptation of Jerry",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTZmMmFiZmEtNDQ2ZS00ZDg3LWI1NjctZTg4NWNjZTZhYTVhXkEyXkFqcGc@._V1_.jpg",
+      "width": 2208,
+      "height": 1242
+    },
+    "season": "8",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "Broh awakens. The Smiths discover what Easter really means.",
+    "rating": {
+      "aggregateRating": 6.3,
+      "voteCount": 4887
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 6,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt36329663",
+    "title": "Cryo Mort a Rickver",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODU3ODBmMDAtZjgyYS00Y2ZlLWIxOTEtODBmMTA3YjllOWQwXkEyXkFqcGc@._V1_.jpg",
+      "width": 959,
+      "height": 539
+    },
+    "season": "8",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Broh! Rick and Morty wanna rob a ship in cryosleep. But people are light sleepers, broh.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 4075
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 6,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt36329665",
+    "title": "The Curicksous Case of Bethjamin Button",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDk4NDU3MzMtNzZjMS00MmNkLTkyYmUtNDEyMjczY2U2ZjAwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1910,
+      "height": 1079
+    },
+    "season": "8",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "The brohs goes to a theme park Rick loves; Beth and Space Beth stay behind and regress or something.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 4079
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt36329666",
+    "title": "Ricker Than Fiction",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2JmNzg3OTAtMmU2NC00NTljLWIzMGQtMzZmZDFmNjczODM0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1934,
+      "height": 1088
+    },
+    "season": "8",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "Rick and Morty write the next installment of their favorite movie franchise. Pure cinema, broh.",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 3794
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 7,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt36329667",
+    "title": "Nomortland",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWIyNDIyNWMtNTM3Ni00ZWMyLTk5ZmUtYzYyZTJjYWM5NzlhXkEyXkFqcGc@._V1_.jpg",
+      "width": 2096,
+      "height": 1179
+    },
+    "season": "8",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1380,
+    "plot": "Jerry makes a friend just as jobless as he is.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 3892
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 7,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt36329670",
+    "title": "Morty Daddy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGU0NTVhNDgtOGIzNy00YjQyLThiZWEtYTdhYjFmYTQ1ODkzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "8",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "Summer and Rick go to an upscale restaurant. Morty encounters a person from his past.",
+    "rating": {
+      "aggregateRating": 6.7,
+      "voteCount": 2956
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 7,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt36329671",
+    "title": "Hot Rick",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDk3YmNhMDItNGU5ZC00ZmQ3LTkyNGUtYmM2Y2Q0MjhmNjg0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "8",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "Brohhhhh. Broh. Sometimes we try weird stuff to let go of the past, broh.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 4528
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 7,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt28608180",
+    "title": "Episode #9.1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 1920
+    },
+    "season": "9",
+    "episodeNumber": 1
+  }
+]

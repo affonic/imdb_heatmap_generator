@@ -1,0 +1,1168 @@
+[
+  {
+    "id": "tt3222784",
+    "title": "Minimum Viable Product",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTJlMzJiMjctNTY3ZS00NzlmLWFkODUtNTU0YThlNmVmM2EzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1800,
+    "plot": "Richard is a computer programmer. He has to choose between a $10 million deal with Gavin Belson and a $200,000 deal with Peter Gregory, in exchange for his cooperation to make the idea of a super compressing algorithm change the world.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 3206
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt3668816",
+    "title": "The Cap Table",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjA3Y2ViMTEtM2FlOC00NGE2LWFhZTEtNTYyZWFlNWE4MjdmXkEyXkFqcGc@._V1_.jpg",
+      "width": 960,
+      "height": 540
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1740,
+    "plot": "Richard hires Jared to design a business plan. Big Head is asked to work for Gavin Belson, where he discovers that Hooli has stolen the Pied Piper algorithm and calls it Nucleus. Meanwhile Richard struggles to get his money from Gregory.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2609
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt3380250",
+    "title": "Articles of Incorporation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTA3YzVhZWEtNzQ1ZC00OWYyLThjYjgtYzUzMWY2OTliOTQyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 563
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1680,
+    "plot": "The guys find themselves in trouble with their company name when they find out it's already taken. So whilst Richard tries to find a solution, Erlich searches for a new name in another dimension of his consciousness.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2510
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt3668330",
+    "title": "Fiduciary Duties",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTVkYzNhMDUtOGYzMC00MWU4LWIyNzYtMDg3NTQ4M2NkOWVlXkEyXkFqcGc@._V1_.jpg",
+      "width": 3150,
+      "height": 2100
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1680,
+    "plot": "Richard drunkenly promises to make Erlich a board member, which he regrets the next morning. Big Head finds others at Hooli, who like him, have made careers out of doing nothing. Richard struggles to put Pied Piper's vision into words.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2336
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt3467892",
+    "title": "Signaling Risk",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjY2OWNmYjYtYTU5OS00YTZiLThlZjMtMjA2NzAyMTVkYTFkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1740,
+    "plot": "Now that Pied Piper is the official company name, Erlich wants a logotype to go with it so he hires a very unexpected artist in for the job. Meanwhile Richard gets a tighter deadline for the project after a simple mistake.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2404
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 5,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt3557356",
+    "title": "Third Party Insourcing",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWIwNDM3YmYtNmRkMy00N2I2LWI1ZGMtNjBlYTMyMjkxZDQ5XkEyXkFqcGc@._V1_.jpg",
+      "width": 960,
+      "height": 540
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1680,
+    "plot": "Richard comes across a problem in the code writing and hires Kevin, a young kid, to write the code for him.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 2421
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 5,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt3388032",
+    "title": "Proof of Concept",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2UyMjJhYmUtMWZiMS00YzJmLWJlYjYtMDc4ZTVhNzMwOGU1XkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 1333
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1680,
+    "plot": "Richard has trouble getting Pied Piper ready in time for the TechCrunch Disrupt, while Erlich realizes he slept with the wife of one of the judges of the contest.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 2410
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 5,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt3557358",
+    "title": "Optimal Tip-To-Tip Efficiency",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2U4MWU3NDItMGUyNi00MmQ4LThjYzItNWJiM2FlNWFjYjVkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1740,
+    "plot": "Pied Piper makes it to the next stage of Disrupt but runs into trouble with Hooli's presentation. The guys break out into a ridiculous argument and Richard tries to pull Pied Piper together before the big presentation.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 4239
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 6,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt3682540",
+    "title": "Sand Hill Shuffle",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI1NDQ0MTQ2Nl5BMl5BanBnXkFtZTgwMDQ4MTUxNTE@._V1_.jpg",
+      "width": 4050,
+      "height": 2700
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1740,
+    "plot": "Monica deals with her new boss; Richard makes a decision about the company's future.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2267
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 4,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt3682600",
+    "title": "Runaway Devaluation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY2MTU3MzI0M15BMl5BanBnXkFtZTgwODM4MTUxNTE@._V1_.jpg",
+      "width": 3600,
+      "height": 2400
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1560,
+    "plot": "Richard and the guys struggle to find a backer as they face legal and financial woes. Meanwhile, an old enemy pays Richard a visit.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1954
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 4,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt3682606",
+    "title": "Bad Money",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmVjM2M3ZGYtNTczZi00OWYyLWI3YmQtNjQwZWRlMzRlYWQ5XkEyXkFqcGc@._V1_.jpg",
+      "width": 700,
+      "height": 380
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1620,
+    "plot": "While considering Gavin's proposal, Richard is approached by a billionaire.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1952
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 4,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt3682586",
+    "title": "The Lady",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzg0NTE0NTMyMF5BMl5BanBnXkFtZTgwNDM4MTUxNTE@._V1_.jpg",
+      "width": 3600,
+      "height": 2805
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1680,
+    "plot": "Richard butts heads with Erlich over a prospective hire; Dinesh and Gilfoyle grow suspicious.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1899
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt3682590",
+    "title": "Server Space",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzA2NzBjOGUtZTQyYS00MjE5LThjYTMtNDZlNGRlYTQ3MjI2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1224,
+      "height": 760
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1680,
+    "plot": "Gavin's interference causes Pied Piper to struggle with securing their expansion.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1889
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt3682592",
+    "title": "Homicide",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmRlMzkyNjUtZDdiZS00MDdmLThjYmItYTc4MGE5Y2ZlM2UzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1680,
+    "plot": "Monica encourages the guys to pounce on an opportunity; Erlich reconnects with a former mentee.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 2194
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt3682588",
+    "title": "Adult Content",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2MwZWQ4OGEtMzIwMC00MTgxLWIzMGUtYmY0ZjMxMTZiNDg2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1224,
+      "height": 760
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1680,
+    "plot": "With the Pied Piper team fielding job offers, Richard faces the prospect of folding.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 1913
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt3682604",
+    "title": "White Hat/Black Hat",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmE5NzRlYTItM2Y3Ny00MzJjLWJlYjQtYjM4N2JjOTE3ZDMwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 682
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1680,
+    "plot": "Richard accidentally sparks a feud that leads him to become paranoid about security.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 1973
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt4185454",
+    "title": "Binding Arbitration",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGZmYmU1NGYtYjQzYS00N2Q0LWI0ZWUtYTgxNGRjODAzMjRkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 682
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1680,
+    "plot": "Erlich demands to be put on stand as Pied Piper and Hooli enter Arbitration. Richard faces a moral dilemma now that he realizes that Hooli's claim may have successful potential. Meanwhile back at Pied Piper headquarters, Jared, Dinesh and Gilfoyle question a profound theory and its affiliation to their live stream.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 2032
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 6,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt4185460",
+    "title": "Two Days of the Condor",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGQ4ODg4MWMtZDNmMi00MmNjLWI0OGMtMjdhZmJmNjJlZDhhXkEyXkFqcGc@._V1_.jpg",
+      "width": 3600,
+      "height": 2400
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1680,
+    "plot": "The verdict on Pied Piper's fate coincides with a startling real-life drama that makes their livestream immensely popular, and emotions run high as the gang tries to keep the company together.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 2747
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 6,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt4633480",
+    "title": "Founder Friendly",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjgwNDM2MTMxNF5BMl5BanBnXkFtZTgwOTk2NTk2ODE@._V1_.jpg",
+      "width": 3900,
+      "height": 2600
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1740,
+    "plot": "After being unceremoniously fired, an angry Richard faces a tough decision: accept the diminished role of CTO, or leave Pied Piper for good. Erlich takes a shine to Jack Barker, Laurie's new choice of CEO, while Dinesh and Gilfoyle weigh their options in Richard's absence.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1976
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 4,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt5218398",
+    "title": "Two in the Box",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI1NTI1MDM4MF5BMl5BanBnXkFtZTgwMTE3NTk2ODE@._V1_.jpg",
+      "width": 3900,
+      "height": 2600
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1680,
+    "plot": "The new and improved Pied Piper impresses Dinesh and Gilfoyle, but worries Richard; Jared and Erlich face housing issues; Gavin suggests a controversial move.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1781
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt5218400",
+    "title": "Meinertzhagen's Haversack",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg3MTQzMDI3MV5BMl5BanBnXkFtZTgwMDE3NTk2ODE@._V1_.jpg",
+      "width": 4050,
+      "height": 2700
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1680,
+    "plot": "Richard searches for a way around Jack; Gilfoyle opens himself up to recruiters; Dinesh draws unwanted attention from a recent purchase.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 1965
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt5218414",
+    "title": "Maleant Data Systems Solutions",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDI4OTUzOTY4NV5BMl5BanBnXkFtZTgwNjA3NTk2ODE@._V1_.jpg",
+      "width": 5400,
+      "height": 3600
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1680,
+    "plot": "The Pied Piper guys struggle to phone it in; Erlich faces competition; Monica takes a stand; Gavin makes a decision about Nucleus.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 1828
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt5218422",
+    "title": "The Empty Chair",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUxNzE2MTYwNV5BMl5BanBnXkFtZTgwNzk2NTk2ODE@._V1_.jpg",
+      "width": 3900,
+      "height": 2600
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1680,
+    "plot": "Richard lets his ego get in the way at an interview; Dinesh, Gilfoyle and Jared misplace hardware; Erlich pitches his plans to Big Head.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1706
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5218484",
+    "title": "Bachmanity Insanity",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjk1MjQ4Y2ItNWZiNy00MTliLTgzNjUtYjhkNmJkZTQxZDY1XkEyXkFqcGc@._V1_.jpg",
+      "width": 867,
+      "height": 527
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1680,
+    "plot": "Richard's new relationship is threatened by neuroses; Big Head and Erlich's launch party has snags; Dinesh falls for a foreign coworker.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1738
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt5218490",
+    "title": "To Build a Better Beta",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODU1NjdlYjMtOTE3OS00ZjVmLWI4N2YtNmE3MGQ3Mjk4Y2QxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1680,
+    "plot": "Richard decides to test the Pied Piper beta. Erlich finds himself in financial trouble.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 1679
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 6,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt5218496",
+    "title": "Bachman's Earnings Over-Ride",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmMyODcwOGEtZThlNy00MWQ2LWFlZjEtMjQ0NmE1YWMzYWRlXkEyXkFqcGc@._V1_.jpg",
+      "width": 668,
+      "height": 406
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1680,
+    "plot": "Erlich tries to be honest with Richard, who has mixed emotions about their friendship and the future of Pied Piper. Meanwhile, Jared's new company apparel turns heads but fuels yet another clash between Dinesh and Gilfoyle.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 1666
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 6,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt5218498",
+    "title": "Daily Active Users",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWJmMmUxMjktNjg5Mi00M2NlLWIzYzMtYTQ3YTRiNzE4OWVkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1400,
+      "height": 933
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1740,
+    "plot": "Shocking stats are revealed and prompt Richard to bridge the gap between Pied Piper and its users, but Jared must go to extremes to keep everything intact. Meanwhile, Gavin tries to recapture his former glory by bringing in new talent after discovering secrets about the competition.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1699
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 6,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt5218514",
+    "title": "The Uptick",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODY2ZTcwZDQtZmNlZi00NjM1LTgzOGQtYTU0Y2I2ZmQ5ODIzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1916,
+      "height": 1079
+    },
+    "season": "3",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1740,
+    "plot": "Pied Piper's future is hazy, but Erlich's industry profile begins to rise, creating a moral dilemma for Richard as Dinesh's new app starts to catch on. Meanwhile, Laurie makes plans for her exit; and Gavin's pompous personality haunts his comeback at Hooli.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 1840
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 6,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt5654084",
+    "title": "Success Failure",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzMwYmRiN2UtYmFiMy00ZDZhLTkwMjEtZTVmYjA4ZTY0NzEwXkEyXkFqcGc@._V1_.jpg",
+      "width": 4050,
+      "height": 2700
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1740,
+    "plot": "The guys struggle to find funding for Pied Piper's video chat app to keep up with their rapidly growing user base. Erlich faces resistance from Big Head's father. Jack steps on Gavin's toes at Hooli. Richard gets sage advice.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1867
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt6245460",
+    "title": "Terms of Service",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmEwYzg4Y2MtMmRjMS00OTE1LWI5ODItYWJmOTE3ZjNmNjA4XkEyXkFqcGc@._V1_.jpg",
+      "width": 3825,
+      "height": 2550
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1740,
+    "plot": "Richard butts heads with Dinesh; Erlich makes a play to be involved in Jian-Yang's new app; Jared sets ground rules in his friendship with Richard; Gavin's paranoia over Jack's enthusiasm causes him to make a rash decision.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 1816
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt6245462",
+    "title": "Intellectual Property",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTU5OGYwMDktMmYyZS00YTRiLWIyNWItMGE4ZWRmYWNmOWJkXkEyXkFqcGc@._V1_.jpg",
+      "width": 3600,
+      "height": 2400
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1740,
+    "plot": "Dinesh gets back to the ground while Richard continues to explore his new project. Gavin tries to come out of the new problem he has gotten himself into.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 1718
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt6267504",
+    "title": "Teambuilding Exercise",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDkwOTg1NWUtYTQ1NC00OTE1LWE4ODQtNWUyOWJhZmM5ZjkwXkEyXkFqcGc@._V1_.jpg",
+      "width": 2560,
+      "height": 1440
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1740,
+    "plot": "The SeeFood demo is being prepared, and Big Head's professorship is proving beneficial to his students.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1593
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt6267506",
+    "title": "The Blood Boy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTg3ZDQ2NjEtMjI2NS00NzcyLTk4NTctODBmMTc3MjBkMmE4XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1680,
+    "plot": "Cracks in Richard's latest partnership become more apparent when he has to deal with an unexpected interloper; Dinesh scrambles to find a way out of his new relationship; Monica learns of surprising developments at Raviga.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1592
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt6267508",
+    "title": "Customer Service",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTc2ZTJkZjctN2RiYS00OGU3LTg0N2MtNWUzNWI1ZDZmMTAyXkEyXkFqcGc@._V1_.jpg",
+      "width": 4800,
+      "height": 3200
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1740,
+    "plot": "The guys struggle for funding to launch the latest iteration of Pied Piper. Erlich seeks to join the new VC firm formed by Laurie and Monica. Dinesh and Gilfoyle clash over the alpha build.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1564
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt5915160",
+    "title": "The Patent Troll",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2E3OTM0ZDUtMDNjNC00MjMyLWFkNjAtMWNkYWYyZjlkNTFhXkEyXkFqcGc@._V1_.jpg",
+      "width": 3825,
+      "height": 2550
+    },
+    "season": "4",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1680,
+    "plot": "Richard takes on a patent troll; Gilfoyle battles a smart fridge; Jared embraces multiple identities; Erlich tries to spend time with a new crowd.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1528
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt6267510",
+    "title": "The Keenan Vortex",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmQ2YjNlMTAtNzlhMy00NTgyLWE3MTUtOGIxMTE0NmIyYWMxXkEyXkFqcGc@._V1_.jpg",
+      "width": 3600,
+      "height": 2400
+    },
+    "season": "4",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1680,
+    "plot": "Richard ponders a deal with the tech world's latest \"it\" boy; Jack faces setbacks.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1521
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt6267512",
+    "title": "Hooli-Con",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODc5NjAwNDUtNmMyMC00NGQwLTg4YzYtNzg3MzAwYTAxZGIwXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1740,
+    "plot": "The Pied Piper guys try to pull off a stealth plan at Hooli-Con.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 1593
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt6267514",
+    "title": "Server Error",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjEyNjgwNTg4Nl5BMl5BanBnXkFtZTgwOTcxMjA3MjI@._V1_.jpg",
+      "width": 1365,
+      "height": 2048
+    },
+    "season": "4",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1740,
+    "plot": "Richard finds himself in a web of lies; Jared plans his exit; Jack bets big; Gavin plots a comeback.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 1753
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt6973218",
+    "title": "Grow Fast or Die Slow",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzA3M2U0ZTMtMDM0MS00MjIyLTliZGEtOTliMWExYTc0NDRiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "5",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1920,
+    "plot": "The pressure to get things right stymies Richard and forces him to grow the company in a way he hadn't planned; Dinesh and Gilfoyle question their ability to make good choices; Gavin returns to Hooli and worries about becoming antiquated.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1777
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 3,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt7332088",
+    "title": "Reorientation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDQ0NGE1ZTktMDZiZi00NjQ3LTkyYWMtYjMxYWFhM2ZiMzFjXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1800,
+    "plot": "Richard manages a number of conflicts in his efforts to unite his new employees; Dinesh celebrates a new purchase that Gilfoyle looks to spoil; Jian-Yang goes to court; Gavin meets pushback over his signature and what it says about him.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1657
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt7332098",
+    "title": "Chief Operating Officer",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGNkOWIxYjUtNmI0YS00MmNmLWE2ZDQtYjg1MmEzZmFkYmRiXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1800,
+    "plot": "The COO of a world class company asks to move to Pied Piper. At the same time, Richard deals with a lawsuit from the smart fridge company that Gilfoyle hacked.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1651
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt7761624",
+    "title": "Tech Evangelist",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGFiOTZhNjQtMjhhNC00NzgxLWJhYzMtZjI4MTcxOTExMDZkXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1680,
+    "plot": "Attempting to woo a gaming company to PiperNet, Richard inadvertently angers a prized ally; Dinesh deals with a betrayal; Gavin leaves his underlings with a cryptic message; Jared gets inside information from Big Head.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1583
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt7864446",
+    "title": "Facial Recognition",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTNjZWQzYTQtZGRlOC00ZjQyLTg0MmUtMDg3NjQ2NTU4YWQ2XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1860,
+    "plot": "Overshadowed by Jared in an on-camera interview, Richard's confidence wavers further when Laurie and Monica force him to work with Eklow, a new artificial-intelligence company; Gavin questions his future beyond Hooli.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1586
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt8061210",
+    "title": "Artificial Emotional Intelligence",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGYzY2Y5MGItMWE4NC00NzdlLTllYjUtYjAxZmNjZGE0OGU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "5",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1860,
+    "plot": "Richard decides to help when Laurie gets in a jam, but his lack of emotional discipline threatens to backfire on Pied Piper; Gavin tries to make a deal with a stubborn partner; Dinesh relishes a win; Jared bonds with a surprising figure.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1491
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt8074910",
+    "title": "Initial Coin Offering",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGVmZjcxZWQtNzYwNS00ZmE4LWEyMzAtYjRhYzE2NTk5NDFmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "5",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1920,
+    "plot": "As Pied Piper prepares to close on their Series B funding, Richard receives some unsettling news; Gilfoyle suggests a proposition; Monica is blunt with Richard; Dinesh competes with a co-worker; Gavin tries to charm small-town America.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1473
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 5,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt8059634",
+    "title": "Fifty-One Percent",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjhjYzYwNmYtNTdkMS00NmY2LThmYzUtOTM4MGM4MjYyMzkyXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1800,
+    "plot": "PiperNet launches, but an early success makes Monica suspicious; Richard makes a surprising move; the team races against the clock as its future is threatened.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 2493
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 5,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt8270792",
+    "title": "Artificial Lack of Intelligence",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzJhMmJhOWEtZGQzMC00MDQwLWJlZGMtODMzYzhjYTAwZWEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "6",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1980,
+    "plot": "Richard discovers his promise that Pied Piper won't collect user data is under threat; Jared longs for the past; Gilfoyle gets creative in dealing with Dinesh.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1737
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt10422428",
+    "title": "Blood Money",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWMzODBlMWUtOGFmMi00ZjdkLTg0MmYtZDg2YTJlNmZiMDc2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "6",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1800,
+    "plot": "Richard meets a potential investor; Gilfoyle butts heads with HR; Gavin explores a leaner Hooli's future.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1556
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 11,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt10422430",
+    "title": "Hooli Smokes!",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzgwYzNjZGYtYTlmMi00MjY1LThkOTctMTc0MzhmYTIxYjdmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "6",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1860,
+    "plot": "The Pied Piper team races to close a major deal; Dinesh considers being a better person; an angry Jared reluctantly helps Richard.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 1549
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 11,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt10422432",
+    "title": "Maximizing Alphaness",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzNiYTdjMTktMmFkMy00NDRhLWJhMTItZjNiOWEwMzBmNmY1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "6",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1920,
+    "plot": "Richard's authority is threatened by his former Hooli manager; Monica tries to prove her support of other women; Gavin sets his sights on the literary world.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 1487
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 11,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt10422434",
+    "title": "Tethics",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjkxYTI3MmUtZDZjMy00YzhlLTk0NTEtMDUzNDU1ODFjNzVkXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "6",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1920,
+    "plot": "Richard fumes at Gavin's new ethical stance; Dinesh's trip turns into a nightmare; Gilfoyle and Monica work on their peer review scores.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 1435
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 11,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt10422436",
+    "title": "RussFest",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGEyZmFjYTItOTFmMC00ODVlLWE2NmQtOGZjMTM4OWI5YTQ2XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "6",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2040,
+    "plot": "A major event puts PiperNet's capabilities to the test; Monica confronts Jian-Yang over his use of Pied Piper's name.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 1671
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt10422438",
+    "title": "Exit Event",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTYwMGRkMWItOGQ1Zi00NDU5LThmZjktODJlZWIxZjg3MDExXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "6",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2820,
+    "plot": "Richard and the Pied Piper team look to pull off a spectacular feat on the day of a big launch.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 3277
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 8
+    }
+  }
+]

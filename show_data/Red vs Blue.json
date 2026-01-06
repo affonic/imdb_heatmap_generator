@@ -1,0 +1,7120 @@
+[
+  {
+    "id": "tt1506230",
+    "title": "Why Are We Here?",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmZmMDRjZWUtYjExNi00NzAwLWExNDgtZDNkNTgyN2FlY2FiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1906,
+      "height": 1058
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 240,
+    "plot": "The Reds contemplate their purpose at Blood Gulch, the Blues watch carefully.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 174
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 4,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt1506220",
+    "title": "Red Gets a Delivery",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWEzZWM2MzItNzY3YS00NTQ1LWJmNmMtNzRiYTdkNjg3YjdhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 240,
+    "plot": "The Reds get a new vehicle, the Blues complain about it.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 122
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 4,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt1506228",
+    "title": "The Rookies",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTY2NTI0NTktYWEzOC00NWFiLWI4YjEtMmZjZjNiNzVlMGE5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 180,
+    "plot": "Both armies get new recruits and decide they don't like them.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 113
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 4,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt1506204",
+    "title": "Head Noob in Charge",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGE3NjA0MDktMGZiNi00NWQzLTgwZTktNzc0ZDlmNjg2MjJlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 300,
+    "plot": "Donut mistakes Blue Base for the Store, the Blue Rookie gives away the flag.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 110
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 4,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt1506227",
+    "title": "The Package Is in the Open",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 240,
+    "plot": "The Blues try to get the flag back, Donut gets lost.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 104
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 5,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt1506192",
+    "title": "Giga-Whats??",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 180,
+    "plot": "Church confronts Donut, Grif and Simmons set out to rescue their rookie.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 104
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 5,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt1506198",
+    "title": "Check Out the Treads on That Tank",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 180,
+    "plot": "The Reds keep the Blues pinned, Blue Teams rookie tests out the new tank.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 99
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 5,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt1506200",
+    "title": "Don't Ph34r the Reaper",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 180,
+    "plot": "Grif and Simmons run for their lives, mistakes get made on Blue Team.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 100
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 5,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt1506195",
+    "title": "After Church",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 9,
+    "runtimeSeconds": 180,
+    "plot": "The Blues press the attack while the Reds try to hold out.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 99
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 6,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt1506193",
+    "title": "A Shadow of His Former Self",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 10,
+    "runtimeSeconds": 300,
+    "plot": "Tucker requests reinforcements, and gets more than he bargained for.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 92
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 6,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt1506210",
+    "title": "Knock, Knock. Who's There? Pain.",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 11,
+    "runtimeSeconds": 240,
+    "plot": "Lopez repairs the Warthog, while Grif takes the blame for its destruction. Meanwhile, at the Blue Base, Tex uses Caboose for target practice, while ignoring Tucker's attempts at friendly conversation. Tex suddenly decides to leave in order to infiltrate the Red base. During the attack, Tex sticks a plasma grenade to Donut's head and, in the ensuing chaos, also attacks Grif and Simmons.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 89
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 6,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt1506201",
+    "title": "Down, But Not Out",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 12,
+    "runtimeSeconds": 240,
+    "plot": "Tex retrieves the Blue flag, but is surprised and captured by Sarge and Lopez. A wounded Donut is airlifted out of the gulch for treatment.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 86
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 7,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt1506206",
+    "title": "Human Peer Bonding",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 13,
+    "runtimeSeconds": 240,
+    "plot": "Church tells Tucker and Caboose that Tex is his ex-girlfriend, and outlines a plan to rescue her.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 88
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 7,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt1506223",
+    "title": "Roomier Than It Looks",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 14,
+    "runtimeSeconds": 360,
+    "plot": "Church possesses Sarge's body and uses it to deceive Simmons and free Tex. However, Caboose, wishing to make amends for killing Church, shoots Sarge in the head.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 86
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 8,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt1506205",
+    "title": "How the Other Half Lives",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 15,
+    "runtimeSeconds": 300,
+    "plot": "Now both dead, Sarge and Church meet in the spiritual plane. The two complain about their teammates until Grif revives Sarge by using cardiopulmonary resuscitation (CPR).",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 83
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 8,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt1506194",
+    "title": "A Slightly Crueler Cruller",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 16,
+    "runtimeSeconds": 300,
+    "plot": "A healed Donut returns from Red Command. He brings a speech unit for Lopez, who is revealed to be a robot. Sarge neglects to ground himself, causing damage to the voice card and resulting in Lopez's inability to speak anything other than Spanish, which none of the Reds understand.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 81
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 8,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt1506218",
+    "title": "Points of Origin",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 17,
+    "runtimeSeconds": 240,
+    "plot": "Tex repairs Sheila, while Church spies on the Reds, who are still trying to understand what Lopez is saying.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 81
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 8,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt1506224",
+    "title": "SPF 0",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 18,
+    "runtimeSeconds": 240,
+    "plot": "Church worries that Tex will soon kill the entire Red Team. If successful, she would then leave, probably never to be seen again, before Church could remove the aggressive AI that resides in her armor. To prevent this, Church decides to warn the Red Team of her impending attack.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 82
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 9,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt1506211",
+    "title": "Last One Out, Hit the Lights",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 19,
+    "runtimeSeconds": 360,
+    "plot": "Church possesses Lopez in an attempt to warn the Reds, but is stymied by the language barrier. Tex and Sheila attack Red Base. Donut, angry at Tex for wounding him earlier, manages to disable Sheila by throwing a grenade halfway across the gulch. Church runs to Tex's aid, taking Lopez's body with him. Tex thanks Church for ridding her of the AI before dying.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 85
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 9,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt2268154",
+    "title": "Revenants",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjQxMTE2NDMwMF5BMl5BanBnXkFtZTgwODg5NjA2MDE@._V1_.jpg",
+      "width": 500,
+      "height": 421
+    },
+    "season": "10",
+    "episodeNumber": 1,
+    "runtimeSeconds": 420,
+    "plot": "The Fall of Project Freelancer is unveiled, while Agent Carolina assembles The Reds and Blues on her mission to assassinate The Director and end Project Freelancer once and for all.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 1032
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 5,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt10903160",
+    "title": "Heavy Metal",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 2,
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 6,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt10903172",
+    "title": "Follow the Leader",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 3,
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 6,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt10903176",
+    "title": "Turbulence",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 4,
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 6,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt10903178",
+    "title": "The New Kid",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 5,
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt10903180",
+    "title": "What's the \"I\" Stand For?",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 6,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt10903182",
+    "title": "Oversight",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 7,
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt10903186",
+    "title": "Fall From Heaven",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 8,
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt10903188",
+    "title": "Fighting Fire",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 9,
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt10903190",
+    "title": "C.T.",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 10,
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt10903192",
+    "title": "Out of Body",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 11,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt10903198",
+    "title": "Out of Mind",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 12,
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt10903200",
+    "title": "Greenish-Blue With Envy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 13,
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 9,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt10903202",
+    "title": "New and Improved",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 14,
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 9,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt10903204",
+    "title": "Three's a Crowd",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 15,
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 9,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt10903206",
+    "title": "Happy Birthday",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 16,
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 9,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt10903208",
+    "title": "Remember Me How I Was",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 17,
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 10,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt10903212",
+    "title": "Change of Plans",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 18,
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 10,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt10903214",
+    "title": "Party Crasher",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 19,
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 24
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 10,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt10903232",
+    "title": "Reckless",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 20,
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 10,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt10903220",
+    "title": "True Colors",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 21,
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 33
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 10,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt10903224",
+    "title": "Don't Say It",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "10",
+    "episodeNumber": 22,
+    "plot": "Carolina and Epsilon finally confront The Director, and the Reds and blues find somewhere to rest. All loose ends are finished.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 51
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 11,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt3314044",
+    "title": "One-Zero-One",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTE4MTc5OF5BMl5BanBnXkFtZTgwNDE1ODA2MDE@._V1_.jpg",
+      "width": 375,
+      "height": 500
+    },
+    "season": "11",
+    "episodeNumber": 1,
+    "runtimeSeconds": 300,
+    "plot": "The Reds and Blues find themselves on familar grounds as both teams square off in a canyon after they are shipwrecked on a strange and seemingly uninhabited planet.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 600
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 6,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt10903278",
+    "title": "Get Your Tucks in a Row",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 2,
+    "plot": "The Reds discuss a predicament they face about their base, while Wash and Caboose leave for Blue base to confront Tucker.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt10903286",
+    "title": "Barriers to Entry",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 3,
+    "plot": "While Wash comforts a somber Caboose, Sarge lays down a few guidelines with respect to his personal space.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt10903296",
+    "title": "Heavy Mettle",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 4,
+    "plot": "Caboose stumbles upon something mysterious.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt10903302",
+    "title": "A Real Fixer Upper",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 5,
+    "plot": "While Sarge mobilizes the Red Team's recent addition, Tucker and Washington begin to work on the communications tower.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt10903306",
+    "title": "S.O.S.",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 6,
+    "plot": "The Reds and Blues work together to repair the communications tower and Caboose gets a new pet.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt10903310",
+    "title": "Can I Keep It",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 7,
+    "plot": "The Blues meet Freckles, while Grif and Simmons are ordered to surveil the Blue Team.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt10903312",
+    "title": "The Grass is Greener. The Blues are Bluer.",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 8,
+    "plot": "Simmons and Grif conduct their investigation on the Blue team.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt10903314",
+    "title": "A House Divided, Then Multiplied",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 9,
+    "plot": "Sarge gets alarmed over Simmons leaving, while Washington and Tucker quarrel.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt10903316",
+    "title": "Long Live the King",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 10,
+    "plot": "The balance between the Red and Blue teams gets tilted.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt10903326",
+    "title": "Worst Laid Plans",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 11,
+    "plot": "While Caboose gets acclimated with his new role, the Reds reveal a plan to dispose of Freckles.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt10903336",
+    "title": "Finders Keepers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 12,
+    "plot": "Doc, Sarge, and Grif unearth some interesting things inside the ship.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt10903342",
+    "title": "+1 Follower",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 13,
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt10903350",
+    "title": "Reconciliation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 14,
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt10903360",
+    "title": "Neighborhood Watch",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 15,
+    "plot": "Caboose gets a present, while the construction of the Mantis is completed.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt10903370",
+    "title": "FAQ",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 16,
+    "plot": "Felix tells the Reds and Blues about where they landed and why it was so important for him to find them.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 10,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt10903378",
+    "title": "Ready... Aim...",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 17,
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 10,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt10903384",
+    "title": "Fire",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 18,
+    "plot": "The Blues and Reds fight Locus and the Federal Army.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 10,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt10903386",
+    "title": "Lost But Not Forgotten",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "11",
+    "episodeNumber": 19,
+    "plot": "Tucker, Caboose, Grif, and Simmons join the New Republic army.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 10,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt4182248",
+    "title": "Oh Captains, My Captains",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 1,
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt4182254",
+    "title": "Hit and Run",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 2,
+    "plot": "Felix and Tucker, followed by a group of Republic soldiers, head towards a Federal Army outpost to blow it up.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 24
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 5,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt4182264",
+    "title": "Something Else Entirely",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 3,
+    "plot": "The Reds and Blues make a deal with Kimball to rescue their friends before they are moved to the capital.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 5,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt4182270",
+    "title": "Teaming with Problems",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 4,
+    "plot": "The Reds and Blues run into problems while creating their elite team.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 5,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt4182274",
+    "title": "Training Daze",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 5,
+    "plot": "The Reds and Blues begin their training.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 6,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt4182276",
+    "title": "Reflections",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 6,
+    "plot": "Kimball and Tucker discuss Felix's past and his connection to Locus.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 6,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt3976216",
+    "title": "Self Assessment",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 7,
+    "plot": "The Reds and Blues leave the recruits behind and begin their rescue mission ahead of schedule.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 24
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 6,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt4182278",
+    "title": "Thin Ice",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 8,
+    "plot": "The Reds and Blues try to break into the compound.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 6,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt4182260",
+    "title": "The Federal Army of Chorus",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 9,
+    "plot": "Weeks before their encounter with their friends, Wash, Sarge, Donut, and Lopez discover the Federal Army of Chorus' true intentions.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 23
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 7,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt4182284",
+    "title": "Cloak and Dagger",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 10,
+    "plot": "The Federal Army of Chorus' true intentions are discovered.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 24
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 7,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt7941068",
+    "title": "Long Time No See",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 11,
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 6,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt7941150",
+    "title": "The Reunion",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 12,
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 7,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt7949400",
+    "title": "Catch Up, No Mustard",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 13,
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt7949428",
+    "title": "Crash Site Crashers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 14,
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt7949490",
+    "title": "Accentuate the Interrogative",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 15,
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt7949632",
+    "title": "Out of the Frying Pan",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 16,
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 9,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt7949652",
+    "title": "Multiple Choice",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 17,
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt7949674",
+    "title": "Fed vs. New",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 18,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 23
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 9,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt7949688",
+    "title": "You Know Who We Are",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "episodeNumber": 19,
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 9,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt32628513",
+    "title": "Episode #12.0",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "12",
+    "plot": "Kimball records a journal entry of events following the battle of Crash Site Bravo.",
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt4427230",
+    "title": "The Chorus Trilogy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk3NDc0NTQyN15BMl5BanBnXkFtZTgwOTc5NjMwNzE@._V1_.jpg",
+      "width": 375,
+      "height": 500
+    },
+    "season": "13",
+    "episodeNumber": 1,
+    "runtimeSeconds": 720,
+    "plot": "After learning that The Chairman has been behind the war of Chorus the Reds and Blues go to war with him, Felix, and Locus.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 380
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 4,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt7949836",
+    "title": "Capital Assets",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 2,
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 4,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt7951562",
+    "title": "What's Yours is Ours",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 3,
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 4,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt7951610",
+    "title": "Tourist Trap",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 4,
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 23
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 4,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt7951680",
+    "title": "No Fighting in the War Room",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 5,
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt7951732",
+    "title": "Along Came a Spider",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 6,
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt7951820",
+    "title": "Locus of Control",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 7,
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 23
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt7951848",
+    "title": "Test Your Might",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 8,
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt7951928",
+    "title": "You Better Watch Out",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 9,
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 6,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt7952046",
+    "title": "Temple of the Key",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 10,
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 24
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 6,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt8216060",
+    "title": "Dish Best Served",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 11,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 6,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt10074422",
+    "title": "Off - Key",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 12,
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 6,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt10661392",
+    "title": "The Thin Fed Line",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 13,
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 16
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt10903438",
+    "title": "Counselling",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 14,
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt10903454",
+    "title": "Armonia, Part One",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 15,
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt10903458",
+    "title": "Armonia, Part Two",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 16,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 8,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt10903470",
+    "title": "All or Nothing",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 17,
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 8,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt10903486",
+    "title": "Great Destroyers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 18,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 8,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt10903492",
+    "title": "The End is Near",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 19,
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 27
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 8,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt10903494",
+    "title": "The End",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "13",
+    "episodeNumber": 20,
+    "plot": "The Chairman releases numerous Mantis droids around the Comms. Temple and begins annihilating both Chorus troopers and Space Pirates left and right, saying if he is going down then he is taking them all with him. With Wash, Carolina, Kimball, and the rest of the Feds and Rebels forced to take cover, the Reds and Blues contemplate a way to shut down the robots. Epsilon states that they must reach the Staff of Charon in order to override the Mantises' controls. So, in order to get inside the ship, the crew board Locus and Felix's damaged Falcon and fly it towards the Staff of Charon. After successfully getting inside, the crew search around the ship's engine room for the override controls, and soon discover F.I.L.S.S. F.I.L.S.S. explains that she was recovered by Hargrove and was illegally reassigned to work under him. When Epsilon pleads for her to shut down the Mantises, F.I.L.S.S., despite the action violating Hargrove's orders, gladly agrees to help, due to her deep dislike for the Chairman. Unfortunately, Hargrove stops F.I.L.S.S. from deactivating the droids and sends his own forces to attack the crew, prompting them to flee. As Hargrove's forces corner the crew, F.I.L.S.S. uses the ship's blast doors to protect them. She then directs the Reds and Blues to the location of the terminal containing the override controls: the Chairman's trophy room. As casualties build up outside the temple, the Reds and Blues hurry to the Chairman's trophy room. Upon reaching it, Tucker and Epsilon enter the room while the other Reds and Blues stand guard outside. Epsilon quickly becomes angered upon seeing Tex's cracked visor and orders F.I.L.S.S. to bring up the terminal to the Mantis controls, which she does. As Epsilon gets to work on overriding the controls, Hargrove, speaking to the two from the ship's bridge, admonishes that the crew will not leave the ship alive. Tucker, however, remains unfazed and shuts down the Mantises after Epsilon finishes overriding the controls. After the Mantises all shut down outside, the Feds and Rebels rejoice. Back in the trophy room, the Reds and Blues rush in and seal themselves inside as Hargrove's forces close in. Epsilon contacts Carolina demanding an extraction, in which Carolina states that they will fire up a Pelican to pick them up in a few minutes. Unfortunately, Hargrove's forces immediately begin welding through the door, shortening the crew's time to make their escape. As a result, the Reds and Blues bravely prepare themselves for the oncoming attack, with Grif arming himself with his Brute shot, Lopez, Doc, and Donut barricading the door, and Simmons attempting to start up the Monitor. Tucker, concerned, asks Epsilon if they can win, but the latter explains that they still need one more piece. Having discovered it while overriding the Mantis controls, Epsilon has F.I.L.S.S. release the Meta's modified suit and asks Tucker to put it on. After Tucker dons the suit, he changes the color to his regular aqua. Hargove's forces prepare to breach into the room with blowtorches. In response, the Blood Gulch Crew say their goodbyes to one another and ready themselves for the impending attack. Epsilon then states that out of everyone he's met he hates the crew the least, in which Tucker responds saying that he'll see him on the other side. Suddenly, time slows down, with Epsilon assuring that he will not make it back. Epsilon-Delta soon appears and asks Epsilon if he really wants to go through with this, in which Epsilon ensures that he does. Epsilon then begins a recording and says his final goodbyes to the Reds and Blues before dematerializing for good: \"Hey guys... if you're hearing this then it means you did it. You won. You kicked the shit out of Hargrove's forces. I knew you could. But this is my last stop. See, when I came into this world, I was really just a collection of somebody else's memories. But with your help, these memories... they-they took form. They became my voice, my personality. And, after a while, I... I began to make brand new memories of my own. All of these things are what make me who I am... but they're also holding me back. I can't run this suit as Epsilon, but if I erase my memories, if I... deconstruct myself, the fragments I'll leave behind will have the strength to get you through this. I believe that. I wish that there was another way. But, I'm leaving this message as well as others, in the hopes that you'll understand why I have to go this time...hehe, it was actually Doyle who made me realize something that I've never thought of before. There are so many stories where some brave hero decides to give their life to save the day, and because of their sacrifice, the good guys win, the survivors all cheer, and everybody lives happily ever after. But the hero... never gets to see that ending. They'll never know if their sacrifice actually made a difference. They'll never know if the day was really saved. In the end, they just have to have faith. Ain't that a bitch.\" After he gives his speech to the team he deconstructs himself.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 61
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 9,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt7521958",
+    "title": "Anthology",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDNkYjUwNWUtYjg2Zi00ZThiLWI5YjQtZDhlYWQzNDMwYjc2XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 1,
+    "plot": "The Red vs. Blueniverse is filled with stories. This... is the first of many.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 28
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt7865558",
+    "title": "From Stumbled Beginnings",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmUxMzNhYjMtNGRlYi00YjU4LTlhNjctNzc2NWE2MTczYzY0XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 2,
+    "plot": "You never know who you'll meet in basic training.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt7865928",
+    "title": "Fifty Shades of Red",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTJmZGZiOTgtNzkxNS00N2Y1LTkzYjgtN2ZmNmQyNGI0MGMzXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 3,
+    "runtimeSeconds": 600,
+    "plot": "There can only be one Sarge, but many can apply for the job opening.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 28
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt7865944",
+    "title": "Why They're Here",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmZjMDU2M2ItODM5Yi00YTRiLTk5ZTAtMzQ3ZTVjZDM0ZWM0XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 4,
+    "runtimeSeconds": 600,
+    "plot": "Captain Flowers finds the last piece to his little operation and moves it to a a quiet little box canyon in the middle of nowhere. I think everything is going to work out just fine.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 23
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt7865990",
+    "title": "The Brick Gulch Chronicles",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzJiMGE1ZDEtZjkzMC00OTg1LTgzMjUtY2UzNTViYWQ1ODY4XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 5,
+    "runtimeSeconds": 600,
+    "plot": "Some would describe the Reds and Blues as a bunch of \"blockheads\". This statement has never been more appropriate.",
+    "rating": {
+      "aggregateRating": 6.6,
+      "voteCount": 27
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 6,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt7866068",
+    "title": "Orange Is the New Red",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2M2YzA1MDEtMzAyNy00OWJiLWFkYzMtYmVlZGMzMzg3NmVmXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 6,
+    "runtimeSeconds": 480,
+    "plot": "The Reds of Blood Gulch Outpost #1 aren't the only soldiers in the galaxy hunting down dirty Blues...",
+    "rating": {
+      "aggregateRating": 6.5,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 6,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt7866088",
+    "title": "Invaders from Another Mother",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTljZmRmNGUtMDZmMi00ZTJmLTllZDYtZDhmMGE2ZmM5NmVhXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 7,
+    "runtimeSeconds": 720,
+    "plot": "Red Army Unit FH57 has stumbled upon Blood Gulch. Their primary directive? Destroy all the Blues. Their game plan? Terrible.",
+    "rating": {
+      "aggregateRating": 6.6,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 6,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt7866096",
+    "title": "The #1 Movie in the Galaxy: 3",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDAwZWViYTItYzc5NC00MTk0LWJhZDEtMDFmYzg0M2JkYzIyXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 8,
+    "plot": "The stunning conclusion to the epic trilogy nobody ever asked for.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 26
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 6,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt7867586",
+    "title": "Club",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmQwNTdkYzktM2ZhNy00NmE2LTk3MjEtNjMwZjlkMDQ2MjM0XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 9,
+    "runtimeSeconds": 660,
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 25
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt7867604",
+    "title": "Call",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjRlZGM0NWYtYmUzZS00NTJjLTg5ZTQtNjIyOTk2MjE4MTc3XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 10,
+    "runtimeSeconds": 660,
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 24
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt7867660",
+    "title": "Consequences",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTVhM2M3NGEtMjdkYy00NGM4LWFjNGUtZWU4ZTUyZWZkNWJkXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 11,
+    "runtimeSeconds": 600,
+    "plot": "There are no rewards or punishments.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 25
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt7867780",
+    "title": "Fight the Good Fight",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjc0ZGI1ZjUtMTZiNi00ZDFlLWEwYzEtODAzMmI2MjUwYmU4XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 12,
+    "plot": "Attention soldiers! The [ENEMY COLOR] Army is upon us! Only YOU can stop them! Join the [FRIENDLY COLOR] Army today!",
+    "rating": {
+      "aggregateRating": 6.4,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt7867910",
+    "title": "Meta vs. Carolina: Dawn of Awesome",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmIxNWViOTgtMDU0YS00YjQ1LTgwMDMtOTNlYTI5NjEyMGI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1020,
+    "plot": "The top of the Freelancer leader board is taking on the scariest mute in the galaxy. All bets are off! It's time for a DEATH BATTLE!",
+    "rating": {
+      "aggregateRating": 6.3,
+      "voteCount": 23
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt7868044",
+    "title": "Grey vs Gray",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjIzYjg5NzItNjlkMS00NTUxLTgwY2ItZGQ2MDBkMzQ4ODVkXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 14,
+    "runtimeSeconds": 540,
+    "plot": "Tensions run high between mortal enemies! Locked in a room with each other, they will have to put aside their differences to escape. Little do they know, they might have more in common than they think..",
+    "rating": {
+      "aggregateRating": 6,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 8,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt7868268",
+    "title": "Caboose's Guide to Making Friends",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDJkZmJmNjgtNDY3Yi00MzEzLTg5MjgtOWYzOGVmZjk4ZGI1XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 15,
+    "plot": "Friendship is a deep and multi-layered concept... that Caboose will happily teach you everything about.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 28
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 8,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt7868428",
+    "title": "Head Cannon",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODA3YWYwNjMtZjI3Mi00NTE5LWE1MTctOTkzZTkyNTQ3NzQ0XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 16,
+    "runtimeSeconds": 540,
+    "plot": "Towards the end of the Blood Gulch Chronicles, Omega made his way into the minds of several of the Reds and Blues... and what he saw cannot be unseen.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 8,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt7868518",
+    "title": "Get Bent",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzdkZjJkZjQtNjI5NC00NzdkLWI2NjUtNGFlMzExZjE1NGQ2XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 17,
+    "plot": "While trapped inside the Epsilon Storage Unit, Church relived multiple iterations of his memories in an attempt to reunite his ex-girlfriend, Tex. Every iteration was different... but those differences weren't always intentional.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 8,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt7868650",
+    "title": "Red vs. Blue: The Musical",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWVhNTkyZmMtYTlkZC00YzdjLTliY2ItN2M3MjMxOWQ4OGFlXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 18,
+    "runtimeSeconds": 600,
+    "plot": "Red vs. Blue: Episode 18: Red vs. Blue: The Musical",
+    "rating": {
+      "aggregateRating": 6.7,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 9,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt7868684",
+    "title": "Mr. Red vs. Mr. Blue",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjY1NzdlOWQtZTgxNC00MTE3LWExZDgtM2ZjY2M0OGFmOTczXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 19,
+    "runtimeSeconds": 480,
+    "plot": "Everyone talks about the great adventures of the Reds and Blues, but have you ever stopped to think about what they did in their down time? It's really... really stupid.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 23
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 9,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt7868878",
+    "title": "RvB Throwdown",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDM4ZjBmNzEtZmZlMS00Mjk4LTlmYTYtYzM4NWUyOTcyYzM0XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 20,
+    "plot": "The battle between the Reds and Blues won't be fought with traditional weaponry... it will be fought with the sickest of beats and the most wicked of rhymes.",
+    "rating": {
+      "aggregateRating": 6.9,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 9,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt7869504",
+    "title": "The Triplets",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTFmNGQyNmMtMGFjOS00MWJhLWIyYTAtZGJhN2JiNzc1ZTc3XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 21,
+    "runtimeSeconds": 540,
+    "plot": "The agents of Project Freelancer were the best of the best, but even the best have their worst.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 9,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt7869550",
+    "title": "The \"Mission\"",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjhiNmVlMTctNjFmZi00MzZjLTk0MTctM2JlZjIxYTU5MDU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 22,
+    "runtimeSeconds": 780,
+    "plot": "Agents Ohio, Idaho, and Iowa have been sent on a top secret mission. It's a mission so secret... even they don't know what they're doing.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 10,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt7869594",
+    "title": "Immersion: Warthog Flip",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDc3YzgxYjMtNTBmZS00MDJlLWIyNDktOTNmZGY2MTQ4NWMxXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 23,
+    "runtimeSeconds": 540,
+    "plot": "Since the beginning of Blood Gulch, the iconic UNSC Warthogcould be flipped with the push of a button... But surely it's not that easy.",
+    "rating": {
+      "aggregateRating": 6.5,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 10,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt7869604",
+    "title": "Red vs. Blue vs. Rooster Teeth",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTI5MjRlNDItYjFjMy00YmNjLTgxNjItZTQ4ZjM2N2ExOTRlXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 281
+    },
+    "season": "14",
+    "episodeNumber": 24,
+    "runtimeSeconds": 1680,
+    "plot": "After years travelling the galaxy and going on all sorts of adventures, it's finally time for the Reds and Blues... to meet their makers.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 26
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 10,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt7869728",
+    "title": "Prologue",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 1,
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt7953662",
+    "title": "The Chronicle",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 2,
+    "rating": {
+      "aggregateRating": 6.4,
+      "voteCount": 16
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt7953902",
+    "title": "The Mother of Destruction",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 3,
+    "rating": {
+      "aggregateRating": 6.7,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt7953912",
+    "title": "Chorus Lessons",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 4,
+    "rating": {
+      "aggregateRating": 6.4,
+      "voteCount": 16
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt7954056",
+    "title": "Previously On",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 5,
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt7954198",
+    "title": "Reacts",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 6,
+    "rating": {
+      "aggregateRating": 6.7,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt7954252",
+    "title": "Nightmare on Planet Evil",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 7,
+    "rating": {
+      "aggregateRating": 6.6,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt7957084",
+    "title": "A Fistful of Colours",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 8,
+    "rating": {
+      "aggregateRating": 6.4,
+      "voteCount": 14
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt7957282",
+    "title": "Rigged",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 9,
+    "rating": {
+      "aggregateRating": 6.1,
+      "voteCount": 14
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt7957370",
+    "title": "Battlescars",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 10,
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt8102506",
+    "title": "Belly of the Beast",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 11,
+    "rating": {
+      "aggregateRating": 5.3,
+      "voteCount": 14
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt8102514",
+    "title": "Blue vs. Red",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 12,
+    "rating": {
+      "aggregateRating": 5.6,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt8102538",
+    "title": "Blue vs. Red - Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 13,
+    "rating": {
+      "aggregateRating": 6,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt8102558",
+    "title": "True Colors",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 14,
+    "rating": {
+      "aggregateRating": 6.1,
+      "voteCount": 15
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 7,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt8102760",
+    "title": "Objects in Space",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 15,
+    "rating": {
+      "aggregateRating": 6.3,
+      "voteCount": 16
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 7,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt8102794",
+    "title": "Grif Does a Rescue",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 16,
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 7,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt8102808",
+    "title": "Quicksave",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 17,
+    "rating": {
+      "aggregateRating": 6.6,
+      "voteCount": 16
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 7,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt8102814",
+    "title": "Desolation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 18,
+    "rating": {
+      "aggregateRating": 5.9,
+      "voteCount": 15
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 7,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt8102830",
+    "title": "Red vs Red",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 19,
+    "rating": {
+      "aggregateRating": 6.2,
+      "voteCount": 16
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt8102860",
+    "title": "Blue vs Blue",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmQ4YmY3NWQtZjVjNy00NDQxLWE5ODItYjZkMDJhN2I3MjYzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1334,
+      "height": 750
+    },
+    "season": "15",
+    "episodeNumber": 20,
+    "rating": {
+      "aggregateRating": 6.1,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt8102904",
+    "title": "Epilogues",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "15",
+    "episodeNumber": 21,
+    "rating": {
+      "aggregateRating": 6.2,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt8288760",
+    "title": "The Shisno",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDNjMGUwMDItMTZjMC00Njk3LThkNTMtYTQ2ZjkyZjFlN2E0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "16",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1200,
+    "plot": "The beginning of a new adventure for the Reds and Blues picks up right where the last one left off - a conversation about where to get lunch. Unbeknownst to our heroes, powerful forces have taken an interest in their debate.",
+    "rating": {
+      "aggregateRating": 6,
+      "voteCount": 27
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt8319842",
+    "title": "Incendiary Incidents",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "16",
+    "episodeNumber": 2,
+    "plot": "The gang goes out for pizza. Grif attempts to stop the plot from moving forward. The return of a deceased teammate throws all their plans in peril.",
+    "rating": {
+      "aggregateRating": 5.3,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt8390750",
+    "title": "Lost Time",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "16",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1080,
+    "plot": "Adrift in time and space, the Reds and Blues attempt to make sense of Donut's cryptic message. Sarge reopens old wounds. Caboose has a time machine.",
+    "rating": {
+      "aggregateRating": 5.4,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt8408670",
+    "title": "Sis and Tuc's Sexellent Adventure",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "16",
+    "episodeNumber": 4,
+    "runtimeSeconds": 660,
+    "plot": "Tucker and Sister go on a side quest to settle a romantic argument. Grif yells at children.",
+    "rating": {
+      "aggregateRating": 5.5,
+      "voteCount": 25
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 5,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt8409536",
+    "title": "Headshots",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "16",
+    "episodeNumber": 5,
+    "runtimeSeconds": 780,
+    "plot": "Sarge and Simmons take their new Red Team recruits on a mission to settle an old score. Powerful forces meet on Starseeds to discuss the Reds and Blues.",
+    "rating": {
+      "aggregateRating": 5.4,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 5,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt8442488",
+    "title": "A Pizza the Action",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "16",
+    "episodeNumber": 6,
+    "runtimeSeconds": 540,
+    "plot": "Grif and Doc struggle to invent pizza. Tucker and Sister get wasted.",
+    "rating": {
+      "aggregateRating": 5.5,
+      "voteCount": 23
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 5,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt8471724",
+    "title": "It Just Winked at Me",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "16",
+    "episodeNumber": 7,
+    "plot": "Two of the Reds and Blues engage in mortal combat against King Atlus' champion. Huggins says hi.",
+    "rating": {
+      "aggregateRating": 4.5,
+      "voteCount": 25
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 5,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt8531718",
+    "title": "Recovery",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTVhNGU4YWYtZGNjNi00OGNhLTkzZGEtNzA5Zjg3NTk5YjdiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "16",
+    "episodeNumber": 8,
+    "plot": "On the planet of Chorus, Agent Carolina helps Washington with the final stages of his recovery. Meanwhile in the distant past, Grif attempts to put down roots.",
+    "rating": {
+      "aggregateRating": 6.9,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 6,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt8539924",
+    "title": "Walk and Talk",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "16",
+    "episodeNumber": 9,
+    "plot": "Agents Carolina and Washington visit with Dylan's time travel expert. Grif gets his steps in.",
+    "rating": {
+      "aggregateRating": 6.1,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 6,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt8574890",
+    "title": "Caboose's Travels",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "16",
+    "episodeNumber": 10,
+    "runtimeSeconds": 600,
+    "plot": "Caboose shares his vacation photos. In the distant past, the King of England receives an unexpected guest.",
+    "rating": {
+      "aggregateRating": 6.2,
+      "voteCount": 23
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 6,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt8608800",
+    "title": "Sword Loser",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "16",
+    "episodeNumber": 11,
+    "rating": {
+      "aggregateRating": 5.9,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt8648280",
+    "title": "Docudrama",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "16",
+    "episodeNumber": 12,
+    "runtimeSeconds": 600,
+    "rating": {
+      "aggregateRating": 5.2,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 7,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt8684388",
+    "title": "A Time for Hammers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "16",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1200,
+    "plot": "The Cosmic Powers reveal the mythic origins of their war against Chrovos. The Reds and Blues learn their part in the battle to come.",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 23
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 7,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt8706410",
+    "title": "Lights Out",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "16",
+    "episodeNumber": 14,
+    "plot": "Tucker struggles to cope with the truth about Washington. A sleeping giant wakes.",
+    "rating": {
+      "aggregateRating": 6.5,
+      "voteCount": 23
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt8735344",
+    "title": "Paradox",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmI1NzcxNTgtZDNjZi00OGIwLWE3MjYtYTA0ZWIwM2JjZGQ1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1136,
+      "height": 640
+    },
+    "season": "16",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1320,
+    "plot": "The ending to the Shisno Paradox arc. The reds and blues, travel back in time to save Washington. Meanwhile, Donut and O'Malley fight for control of the timeline.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 23
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt9914758",
+    "title": "A Sitch in Time",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzVkNTA0ZWItOTNhZS00YzNhLWE2NjgtZTRlMzczZmFkNTg0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "17",
+    "episodeNumber": 1,
+    "runtimeSeconds": 660,
+    "plot": "After the paradox destroys time, The Reds and Blues are forced to relive their pasts on loop while Genkins tries to create more paradoxes to help Chrovos escape her new confinement by Donut.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 26
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt10042050",
+    "title": "Everwhen",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "17",
+    "episodeNumber": 2,
+    "plot": "Donut travels through time to try and save his friends from being trapped in the Singularity.",
+    "rating": {
+      "aggregateRating": 6.9,
+      "voteCount": 24
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt10069362",
+    "title": "Schrödingin'",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjIyNTdjZDQtMGY3My00NTNiLWE0YjgtMGZlYmJiYmNlMTYzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "17",
+    "episodeNumber": 3,
+    "runtimeSeconds": 720,
+    "plot": "After tracking down Washington's location, Donut tries to recruit him into helping him save the other Reds and Blues.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 23
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt10071890",
+    "title": "Breaching the Torus",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "17",
+    "episodeNumber": 4,
+    "runtimeSeconds": 600,
+    "plot": "Donut and Washington attempt once again to save the other Reds and Blues, while Genkins does everything in his power to stop them.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 23
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt10118646",
+    "title": "The Not-So-Good Ol' Days",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTliZTM0MjQtNjFiMC00NTM3LWIzYzgtNTJmZWQyODFkZDY1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "17",
+    "episodeNumber": 5,
+    "runtimeSeconds": 600,
+    "plot": "Washington attempts to track down Carolina in the past and convince her to come with him to Blood Gulch to reunite with the other Reds and Blues.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 23
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt10118674",
+    "title": "Self-Fulfilling Odyssey",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "17",
+    "episodeNumber": 6,
+    "plot": "Donut and Washington succeed in restoring the Reds and Blues and blow Genkins cover.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt10118688",
+    "title": "Limbo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "17",
+    "episodeNumber": 7,
+    "plot": "Donut brings the other Reds and Blues up to speed, while they question his reliability.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt10118710",
+    "title": "Finally",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "17",
+    "episodeNumber": 8,
+    "plot": "The Reds and Blues begin to undo Genkins meddling while he is severely outnumbered and hopeless to stop them.",
+    "rating": {
+      "aggregateRating": 6.6,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt10118740",
+    "title": "Succession",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmY1NzdmOTAtZTFiMS00NGY2LWE1OWItMTkxNGFhZjZlMTJhXkEyXkFqcGc@._V1_.jpg",
+      "width": 852,
+      "height": 480
+    },
+    "season": "17",
+    "episodeNumber": 9,
+    "plot": "Washington braces himself for a sacrifice he has to make while Genkins resorts to drastic measures to stop the Reds and Blues.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt10118742",
+    "title": "Killing Time",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDUwMmJiZmYtZWZmNy00NzM4LTkyNzYtM2Q2NmYxNmNlNDdjXkEyXkFqcGc@._V1_.jpg",
+      "width": 600,
+      "height": 338
+    },
+    "season": "17",
+    "episodeNumber": 10,
+    "plot": "The Reds and Blues try to find a way to stop Genkins before he can break time, while Genkins falls down further into Insanity.",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt10118746",
+    "title": "Omphalos",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2Y5Mjg2ZjQtYjQ4YS00ZWE4LTg1MGEtMmFjZmYxNzIxZTY2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "17",
+    "episodeNumber": 11,
+    "runtimeSeconds": 720,
+    "plot": "The Reds and Blues are forced to live through their worst fears while Donut tries to find a way into the labyrinth to save his friends.",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt10118754",
+    "title": "Theogeny",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmJjZDViMGQtN2Y3Ni00MjQ2LThmYmUtZGE1MTY2OGJjOWNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "17",
+    "episodeNumber": 12,
+    "plot": "Donut and Doc liberate the Reds and Blues from the labyrinth and prepare for the final confrontation with Genkins, however they may soon discover the truth about Chrovos past along the way.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 25
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt13432832",
+    "title": "Viper",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "18",
+    "episodeNumber": 1,
+    "rating": {
+      "aggregateRating": 4.4,
+      "voteCount": 33
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt13532946",
+    "title": "Recovery",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "18",
+    "episodeNumber": 2,
+    "rating": {
+      "aggregateRating": 3.2,
+      "voteCount": 27
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt13532950",
+    "title": "Duo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "18",
+    "episodeNumber": 3,
+    "rating": {
+      "aggregateRating": 3.9,
+      "voteCount": 28
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt13611952",
+    "title": "Encounter",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "18",
+    "episodeNumber": 4,
+    "runtimeSeconds": 660,
+    "rating": {
+      "aggregateRating": 2.9,
+      "voteCount": 29
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 12,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt13612004",
+    "title": "Sideways",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "18",
+    "episodeNumber": 5,
+    "rating": {
+      "aggregateRating": 2.4,
+      "voteCount": 32
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 12,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt13651788",
+    "title": "Shattered",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "18",
+    "episodeNumber": 6,
+    "rating": {
+      "aggregateRating": 2.4,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 12,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt14666176",
+    "title": "For Power",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "18",
+    "episodeNumber": 7,
+    "rating": {
+      "aggregateRating": 3,
+      "voteCount": 24
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 12,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt14666880",
+    "title": "For Power Pt. 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "18",
+    "episodeNumber": 8,
+    "rating": {
+      "aggregateRating": 2.5,
+      "voteCount": 26
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 12,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt28310690",
+    "title": "Restoration - The Final Season",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "19",
+    "runtimeSeconds": 5100,
+    "plot": "When the universe's greatest villain returns in a terrifying new form, old adversaries, the Reds and Blues of Blood Gulch, will have to set aside their differences to save the galaxy one last time.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2024
+    }
+  },
+  {
+    "id": "tt1506203",
+    "title": "Everything Old Is New Again",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 420,
+    "plot": "Doc arrives in Blood Gulch looking for people to treat.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 77
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 1,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt1506214",
+    "title": "Motion to Adjourn",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 240,
+    "plot": "The Blues fend off an attack from the Reds while the Reds fend off themselves.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 69
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 1,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt1506221",
+    "title": "Red vs Bleu",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 240,
+    "plot": "This could be a heated war drama with the Red Team vs. the Blue Team, except no one knows what the hell they're doing.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 69
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 1,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt1506226",
+    "title": "The Joy of Toggling",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 240,
+    "plot": "In order to repair Sheila, Church and Tucker try to determine how to activate the repair sequence in Church's robot body, activating a homing device at the Red Base.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 66
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 2,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt1506225",
+    "title": "Sweet Ride",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 240,
+    "plot": "Sarge reveals that he had put a remote control in the Warthog to allow Lopez to drive it remotely; Church unwittingly drives the Warthog with vocal commands and corners Sarge with it.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 65
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 2,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt1506212",
+    "title": "Last Words",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 300,
+    "plot": "Tucker disconnects the remote switch, deactivating the Warthog and disabling Church's legs. The Reds decide to return Doc to the Blues.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 61
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 2,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt1506216",
+    "title": "Nobody Likes You",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 300,
+    "plot": "The Blues refuse to accept Doc back from the Reds, fearing that he might be spying for them. The Reds eventually give up and return to their base.",
+    "rating": {
+      "aggregateRating": 6.9,
+      "voteCount": 63
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 3,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt1506215",
+    "title": "Nine-Tenths of the Law",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 300,
+    "plot": "Caboose suggests that Church leave his body, so that Lopez can make any repairs to himself and Sheila. The freed Lopez flees upon assuming control of his body. The Reds spot Lopez running toward their base, and mistake him for a Blue. Sarge and Simmons prepare to counterattack.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 59
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 3,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt1506208",
+    "title": "In Stereo Where Available",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 240,
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 60
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 3,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt1506219",
+    "title": "Radar Love",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 240,
+    "plot": "Sparks fly when Lopez and Sheila meet, but the unexpected return of a former ally changes everything.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 59
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 4,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt1506207",
+    "title": "I Dream of Meanie",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 11,
+    "runtimeSeconds": 300,
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 59
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 4,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt1506222",
+    "title": "Room for Rent",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 12,
+    "plot": "Church and Tex venture into Caboose's mind to search for O'Malley",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 57
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 4,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt1506213",
+    "title": "Me, Myself, and You",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 13,
+    "plot": "Church and Tex continue their search while Tucker, Sheila and Lopez approach Red Base.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 57
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 4,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt1506197",
+    "title": "An Audience of Dumb",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 14,
+    "runtimeSeconds": 480,
+    "plot": "Lopez serenades the Red Team to get them to shut off their radios and O'Malley infects Doc.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 59
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 5,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt1506196",
+    "title": "Aftermath, Before Biology",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 15,
+    "runtimeSeconds": 240,
+    "plot": "Doc discovers a strange vehicle and Grif has an operation.",
+    "rating": {
+      "aggregateRating": 6.9,
+      "voteCount": 59
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 5,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt1506229",
+    "title": "What's Mine Is Yours",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 16,
+    "runtimeSeconds": 300,
+    "plot": "Simmons and Grif bicker over surgery while Sarge discloses that Lopez is hiding secret plans.",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 55
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 6,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt1506217",
+    "title": "Nut. Doonut.",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 17,
+    "runtimeSeconds": 360,
+    "plot": "Grif and Donut undertake a secret spy mission and Donut overhears Doc/O'Malley making plans.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 57
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 6,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt1506199",
+    "title": "Dealer Incentive",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 18,
+    "runtimeSeconds": 360,
+    "plot": "Blue Team interrogates Donut then Church possesses him in an attempt to trick Sarge.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 55
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 6,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt1506209",
+    "title": "K.I.T. B.F.F.",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "2",
+    "episodeNumber": 19,
+    "runtimeSeconds": 780,
+    "plot": "In the final episode of season two, the battle for Blood Gulch moves beyond just Red versus Blue.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 59
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 7,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt1508542",
+    "title": "Best Laid Plans",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 480,
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 59
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 10,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt1508557",
+    "title": "Visiting Old Friends",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 420,
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 56
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 10,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt1508551",
+    "title": "Let's Get Together",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 360,
+    "plot": "O'Malley sets his evil plans in motion, while the Reds and Blues debate their next move.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 50
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 11,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt1508560",
+    "title": "You're the Bomb, Yo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 360,
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 52
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 11,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt1508552",
+    "title": "Make Your Time",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 600,
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 56
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 11,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt1508558",
+    "title": "We Must Rebuild",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 240,
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 51
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 11,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt1508553",
+    "title": "New Toys",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 300,
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 53
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 12,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt1508559",
+    "title": "We're Being Watched",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 40
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 12,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt1508549",
+    "title": "It's a Biological Fact",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "runtimeSeconds": 360,
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 52
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 1,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt1508547",
+    "title": "Heavy Metal",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 10,
+    "runtimeSeconds": 360,
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 52
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 1,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt1508554",
+    "title": "Roaming Charges",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 11,
+    "runtimeSeconds": 420,
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 53
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 2,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt1508555",
+    "title": "Silver Linings",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 12,
+    "runtimeSeconds": 960,
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 47
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 3,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt1508545",
+    "title": "Episode 50 Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 13,
+    "runtimeSeconds": 540,
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 47
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt1508546",
+    "title": "Have We Met?",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 14,
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 46
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 3,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt1508550",
+    "title": "Let's Come to Order",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 15,
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 44
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 3,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt1508548",
+    "title": "Hello My Name Is Andrew",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 16,
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 48
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 4,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt1508544",
+    "title": "Defusing the Situation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 17,
+    "runtimeSeconds": 300,
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 44
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 5,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt1508543",
+    "title": "Calm Before the Storm",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 18,
+    "runtimeSeconds": 300,
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 44
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 5,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt1508556",
+    "title": "The Storm",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 19,
+    "runtimeSeconds": 480,
+    "plot": "O'Malley's robot army continues its (very slow) attack on the fortress, as the Reds prepare to follow the distress signal and the Blues try to keep Andy from exploding. Meanwhile, Church tries to unravel the prophecy of the Great Destroyer.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 50
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 5,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt1512282",
+    "title": "Familiar Surroundings",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 48
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 8,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt1512286",
+    "title": "Hunting Time",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 46
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 9,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt1512283",
+    "title": "Fight or Fright",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 38
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 9,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt1512281",
+    "title": "Fair Competition",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 38
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 9,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt1512288",
+    "title": "Lost in Triangulation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 38
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 9,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt1512295",
+    "title": "The Hard Stop",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 37
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 10,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt1512289",
+    "title": "Previous Commitments",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 7,
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 37
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 10,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt1512287",
+    "title": "Looking for Group",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 8,
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 36
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 10,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt1512280",
+    "title": "Exploring Our Differences",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 9,
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 36
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 11,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt1512291",
+    "title": "Setting a High Bar",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 10,
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 35
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 11,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt1512284",
+    "title": "Getting All Misty",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 11,
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 36
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 12,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt1512293",
+    "title": "Talk of the Town",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 12,
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 43
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 12,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt1512292",
+    "title": "Sneaking In",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 13,
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 36
+    },
+    "releaseDate": {
+      "year": 2005,
+      "month": 12,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt1512299",
+    "title": "You Keep Using That Word",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 14,
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 35
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 1,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt1512285",
+    "title": "Getting Debriefed",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 15,
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 36
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 1,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt1512298",
+    "title": "Under the Weather",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 16,
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 43
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 2,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt1512290",
+    "title": "Right to Remain Silenced",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 17,
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 43
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 3,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt1512296",
+    "title": "Things Are Looking Down",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 18,
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 35
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 3,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt1512297",
+    "title": "Two for One",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 19,
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 48
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 3,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt1512294",
+    "title": "The Arrival",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "4",
+    "episodeNumber": 20,
+    "rating": {
+      "aggregateRating": 6.9,
+      "voteCount": 50
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 4,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt1607363",
+    "title": "You Can't Park Here",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 1,
+    "plot": "A large Dropship carrying a mysterious new solider lands on Donut.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 47
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 9,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt1734183",
+    "title": "Got Your Back",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 2,
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 41
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 10,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt2117510",
+    "title": "Baby Steps",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 3,
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 31
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 10,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt2117518",
+    "title": "Sibling Arrivalries",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 4,
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 32
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 10,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt2117522",
+    "title": "The Grif Reaper",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 5,
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 11,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt2117513",
+    "title": "In Memoriam",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 6,
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 11,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt2117520",
+    "title": "Strong Male Figure",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 7,
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 11,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt2117530",
+    "title": "Yellow Fever",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 8,
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 12,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt2117512",
+    "title": "Brass Tacks",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 9,
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 12,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt2117524",
+    "title": "The Nesting Theory",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 10,
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 1,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt2117519",
+    "title": "Spelunked",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 11,
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 1,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt2117523",
+    "title": "The Haystack",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 12,
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 2,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt2117521",
+    "title": "Terms and Provisions",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 13,
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 2,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt2117515",
+    "title": "Missed Direction",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 14,
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 3,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt2117528",
+    "title": "Where Credit Is Due",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 15,
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 3,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt2117511",
+    "title": "Biting the Hand",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 16,
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 4,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt2117526",
+    "title": "Tucker Knows Best",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 17,
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 4,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt2117514",
+    "title": "Loading...",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 18,
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 4,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt2117525",
+    "title": "The Wrong Crowd",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 19,
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 31
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 4,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt2117527",
+    "title": "Uncommunicado",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 20,
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt2117517",
+    "title": "Same Old, Same Old",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 21,
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 5,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt2117516",
+    "title": "Repent, the End Is Near",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 22,
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 32
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 6,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt2117529",
+    "title": "Why Were We Here?",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 23,
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 48
+    },
+    "releaseDate": {
+      "year": 2007,
+      "month": 6,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt1297296",
+    "title": "Reconstruction: Chapter 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTMyMjc2NjIxOF5BMl5BanBnXkFtZTcwMDAyMjY1Mw@@._V1_.jpg",
+      "width": 354,
+      "height": 500
+    },
+    "season": "6",
+    "episodeNumber": 1,
+    "runtimeSeconds": 420,
+    "plot": "After the events at Blood Gulch and Recovery One, Agent Washington reassembles both teams to uncover a conspiracy behind Project Freelancer, and discover a shocking secret about a certain team member.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 1385
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 5,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt8198760",
+    "title": "Chapter 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 2,
+    "runtimeSeconds": 300,
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 30
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 6,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt8198766",
+    "title": "Chapter 3",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 3,
+    "runtimeSeconds": 360,
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 27
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 6,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt8198786",
+    "title": "Chapter 4",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 4,
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 29
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 6,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt8198790",
+    "title": "Chapter 5",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 5,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 25
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 6,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt8198792",
+    "title": "Chapter 6",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 6,
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 32
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 7,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt8198820",
+    "title": "Chapter 7",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 7,
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 26
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt8198824",
+    "title": "Chapter 8",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 8,
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 27
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt8198830",
+    "title": "Chapter 9",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 9,
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 28
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 8,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt8198842",
+    "title": "Chapter 10",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 10,
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 32
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 8,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt8216050",
+    "title": "Chapter 11",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 11,
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 27
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 8,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt8210322",
+    "title": "Chapter 12",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 12,
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 28
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 8,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt8210328",
+    "title": "Chapter 13",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 13,
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 28
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt8210366",
+    "title": "Chapter 14",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 14,
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 27
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt8210370",
+    "title": "Chapter 15",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 15,
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 28
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 9,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt8210376",
+    "title": "Chapter 16",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 16,
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 29
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 9,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt8210382",
+    "title": "Chapter 17",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 17,
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 31
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 10,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt8210390",
+    "title": "Chapter 18",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 18,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 25
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 10,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt8210394",
+    "title": "Chapter 19",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 19,
+    "runtimeSeconds": 600,
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 42
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 10,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt32572865",
+    "title": "Episode #6.0",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "6",
+    "releaseDate": {
+      "year": 2008,
+      "month": 4,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt1543230",
+    "title": "Don't Get Me Started",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjE4MTU4ODA4Nl5BMl5BanBnXkFtZTcwMTAyMjY1Mw@@._V1_.jpg",
+      "width": 354,
+      "height": 500
+    },
+    "season": "7",
+    "episodeNumber": 1,
+    "runtimeSeconds": 360,
+    "plot": "After losing most of his team, the lonesome Blue, Caboose goes on a daring mission in the desert to rebuild his team, ironically accompanied by The Reds.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 967
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 6,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt10543644",
+    "title": "Free Refills",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 2,
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 6,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt10543650",
+    "title": "Visiting Hours",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 3,
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 6,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt10543656",
+    "title": "Catching Up",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 4,
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 7,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt10543660",
+    "title": "Local Host",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 5,
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 7,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt10543666",
+    "title": "One New Message",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 6,
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 7,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt10543672",
+    "title": "Bon Voyage",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 7,
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 8,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt10543678",
+    "title": "Directions",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 8,
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 8,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt10543682",
+    "title": "My House, From Here",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 9,
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 8,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt10543688",
+    "title": "Lay of the Land",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 10,
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 8,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt10543696",
+    "title": "Dumb Cop, Bad Cop",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 11,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 8,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt10543698",
+    "title": "Well Hello",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 12,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 9,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt10543702",
+    "title": "Called Up",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 13,
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt10543714",
+    "title": "The Installation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 14,
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 9,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt10543726",
+    "title": "Watch The Flank",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 15,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 9,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt10543738",
+    "title": "Retention Deficit",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 16,
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 10,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt14534186",
+    "title": "Trust Issues",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 17,
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 10
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 10,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt10543774",
+    "title": "Hang Time",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 18,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 10,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt10543790",
+    "title": "Think You Know Someone",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 19,
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 10,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt1789886",
+    "title": "For Those of You Just Joining Us...",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzkwNDE1NjIwN15BMl5BanBnXkFtZTcwNzk5ODA4Nw@@._V1_.jpg",
+      "width": 1194,
+      "height": 1686
+    },
+    "season": "8",
+    "episodeNumber": 1,
+    "runtimeSeconds": 480,
+    "plot": "Washington and The Meta go on the hunt for the AI Fragment Epsilon who begins remembering dark and repressed memories tying to Project Freelancer.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 980
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 4,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt10895672",
+    "title": "Drink Your Ovaltine",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 2,
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 4,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt10895674",
+    "title": "Upon Further Review",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 3,
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 4,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt10895676",
+    "title": "Recovering One",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 4,
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 22
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 4,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt10895678",
+    "title": "4th and Twenty",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 5,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt10895680",
+    "title": "Towing Package",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 6,
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt10895682",
+    "title": "And Don't Call Me Shirley",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 7,
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt10895684",
+    "title": "Pursuing the Archive",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 8,
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt10895686",
+    "title": "Backup Plans",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 9,
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 6,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt10895688",
+    "title": "This One Goes to Eleven",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 10,
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 50
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 6,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt10895690",
+    "title": "Restraining Orders",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 11,
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 6,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt10895692",
+    "title": "Snooze Button",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 12,
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 7,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt10895694",
+    "title": "Battle of the Exes",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 13,
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 7,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt10895696",
+    "title": "Reconfiguration",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 14,
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 7,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt10895698",
+    "title": "Check Your Local Listings",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 15,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 8,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt10895700",
+    "title": "Standardized Testing",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 16,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 8,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt10895704",
+    "title": "Tenth Percentile",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 17,
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 19
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 8,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt10895706",
+    "title": "Rally Cap",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 18,
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 8,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt10895708",
+    "title": "Reunion",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 19,
+    "plot": "Tex confronts Washington about the Director's whereabouts.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 32
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 9,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt10895710",
+    "title": "N+1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 20,
+    "plot": "The Reds and Blues unite to battle the Meta.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 34
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 9,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt2114454",
+    "title": "Rounding Error",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTA3NDczNjM0MjheQTJeQWpwZ15BbWU3MDg5OTgwODc@._V1_.jpg",
+      "width": 1194,
+      "height": 1686
+    },
+    "season": "9",
+    "episodeNumber": 1,
+    "runtimeSeconds": 420,
+    "plot": "The beginning of the end of Project Freelancer is revealed, while Epsilon relives his Blood Gulch memories in search of Tex.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 1090
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 6,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt10903020",
+    "title": "The Twins",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 2,
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 20
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 6,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt10903024",
+    "title": "Number One",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 3,
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 6,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt10903026",
+    "title": "Evacuation Plan",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 4,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 7,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt10903028",
+    "title": "Realignment",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 5,
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 16
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 7,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt10903030",
+    "title": "Familiar Feelings",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 6,
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 16
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 7,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt10903032",
+    "title": "Case File 01.045",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 7,
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt10903034",
+    "title": "Shaking the Foundation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 8,
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 16
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt10903036",
+    "title": "Captive Audience",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 9,
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 16
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt10903038",
+    "title": "Introductions",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 10,
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 21
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt10903040",
+    "title": "Lifting the Veil",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 11,
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 16
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt10903052",
+    "title": "Mid-Game Substitution",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 12,
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 15
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt10903064",
+    "title": "Planning the Heist",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 13,
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 15
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt10903072",
+    "title": "Son of a Bitch",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 14,
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 15
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 10,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt10903084",
+    "title": "The Sarcophagus",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 15,
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 18
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 10,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt10903094",
+    "title": "Hell's Angel",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 16,
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 10,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt10903100",
+    "title": "Spiral",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 17,
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 10,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt10903102",
+    "title": "Labor Pains",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 18,
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 15
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 10,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt10903108",
+    "title": "Whole Lot of Shaking",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 19,
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 17
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 11,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt10903114",
+    "title": "Hate to Say Goodbye",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "episodeNumber": 20,
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 26
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 11,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt33337125",
+    "title": "Episode #9.0",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "9",
+    "releaseDate": {
+      "year": 2011,
+      "month": 3,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt1506202",
+    "title": "The Last Episode Ever",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "unknown",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 31
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 4,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt30048578",
+    "title": "Red vs. Blue 360: The Flag",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "unknown",
+    "releaseDate": {
+      "year": 2017,
+      "month": 2,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt31315989",
+    "title": "Red vs. Blue 360: The Talk",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "unknown",
+    "releaseDate": {
+      "year": 2017,
+      "month": 1,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt32591841",
+    "title": "Red vs. Blue 360: Supply Drop",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "unknown",
+    "releaseDate": {
+      "year": 2016,
+      "month": 12,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt32591872",
+    "title": "Red vs. Blue 360: A Day at the Base",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "season": "unknown",
+    "releaseDate": {
+      "year": 2016,
+      "month": 11,
+      "day": 11
+    }
+  }
+]

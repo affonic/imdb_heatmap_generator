@@ -1,0 +1,1695 @@
+[
+  {
+    "id": "tt3957774",
+    "title": "BoJack Horseman: The BoJack Horseman Story, Chapter One",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI1MDQ3MzMzNF5BMl5BanBnXkFtZTgwMDE4ODM5MTE@._V1_.jpg",
+      "width": 1908,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1500,
+    "plot": "A publishing house eagerly awaits BoJack's memoirs, but he hasn't even started yet. His agent/ex and his publisher try to talk him into working with a ghost writer, but BoJack's too despondent about being washed up to focus.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 8156
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt3982374",
+    "title": "BoJack Hates the Troops",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU3MjAwNzM4Ml5BMl5BanBnXkFtZTgwODM0NjQzNjE@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1500,
+    "plot": "BoJack gets into trouble after taking muffins a Navy Seal had \"dibs\" on and then calling American soldiers jerks on live television.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 7298
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt3981116",
+    "title": "Prickly Muffin",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDczN2FjZmEtOTk3NS00OWRkLWE5MGEtNTgzMTQwMWZjMDgzXkEyXkFqcGc@._V1_.jpg",
+      "width": 556,
+      "height": 314
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1500,
+    "plot": "A child actress from the sitcom BoJack starred in 20 years ago shows up at his house leading to a series of chaotic events.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 6651
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt3980964",
+    "title": "Zoës and Zeldas",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODIwNTlkZjctMmFmZi00ZmNmLWJmZmEtMGUxOWFmNzQzZGQ2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 563
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1500,
+    "plot": "Bojack mentors Todd in his upcoming career; meanwhile Diane's ex-boyfriend writes an article about Mr. Peanutbutter for an online article.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 6426
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt3978916",
+    "title": "Live Fast, Diane Nguyen",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWNiMmZjNTItMjYwOC00OWFiLTlmODMtOGU2ZmI2NGE1NDc3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 563
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1500,
+    "plot": "A business trip for BoJack and Diane takes a detour; Todd runs a scam that gets him in trouble.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 6166
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt3978918",
+    "title": "Our A-Story Is a 'D' Story",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTMzNmI1ZWItMTVjYS00YTM0LThjZDAtYmE0ODhmMDc3YmJjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 563
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1500,
+    "plot": "In a bout of drunken jealousy toward Mr. Peanutbutter, BoJack steals the \"D\" from the Hollywood sign for Diane. Meanwhile, Todd finds himself juggling two very demanding dates.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 6185
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt3981398",
+    "title": "Say Anything",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDhhNDAxY2QtYzYwMC00OWZkLTk3NDQtNjM3M2I4YzJkYjk0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 563
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1500,
+    "plot": "Princess Carolyn tries to have it all and prove she's the best agent in the biz, while Bojack, Todd, and Vanessa Gecko make it as difficult as possible.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 6207
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt3978922",
+    "title": "The Telescope",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2M2ZTM1OGQtM2FmMC00YWIyLWE4ZDUtOWQ4ZTE5MjRiNjJiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 999
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1500,
+    "plot": "When he learns his old friend from \"Horsin' Around\" is dying, BoJack tries to mend fences.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 7206
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt3978928",
+    "title": "Horse Majeure",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjc5YWM0OTMtMDEyNy00NjQ5LWE5MDItZWUzYTZiYmI1MTc1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 563
+    },
+    "season": "1",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1500,
+    "plot": "A love struck BoJack tries to sabotage a wedding; Todd accepts a surprising new professional role.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 5823
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt3978930",
+    "title": "One Trick Pony",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmNjNjg5ZjktZWMyOC00YTRhLTk3OTUtMzI5MzNiNDU4NDNmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 563
+    },
+    "season": "1",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1500,
+    "plot": "BoJack shoots a movie at Mr. Peanutbutter's house; Diane finishes her book.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 5719
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt3978932",
+    "title": "Downer Ending",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmMzNzI3Y2UtNjRjZi00OTE4LTk5ZjEtMmQyMDNmMjNkYWU3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 563
+    },
+    "season": "1",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1500,
+    "plot": "BoJack embarks on a project in his typically gonzo style, leading to a drug-fueled revelation.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 9217
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt3978934",
+    "title": "Later",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmM5MDc3NzEtZGFlNS00ZWJjLTlkOTAtODNlNjk2Zjk2MmVkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1560,
+    "plot": "Months after his memoir is released, BoJack's being considered for a role that's a life long dream.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 6250
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt4311472",
+    "title": "Brand New Couch",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTQ0ODE5NTU4MF5BMl5BanBnXkFtZTgwNzQ0NjQzNjE@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1560,
+    "plot": "Picking things up from where we left off last season, Bojack now prepares to start filming his dream movie Secretariat.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 5742
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt4835722",
+    "title": "Yesterdayland",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY2ODYzNTcyNl5BMl5BanBnXkFtZTgwNDI0NjQzNjE@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1560,
+    "plot": "BoJack is drawn to the one female in town who has no idea who he is (because she was in a coma). Todd opens a theme park.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 5391
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt4835724",
+    "title": "Still Broken",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI0MDExMDUxOF5BMl5BanBnXkFtZTgwMDM0NjQzNjE@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1500,
+    "plot": "A funeral turns into a treasure hunt for the \"Horsin' Around\" cast and a potential schmoozefest for Princess Carolyn and Mr. Peanutbutter. Meanwhile, Todd briefly reinvents himself.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 5384
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt4835730",
+    "title": "After the Party",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ3ODI5Mzg4Nl5BMl5BanBnXkFtZTgwOTM0NjQzNjE@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1560,
+    "plot": "Mr. Peanutbutter throws Diane a surprise birthday party, putting tension on their relationship. Princess Carolyn and Vincent have a serious talk. Wanda tells BoJack a joke.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 5392
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt4835728",
+    "title": "Chickens",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjgzNmM2ZmMtMmY2MS00M2IxLTk5Y2YtZDg2N2NjZDU4ODc3XkEyXkFqcGc@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1560,
+    "plot": "Todd tries to save a chicken from the slaughter house while Bojack and Kelsey are allowed some bonding time.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 5556
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt4835732",
+    "title": "Higher Love",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDkzODIwNDE4NV5BMl5BanBnXkFtZTgwMzIwMTg4OTE@._V1_.jpg",
+      "width": 548,
+      "height": 975
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1500,
+    "plot": "Princess Carolyn sees an opportunity when Mr. Peanutbutter's agent dies. BoJack flips when he says the \"L\" word out loud to Wanda.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 5074
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt4835738",
+    "title": "Hank After Dark",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDkxNzQ5MjAwMV5BMl5BanBnXkFtZTgwNjQ0NjQzNjE@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1560,
+    "plot": "Diane goes off script during BoJack's book tour, jeopardizing Mr. Peanutbutter's new show. Todd gets involved in international affairs.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 5468
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt4835736",
+    "title": "Let's Find Out",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ3ODkwNjMzN15BMl5BanBnXkFtZTgwMjU0NjQzNjE@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1500,
+    "plot": "BoJack Horseman is a contestant on Mr. Peanutbutter's new game show, facing off against a mystery 'bigger celebrity' contestant.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 6682
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt4835740",
+    "title": "The Shot",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY2NDI4NTEyOV5BMl5BanBnXkFtZTgwNjU0NjQzNjE@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1560,
+    "plot": "BoJack, Kelsey, Todd, Princess Carolyn, and Mr. Peanutbutter attempt to shoot a crucial scene in the Secretariat movie that was not in the script. Princess Carolyn and Diane contemplate their respective careers.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 5370
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt4835746",
+    "title": "Yes And",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUyNzI0NzUxMl5BMl5BanBnXkFtZTgwMDA1NjQzNjE@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1560,
+    "plot": "Diane crashes at BoJack's place after quitting her job following Sebastian St. Clair, which puts a strain on BoJack and Wanda's relationship. Todd joins an improv comedy troupe which turns out to be a cult.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 5662
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt4835748",
+    "title": "Escape from L.A.",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2FjMzMxZDItMTc4YS00NGRiLWI3MWYtNTM4YTA3YmFlMjEzXkEyXkFqcGc@._V1_.jpg",
+      "width": 2208,
+      "height": 1242
+    },
+    "season": "2",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1500,
+    "plot": "Bojack runs off to New Mexico to reconnect with an old friend, only to find she's happily married with a family. After staying longer than planned, Bojack makes another life mistake.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 10007
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt4835752",
+    "title": "Out to Sea",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjEzNDQ5MDgxN15BMl5BanBnXkFtZTgwOTI0NjQzNjE@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1500,
+    "plot": "BoJack discovers the Secretariat film was finished without him. Princess Carolyn starts her own agency firm. Todd finds himself trapped in the improv comedy cult.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 5655
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt4294938",
+    "title": "BoJack Horseman Christmas Special: Sabrina's Christmas Wish",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjAwNzI2OTM2Ml5BMl5BanBnXkFtZTgwNzI0NjQzNjE@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "runtimeSeconds": 1500,
+    "plot": "BoJack and Todd watch a very special Christmas episode of \"Horsin' Around\" to celebrate the holidays.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 3664
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 12,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt4896050",
+    "title": "Start Spreading the News",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTA2YTE0NWItYjZjNS00MGJiLWEwZDYtNjMwZDQ2N2I4NWM3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1136,
+      "height": 640
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1500,
+    "plot": "Bojack goes to New York to be interviewed for his new film. Todd tags along and realizes he bit off a little more than he could chew.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 4957
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5218276",
+    "title": "The BoJack Horseman Show",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzFkMWMzOTctYzMxZS00NWQ0LWExYTQtY2IxYzkyNTgyYWY0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1136,
+      "height": 640
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1560,
+    "plot": "It's 2007, and Princess Carolyn works tirelessly to get Bojack to stop basking in the light of the glory days and start working again. Diane and Mr. Peanutbutter meet, and Todd kisses a girl.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 5120
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5218432",
+    "title": "BoJack Kills",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGM4ZWE3ZmYtNWYyMC00NWQ2LWI0M2YtNTEzOGYwZDJhYmQ4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1136,
+      "height": 640
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1560,
+    "plot": "Bojack is framed for a murder. Meanwhile, Todd and Mr. Peanutbutter are sprayed by a skunk.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 4946
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5218434",
+    "title": "Fish Out of Water",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmZmYmM4NzQtM2M1YS00MWMxLTlkZmEtMDU1M2MzMWRmNDZkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1136,
+      "height": 640
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1500,
+    "plot": "As Bojack is forced to attend an underwater movie festival to promote his new movie, a series of events and the inability to communicate with underwater life ensures that not everything goes as planned.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 14313
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5218444",
+    "title": "Love And/Or Marriage",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDllMWJlZmItZWRkNC00MGJjLWJkMDctZjJlNWM1ZGFmOGZjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1136,
+      "height": 640
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1560,
+    "plot": "While Todd and Bojack crash a rehearsal dinner, Diane gets high with a client. Princess Carolyn goes on a series of blind dates.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 5029
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5113952",
+    "title": "Brrap Brrap Pew Pew",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTRjNTg3NGMtNGFjNC00ZGEwLWJiMWYtY2Q3MGU4OWNlZTE1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1136,
+      "height": 640
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1500,
+    "plot": "Diane's tweet lands Sextina Aquafina in hot water. Prankster and A-list actor Jurj Clooners gets under BoJack's skin.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 5323
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5218452",
+    "title": "Stop the Presses",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDA3Zjk0Y2MtNTdkMC00OTNlLThhZjYtNGVhYjUzNDViMDAzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1136,
+      "height": 640
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1560,
+    "plot": "Todd builds a giant papier-mâché Todd head. A customer service rep gives Bojack some good advice when he tries to cancel his newspaper subscription.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 5146
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5218464",
+    "title": "Old Acquaintance",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzc3MjQ0ZGQtMjE5ZC00YWRhLTliOTMtNjQ4ZjNmMDg2NWU1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1136,
+      "height": 640
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1560,
+    "plot": "Bojack is up for a part in David Pincher's latest film. Diane meets Mr. Peanutbutter's brother and Todd takes the business in a new direction.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 4729
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5218468",
+    "title": "Best Thing That Ever Happened",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTgxNTkzYzItMjQwMC00M2M2LWE3MmEtYzQzOWYyNGU0NmU3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1136,
+      "height": 640
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1500,
+    "plot": "After Princess Carolyn's latest mistake as BoJack's agent gets worse and worse, their entire relationship comes into question.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 5474
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5218478",
+    "title": "It's You",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODdiMzUwZDAtY2RlZS00ZGFkLTllYjItOWU3M2Y4YjQxZmY4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "3",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1560,
+    "plot": "Mr. Peanutbutter announces the Oscar nominees. Bojack surrounds himself with admirers, not realizing how much his true friendships are falling apart.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 5943
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5218488",
+    "title": "That's Too Much, Man!",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWE5MWM0ZTQtMTk4ZS00ZjFiLWIwZTMtMjJmOWIwNDczMzUxXkEyXkFqcGc@._V1_.jpg",
+      "width": 3200,
+      "height": 1680
+    },
+    "season": "3",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1500,
+    "plot": "BoJack gets Sarah Lynn to break her sobriety to help drown his depression, and experiences the next few months through blackouts.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 11842
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5218494",
+    "title": "That Went Well",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjc1ODVmZmYtMzg5ZC00ZWM5LThjNTYtMGIzZTA3MGRlNzBlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1359,
+      "height": 765
+    },
+    "season": "3",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1560,
+    "plot": "Bojack hits rock bottom. Mr. Peanutbutter and Todd save the day. Princess Carolyn finds a new calling",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 6516
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5903904",
+    "title": "See Mr. Peanutbutter Run",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI2MDMxODAyMl5BMl5BanBnXkFtZTgwNjI1NTIzMzI@._V1_.jpg",
+      "width": 1382,
+      "height": 2048
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1560,
+    "plot": "Mr. Peanutbutter starts his campaign for Governor of California by challenging the current governor to a ski race while BoJack is nowhere to be found.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 5098
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt6542604",
+    "title": "The Old Sugarman Place",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWIxNTViMTUtMmY5Yi00ODgwLWI4MzktNzc2ZjkxY2Q1ZTgxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1500,
+    "plot": "BoJack goes off the grid and winds up at his grandparents' dilapidated home in Michigan where he reflects on his family legacy and befriends another soul haunted by the past.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 9972
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt6542616",
+    "title": "Hooray! Todd Episode!",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTA1MDM4MDctYzA1MS00MDI5LWIyMzItODgyMGI5NGU0MzdiXkEyXkFqcGc@._V1_.jpg",
+      "width": 710,
+      "height": 473
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1560,
+    "plot": "Helpful to a fault, Todd is spread thin doing favors for Princess Carolyn, Mr. Peanutbutter and a visitor with a potential connection to BoJack.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 5495
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt6542606",
+    "title": "Commence Fracking",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDBjM2ViNWYtMzA3Zi00NTFjLWI3NmItNjMzZGQ3MTRkOTI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1560,
+    "plot": "The campaign takes a toll on Diane's love life. BoJack helps Hollyhock search for her mom. Princess Carolyn tries to get pregnant.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 4759
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt6542602",
+    "title": "Thoughts and Prayers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzIzZTAyMDQtMDYxMC00YTE4LWI4YzAtZWEwOWFhY2I5NTExXkEyXkFqcGc@._V1_.jpg",
+      "width": 1684,
+      "height": 942
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1560,
+    "plot": "A mass shooting at a mall creates a PR nightmare for Princess Carolyn. BoJack takes Hollyhock to visit his estranged mother.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 5097
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt6542608",
+    "title": "Stupid Piece of Sh*t",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjQ1OWE1ZGUtNDI5ZC00NjVhLWIyMTUtNjA1ODgwNmMwODM1XkEyXkFqcGc@._V1_.jpg",
+      "width": 951,
+      "height": 536
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1560,
+    "plot": "Surrounded by family, BoJack spirals into self-loathing. Princess Carolyn and Rutabaga Rabitowitz plan Courtney and Todd's sham wedding.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 7843
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt6260644",
+    "title": "Underground",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmNiMjU2NWItZmJmOS00YzZjLTk0MDUtZThjYjE1ODE0NTYwXkEyXkFqcGc@._V1_.jpg",
+      "width": 2712,
+      "height": 1512
+    },
+    "season": "4",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1560,
+    "plot": "Mr. Peanutbutter's posh campaign fundraiser takes a terrifying turn. As chaos swirls around them. BoJack and Diane get drunk.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 5131
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt6542612",
+    "title": "The Judge",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWJlZmQ0NDAtNmUwOS00NzkyLTg5NmYtYzFlMGE1YWM1MjNhXkEyXkFqcGc@._V1_.jpg",
+      "width": 2698,
+      "height": 1522
+    },
+    "season": "4",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1560,
+    "plot": "Hollyhock starts dating an intern on BoJack's new show. Princess Carolyn meets Ralph's parents. Mr. Peanutbutter throws his support behind Woodchuck.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 4630
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt6542622",
+    "title": "Ruthie",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2YwYmRlNzQtOWEwNC00M2UzLWFmMjQtNjIyYzIwMmI0ZWEzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1334,
+      "height": 750
+    },
+    "season": "4",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1560,
+    "plot": "On one awful day, Princess Carolyn deals with rejection, deception and loss. BoJack and Diane try to track down Hollyhock's birth certificate.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 6902
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt6542618",
+    "title": "lovin that cali lifestyle!!",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODhmMDU1NjEtNjFhYi00MjAyLTlkN2YtYTU0MGMwNzMzMmUzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "4",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1560,
+    "plot": "Diane leaks damaging information on Jessica Biel, Todd's clown dentist business hits a snag, and Princess Carolyn finds hope in an unlikely place.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 5067
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt6542628",
+    "title": "Time's Arrow",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGM5NzUxZDgtZDg3NC00ZWVlLThiZTgtNTMyMTI5Y2VkMGRlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "4",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1500,
+    "plot": "In 1963, young socialite Beatrice Sugarman meets the rebellious Butterscotch Horseman at her debutante party.",
+    "rating": {
+      "aggregateRating": 9.8,
+      "voteCount": 16516
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt6542620",
+    "title": "What Time Is It Right Now",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDBjY2U0MTItY2QxYi00ZmJlLWI2YjYtYzFjN2E2ZjkzNjZjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "4",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1560,
+    "plot": "Princess Carolyn pitches \"Philbert\" to company execs. Todd gets a better business idea. BoJack comes to a realization about Hollyhock.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 5904
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt7484892",
+    "title": "The Light Bulb Scene",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTExMTIyNTYxMl5BMl5BanBnXkFtZTgwMTc5NTYyNjM@._V1_.jpg",
+      "width": 2048,
+      "height": 1152
+    },
+    "season": "5",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1560,
+    "plot": "BoJack has misgivings about his new show. Princess Carolyn visits an adoption agency. Todd interviews for a job at WhatTimeIsItRightNow.com.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 4930
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt8266810",
+    "title": "The Dog Days Are Over",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY0NzYyNjM4NV5BMl5BanBnXkFtZTgwNjc5NTYyNjM@._V1_.jpg",
+      "width": 2048,
+      "height": 1152
+    },
+    "season": "5",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1620,
+    "plot": "Diane divorces Mr. Peanutbutter and moves into a shabby studio. Feeling melancholy, she travels to Vietnam to get away from it all.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 6591
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt8266818",
+    "title": "Planned Obsolescence",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTAzNDM4Mzc2MV5BMl5BanBnXkFtZTgwOTY5NTYyNjM@._V1_.jpg",
+      "width": 2048,
+      "height": 1152
+    },
+    "season": "5",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1560,
+    "plot": "Todd meet's Yolanda's parents, who don't know she's asexual. Mr. Peanutbutter romances a young waitress. Gina confesses a childhood dream to BoJack.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 4834
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt8266820",
+    "title": "BoJack the Feminist",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY5NzkyODA4OV5BMl5BanBnXkFtZTgwODQ5NTYyNjM@._V1_.jpg",
+      "width": 2048,
+      "height": 1152
+    },
+    "season": "5",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1560,
+    "plot": "When Princess Carolyn casts a disgraced celeb in \"Philbert,\" BoJack inadvertently takes a stand. Mr. Peanutbutter tries to toughen up his image.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 4847
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt8266824",
+    "title": "The Amelia Earhart Story",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTA0MzU5NzA5NjZeQTJeQWpwZ15BbWU4MDc5NDE3MjYz._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "5",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1560,
+    "plot": "Painful memories come rushing back when Princess Carolyn visits her hometown and meets a pregnant teen. A stunt goes awry on the \"Philbert\" set.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 5166
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt8266826",
+    "title": "Free Churro",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzM0YWIxNDYtYjA3My00YTg0LWJiNzUtZTgwODg5NjQ1NjJiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1346,
+      "height": 753
+    },
+    "season": "5",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1560,
+    "plot": "BoJack delivers a eulogy at a funeral.",
+    "rating": {
+      "aggregateRating": 9.8,
+      "voteCount": 21983
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt8266828",
+    "title": "INT. SUB",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDk5ODM5OTgyNV5BMl5BanBnXkFtZTgwNDk0MTcyNjM@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "5",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1560,
+    "plot": "Diane's therapist encourages her to set boundaries with BoJack. A missing string cheese ignites a dispute between Todd and Princess Carolyn.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 5860
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt8266834",
+    "title": "Mr. Peanutbutter's Boos",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWEwMTc5ODEtNmQyMi00MzE1LThjNzctOGIwMzdhYTA4NGZlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "5",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1560,
+    "plot": "At BoJack's 25th annual Halloween party, Pickles gets a crash course in Mr. Peanutbutter's romantic history -- and some advice from Diane.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 5051
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt8266832",
+    "title": "Ancient History",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTgxODk2MDk1Nl5BMl5BanBnXkFtZTgwNjk0MTcyNjM@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "5",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1560,
+    "plot": "A visiting Hollyhock dumps BoJack's painkillers, sending him on a desperate search for more. Todd tries to solve Emily's dating dilemma.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 4607
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt8266838",
+    "title": "Head in the Clouds",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTk0OTgyODkyNF5BMl5BanBnXkFtZTgwMzk0MTcyNjM@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "5",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1560,
+    "plot": "At the \"Philbert\" premiere party, Princess Carolyn deftly negotiates a deal, Gina steps into the limelight, and Diane confronts BoJack.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 5508
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt8266836",
+    "title": "The Showstopper",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGJhNDhkNmItYTYxMS00YWUzLTg3NGUtMzFhNDJlM2JhZWMzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "5",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1560,
+    "plot": "\"Philbert\" is a hit, and filming begins on Season 2. But as BoJack spirals deeper into addiction, he loses his grip on reality.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 9227
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt8266840",
+    "title": "The Stopped Show",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmZlYjQxZTQtMzI3My00M2Y3LTkyMTUtNzQ4MGYxOWEwZmE4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1891,
+      "height": 1033
+    },
+    "season": "5",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1560,
+    "plot": "In the midst of the latest PR crisis, Princess Carolyn gets a life-changing opportunity. With Diane's help, BoJack finally faces the music.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 5531
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt9207160",
+    "title": "A Horse Walks into a Rehab",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTljMzM5ZGItNmEyNS00MmQxLTljYmUtZTllMzRiZDcwN2QyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1500,
+    "plot": "BoJack checks into Pastiches, a Malibu rehab facility, where he grapples with memories of Sarah Lynn's death and his own troubled childhood.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 6145
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt11028144",
+    "title": "The New Client",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTIzYTUxYzYtOGIzMC00ZTAwLTkyZjktZjZmZGMzOTMyNGE1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1300,
+      "height": 649
+    },
+    "season": "6",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1560,
+    "plot": "When her nanny quits, Princess Carolyn struggles to balance the demands of work and parenting. Mr. Peanutbutter visits BoJack in rehab.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 5059
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt11028148",
+    "title": "Feel-Good Story",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI2YzIxMTQtMzNhZS00YmNkLTljMDEtMWM2M2Q0M2EwMDE0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "6",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1560,
+    "plot": "Girl Croosh sends Diane on the road with rugged cameraman Guy, but she balks when they ask her to produce more feel-good stories.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 4715
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt11028150",
+    "title": "Surprise!",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTBiMGZlZjYtNWNlNC00OTkxLWE3MGItMmY1ZWNkOTI0ODU5XkEyXkFqcGc@._V1_.jpg",
+      "width": 658,
+      "height": 370
+    },
+    "season": "6",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1560,
+    "plot": "Todd organizes a surprise wedding for Pickles and Mr. Peanutbutter, but the party quickly goes off the rails when Mr. Peanutbutter makes a confession.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 5604
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt11028152",
+    "title": "A Little Uneven, Is All",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDMyNTI5MjYtMjYwMS00Yzk2LWE5YWQtMDAzZGU5MmRkZmNlXkEyXkFqcGc@._V1_.jpg",
+      "width": 658,
+      "height": 370
+    },
+    "season": "6",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1560,
+    "plot": "Dr. Champ tells BoJack it's time to leave rehab. Mr. Peanutbutter's reputation takes a hit. In Chicago, Diane wrestles with writer's block.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 4365
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt11028154",
+    "title": "The Kidney Stays in the Picture",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTMwMDE3MjItNWM3Ny00NmNjLTk4YjItMjVkMDEyNzY3OTU1XkEyXkFqcGc@._V1_.jpg",
+      "width": 658,
+      "height": 370
+    },
+    "season": "6",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1560,
+    "plot": "The assistants of Hollywoo go on strike. BoJack tries to help Dr. Champ. When Todd learns that his mother needs a kidney, Diane comes up with a plan.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 4432
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt11028156",
+    "title": "The Face of Depression",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ0ZTZhMTctOWFhOS00ZDYzLTk2ZDMtOTNiMjMzOGVlZmNhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "6",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1620,
+    "plot": "BoJack travels around the country reconnecting with loved ones, while Mr. Peanutbutter embarks on his own national tour as the face of depression.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 7160
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt11028158",
+    "title": "A Quick One, While He's Away",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjhhYTEwMDUtZDQ4Yi00OGM3LWE0MDctMjI2NjMxMjFkM2JlXkEyXkFqcGc@._V1_.jpg",
+      "width": 658,
+      "height": 370
+    },
+    "season": "6",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1560,
+    "plot": "A reporter digs into the circumstances surrounding Sarah Lynn's death. Hollyhock goes to a party in New York City.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 4765
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt11028162",
+    "title": "Intermediate Scene Study w/ BoJack Horseman",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzg4NWM5NmMtYzhmZC00OTcxLTkyODYtMDgxYTUyOWNjZTZhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1013,
+      "height": 585
+    },
+    "season": "6",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1560,
+    "plot": "When BoJack starts teaching an acting class at Wesleyan, Hollyhock sets some boundaries in their relationship.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 4582
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt11028166",
+    "title": "Good Damage",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDZlYWY2ZTAtNGUxNi00ZjYzLWJhM2EtMTAyZGJlYjEyMjJkXkEyXkFqcGc@._V1_.jpg",
+      "width": 840,
+      "height": 542
+    },
+    "season": "6",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1560,
+    "plot": "Diane's depression lifts, but she's still struggling to start writing her memoir. Reporters Paige and Max pay Penny a visit.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 5321
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt11028164",
+    "title": "Sunk Cost and All That",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDRlNjA4ZjAtZGQzNy00NzgxLThmZGItZjM4YzAxMWIyZTc4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "6",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1560,
+    "plot": "While Paige and Max question Mr. Peanutbutter at his restaurant, a panicked BoJack tries to piece together what's happening.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 4618
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt11028172",
+    "title": "Xerox of a Xerox",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTkwMDZiZDktYWM4Yi00N2NlLWExOTMtNmUxZDM3NDM0MDAxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "6",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1560,
+    "plot": "After the Sarah Lynn story breaks, BoJack gives a live interview on TV. Diane meets Guy's teenage son.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 5936
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt11028168",
+    "title": "The Horny Unicorn",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWQ1NmNlZGYtMWZkMS00M2NiLWFhOTgtNmQxYTk5NmYwNzgzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "6",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1560,
+    "plot": "BoJack gets a new AA sponsor. Todd plans a sophisticated party to impress his parents. Diane gets to know Sonny.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 4555
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt11028170",
+    "title": "Angela",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjQ0ZmQ1ZjMtYWMyMS00YjM4LWExOGYtMWY3OTViNTc5OWIxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "6",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1560,
+    "plot": "Angela Diaz reaches out to BoJack. Princess Carolyn gets an offer from Lenny Turtletaub. Todd cooks up a scheme.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 5226
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt11028174",
+    "title": "The View from Halfway Down",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDA1OGEyMmMtNGY1YS00MWMxLTgzNTktNmZmY2QxZjVlOTE0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "6",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1560,
+    "plot": "BoJack reconnects with faces from his past.",
+    "rating": {
+      "aggregateRating": 9.9,
+      "voteCount": 27269
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt11028176",
+    "title": "Nice While It Lasted",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmQ5NDM1ZTktYzBiYS00NDNlLTk4NDctMDQ4OWI3NmE4MmU3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "6",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1620,
+    "plot": "A celebration brings people together.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 10859
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 31
+    }
+  }
+]
