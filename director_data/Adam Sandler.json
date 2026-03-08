@@ -1,0 +1,25 @@
+[
+  {
+    "title": {
+      "id": "tt6527576",
+      "type": "musicVideo",
+      "primaryTitle": "Adam Sandler: Steve Polychronopolous",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODEyMWI3YjItNDJkZS00NGFhLWFjY2MtMDIwMTI4ODE0MDk1XkEyXkFqcGc@._V1_.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "startYear": 1996,
+      "genres": [
+        "Short",
+        "Comedy",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 5.3,
+        "voteCount": 137
+      }
+    },
+    "category": "director"
+  }
+]

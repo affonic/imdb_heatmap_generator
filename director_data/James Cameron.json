@@ -1,0 +1,794 @@
+[
+  {
+    "title": {
+      "id": "tt0499549",
+      "type": "movie",
+      "primaryTitle": "Avatar",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_.jpg",
+        "width": 1965,
+        "height": 2902
+      },
+      "startYear": 2009,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.9,
+        "voteCount": 1445470
+      },
+      "metacritic": {
+        "score": 83,
+        "reviewCount": 38
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0120338",
+      "type": "movie",
+      "primaryTitle": "Titanic",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_.jpg",
+        "width": 2015,
+        "height": 3000
+      },
+      "startYear": 1997,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.9,
+        "voteCount": 1356215
+      },
+      "metacritic": {
+        "score": 75,
+        "reviewCount": 35
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0103064",
+      "type": "movie",
+      "primaryTitle": "Terminator 2: Judgment Day",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_.jpg",
+        "width": 2160,
+        "height": 3210
+      },
+      "startYear": 1991,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 8.6,
+        "voteCount": 1250602
+      },
+      "metacritic": {
+        "score": 75,
+        "reviewCount": 22
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "FR",
+          "name": "France"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0088247",
+      "type": "movie",
+      "primaryTitle": "The Terminator",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_.jpg",
+        "width": 1066,
+        "height": 1600
+      },
+      "startYear": 1984,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 8.1,
+        "voteCount": 977786
+      },
+      "metacritic": {
+        "score": 84,
+        "reviewCount": 21
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0090605",
+      "type": "movie",
+      "primaryTitle": "Aliens",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjIyNGJhYzYtN2I1My00OTVhLWEyMzItZTVjNDMzOTVkYWViXkEyXkFqcGc@._V1_.jpg",
+        "width": 1495,
+        "height": 2260
+      },
+      "startYear": 1986,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.4,
+        "voteCount": 819993
+      },
+      "metacritic": {
+        "score": 84,
+        "reviewCount": 23
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1630029",
+      "type": "movie",
+      "primaryTitle": "Avatar: The Way of Water",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWNlMWQyMTQtZjc5MC00NTljLTgxZTctZDZiZTBmODY5MTkyXkEyXkFqcGc@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      },
+      "startYear": 2022,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 545391
+      },
+      "metacritic": {
+        "score": 67,
+        "reviewCount": 68
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0111503",
+      "type": "movie",
+      "primaryTitle": "True Lies",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjU1ZjNhMjMtOTMxZS00MDc1LTlkNzQtZTdjNGQyYjQ4YTA4XkEyXkFqcGc@._V1_.jpg",
+        "width": 1343,
+        "height": 2000
+      },
+      "startYear": 1994,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 295194
+      },
+      "metacritic": {
+        "score": 63,
+        "reviewCount": 17
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0096754",
+      "type": "movie",
+      "primaryTitle": "The Abyss",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGRkNzJlNjgtZmUwYS00Y2U3LTljZDctMTQxYWIxOWVjMzNjXkEyXkFqcGc@._V1_.jpg",
+        "width": 1934,
+        "height": 2879
+      },
+      "startYear": 1989,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 204352
+      },
+      "metacritic": {
+        "score": 62,
+        "reviewCount": 14
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0204993",
+      "type": "tvSeries",
+      "primaryTitle": "Dark Angel",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjYzNzQyYWMtOTUyNS00Njc0LWI5ZjYtMjQ1M2E5YTRiZmE0XkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1426
+      },
+      "startYear": 2000,
+      "endYear": 2002,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 35772
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "CA",
+          "name": "Canada"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 1
+  },
+  {
+    "title": {
+      "id": "tt0082910",
+      "type": "movie",
+      "primaryTitle": "Piranha II: The Spawning",
+      "originalTitle": "Piranha Part Two: The Spawning",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjZkNzBhYjEtYjNiZC00NGE4LWEzYzMtODkxNTg4MWU0NjVjXkEyXkFqcGc@._V1_.jpg",
+        "width": 1982,
+        "height": 2914
+      },
+      "startYear": 1982,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 3.8,
+        "voteCount": 10548
+      },
+      "metacritic": {
+        "score": 15,
+        "reviewCount": 5
+      },
+      "originCountries": [
+        {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        {
+          "code": "IT",
+          "name": "Italy"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0117880",
+      "type": "short",
+      "primaryTitle": "T2 3-D: Battle Across Time",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM2ZGE3OTYtNzE4MS00ZWM5LWEwNzYtMWQ0MWEwODAxYjI1XkEyXkFqcGc@._V1_.jpg",
+        "width": 795,
+        "height": 1192
+      },
+      "startYear": 1996,
+      "genres": [
+        "Short",
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 8639
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0297144",
+      "type": "movie",
+      "primaryTitle": "Ghosts of the Abyss",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDM5MzY0MjY2MF5BMl5BanBnXkFtZTYwOTc5ODU3._V1_.jpg",
+        "width": 485,
+        "height": 718
+      },
+      "startYear": 2003,
+      "genres": [
+        "Documentary",
+        "Family"
+      ],
+      "rating": {
+        "aggregateRating": 6.8,
+        "voteCount": 6661
+      },
+      "metacritic": {
+        "score": 67,
+        "reviewCount": 24
+      },
+      "originCountries": [
+        {
+          "code": "FR",
+          "name": "France"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0417415",
+      "type": "movie",
+      "primaryTitle": "Aliens of the Deep",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk2NjU2ODA1M15BMl5BanBnXkFtZTcwNzI0NDcyMQ@@._V1_.jpg",
+        "width": 1743,
+        "height": 2580
+      },
+      "startYear": 2005,
+      "genres": [
+        "Documentary",
+        "Family"
+      ],
+      "rating": {
+        "aggregateRating": 6.3,
+        "voteCount": 3597
+      },
+      "metacritic": {
+        "score": 71,
+        "reviewCount": 18
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0251488",
+      "type": "short",
+      "primaryTitle": "Xenogenesis",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzdkNDVlYTItMGM1NC00NjQ1LWE2YzMtNzcxN2Q3MmJhYzYxXkEyXkFqcGc@._V1_.jpg",
+        "width": 640,
+        "height": 953
+      },
+      "startYear": 1978,
+      "genres": [
+        "Short",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 5.3,
+        "voteCount": 1422
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0330267",
+      "type": "tvMovie",
+      "primaryTitle": "Expedition: Bismarck",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTAzMTQ1Njg3MF5BMl5BanBnXkFtZTcwMjEyNzAyMQ@@._V1_.jpg",
+        "width": 341,
+        "height": 475
+      },
+      "startYear": 2002,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 1006
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt15738638",
+      "type": "video",
+      "primaryTitle": "Terminator 2: Judgment Day - Deleted Scenes",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzAwZmY1NjgtMDBjMi00Nzc5LWIwYTEtZTg4NzBhNzEwOWFmXkEyXkFqcGc@._V1_.jpg",
+        "width": 1557,
+        "height": 2167
+      },
+      "startYear": 1993,
+      "genres": [
+        "Short",
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 8.5,
+        "voteCount": 564
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0554573",
+      "type": "tvEpisode",
+      "primaryTitle": "Freak Nation",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzRiOGEyNDgtZTlhOS00ZjMwLTg2ZWQtNzMwOWEzYzhlZmZlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "startYear": 2002,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 8.5,
+        "voteCount": 551
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt15739442",
+      "type": "video",
+      "primaryTitle": "The Terminator: 'Terminated' Scenes",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTNkMzBmM2QtNzlkZi00OGI0LTk2ZDktY2ZlZDJlOTJhMjdjXkEyXkFqcGc@._V1_.jpg",
+        "width": 699,
+        "height": 986
+      },
+      "startYear": 2001,
+      "genres": [
+        "Short",
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 8.2,
+        "voteCount": 401
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt6404142",
+      "type": "tvMovie",
+      "primaryTitle": "Toruk: The First Flight",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDEwNGU1OTAtODNiZC00YmQyLTlmZDktMzQ3MGQ1Nzg4MTU2XkEyXkFqcGc@._V1_.jpg",
+        "width": 596,
+        "height": 852
+      },
+      "startYear": 2016,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Musical"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 294
+      },
+      "originCountries": [
+        {
+          "code": "CA",
+          "name": "Canada"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1612767",
+      "type": "musicVideo",
+      "primaryTitle": "Martini Ranch: Reach",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjg3YTcxOGEtZGVkZS00OWVkLThhNzMtYTc3MzQ2NzQ1Yzk2XkEyXkFqcGc@._V1_.jpg",
+        "width": 541,
+        "height": 763
+      },
+      "startYear": 1988,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Music",
+        "Sci-Fi",
+        "Western"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 283
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt25815526",
+      "type": "video",
+      "primaryTitle": "Terminator 2: Judgment Day - Extended Special Edition Alternate Ending",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDI3NTljN2QtOGY0OC00ODA3LWJmNGMtMjFjODFmZTBmOGE1XkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      },
+      "startYear": 1993,
+      "genres": [
+        "Short",
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 8.5,
+        "voteCount": 189
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0331475",
+      "type": "tvShort",
+      "primaryTitle": "Earthship.TV",
+      "startYear": 2001,
+      "genres": [
+        "Documentary",
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 5.8,
+        "voteCount": 102
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5637536",
+      "type": "movie",
+      "primaryTitle": "Avatar 5",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDFhYzVjZjgtYTlkZC00YmQ0LWFhNmMtM2EwNDRlZmZiYmFmXkEyXkFqcGc@._V1_.jpg",
+        "width": 720,
+        "height": 720
+      },
+      "startYear": 2031,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt3095356",
+      "type": "movie",
+      "primaryTitle": "Avatar 4",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDFhYzVjZjgtYTlkZC00YmQ0LWFhNmMtM2EwNDRlZmZiYmFmXkEyXkFqcGc@._V1_.jpg",
+        "width": 720,
+        "height": 720
+      },
+      "startYear": 2029,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt2475426",
+      "type": "movie",
+      "primaryTitle": "The Informationist",
+      "genres": [
+        "Thriller"
+      ],
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1757678",
+      "type": "movie",
+      "primaryTitle": "Avatar: Fire and Ash",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDY0MDA5ZWUtZWZjYS00ZDBkLWI0NGEtZDc2YzE3NDBkZmZkXkEyXkFqcGc@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      },
+      "startYear": 2025,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  }
+]

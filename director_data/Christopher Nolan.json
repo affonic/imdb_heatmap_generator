@@ -1,0 +1,618 @@
+[
+  {
+    "title": {
+      "id": "tt0468569",
+      "type": "movie",
+      "primaryTitle": "The Dark Knight",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+        "width": 1383,
+        "height": 2048
+      },
+      "startYear": 2008,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 9.1,
+        "voteCount": 3073235
+      },
+      "metacritic": {
+        "score": 85,
+        "reviewCount": 41
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1375666",
+      "type": "movie",
+      "primaryTitle": "Inception",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+        "width": 700,
+        "height": 1037
+      },
+      "startYear": 2010,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.8,
+        "voteCount": 2730037
+      },
+      "metacritic": {
+        "score": 74,
+        "reviewCount": 42
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0816692",
+      "type": "movie",
+      "primaryTitle": "Interstellar",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+        "width": 2430,
+        "height": 3600
+      },
+      "startYear": 2014,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 8.7,
+        "voteCount": 2405005
+      },
+      "metacritic": {
+        "score": 74,
+        "reviewCount": 46
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "CA",
+          "name": "Canada"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1345836",
+      "type": "movie",
+      "primaryTitle": "The Dark Knight Rises",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
+        "width": 486,
+        "height": 720
+      },
+      "startYear": 2012,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.4,
+        "voteCount": 1941576
+      },
+      "metacritic": {
+        "score": 78,
+        "reviewCount": 45
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0372784",
+      "type": "movie",
+      "primaryTitle": "Batman Begins",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODIyMDdhNTgtNDlmOC00MjUxLWE2NDItODA5MTdkNzY3ZTdhXkEyXkFqcGc@._V1_.jpg",
+        "width": 2590,
+        "height": 3833
+      },
+      "startYear": 2005,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.2,
+        "voteCount": 1670506
+      },
+      "metacritic": {
+        "score": 70,
+        "reviewCount": 41
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0482571",
+      "type": "movie",
+      "primaryTitle": "The Prestige",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM3MzQ5MjQ5OF5BMl5BanBnXkFtZTcwMTQ3NzMzMw@@._V1_.jpg",
+        "width": 1385,
+        "height": 2048
+      },
+      "startYear": 2006,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.5,
+        "voteCount": 1540083
+      },
+      "metacritic": {
+        "score": 66,
+        "reviewCount": 36
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0209144",
+      "type": "movie",
+      "primaryTitle": "Memento",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmQ3MjliNjAtNWFiZS00YWI1LTlmZTktMzBiNDE1NjRhZjU0XkEyXkFqcGc@._V1_.jpg",
+        "width": 1022,
+        "height": 1500
+      },
+      "startYear": 2000,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.4,
+        "voteCount": 1398584
+      },
+      "metacritic": {
+        "score": 83,
+        "reviewCount": 34
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt15398776",
+      "type": "movie",
+      "primaryTitle": "Oppenheimer",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_.jpg",
+        "width": 2331,
+        "height": 3454
+      },
+      "startYear": 2023,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": {
+        "aggregateRating": 8.3,
+        "voteCount": 937717
+      },
+      "metacritic": {
+        "score": 90,
+        "reviewCount": 69
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5013056",
+      "type": "movie",
+      "primaryTitle": "Dunkirk",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWU5ZjJkNTQtMzQwOS00ZGE4LWJkMWUtMGQ5YjdiM2FhYmRhXkEyXkFqcGc@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      },
+      "startYear": 2017,
+      "genres": [
+        "Action",
+        "Drama",
+        "History",
+        "Thriller",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 7.8,
+        "voteCount": 784848
+      },
+      "metacritic": {
+        "score": 94,
+        "reviewCount": 53
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        {
+          "code": "FR",
+          "name": "France"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt6723592",
+      "type": "movie",
+      "primaryTitle": "Tenet",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU0ZjZlYTUtYzIwMC00ZmQzLWEwZTAtZWFhMWIwYjMxY2I3XkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      },
+      "startYear": 2020,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 642614
+      },
+      "metacritic": {
+        "score": 69,
+        "reviewCount": 50
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0278504",
+      "type": "movie",
+      "primaryTitle": "Insomnia",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWUyMTY3MzUtODBiZC00ZjRmLTlkYTMtNDYyODNhODcyOTNlXkEyXkFqcGc@._V1_.jpg",
+        "width": 960,
+        "height": 1440
+      },
+      "startYear": 2002,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 333846
+      },
+      "metacritic": {
+        "score": 78,
+        "reviewCount": 37
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0154506",
+      "type": "movie",
+      "primaryTitle": "Following",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjZiMTI5OGItZWJhMC00OGRiLTk1NzAtYmNmZTM0MzFmNGM0XkEyXkFqcGc@._V1_.jpg",
+        "width": 1800,
+        "height": 2667
+      },
+      "startYear": 1998,
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 107417
+      },
+      "metacritic": {
+        "score": 60,
+        "reviewCount": 11
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0411302",
+      "type": "short",
+      "primaryTitle": "Doodlebug",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGYyMmIwNzYtMzU5Ni00NjkzLWI2ZTYtNzAzZTViNTUxMDI0XkEyXkFqcGc@._V1_.jpg",
+        "width": 780,
+        "height": 1170
+      },
+      "startYear": 1997,
+      "genres": [
+        "Short",
+        "Fantasy",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 7,
+        "voteCount": 19776
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt4907572",
+      "type": "short",
+      "primaryTitle": "Quay",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzg5ODlhMDQtMGQ4Zi00N2U0LTg2NDUtMmY1OTg4YTAyYTQzXkEyXkFqcGc@._V1_.jpg",
+        "width": 612,
+        "height": 906
+      },
+      "startYear": 2015,
+      "genres": [
+        "Documentary",
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 6.3,
+        "voteCount": 1872
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt6386408",
+      "type": "short",
+      "primaryTitle": "Tarantella",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTJiZDM3ODMtZDQ5OC00OTI2LTgzMzktNjg3ZmY2NWYwYjY1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1373,
+        "height": 1961
+      },
+      "startYear": 1989,
+      "genres": [
+        "Short",
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 5.2,
+        "voteCount": 1079
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt6386412",
+      "type": "short",
+      "primaryTitle": "Larceny",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTVlOTVhNzUtNzZlMS00N2JjLWE0NGQtYjUwNTQ2YWFjZjliXkEyXkFqcGc@._V1_.jpg",
+        "width": 496,
+        "height": 655
+      },
+      "startYear": 1996,
+      "genres": [
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 6.2,
+        "voteCount": 276
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt37269482",
+      "type": "movie",
+      "primaryTitle": "Larry Mahoney",
+      "startYear": 1996,
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt33764258",
+      "type": "movie",
+      "primaryTitle": "The Odyssey",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDQ0MGE5MTQtODk5Ny00NTI5LTk4MDUtZDQzNDhhOTI2Yzc5XkEyXkFqcGc@._V1_.jpg",
+        "width": 3158,
+        "height": 5000
+      },
+      "startYear": 2026,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "History"
+      ],
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  }
+]

@@ -1,0 +1,1963 @@
+[
+  {
+    "title": {
+      "id": "tt0120815",
+      "type": "movie",
+      "primaryTitle": "Saving Private Ryan",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_.jpg",
+        "width": 800,
+        "height": 1177
+      },
+      "startYear": 1998,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 8.6,
+        "voteCount": 1592504
+      },
+      "metacritic": {
+        "score": 91,
+        "reviewCount": 38
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0108052",
+      "type": "movie",
+      "primaryTitle": "Schindler's List",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_.jpg",
+        "width": 1600,
+        "height": 2400
+      },
+      "startYear": 1993,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": {
+        "aggregateRating": 9,
+        "voteCount": 1545308
+      },
+      "metacritic": {
+        "score": 95,
+        "reviewCount": 30
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0264464",
+      "type": "movie",
+      "primaryTitle": "Catch Me If You Can",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg",
+        "width": 485,
+        "height": 719
+      },
+      "startYear": 2002,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 8.1,
+        "voteCount": 1188450
+      },
+      "metacritic": {
+        "score": 75,
+        "reviewCount": 39
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "CA",
+          "name": "Canada"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0107290",
+      "type": "movie",
+      "primaryTitle": "Jurassic Park",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+        "width": 667,
+        "height": 1000
+      },
+      "startYear": 1993,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.2,
+        "voteCount": 1144295
+      },
+      "metacritic": {
+        "score": 68,
+        "reviewCount": 21
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0082971",
+      "type": "movie",
+      "primaryTitle": "Raiders of the Lost Ark",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_.jpg",
+        "width": 942,
+        "height": 1386
+      },
+      "startYear": 1981,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "rating": {
+        "aggregateRating": 8.4,
+        "voteCount": 1087175
+      },
+      "metacritic": {
+        "score": 86,
+        "reviewCount": 17
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0097576",
+      "type": "movie",
+      "primaryTitle": "Indiana Jones and the Last Crusade",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_.jpg",
+        "width": 1009,
+        "height": 1500
+      },
+      "startYear": 1989,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "rating": {
+        "aggregateRating": 8.2,
+        "voteCount": 847771
+      },
+      "metacritic": {
+        "score": 65,
+        "reviewCount": 14
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "IT",
+          "name": "Italy"
+        },
+        {
+          "code": "ES",
+          "name": "Spain"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "JO",
+          "name": "Jordan"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0073195",
+      "type": "movie",
+      "primaryTitle": "Jaws",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1535
+      },
+      "startYear": 1975,
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.1,
+        "voteCount": 716176
+      },
+      "metacritic": {
+        "score": 87,
+        "reviewCount": 21
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0181689",
+      "type": "movie",
+      "primaryTitle": "Minority Report",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTdmNzM3YzItZTRkYS00MTY5LTg4ZmItNjFmNTk2N2Q2NmNlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "startYear": 2002,
+      "genres": [
+        "Action",
+        "Crime",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 609235
+      },
+      "metacritic": {
+        "score": 80,
+        "reviewCount": 37
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0087469",
+      "type": "movie",
+      "primaryTitle": "Indiana Jones and the Temple of Doom",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGUwZjZiNWQtYzAzZi00NGI5LWE4YmUtN2Y4YWMwY2RlZDkyXkEyXkFqcGc@._V1_.jpg",
+        "width": 1009,
+        "height": 1500
+      },
+      "startYear": 1984,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 557955
+      },
+      "metacritic": {
+        "score": 57,
+        "reviewCount": 14
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1677720",
+      "type": "movie",
+      "primaryTitle": "Ready Player One",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzVkMTgzODQtMWIwZC00NzE4LTgzZjYtMzAwM2I5OGZhNjE4XkEyXkFqcGc@._V1_.jpg",
+        "width": 2764,
+        "height": 4096
+      },
+      "startYear": 2018,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 526072
+      },
+      "metacritic": {
+        "score": 64,
+        "reviewCount": 56
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "IN",
+          "name": "India"
+        },
+        {
+          "code": "SG",
+          "name": "Singapore"
+        },
+        {
+          "code": "CA",
+          "name": "Canada"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "JP",
+          "name": "Japan"
+        },
+        {
+          "code": "AU",
+          "name": "Australia"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0362227",
+      "type": "movie",
+      "primaryTitle": "The Terminal",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM1MTIwNTMxOF5BMl5BanBnXkFtZTcwNjIxMjQyMw@@._V1_.jpg",
+        "width": 1511,
+        "height": 2048
+      },
+      "startYear": 2004,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 521672
+      },
+      "metacritic": {
+        "score": 55,
+        "reviewCount": 41
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0367882",
+      "type": "movie",
+      "primaryTitle": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTFiMDk2NzItZDU5Ni00ZjBjLTkzYWQtYzcwZDIwMWZjMmZiXkEyXkFqcGc@._V1_.jpg",
+        "width": 800,
+        "height": 1185
+      },
+      "startYear": 2008,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "rating": {
+        "aggregateRating": 6.2,
+        "voteCount": 507006
+      },
+      "metacritic": {
+        "score": 65,
+        "reviewCount": 40
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0407304",
+      "type": "movie",
+      "primaryTitle": "War of the Worlds",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDUyODAzNDI1Nl5BMl5BanBnXkFtZTcwMDA2NDAzMw@@._V1_.jpg",
+        "width": 1386,
+        "height": 2048
+      },
+      "startYear": 2005,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 497361
+      },
+      "metacritic": {
+        "score": 73,
+        "reviewCount": 40
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0119567",
+      "type": "movie",
+      "primaryTitle": "The Lost World: Jurassic Park",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGI3NDg5N2ItZGIyZi00ZWNkLWFlODUtZDA1Y2Q1M2U4NGM2XkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      },
+      "startYear": 1997,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 468384
+      },
+      "metacritic": {
+        "score": 59,
+        "reviewCount": 18
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0083866",
+      "type": "movie",
+      "primaryTitle": "E.T. the Extra-Terrestrial",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTNhNmY0YWMtMTczYi00MTA0LThhMmUtMTIxYzE0Y2QwMzRlXkEyXkFqcGc@._V1_.jpg",
+        "width": 930,
+        "height": 1451
+      },
+      "startYear": 1982,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.9,
+        "voteCount": 459873
+      },
+      "metacritic": {
+        "score": 92,
+        "reviewCount": 30
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt3682448",
+      "type": "movie",
+      "primaryTitle": "Bridge of Spies",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIxOTI0MjU5NV5BMl5BanBnXkFtZTgwNzM4OTk4NTE@._V1_.jpg",
+        "width": 864,
+        "height": 1280
+      },
+      "startYear": 2015,
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 339377
+      },
+      "metacritic": {
+        "score": 81,
+        "reviewCount": 48
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "IN",
+          "name": "India"
+        },
+        {
+          "code": "DE",
+          "name": "Germany"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0212720",
+      "type": "movie",
+      "primaryTitle": "A.I. Artificial Intelligence",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODA1YjhhZDctM2Y1ZS00ODkyLWFmMTAtZGY5YWEzNzRjYzA1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "startYear": 2001,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 333894
+      },
+      "metacritic": {
+        "score": 65,
+        "reviewCount": 32
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0102057",
+      "type": "movie",
+      "primaryTitle": "Hook",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTU0ZTU3MGUtOTQwNi00N2QzLWFmMDUtZDgxMGJlNGI5NDllXkEyXkFqcGc@._V1_.jpg",
+        "width": 900,
+        "height": 1357
+      },
+      "startYear": 1991,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "rating": {
+        "aggregateRating": 6.8,
+        "voteCount": 285222
+      },
+      "metacritic": {
+        "score": 52,
+        "reviewCount": 19
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0443272",
+      "type": "movie",
+      "primaryTitle": "Lincoln",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQzNzczMDUyNV5BMl5BanBnXkFtZTcwNjM2ODEzOA@@._V1_.jpg",
+        "width": 743,
+        "height": 1100
+      },
+      "startYear": 2012,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 280932
+      },
+      "metacritic": {
+        "score": 87,
+        "reviewCount": 45
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "IN",
+          "name": "India"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0983193",
+      "type": "movie",
+      "primaryTitle": "The Adventures of Tintin",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDE5MDExNTQ1OF5BMl5BanBnXkFtZTcwMDIxMTM5Ng@@._V1_.jpg",
+        "width": 826,
+        "height": 1224
+      },
+      "startYear": 2011,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Family",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 251119
+      },
+      "metacritic": {
+        "score": 68,
+        "reviewCount": 40
+      },
+      "originCountries": [
+        {
+          "code": "NZ",
+          "name": "New Zealand"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0408306",
+      "type": "movie",
+      "primaryTitle": "Munich",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTcwNzYzMzMwMF5BMl5BanBnXkFtZTcwMzMzODczMQ@@._V1_.jpg",
+        "width": 972,
+        "height": 1440
+      },
+      "startYear": 2005,
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 249185
+      },
+      "metacritic": {
+        "score": 74,
+        "reviewCount": 39
+      },
+      "originCountries": [
+        {
+          "code": "FR",
+          "name": "France"
+        },
+        {
+          "code": "CA",
+          "name": "Canada"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0075860",
+      "type": "movie",
+      "primaryTitle": "Close Encounters of the Third Kind",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM1NjE5NjQxN15BMl5BanBnXkFtZTgwMjYzMzQxMDE@._V1_.jpg",
+        "width": 675,
+        "height": 1000
+      },
+      "startYear": 1977,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 228028
+      },
+      "metacritic": {
+        "score": 90,
+        "reviewCount": 10
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1568911",
+      "type": "movie",
+      "primaryTitle": "War Horse",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjExNzkxOTYyNl5BMl5BanBnXkFtZTcwODA0MjU4Ng@@._V1_.jpg",
+        "width": 743,
+        "height": 1100
+      },
+      "startYear": 2011,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 170713
+      },
+      "metacritic": {
+        "score": 72,
+        "reviewCount": 40
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "IN",
+          "name": "India"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt6294822",
+      "type": "movie",
+      "primaryTitle": "The Post",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQyMjEwOTIwNV5BMl5BanBnXkFtZTgwOTkzNTMxNDM@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      },
+      "startYear": 2017,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "Thriller",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 169171
+      },
+      "metacritic": {
+        "score": 83,
+        "reviewCount": 51
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "IN",
+          "name": "India"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0092965",
+      "type": "movie",
+      "primaryTitle": "Empire of the Sun",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWY2NjdkYzEtYWZhZS00YTdhLWJhMGQtZjkxZjZkODQyYWY5XkEyXkFqcGc@._V1_.jpg",
+        "width": 1005,
+        "height": 1500
+      },
+      "startYear": 1987,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 7.7,
+        "voteCount": 139994
+      },
+      "metacritic": {
+        "score": 62,
+        "reviewCount": 22
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt14208870",
+      "type": "movie",
+      "primaryTitle": "The Fabelmans",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDY5OWY4ZWYtYTM3OC00Zjg5LWFlYzYtYWI5ZGM1MDcxYzY4XkEyXkFqcGc@._V1_.jpg",
+        "width": 546,
+        "height": 864
+      },
+      "startYear": 2022,
+      "genres": [
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 130472
+      },
+      "metacritic": {
+        "score": 85,
+        "reviewCount": 65
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "IN",
+          "name": "India"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt3581652",
+      "type": "movie",
+      "primaryTitle": "West Side Story",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWZkYzY2OGUtOGU4Ni00NmI0LTg2ZjAtZDA5OWE0YTNiZWRiXkEyXkFqcGc@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      },
+      "startYear": 2021,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Musical",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 103577
+      },
+      "metacritic": {
+        "score": 85,
+        "reviewCount": 62
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "CA",
+          "name": "Canada"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0088939",
+      "type": "movie",
+      "primaryTitle": "The Color Purple",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2MyZjBlMGItNThkMi00YWExLThlZmUtZmI2MGM3YWE3YTY1XkEyXkFqcGc@._V1_.jpg",
+        "width": 665,
+        "height": 1000
+      },
+      "startYear": 1985,
+      "genres": [
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7.7,
+        "voteCount": 102045
+      },
+      "metacritic": {
+        "score": 78,
+        "reviewCount": 7
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt3691740",
+      "type": "movie",
+      "primaryTitle": "The BFG",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjAzOTUzNTY3Ml5BMl5BanBnXkFtZTgwMjYwNzE5ODE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      },
+      "startYear": 2016,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "rating": {
+        "aggregateRating": 6.3,
+        "voteCount": 97584
+      },
+      "metacritic": {
+        "score": 66,
+        "reviewCount": 48
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "IN",
+          "name": "India"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0118607",
+      "type": "movie",
+      "primaryTitle": "Amistad",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGUyMWU0ZjctZTFiMS00YzdjLTg1YjktNDRmN2ZhNDY3ZDFhXkEyXkFqcGc@._V1_.jpg",
+        "width": 580,
+        "height": 862
+      },
+      "startYear": 1997,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 86031
+      },
+      "metacritic": {
+        "score": 64,
+        "reviewCount": 23
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0067023",
+      "type": "tvMovie",
+      "primaryTitle": "Duel",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2ZhYjY5MzMtMmU4Yy00MDBjLWFhY2UtODg5YzdmNTY0Y2Q0XkEyXkFqcGc@._V1_.jpg",
+        "width": 1106,
+        "height": 1680
+      },
+      "startYear": 1971,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 83688
+      },
+      "metacritic": {
+        "score": 81,
+        "reviewCount": 15
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1466074",
+      "type": "tvSeries",
+      "primaryTitle": "Columbo",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDIxMmRhZDQtZjBlNC00OWJkLWI3YmEtZDcyZWRkY2IzNWYxXkEyXkFqcGc@._V1_.jpg",
+        "width": 680,
+        "height": 1020
+      },
+      "startYear": 1971,
+      "endYear": 1998,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.3,
+        "voteCount": 46045
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 1
+  },
+  {
+    "title": {
+      "id": "tt0086491",
+      "type": "movie",
+      "primaryTitle": "Twilight Zone: The Movie",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWRlZTVkYTktOThkOC00Y2Q4LWI5NTUtMmNmYjhlOTcwMjA2XkEyXkFqcGc@._V1_.jpg",
+        "width": 500,
+        "height": 762
+      },
+      "startYear": 1983,
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 43535
+      },
+      "metacritic": {
+        "score": 44,
+        "reviewCount": 8
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0078723",
+      "type": "movie",
+      "primaryTitle": "1941",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzMzOTg0YTAtZTAxYy00MGFjLThmNDktZWQ4MjU2ZGYyYzBhXkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "startYear": 1979,
+      "genres": [
+        "Action",
+        "Comedy",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 5.8,
+        "voteCount": 38017
+      },
+      "metacritic": {
+        "score": 34,
+        "reviewCount": 7
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0096794",
+      "type": "movie",
+      "primaryTitle": "Always",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGFhY2JkYWUtZjk0ZS00NGQxLTk1MjQtZDkxMGNkODAwNzRjXkEyXkFqcGc@._V1_.jpg",
+        "width": 510,
+        "height": 755
+      },
+      "startYear": 1989,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 34617
+      },
+      "metacritic": {
+        "score": 50,
+        "reviewCount": 16
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0072226",
+      "type": "movie",
+      "primaryTitle": "The Sugarland Express",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWNiZTViMzQtNGI0NC00ODc5LThlMmEtNzE2YWVhZDBhMThiXkEyXkFqcGc@._V1_.jpg",
+        "width": 657,
+        "height": 1000
+      },
+      "startYear": 1974,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 21412
+      },
+      "metacritic": {
+        "score": 65,
+        "reviewCount": 4
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0088478",
+      "type": "tvSeries",
+      "primaryTitle": "Amazing Stories",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODAzMGJkZmUtOWIzMC00NGY4LWJlMTQtMTJlMTE2MmZmY2M0XkEyXkFqcGc@._V1_.jpg",
+        "width": 780,
+        "height": 1170
+      },
+      "startYear": 1985,
+      "endYear": 1987,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 6794
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 2
+  },
+  {
+    "title": {
+      "id": "tt0065327",
+      "type": "tvSeries",
+      "primaryTitle": "Night Gallery",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmEzNzhmZGUtNGNiMS00Y2Q4LWJkZGQtYzU3NDVjNjcxODkyXkEyXkFqcGc@._V1_.jpg",
+        "width": 780,
+        "height": 1147
+      },
+      "startYear": 1969,
+      "endYear": 1973,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.9,
+        "voteCount": 6630
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 2
+  },
+  {
+    "title": {
+      "id": "tt0066932",
+      "type": "tvEpisode",
+      "primaryTitle": "Murder by the Book",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTk5MjljODktYTMwNi00ZjI1LTg0MjYtMjk1ZDA2ZDEwNDhkXkEyXkFqcGc@._V1_.jpg",
+        "width": 1200,
+        "height": 1800
+      },
+      "startYear": 1971,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.7,
+        "voteCount": 5843
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0069298",
+      "type": "tvMovie",
+      "primaryTitle": "Something Evil",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmYzNDU3MDItNGM2Zi00YzMyLWI0NTYtMTI3YmVmMzdkMWNiXkEyXkFqcGc@._V1_.jpg",
+        "width": 500,
+        "height": 734
+      },
+      "startYear": 1972,
+      "genres": [
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 5.3,
+        "voteCount": 2323
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0064725",
+      "type": "tvEpisode",
+      "primaryTitle": "Pilot",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODY3MjJkZDYtZjUwMi00M2I5LWE2MGYtYTAyZGM2MmQ2NmQ0XkEyXkFqcGc@._V1_.jpg",
+        "width": 639,
+        "height": 496
+      },
+      "startYear": 1969,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 2196
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0063927",
+      "type": "tvSeries",
+      "primaryTitle": "Marcus Welby, M.D.",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWM3YmY2MTQtYzc3My00MDZlLWIyMTctNmZiNDE2M2Q0Y2M4XkEyXkFqcGc@._V1_.jpg",
+        "width": 780,
+        "height": 1170
+      },
+      "startYear": 1969,
+      "endYear": 1976,
+      "genres": [
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7,
+        "voteCount": 1926
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 1
+  },
+  {
+    "title": {
+      "id": "tt0064010",
+      "type": "short",
+      "primaryTitle": "Amblin'",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTJiOTEwYzctYzFhOS00MGUxLTllMWEtZGI3Y2MwMjU2MzcwXkEyXkFqcGc@._V1_.jpg",
+        "width": 700,
+        "height": 1114
+      },
+      "startYear": 1968,
+      "genres": [
+        "Short",
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.3,
+        "voteCount": 1517
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0511124",
+      "type": "tvEpisode",
+      "primaryTitle": "The Mission",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzc0NTQ5OTUtMTEwZC00OTAyLTg2MzYtMmY2ODJiZjc5YTc1XkEyXkFqcGc@._V1_.jpg",
+        "width": 425,
+        "height": 283
+      },
+      "startYear": 1985,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 1336
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt7763324",
+      "type": "tvMovie",
+      "primaryTitle": "Amazing Stories",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmMwNmZlNTEtNjA2OS00MmE4LTlmZDMtNmJmNzkwYTdkMGU2XkEyXkFqcGc@._V1_.jpg",
+        "width": 520,
+        "height": 750
+      },
+      "startYear": 1986,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7,
+        "voteCount": 1158
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0511096",
+      "type": "tvEpisode",
+      "primaryTitle": "Ghost Train",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2EyOThkYTQtYjVhYi00ZDYwLWE3MDItNGVkZTAxMzQzOTIyXkEyXkFqcGc@._V1_.jpg",
+        "width": 517,
+        "height": 635
+      },
+      "startYear": 1985,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 929
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0062591",
+      "type": "tvSeries",
+      "primaryTitle": "The Name of the Game",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU5NzkxZTctZDM3MS00ZDE2LWE1NGYtMDUxZTM0YmY2ODQ1XkEyXkFqcGc@._V1_.jpg",
+        "width": 960,
+        "height": 1440
+      },
+      "startYear": 1968,
+      "endYear": 1971,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 744
+      }
+    },
+    "category": "director",
+    "episodeCount": 1
+  },
+  {
+    "title": {
+      "id": "tt0070638",
+      "type": "tvMovie",
+      "primaryTitle": "Savage",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWMwYzk2NjItMGNlNC00ZGMzLWE2MzYtYTJkM2E3M2VmYzUzXkEyXkFqcGc@._V1_.jpg",
+        "width": 640,
+        "height": 800
+      },
+      "startYear": 1973,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.3,
+        "voteCount": 504
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0059181",
+      "type": "movie",
+      "primaryTitle": "Firelight",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjczZmNhNzctYTkzYy00YjhlLWE1YjktMDM0NjRmZGZlMjMyXkEyXkFqcGc@._V1_.jpg",
+        "width": 731,
+        "height": 1065
+      },
+      "startYear": 1964,
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.5,
+        "voteCount": 499
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1287857",
+      "type": "short",
+      "primaryTitle": "A Timeless Call",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzdjODA1YjMtYjFhZi00OWUyLWJjMTUtZTI1NWZhMGIyNTY2XkEyXkFqcGc@._V1_.jpg",
+        "width": 1936,
+        "height": 2592
+      },
+      "startYear": 2008,
+      "genres": [
+        "Documentary",
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 5,
+        "voteCount": 456
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0236824",
+      "type": "short",
+      "primaryTitle": "The Unfinished Journey",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTNmYjA1YTEtZDZiMi00ZDQ2LWE2N2YtNjg0MjcxZGI1YTg4XkEyXkFqcGc@._V1_.jpg",
+        "width": 955,
+        "height": 496
+      },
+      "startYear": 1999,
+      "genres": [
+        "Documentary",
+        "Short",
+        "History"
+      ],
+      "rating": {
+        "aggregateRating": 5.4,
+        "voteCount": 369
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0124142",
+      "type": "videoGame",
+      "primaryTitle": "Steven Spielberg's Director's Chair",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTk2NTk1NDY4OV5BMl5BanBnXkFtZTgwMTgwNjUwMTE@._V1_.jpg",
+        "width": 1500,
+        "height": 1279
+      },
+      "startYear": 1996,
+      "genres": [
+        "Family"
+      ],
+      "rating": {
+        "aggregateRating": 6,
+        "voteCount": 341
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0054857",
+      "type": "short",
+      "primaryTitle": "Escape to Nowhere",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWRjNmY5MjAtZTFlYi00OWZlLTliMjItNzgzNGQ0MzhmYjBmXkEyXkFqcGc@._V1_.jpg",
+        "width": 819,
+        "height": 502
+      },
+      "startYear": 1961,
+      "genres": [
+        "Short",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 5.6,
+        "voteCount": 334
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0066696",
+      "type": "tvSeries",
+      "primaryTitle": "Owen Marshall, Counselor at Law",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2QwM2ZlMGItNTNmNC00YWY1LTk3YjMtMjAxYzMzYTZhNjQ2XkEyXkFqcGc@._V1_.jpg",
+        "width": 400,
+        "height": 463
+      },
+      "startYear": 1971,
+      "endYear": 1974,
+      "genres": [
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 6.9,
+        "voteCount": 320
+      }
+    },
+    "category": "director",
+    "episodeCount": 1
+  },
+  {
+    "title": {
+      "id": "tt0052991",
+      "type": "short",
+      "primaryTitle": "The Last Gun",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDIwNzE4MDktZDk1OC00MTkwLThlN2EtNzUyY2ZlMjJhZDRiXkEyXkFqcGc@._V1_.jpg",
+        "width": 700,
+        "height": 400
+      },
+      "startYear": 1959,
+      "genres": [
+        "Short",
+        "Western"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 256
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0054670",
+      "type": "short",
+      "primaryTitle": "Fighter Squad",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDI2NjQzZDAtNzAyYi00NDc5LWFiNjMtYWJlNzVlMmRmMTMzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1999,
+        "height": 1170
+      },
+      "startYear": 1961,
+      "genres": [
+        "Short",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 197
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt21318180",
+      "type": "musicVideo",
+      "primaryTitle": "Marcus Mumford: Cannibal",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTlkYzhjNDItNGRlZC00MGJjLWJkZjEtMzlkYWQxNWIwNmU4XkEyXkFqcGc@._V1_.jpg",
+        "width": 2160,
+        "height": 2160
+      },
+      "startYear": 2022,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 5.5,
+        "voteCount": 188
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0249968",
+      "type": "short",
+      "primaryTitle": "Slipstream",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzJmZDdiNjktNGQxZi00OGIxLWExZGMtYTBmZTY3NWUzY2Y2XkEyXkFqcGc@._V1_.jpg",
+        "width": 696,
+        "height": 487
+      },
+      "startYear": 1967,
+      "genres": [
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 5.9,
+        "voteCount": 168
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0100876",
+      "type": "video",
+      "primaryTitle": "The Visionary",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWI0NzY2ODUtNmU1MC00NDk0LTlkODAtMzhiYmZiY2IzMjkwXkEyXkFqcGc@._V1_.jpg",
+        "width": 539,
+        "height": 988
+      },
+      "startYear": 1990,
+      "genres": [
+        "Western"
+      ],
+      "rating": {
+        "aggregateRating": 4.6,
+        "voteCount": 135
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0066705",
+      "type": "tvSeries",
+      "primaryTitle": "The Psychiatrist",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODYyZmYxYzAtMjdiNy00YmUxLTlkYmEtNmQwNzAxNjY2NzlkXkEyXkFqcGc@._V1_.jpg",
+        "width": 343,
+        "height": 432
+      },
+      "startYear": 1970,
+      "genres": [
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 95
+      }
+    },
+    "category": "director",
+    "episodeCount": 2
+  },
+  {
+    "title": {
+      "id": "tt0249321",
+      "type": "tvMiniSeries",
+      "primaryTitle": "Strokes of Genius",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE2OTkwODgxOV5BMl5BanBnXkFtZTcwNzgzMjQyMQ@@._V1_.jpg",
+        "width": 269,
+        "height": 475
+      },
+      "startYear": 1984,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 81
+      }
+    },
+    "category": "director"
+  }
+]

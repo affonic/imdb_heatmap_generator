@@ -1,0 +1,2385 @@
+[
+  {
+    "title": {
+      "id": "tt0993846",
+      "type": "movie",
+      "primaryTitle": "The Wolf of Wall Street",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      },
+      "startYear": 2013,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 8.2,
+        "voteCount": 1719821
+      },
+      "metacritic": {
+        "score": 75,
+        "reviewCount": 47
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1130884",
+      "type": "movie",
+      "primaryTitle": "Shutter Island",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_.jpg",
+        "width": 2026,
+        "height": 3000
+      },
+      "startYear": 2010,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.2,
+        "voteCount": 1580375
+      },
+      "metacritic": {
+        "score": 63,
+        "reviewCount": 37
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "CA",
+          "name": "Canada"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0407887",
+      "type": "movie",
+      "primaryTitle": "The Departed",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg",
+        "width": 450,
+        "height": 665
+      },
+      "startYear": 2006,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.5,
+        "voteCount": 1511235
+      },
+      "metacritic": {
+        "score": 85,
+        "reviewCount": 39
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "HK",
+          "name": "Hong Kong (Special Administrative Region of China)"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0099685",
+      "type": "movie",
+      "primaryTitle": "Goodfellas",
+      "originalTitle": "GoodFellas",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_.jpg",
+        "width": 1984,
+        "height": 2972
+      },
+      "startYear": 1990,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 8.7,
+        "voteCount": 1348607
+      },
+      "metacritic": {
+        "score": 92,
+        "reviewCount": 21
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0075314",
+      "type": "movie",
+      "primaryTitle": "Taxi Driver",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDNhMGYwM2UtMTdlZS00MGQ1LWI2YzAtODY5YWI1MjYyNzRmXkEyXkFqcGc@._V1_.jpg",
+        "width": 1890,
+        "height": 2871
+      },
+      "startYear": 1976,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 8.2,
+        "voteCount": 995658
+      },
+      "metacritic": {
+        "score": 94,
+        "reviewCount": 23
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0112641",
+      "type": "movie",
+      "primaryTitle": "Casino",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDRlZWZjZjYtYzY2NS00ZWVjLTkwYzAtZTA2ZDAzMGRiYmYwXkEyXkFqcGc@._V1_.jpg",
+        "width": 800,
+        "height": 1200
+      },
+      "startYear": 1995,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 8.2,
+        "voteCount": 601888
+      },
+      "metacritic": {
+        "score": 73,
+        "reviewCount": 17
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "FR",
+          "name": "France"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0217505",
+      "type": "movie",
+      "primaryTitle": "Gangs of New York",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MDA0MTUtYzkzMi00NDY3LThhZDEtNGM4MWUwYzMyZDk5XkEyXkFqcGc@._V1_.jpg",
+        "width": 512,
+        "height": 755
+      },
+      "startYear": 2002,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 493433
+      },
+      "metacritic": {
+        "score": 72,
+        "reviewCount": 39
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "IT",
+          "name": "Italy"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1302006",
+      "type": "movie",
+      "primaryTitle": "The Irishman",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY2YThkNmQtOWJhYy00ZDc3LWEzOGEtMmQwNzM0YjFmZWIyXkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 2929
+      },
+      "startYear": 2019,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.8,
+        "voteCount": 459665
+      },
+      "metacritic": {
+        "score": 94,
+        "reviewCount": 55
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0081398",
+      "type": "movie",
+      "primaryTitle": "Raging Bull",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjlkYmYyZWQtNTZkOS00ZjA0LWEwNWUtNzE2ZGNiYjg0MjA2XkEyXkFqcGc@._V1_.jpg",
+        "width": 679,
+        "height": 1000
+      },
+      "startYear": 1980,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "rating": {
+        "aggregateRating": 8.1,
+        "voteCount": 400619
+      },
+      "metacritic": {
+        "score": 90,
+        "reviewCount": 28
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0338751",
+      "type": "movie",
+      "primaryTitle": "The Aviator",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTUyYWJlNDgtOTM5Ny00YTQ3LWFmYTgtZjJiNTNkYjJlMmY4XkEyXkFqcGc@._V1_.jpg",
+        "width": 600,
+        "height": 892
+      },
+      "startYear": 2004,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 398825
+      },
+      "metacritic": {
+        "score": 77,
+        "reviewCount": 41
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "DE",
+          "name": "Germany"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0970179",
+      "type": "movie",
+      "primaryTitle": "Hugo",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAzNzk5MzgyNF5BMl5BanBnXkFtZTcwOTE4NDU5Ng@@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      },
+      "startYear": 2011,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 345200
+      },
+      "metacritic": {
+        "score": 83,
+        "reviewCount": 41
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5537002",
+      "type": "movie",
+      "primaryTitle": "Killers of the Flower Moon",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWY5ZDVjNTUtODI5Yy00MjFhLWEyM2EtYzZjM2VjZTI0MTBjXkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      },
+      "startYear": 2023,
+      "genres": [
+        "Crime",
+        "Drama",
+        "History",
+        "Western"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 289918
+      },
+      "metacritic": {
+        "score": 89,
+        "reviewCount": 63
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0101540",
+      "type": "movie",
+      "primaryTitle": "Cape Fear",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_.jpg",
+        "width": 988,
+        "height": 1500
+      },
+      "startYear": 1991,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 233621
+      },
+      "metacritic": {
+        "score": 73,
+        "reviewCount": 9
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0979432",
+      "type": "tvSeries",
+      "primaryTitle": "Boardwalk Empire",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2MzODhjYTEtZTA2ZS00ZTRjLTlkZDYtNTBkNTdhNWJlMTYwXkEyXkFqcGc@._V1_.jpg",
+        "width": 3514,
+        "height": 5076
+      },
+      "startYear": 2010,
+      "endYear": 2014,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 8.6,
+        "voteCount": 213657
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 1
+  },
+  {
+    "title": {
+      "id": "tt0490215",
+      "type": "movie",
+      "primaryTitle": "Silence",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjY3OTk0NjA2NV5BMl5BanBnXkFtZTgwNTg3Mjc2MDI@._V1_.jpg",
+        "width": 1312,
+        "height": 2048
+      },
+      "startYear": 2016,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 129733
+      },
+      "metacritic": {
+        "score": 79,
+        "reviewCount": 48
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "IT",
+          "name": "Italy"
+        },
+        {
+          "code": "TW",
+          "name": "Taiwan (Province of China)"
+        },
+        {
+          "code": "MX",
+          "name": "Mexico"
+        },
+        {
+          "code": "JP",
+          "name": "Japan"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0085794",
+      "type": "movie",
+      "primaryTitle": "The King of Comedy",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTQxNGUwNmUtMDJhYy00ZjM1LWFjZjQtYmI5ZGY4YTZmZWQyXkEyXkFqcGc@._V1_.jpg",
+        "width": 1880,
+        "height": 2821
+      },
+      "startYear": 1982,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.8,
+        "voteCount": 128175
+      },
+      "metacritic": {
+        "score": 73,
+        "reviewCount": 13
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0070379",
+      "type": "movie",
+      "primaryTitle": "Mean Streets",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWRlNDdiYWUtYjE1Zi00OWRhLWJiYTYtZWQ0NWFkYzc0NWMxXkEyXkFqcGc@._V1_.jpg",
+        "width": 617,
+        "height": 921
+      },
+      "startYear": 1973,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 125337
+      },
+      "metacritic": {
+        "score": 96,
+        "reviewCount": 11
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0090863",
+      "type": "movie",
+      "primaryTitle": "The Color of Money",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTRiNDAxNTgtNzJkMy00Y2RmLThkMmItYzQ5YTU2ZmVhNTg4XkEyXkFqcGc@._V1_.jpg",
+        "width": 1974,
+        "height": 2924
+      },
+      "startYear": 1986,
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "rating": {
+        "aggregateRating": 7,
+        "voteCount": 98523
+      },
+      "metacritic": {
+        "score": 77,
+        "reviewCount": 18
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0088680",
+      "type": "movie",
+      "primaryTitle": "After Hours",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUxMjEzMzI2MV5BMl5BanBnXkFtZTgwNTU3ODAxMDE@._V1_.jpg",
+        "width": 675,
+        "height": 1000
+      },
+      "startYear": 1985,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 91215
+      },
+      "metacritic": {
+        "score": 89,
+        "reviewCount": 9
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0163988",
+      "type": "movie",
+      "primaryTitle": "Bringing Out the Dead",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGVjYjU5YzItYTVmMS00ZTUwLTkzMDgtYzI5MGI2MmFkZmQ0XkEyXkFqcGc@._V1_.jpg",
+        "width": 600,
+        "height": 882
+      },
+      "startYear": 1999,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.9,
+        "voteCount": 79738
+      },
+      "metacritic": {
+        "score": 72,
+        "reviewCount": 34
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0106226",
+      "type": "movie",
+      "primaryTitle": "The Age of Innocence",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzFkYjQzZjUtY2NjNi00ZDFkLWI4M2MtN2RjODQ0NDJkMWM0XkEyXkFqcGc@._V1_.jpg",
+        "width": 999,
+        "height": 1500
+      },
+      "startYear": 1993,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 72294
+      },
+      "metacritic": {
+        "score": 90,
+        "reviewCount": 35
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0095497",
+      "type": "movie",
+      "primaryTitle": "The Last Temptation of Christ",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjE2MWE2NDQtMjIzYy00OGY4LTk3YjktZTE2MWExYmEzMjM5XkEyXkFqcGc@._V1_.jpg",
+        "width": 981,
+        "height": 1500
+      },
+      "startYear": 1988,
+      "genres": [
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 66508
+      },
+      "metacritic": {
+        "score": 80,
+        "reviewCount": 18
+      },
+      "originCountries": [
+        {
+          "code": "CA",
+          "name": "Canada"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0119485",
+      "type": "movie",
+      "primaryTitle": "Kundun",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGFjNDFkMTMtYmM0ZS00NmQwLTkzNjUtZWYwYjA0ZWMxMDI1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1600,
+        "height": 2400
+      },
+      "startYear": 1997,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 7,
+        "voteCount": 31590
+      },
+      "metacritic": {
+        "score": 74,
+        "reviewCount": 26
+      },
+      "originCountries": [
+        {
+          "code": "MC",
+          "name": "Monaco"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "MA",
+          "name": "Morocco"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0071115",
+      "type": "movie",
+      "primaryTitle": "Alice Doesn't Live Here Anymore",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmE2MzdlNjItMzk5My00MDRmLWJmNjMtOTg1NTUxYTczNzNiXkEyXkFqcGc@._V1_.jpg",
+        "width": 1490,
+        "height": 2260
+      },
+      "startYear": 1974,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 29013
+      },
+      "metacritic": {
+        "score": 78,
+        "reviewCount": 11
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt3186130",
+      "type": "tvSeries",
+      "primaryTitle": "Vinyl",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY1Nzc3Mzk2NF5BMl5BanBnXkFtZTgwMjUzNTA1NzE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      },
+      "startYear": 2016,
+      "endYear": 2016,
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.7,
+        "voteCount": 25635
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 1
+  },
+  {
+    "title": {
+      "id": "tt0076451",
+      "type": "movie",
+      "primaryTitle": "New York, New York",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODk2NmU3ZDEtMzMxNy00ZmQwLWE3NzQtOTljMDM4OWRjYmIxXkEyXkFqcGc@._V1_.jpg",
+        "width": 1027,
+        "height": 1579
+      },
+      "startYear": 1977,
+      "genres": [
+        "Drama",
+        "Music",
+        "Musical"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 23147
+      },
+      "metacritic": {
+        "score": 64,
+        "reviewCount": 11
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0077838",
+      "type": "movie",
+      "primaryTitle": "The Last Waltz",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWE3MjEzNjgtNzE2OC00ZTQwLWFhYjUtNDQ4ZWJhYTFmMzYzXkEyXkFqcGc@._V1_.jpg",
+        "width": 656,
+        "height": 1000
+      },
+      "startYear": 1978,
+      "genres": [
+        "Documentary",
+        "Biography",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 8.1,
+        "voteCount": 21477
+      },
+      "metacritic": {
+        "score": 84,
+        "reviewCount": 16
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0097965",
+      "type": "movie",
+      "primaryTitle": "New York Stories",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzZmZjQ5ZWMtZmM3ZS00NTk5LTlhOTgtZGViZDI3ZjgxOTdkXkEyXkFqcGc@._V1_.jpg",
+        "width": 1524,
+        "height": 2265
+      },
+      "startYear": 1989,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 20647
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1113829",
+      "type": "movie",
+      "primaryTitle": "George Harrison: Living in the Material World",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmI1NGU2OTQtMTI1OC00MzU0LTkyZjMtNjZhMzVmNmExNDRhXkEyXkFqcGc@._V1_.jpg",
+        "width": 1010,
+        "height": 1498
+      },
+      "startYear": 2011,
+      "genres": [
+        "Documentary",
+        "Biography",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 8.1,
+        "voteCount": 13102
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0893382",
+      "type": "movie",
+      "primaryTitle": "Shine a Light",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTg5ZTY5ZmQtNDA5NC00MTEyLTlmYWUtY2M1MTNiZTY4MmMyXkEyXkFqcGc@._V1_.jpg",
+        "width": 1957,
+        "height": 2868
+      },
+      "startYear": 2008,
+      "genres": [
+        "Documentary",
+        "Biography",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 12555
+      },
+      "metacritic": {
+        "score": 76,
+        "reviewCount": 36
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0367555",
+      "type": "tvEpisode",
+      "primaryTitle": "No Direction Home: Bob Dylan",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjFkMDEzYTQtY2VhMy00MjIyLTg1MTMtMzVjOGE5OTVmYTlmXkEyXkFqcGc@._V1_.jpg",
+        "width": 1200,
+        "height": 1800
+      },
+      "startYear": 2005,
+      "genres": [
+        "Documentary",
+        "Biography",
+        "History",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 8.4,
+        "voteCount": 12463
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "JP",
+          "name": "Japan"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0068309",
+      "type": "movie",
+      "primaryTitle": "Boxcar Bertha",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGQ3NmViYzEtOTIwMS00YmRlLWI0YWQtZTFmZjVlNWI0M2JlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1451,
+        "height": 2154
+      },
+      "startYear": 1972,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6,
+        "voteCount": 11880
+      },
+      "metacritic": {
+        "score": 61,
+        "reviewCount": 7
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0063803",
+      "type": "movie",
+      "primaryTitle": "Who's That Knocking at My Door",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzM4ODNiMDctZTcyNC00NjcxLWI3YWQtMGQ2OGQ3ZjkwNjkwXkEyXkFqcGc@._V1_.jpg",
+        "width": 580,
+        "height": 884
+      },
+      "startYear": 1967,
+      "genres": [
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 10630
+      },
+      "metacritic": {
+        "score": 63,
+        "reviewCount": 9
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0061402",
+      "type": "short",
+      "primaryTitle": "The Big Shave",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzRiYjJjODYtY2QzYi00ZjAzLTk3NDgtZmE4YWVmY2Y0MTYyXkEyXkFqcGc@._V1_.jpg",
+        "width": 1500,
+        "height": 2250
+      },
+      "startYear": 1967,
+      "genres": [
+        "Short",
+        "Drama",
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 7,
+        "voteCount": 9563
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt13660958",
+      "type": "tvMiniSeries",
+      "primaryTitle": "Pretend It's a City",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODg4MzZhODctNzEzMi00Njk4LWJhYWMtNzlkNmI4ZGZlMzA4XkEyXkFqcGc@._V1_.jpg",
+        "width": 800,
+        "height": 1185
+      },
+      "startYear": 2021,
+      "endYear": 2021,
+      "genres": [
+        "Documentary",
+        "Biography",
+        "Comedy"
+      ],
+      "rating": {
+        "aggregateRating": 8,
+        "voteCount": 8941
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 7
+  },
+  {
+    "title": {
+      "id": "tt9577852",
+      "type": "movie",
+      "primaryTitle": "Rolling Thunder Revue",
+      "originalTitle": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDI4NWIxMDctYzI3MS00ZTEzLWFlY2UtNzhiMWFjODJkOGE4XkEyXkFqcGc@._V1_.jpg",
+        "width": 1500,
+        "height": 2222
+      },
+      "startYear": 2019,
+      "genres": [
+        "Documentary",
+        "Biography",
+        "History",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 8362
+      },
+      "metacritic": {
+        "score": 87,
+        "reviewCount": 27
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0124288",
+      "type": "musicVideo",
+      "primaryTitle": "Michael Jackson: Bad",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjkzM2Y2MzktYjMyNS00MjkzLWIwZTYtNWIyZDI2ODVmNDU0XkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1498
+      },
+      "startYear": 1987,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.8,
+        "voteCount": 6885
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0088478",
+      "type": "tvSeries",
+      "primaryTitle": "Amazing Stories",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODAzMGJkZmUtOWIzMC00NGY4LWJlMTQtMTJlMTE2MmZmY2M0XkEyXkFqcGc@._V1_.jpg",
+        "width": 780,
+        "height": 1170
+      },
+      "startYear": 1985,
+      "endYear": 1987,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 6794
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 1
+  },
+  {
+    "title": {
+      "id": "tt1276201",
+      "type": "tvEpisode",
+      "primaryTitle": "Boardwalk Empire",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM0Mjc5ODUzOF5BMl5BanBnXkFtZTcwNTIwMjAwMw@@._V1_.jpg",
+        "width": 1500,
+        "height": 1000
+      },
+      "startYear": 2010,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 8.6,
+        "voteCount": 5431
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0112120",
+      "type": "tvEpisode",
+      "primaryTitle": "A Personal Journey with Martin Scorsese Through American Movies",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDRlYzRiNmYtYThmNS00ZjZkLWIxZWMtMWZlODIzZTAzN2U4XkEyXkFqcGc@._V1_.jpg",
+        "width": 1400,
+        "height": 2100
+      },
+      "startYear": 1995,
+      "genres": [
+        "Documentary",
+        "Biography",
+        "History"
+      ],
+      "rating": {
+        "aggregateRating": 8.5,
+        "voteCount": 5248
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt4016250",
+      "type": "short",
+      "primaryTitle": "The Audition",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDQyYzZiNTItOWE1My00MjAxLWFhY2ItMTdlNmI5NWRhMzcxXkEyXkFqcGc@._V1_.jpg",
+        "width": 1944,
+        "height": 2736
+      },
+      "startYear": 2015,
+      "genres": [
+        "Short",
+        "Comedy"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 4910
+      },
+      "originCountries": [
+        {
+          "code": "MO",
+          "name": "Macau (Special Administrative Region of China)"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "HK",
+          "name": "Hong Kong (Special Administrative Region of China)"
+        },
+        {
+          "code": "AU",
+          "name": "Australia"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0071680",
+      "type": "movie",
+      "primaryTitle": "Italianamerican",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjVjYzBmMTQtMmU1Ny00NzEyLThjNzUtMDFhOTZkYWZlMzI4XkEyXkFqcGc@._V1_.jpg",
+        "width": 1200,
+        "height": 1800
+      },
+      "startYear": 1974,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 4075
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0173772",
+      "type": "movie",
+      "primaryTitle": "My Voyage to Italy",
+      "originalTitle": "Il mio viaggio in Italia",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTdjNDQ3NjQtODc4Ni00NzIxLWI0ZDItYzJiMzhlZmJmMDg0XkEyXkFqcGc@._V1_.jpg",
+        "width": 1400,
+        "height": 2074
+      },
+      "startYear": 1999,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": {
+        "aggregateRating": 8.2,
+        "voteCount": 3650
+      },
+      "metacritic": {
+        "score": 90,
+        "reviewCount": 8
+      },
+      "originCountries": [
+        {
+          "code": "IT",
+          "name": "Italy"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1151319",
+      "type": "short",
+      "primaryTitle": "The Key to Reserva",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDg3OTRiYjktZjdlOS00MDJmLTgxNTAtZWUyYmU3NjkyNGQ0XkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      },
+      "startYear": 2007,
+      "genres": [
+        "Short",
+        "Comedy"
+      ],
+      "rating": {
+        "aggregateRating": 7.8,
+        "voteCount": 3308
+      },
+      "originCountries": [
+        {
+          "code": "ES",
+          "name": "Spain"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0057680",
+      "type": "short",
+      "primaryTitle": "What's a Nice Girl Like You Doing in a Place Like This?",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTUxOTU3YzgtM2I0Mi00NzI3LWE2MGItMGI1MDBlMWVhNDczXkEyXkFqcGc@._V1_.jpg",
+        "width": 1598,
+        "height": 2398
+      },
+      "startYear": 1963,
+      "genres": [
+        "Short",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 2916
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1734477",
+      "type": "movie",
+      "primaryTitle": "Public Speaking",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM2ODE2MjIwMl5BMl5BanBnXkFtZTcwNzQxNjAxNA@@._V1_.jpg",
+        "width": 675,
+        "height": 1000
+      },
+      "startYear": 2010,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 2444
+      },
+      "metacritic": {
+        "score": 78,
+        "reviewCount": 11
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0058242",
+      "type": "short",
+      "primaryTitle": "It's Not Just You, Murray!",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUyYzY1MGMtYTAyMS00MDk0LThlNWMtYzkxYjYwZjA1Y2QzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1352,
+        "height": 2024
+      },
+      "startYear": 1964,
+      "genres": [
+        "Short",
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 2417
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0167988",
+      "type": "video",
+      "primaryTitle": "Michael Jackson: Video Greatest Hits - HIStory",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM3NzE4NTU3MV5BMl5BanBnXkFtZTcwOTkxOTIxMw@@._V1_.jpg",
+        "width": 455,
+        "height": 455
+      },
+      "startYear": 1995,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 8.6,
+        "voteCount": 2406
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0077157",
+      "type": "movie",
+      "primaryTitle": "American Boy: A Profile of Steven Prince",
+      "originalTitle": "American Boy: A Profile of - Steven Prince",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWMxNWY4NDQtYzY1Mi00Y2E5LTkyMjYtNjYxMDIwZjExMTk2XkEyXkFqcGc@._V1_.jpg",
+        "width": 470,
+        "height": 700
+      },
+      "startYear": 1978,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 2075
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt4381070",
+      "type": "tvEpisode",
+      "primaryTitle": "Pilot",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTliZGM4MTQtNGJiNS00NDQ0LWEwNjAtM2VkZGQwMzIwYjgxXkEyXkFqcGc@._V1_.jpg",
+        "width": 710,
+        "height": 399
+      },
+      "startYear": 2016,
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 8.1,
+        "voteCount": 1950
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0768131",
+      "type": "video",
+      "primaryTitle": "Michael Jackson: Number Ones",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjU2MmU5YTEtMjBlYy00NDg4LTk4MGQtZTUzN2Y5MjYzOGU4XkEyXkFqcGc@._V1_.jpg",
+        "width": 1876,
+        "height": 2691
+      },
+      "startYear": 2003,
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 8.6,
+        "voteCount": 1664
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0287198",
+      "type": "tvMiniSeries",
+      "primaryTitle": "The Blues",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTI2ZmEyZTgtOGY5MS00NDhjLWIxMTUtYjNhN2ZlODNiNjIwXkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "startYear": 2003,
+      "endYear": 2003,
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 8,
+        "voteCount": 1324
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 1
+  },
+  {
+    "title": {
+      "id": "tt0364151",
+      "type": "tvSeries",
+      "primaryTitle": "American Masters",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ3ODc5ODQ0NV5BMl5BanBnXkFtZTgwNzM1MjUzMDI@._V1_.jpg",
+        "width": 1000,
+        "height": 1482
+      },
+      "startYear": 1985,
+      "genres": [
+        "Documentary",
+        "Biography",
+        "History",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 8.2,
+        "voteCount": 1305
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 2
+  },
+  {
+    "title": {
+      "id": "tt0808245",
+      "type": "movie",
+      "primaryTitle": "A Letter to Elia",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ0Mzk2NDIxN15BMl5BanBnXkFtZTcwNTk4NDI5Mw@@._V1_.jpg",
+        "width": 1325,
+        "height": 2048
+      },
+      "startYear": 2010,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 1167
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0298810",
+      "type": "tvSpecial",
+      "primaryTitle": "The Concert for New York City",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTIyODc2NTA4N15BMl5BanBnXkFtZTcwMzUwNDIyMQ@@._V1_.jpg",
+        "width": 336,
+        "height": 475
+      },
+      "startYear": 2001,
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 939
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt3510820",
+      "type": "movie",
+      "primaryTitle": "The 50 Year Argument",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDUxNjMxNjA4MF5BMl5BanBnXkFtZTgwODQ5NTg2NTE@._V1_.jpg",
+        "width": 1024,
+        "height": 1517
+      },
+      "startYear": 2014,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 767
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "JP",
+          "name": "Japan"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt12667838",
+      "type": "movie",
+      "primaryTitle": "Personality Crisis: One Night Only",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzIyODk3NzAtMzEzYy00ZDUxLWIwNGUtNDRmZjBmZDJmNjI5XkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      },
+      "startYear": 2022,
+      "genres": [
+        "Documentary",
+        "Biography",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7,
+        "voteCount": 485
+      },
+      "metacritic": {
+        "score": 80,
+        "reviewCount": 9
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1065622",
+      "type": "tvEpisode",
+      "primaryTitle": "Feel Like Going Home",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYyNjQ4MTczMl5BMl5BanBnXkFtZTcwOTczNjcyMQ@@._V1_.jpg",
+        "width": 352,
+        "height": 500
+      },
+      "startYear": 2003,
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 471
+      },
+      "originCountries": [
+        {
+          "code": "DE",
+          "name": "Germany"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0066416",
+      "type": "movie",
+      "primaryTitle": "Street Scenes",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWU1MjMwOWYtYzJhNy00MTQyLWE3MDEtNTBiZjUwMTY4ZDFiXkEyXkFqcGc@._V1_.jpg",
+        "width": 302,
+        "height": 454
+      },
+      "startYear": 1970,
+      "genres": [
+        "Documentary",
+        "History"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 443
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt32397877",
+      "type": "short",
+      "primaryTitle": "Bleu de Chanel",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGI3OTk5ZmYtNTA1MC00NjZiLTgwOGYtYjQyOWJiODI0OTg0XkEyXkFqcGc@._V1_.jpg",
+        "width": 756,
+        "height": 1050
+      },
+      "startYear": 2024,
+      "genres": [
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 440
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0100086",
+      "type": "short",
+      "primaryTitle": "Made in Milan",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjdmMzhkY2YtZTM0My00ZDFhLTgxNzQtMWRjOWE4OTU1MDcxXkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 2880
+      },
+      "startYear": 1990,
+      "genres": [
+        "Documentary",
+        "Short",
+        "Biography",
+        "History"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 423
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt2243597",
+      "type": "movie",
+      "primaryTitle": "The King of Ads",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWViMDg2M2UtNjVlZC00MmNiLWE3MDQtN2FhZDMyMWRmN2RiXkEyXkFqcGc@._V1_.jpg",
+        "width": 316,
+        "height": 445
+      },
+      "startYear": 1991,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": {
+        "aggregateRating": 5.4,
+        "voteCount": 400
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "FR",
+          "name": "France"
+        },
+        {
+          "code": "IT",
+          "name": "Italy"
+        },
+        {
+          "code": "ES",
+          "name": "Spain"
+        },
+        {
+          "code": "RU",
+          "name": "Russian Federation"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "CH",
+          "name": "Switzerland"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt10908058",
+      "type": "video",
+      "primaryTitle": "The King of Comedy: Deleted and Extended Scenes",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGE1YWEwNDQtYjg0Ny00NWIwLTk5MjQtNzg2NDk0NTAwOTlkXkEyXkFqcGc@._V1_.jpg",
+        "width": 1197,
+        "height": 1500
+      },
+      "startYear": 2014,
+      "genres": [
+        "Short",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 356
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0199184",
+      "type": "tvSeries",
+      "primaryTitle": "Arena",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjllYzFkZDYtZDVkMy00MTEyLTkxOWEtMzY0Y2Q0N2IwMTRjXkEyXkFqcGc@._V1_.jpg",
+        "width": 585,
+        "height": 675
+      },
+      "startYear": 1975,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 351
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 4
+  },
+  {
+    "title": {
+      "id": "tt0374003",
+      "type": "video",
+      "primaryTitle": "The Last Temptation of Christ: On Location in Morocco",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzUxYzY3ZDAtYWZiOC00OTFmLThmMjgtYTAyNjI2YmM3NjMxXkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1400
+      },
+      "startYear": 1988,
+      "genres": [
+        "Documentary",
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 6.8,
+        "voteCount": 315
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt13515268",
+      "type": "short",
+      "primaryTitle": "Bleu de Chanel",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGU0ZjNlMGItMThmNy00YTgyLWE2MDItMDkyMDFiNDBhODNlXkEyXkFqcGc@._V1_.jpg",
+        "width": 736,
+        "height": 998
+      },
+      "startYear": 2010,
+      "genres": [
+        "Short",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 207
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0053416",
+      "type": "short",
+      "primaryTitle": "Vesuvius VI",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGQwNWE5NTAtZTAzNC00NTgyLTliNTQtOWI0YWIzNmNkYTE5XkEyXkFqcGc@._V1_.jpg",
+        "width": 703,
+        "height": 397
+      },
+      "startYear": 1959,
+      "genres": [
+        "Short",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 196
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt15307168",
+      "type": "video",
+      "primaryTitle": "Street of Dreams",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODU0NTc3NjktMDVjOC00N2UwLWFlYTktNDVjYjY3NWQ0ODI2XkEyXkFqcGc@._V1_.jpg",
+        "width": 600,
+        "height": 860
+      },
+      "startYear": 2013,
+      "genres": [
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 189
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt2061828",
+      "type": "short",
+      "primaryTitle": "The Neighborhood",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGVlYTBkNmEtOGNlZi00MTAzLWJlOGUtMWZmY2NhNmZjODEzXkEyXkFqcGc@._V1_.jpg",
+        "width": 965,
+        "height": 1377
+      },
+      "startYear": 2001,
+      "genres": [
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 165
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0397507",
+      "type": "tvMovie",
+      "primaryTitle": "Lady by the Sea: The Statue of Liberty",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzA0NjcxYjQtYjQ1Zi00MTY3LTkxZGYtZmRlM2IyZmQwYTYwXkEyXkFqcGc@._V1_.jpg",
+        "width": 258,
+        "height": 378
+      },
+      "startYear": 2004,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": {
+        "aggregateRating": 5.8,
+        "voteCount": 159
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt10198576",
+      "type": "tvSeries",
+      "primaryTitle": "Century of Cinema",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2Q2OThiNzktZGQzYy00YzFmLTg4MGItZDA3YWI4YTEwM2Y5XkEyXkFqcGc@._V1_.jpg",
+        "width": 375,
+        "height": 500
+      },
+      "startYear": 1995,
+      "endYear": 1998,
+      "genres": [
+        "Documentary",
+        "Biography",
+        "History"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 121
+      }
+    },
+    "category": "director",
+    "episodeCount": 1
+  },
+  {
+    "title": {
+      "id": "tt3413658",
+      "type": "movie",
+      "primaryTitle": "New York City... Melting Point",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGNjOTZiYjktMWU2OC00YTI4LTliNmEtYTk1ZWEyMTEwYzE1XkEyXkFqcGc@._V1_.jpg",
+        "width": 424,
+        "height": 567
+      },
+      "startYear": 1966,
+      "genres": [
+        "Documentary",
+        "History",
+        "News"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 102
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt31187416",
+      "type": "video",
+      "primaryTitle": "Squarespace: Hello Down There",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjg5MWUwMzQtZDYzOS00NGU4LWIyODctMjM5NmFhZDJjNGUyXkEyXkFqcGc@._V1_.jpg",
+        "width": 1800,
+        "height": 2700
+      },
+      "startYear": 2024,
+      "genres": [
+        "Short",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 94
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt31192313",
+      "type": "short",
+      "primaryTitle": "Squarespace: Marty & Francesca Make a Website",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUwOTcwZjMtYWQ3ZS00MzQzLTk3OGYtMTUyZGU4ZDU4MWE1XkEyXkFqcGc@._V1_.jpg",
+        "width": 3456,
+        "height": 2234
+      },
+      "startYear": 2024,
+      "genres": [
+        "Short",
+        "Comedy"
+      ],
+      "rating": {
+        "aggregateRating": 6.2,
+        "voteCount": 64
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt21919416",
+      "type": "musicVideo",
+      "primaryTitle": "Robbie Robertson: Somewhere Down the Crazy River",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTViMTJmNDUtODQ1NC00OTQzLWI4YTQtZmFkZThhOGZhMDAyXkEyXkFqcGc@._V1_.jpg",
+        "width": 305,
+        "height": 309
+      },
+      "startYear": 1988,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 57
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt29544805",
+      "type": "short",
+      "primaryTitle": "Rolling Thunder Revue: Additional Performances",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzkwMDc3M2MtNDNlYi00Y2JiLTg5YTMtZjUzNTM5MDg4Yzg0XkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "startYear": 2021,
+      "genres": [
+        "Short",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7,
+        "voteCount": 26
+      }
+    },
+    "category": "director"
+  }
+]

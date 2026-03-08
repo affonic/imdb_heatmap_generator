@@ -1,0 +1,1576 @@
+[
+  {
+    "title": {
+      "id": "tt0367594",
+      "type": "movie",
+      "primaryTitle": "Charlie and the Chocolate Factory",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjcxMjg1Njg2NF5BMl5BanBnXkFtZTcwMjQ4NzMzMw@@._V1_.jpg",
+        "width": 550,
+        "height": 812
+      },
+      "startYear": 2005,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 558075
+      },
+      "metacritic": {
+        "score": 72,
+        "reviewCount": 40
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0099487",
+      "type": "movie",
+      "primaryTitle": "Edward Scissorhands",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODJhODczYjUtYzdkMy00Yjc4LTllNWMtZTQ3MDZlYWZjYWEzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1969,
+        "height": 2915
+      },
+      "startYear": 1990,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.8,
+        "voteCount": 552020
+      },
+      "metacritic": {
+        "score": 74,
+        "reviewCount": 19
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0319061",
+      "type": "movie",
+      "primaryTitle": "Big Fish",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTVlNjc4ZmItMDZjYy00YWZjLTg1OWEtOTNlZjJlN2FlMjEwXkEyXkFqcGc@._V1_.jpg",
+        "width": 1952,
+        "height": 2903
+      },
+      "startYear": 2003,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 8,
+        "voteCount": 472770
+      },
+      "metacritic": {
+        "score": 58,
+        "reviewCount": 42
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1014759",
+      "type": "movie",
+      "primaryTitle": "Alice in Wonderland",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjgxMTQ3NjMtOTI1Yy00Yzg4LWJlNWQtMjFkNjVlYjU0OWIyXkEyXkFqcGc@._V1_.jpg",
+        "width": 2029,
+        "height": 3000
+      },
+      "startYear": 2010,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 459787
+      },
+      "metacritic": {
+        "score": 53,
+        "reviewCount": 38
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "IT",
+          "name": "Italy"
+        },
+        {
+          "code": "CA",
+          "name": "Canada"
+        },
+        {
+          "code": "JP",
+          "name": "Japan"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt13443470",
+      "type": "tvSeries",
+      "primaryTitle": "Wednesday",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDE1NjNmZjgtZTg0OC00NjkxLWEzYzItMDNkMTc3YjgxZWQyXkEyXkFqcGc@._V1_.jpg",
+        "width": 1500,
+        "height": 2222
+      },
+      "startYear": 2022,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Fantasy",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 8,
+        "voteCount": 458090
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 9
+  },
+  {
+    "title": {
+      "id": "tt0096895",
+      "type": "movie",
+      "primaryTitle": "Batman",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_.jpg",
+        "width": 894,
+        "height": 1337
+      },
+      "startYear": 1989,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 424364
+      },
+      "metacritic": {
+        "score": 69,
+        "reviewCount": 21
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0094721",
+      "type": "movie",
+      "primaryTitle": "Beetlejuice",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjkwNzVlNDEtMTJlNy00OTdlLTljYWItM2RkZmZkYzY3YjM2XkEyXkFqcGc@._V1_.jpg",
+        "width": 1005,
+        "height": 1500
+      },
+      "startYear": 1988,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 408272
+      },
+      "metacritic": {
+        "score": 71,
+        "reviewCount": 19
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0162661",
+      "type": "movie",
+      "primaryTitle": "Sleepy Hollow",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWIwMTIxZTQtNDZhNS00ZDZlLTg5MTEtOTNkMmNjOGUzMTA1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1488
+      },
+      "startYear": 1999,
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 403723
+      },
+      "metacritic": {
+        "score": 65,
+        "reviewCount": 35
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "DE",
+          "name": "Germany"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0408236",
+      "type": "movie",
+      "primaryTitle": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg3NjUxMzM5NV5BMl5BanBnXkFtZTcwMzQ1NjQzMw@@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      },
+      "startYear": 2007,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Musical",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 400702
+      },
+      "metacritic": {
+        "score": 83,
+        "reviewCount": 39
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0103776",
+      "type": "movie",
+      "primaryTitle": "Batman Returns",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_.jpg",
+        "width": 1100,
+        "height": 1630
+      },
+      "startYear": 1992,
+      "genres": [
+        "Action",
+        "Crime",
+        "Fantasy"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 343781
+      },
+      "metacritic": {
+        "score": 68,
+        "reviewCount": 24
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0121164",
+      "type": "movie",
+      "primaryTitle": "Corpse Bride",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk1MTY1NjU4MF5BMl5BanBnXkFtZTcwNjIzMTEzMw@@._V1_.jpg",
+        "width": 1386,
+        "height": 2048
+      },
+      "startYear": 2005,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Musical",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 318088
+      },
+      "metacritic": {
+        "score": 83,
+        "reviewCount": 35
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1077368",
+      "type": "movie",
+      "primaryTitle": "Dark Shadows",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjNiYWMxZjctMzEyZS00NDZmLTgxYmYtM2NmOGI0MmY3ZTJiXkEyXkFqcGc@._V1_.jpg",
+        "width": 1013,
+        "height": 1500
+      },
+      "startYear": 2012,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 6.2,
+        "voteCount": 290282
+      },
+      "metacritic": {
+        "score": 55,
+        "reviewCount": 42
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "AU",
+          "name": "Australia"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0116996",
+      "type": "movie",
+      "primaryTitle": "Mars Attacks!",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjJhNTIxZmQtZjQ3ZC00MTZkLWI2YTItY2Y0ZTdiMmNiNGIyXkEyXkFqcGc@._V1_.jpg",
+        "width": 800,
+        "height": 1209
+      },
+      "startYear": 1996,
+      "genres": [
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 254473
+      },
+      "metacritic": {
+        "score": 52,
+        "reviewCount": 19
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "JP",
+          "name": "Japan"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0133152",
+      "type": "movie",
+      "primaryTitle": "Planet of the Apes",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjczODRhOTQtZjdkYi00MmM2LTg1ZmEtZDQ3YjA5MDJhODNhXkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "startYear": 2001,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 5.7,
+        "voteCount": 239347
+      },
+      "metacritic": {
+        "score": 50,
+        "reviewCount": 34
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1935859",
+      "type": "movie",
+      "primaryTitle": "Miss Peregrine's Home for Peculiar Children",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU0Nzc5NzI5NV5BMl5BanBnXkFtZTgwNTk1MDE4MDI@._V1_.jpg",
+        "width": 1600,
+        "height": 2005
+      },
+      "startYear": 2016,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 203747
+      },
+      "metacritic": {
+        "score": 57,
+        "reviewCount": 43
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "BE",
+          "name": "Belgium"
+        },
+        {
+          "code": "CA",
+          "name": "Canada"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0109707",
+      "type": "movie",
+      "primaryTitle": "Ed Wood",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWU4NzlkZGEtODNmYi00YTVhLWJhYjAtZjBkN2Q1Y2U5NjE4XkEyXkFqcGc@._V1_.jpg",
+        "width": 1013,
+        "height": 1500
+      },
+      "startYear": 1994,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7.8,
+        "voteCount": 189436
+      },
+      "metacritic": {
+        "score": 71,
+        "reviewCount": 19
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt2049403",
+      "type": "movie",
+      "primaryTitle": "Beetlejuice Beetlejuice",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTQ4Y2MzY2MtYzQyMS00ZTQ3LWIzZGQtNjVjYzgwYzA1MDkzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      },
+      "startYear": 2024,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 161008
+      },
+      "metacritic": {
+        "score": 62,
+        "reviewCount": 61
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "FR",
+          "name": "France"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1142977",
+      "type": "movie",
+      "primaryTitle": "Frankenweenie",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjNjOThlZTctMjNmNy00YjdmLTgwOTYtMzg1N2VmNmMyOTBlXkEyXkFqcGc@._V1_.jpg",
+        "width": 742,
+        "height": 1100
+      },
+      "startYear": 2012,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 6.9,
+        "voteCount": 123421
+      },
+      "metacritic": {
+        "score": 74,
+        "reviewCount": 38
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1126590",
+      "type": "movie",
+      "primaryTitle": "Big Eyes",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA2ODM5MDE3N15BMl5BanBnXkFtZTgwOTIxNjc1MzE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      },
+      "startYear": 2014,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.9,
+        "voteCount": 103243
+      },
+      "metacritic": {
+        "score": 62,
+        "reviewCount": 40
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "CA",
+          "name": "Canada"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt3861390",
+      "type": "movie",
+      "primaryTitle": "Dumbo",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjMxMDE0MDI1Ml5BMl5BanBnXkFtZTgwMzExNTU3NjM@._V1_.jpg",
+        "width": 1013,
+        "height": 1500
+      },
+      "startYear": 2019,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "rating": {
+        "aggregateRating": 6.2,
+        "voteCount": 86750
+      },
+      "metacritic": {
+        "score": 51,
+        "reviewCount": 55
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "CA",
+          "name": "Canada"
+        },
+        {
+          "code": "AU",
+          "name": "Australia"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0089791",
+      "type": "movie",
+      "primaryTitle": "Pee-wee's Big Adventure",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTQ2ZTUzZjktMWVmNC00MzBmLTg1ZjMtYzQyNmE1YzY1MDFiXkEyXkFqcGc@._V1_.jpg",
+        "width": 497,
+        "height": 755
+      },
+      "startYear": 1985,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 62560
+      },
+      "metacritic": {
+        "score": 47,
+        "reviewCount": 14
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0084868",
+      "type": "short",
+      "primaryTitle": "Vincent",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTZkOGM0YWEtMzIxNi00NzdjLTljMDItOTgwMDU2OTU2NmVmXkEyXkFqcGc@._V1_.jpg",
+        "width": 2176,
+        "height": 3264
+      },
+      "startYear": 1982,
+      "genres": [
+        "Animation",
+        "Short",
+        "Family",
+        "Fantasy"
+      ],
+      "rating": {
+        "aggregateRating": 8.2,
+        "voteCount": 25117
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0087291",
+      "type": "short",
+      "primaryTitle": "Frankenweenie",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjg3NDNjMmMtZTRkNS00YTY1LTk2MjYtMmU5NzdmNWM0ZDFjXkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      },
+      "startYear": 1984,
+      "genres": [
+        "Short",
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 14173
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt14077386",
+      "type": "tvEpisode",
+      "primaryTitle": "Wednesday's Child Is Full of Woe",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTZlNGIzZDQtNzBiYy00ZmEzLThlZjYtZDZmZjA3NjVmNWZlXkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 1000
+      },
+      "startYear": 2022,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Fantasy",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 7.9,
+        "voteCount": 13913
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt14077394",
+      "type": "tvEpisode",
+      "primaryTitle": "Woe Is the Loneliest Number",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGUzOTIxMGQtMDFlNi00NTYyLTkxOTctMDExOWVkZDkyOGJmXkEyXkFqcGc@._V1_.jpg",
+        "width": 1504,
+        "height": 1000
+      },
+      "startYear": 2022,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Fantasy",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 7.8,
+        "voteCount": 11880
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt14077400",
+      "type": "tvEpisode",
+      "primaryTitle": "Woe What a Night",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjc4YzVlMjEtMmQyNy00ZmI3LThiOGUtYjkwOTdmOThkMWIzXkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 1270
+      },
+      "startYear": 2022,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Fantasy",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 8.3,
+        "voteCount": 11557
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt14077396",
+      "type": "tvEpisode",
+      "primaryTitle": "Friend or Woe",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjFmNThhNTMtNjg5ZS00NGM4LWIwNTUtYjhmY2M1NjhhZjgzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1504,
+        "height": 1000
+      },
+      "startYear": 2022,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Fantasy",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 7.9,
+        "voteCount": 11466
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt25754350",
+      "type": "tvEpisode",
+      "primaryTitle": "Here We Woe Again",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMxYTNlY2MtMzY1NC00NzRhLWEzNTItZmQ1NDcyZDhlZmMxXkEyXkFqcGc@._V1_.jpg",
+        "width": 3600,
+        "height": 2400
+      },
+      "startYear": 2025,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Fantasy",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 6584
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt33100413",
+      "type": "tvEpisode",
+      "primaryTitle": "If These Woes Could Talk",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2E2ZDFlMjEtYmE1ZC00MGUwLThhMTktYTcyMTFjNDdkNDBhXkEyXkFqcGc@._V1_.jpg",
+        "width": 3600,
+        "height": 1946
+      },
+      "startYear": 2025,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Fantasy",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 8.3,
+        "voteCount": 5715
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt33310268",
+      "type": "tvEpisode",
+      "primaryTitle": "This Means Woe",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzBlNzBhZmItOWIzOC00MzE2LWEwN2YtYTc1YTQzYTQwMzI5XkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "startYear": 2025,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Fantasy",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 8.4,
+        "voteCount": 3880
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0088476",
+      "type": "tvSeries",
+      "primaryTitle": "Alfred Hitchcock Presents",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjcxMWU5YTctM2E5ZS00YTJjLWJhNmMtMDQ2YWViYjcyMjU5XkEyXkFqcGc@._V1_.jpg",
+        "width": 680,
+        "height": 1000
+      },
+      "startYear": 1985,
+      "endYear": 1989,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.7,
+        "voteCount": 3505
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 1
+  },
+  {
+    "title": {
+      "id": "tt33310267",
+      "type": "tvEpisode",
+      "primaryTitle": "Woe Me the Money",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWRmM2U3ZjMtZTFkYi00MWM3LWJjOTctMjcxOGIwYmYzZmUzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "startYear": 2025,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Fantasy",
+        "Mystery"
+      ],
+      "rating": {
+        "aggregateRating": 8.3,
+        "voteCount": 3474
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0199214",
+      "type": "tvSeries",
+      "primaryTitle": "Faerie Tale Theatre",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDVhMjg1ODktZDM1Yy00ZmYwLWI2OGQtM2E0NGEwMjRjN2UyXkEyXkFqcGc@._V1_.jpg",
+        "width": 680,
+        "height": 1000
+      },
+      "startYear": 1982,
+      "endYear": 1987,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "rating": {
+        "aggregateRating": 8.3,
+        "voteCount": 2785
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 1
+  },
+  {
+    "title": {
+      "id": "tt0400231",
+      "type": "tvMiniSeries",
+      "primaryTitle": "The World of Stainboy",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU1MjYwNTA2NF5BMl5BanBnXkFtZTcwMzU3Mjg5OA@@._V1_.jpg",
+        "width": 300,
+        "height": 400
+      },
+      "startYear": 2000,
+      "endYear": 2000,
+      "genres": [
+        "Animation",
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 6.9,
+        "voteCount": 2588
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 6
+  },
+  {
+    "title": {
+      "id": "tt0249567",
+      "type": "tvMovie",
+      "primaryTitle": "Hansel and Gretel",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmM2Y2Q3MTYtZDRjMC00NDc2LThlMmEtMWIzNDQ3NzdmYTUyXkEyXkFqcGc@._V1_.jpg",
+        "width": 510,
+        "height": 396
+      },
+      "startYear": 1983,
+      "genres": [
+        "Fantasy"
+      ],
+      "rating": {
+        "aggregateRating": 6.1,
+        "voteCount": 1017
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0294940",
+      "type": "short",
+      "primaryTitle": "Stalk of the Celery Monster",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODU3Y2M3NTEtYzU3Ni00N2FmLTg2NTMtMWU3NDU2NjRjOWQ3XkEyXkFqcGc@._V1_.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "startYear": 1979,
+      "genres": [
+        "Animation",
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 5.7,
+        "voteCount": 1009
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5361610",
+      "type": "musicVideo",
+      "primaryTitle": "The Killers: Here with Me",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmQ5N2UyM2EtMWJhNy00ZTI4LWIwOTktNjA1NWNhMjdiYzE1XkEyXkFqcGc@._V1_.jpg",
+        "width": 3240,
+        "height": 4800
+      },
+      "startYear": 2012,
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 667
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0898907",
+      "type": "short",
+      "primaryTitle": "Doctor of Doom",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGIzMTkyMjAtNTRlOS00ZWFiLWE5OTgtZjQwM2EwODkxYTdjXkEyXkFqcGc@._V1_.jpg",
+        "width": 1366,
+        "height": 768
+      },
+      "startYear": 1979,
+      "genres": [
+        "Short",
+        "Comedy",
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 4.5,
+        "voteCount": 502
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt6378882",
+      "type": "musicVideo",
+      "primaryTitle": "The Killers: Bones",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDIzNmFiMTEtZTc4NS00NWM3LWExNmYtOTZjYzQxOGZkOTU5XkEyXkFqcGc@._V1_.jpg",
+        "width": 1035,
+        "height": 776
+      },
+      "startYear": 2006,
+      "genres": [
+        "Fantasy",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7,
+        "voteCount": 450
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0125603",
+      "type": "tvEpisode",
+      "primaryTitle": "Aladdin and His Wonderful Lamp",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc5MDM0OTExMF5BMl5BanBnXkFtZTcwMzI5MDcyMQ@@._V1_.jpg",
+        "width": 354,
+        "height": 500
+      },
+      "startYear": 1986,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "rating": {
+        "aggregateRating": 6.5,
+        "voteCount": 426
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0367989",
+      "type": "short",
+      "primaryTitle": "Luau",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmI4NDczYzEtMDEyMC00ODMyLTkwMmMtODRkN2Q0OTA4OWNhXkEyXkFqcGc@._V1_.jpg",
+        "width": 731,
+        "height": 505
+      },
+      "startYear": 1982,
+      "genres": [
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 4.4,
+        "voteCount": 422
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0309721",
+      "type": "short",
+      "primaryTitle": "The Island of Doctor Agor",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTYxNmIyZjQtMGZmYy00NTRkLTlhY2EtZjhhNDA0MTFmMDZlXkEyXkFqcGc@._V1_.jpg",
+        "width": 400,
+        "height": 400
+      },
+      "startYear": 1971,
+      "genres": [
+        "Animation",
+        "Short",
+        "Horror"
+      ],
+      "rating": {
+        "aggregateRating": 6.8,
+        "voteCount": 287
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt2033231",
+      "type": "video",
+      "primaryTitle": "A Visit with Vincent",
+      "originalTitle": "Conversations with Vincent",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGI1MDRhZTMtOTA4Ny00ZDczLWI0YmMtNDJhOWYxNGIxZjJkXkEyXkFqcGc@._V1_.jpg",
+        "width": 500,
+        "height": 667
+      },
+      "startYear": 1994,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": {
+        "aggregateRating": 8.3,
+        "voteCount": 206
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0913955",
+      "type": "video",
+      "primaryTitle": "Cinema16: American Short Films",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE1NzgzMzU5N15BMl5BanBnXkFtZTcwMTk3NjMxMw@@._V1_.jpg",
+        "width": 639,
+        "height": 898
+      },
+      "startYear": 2006,
+      "genres": [
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 181
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5186114",
+      "type": "short",
+      "primaryTitle": "King and Octopus Animation",
+      "originalTitle": "King and Octopus",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODJjZjljYTItZmM4NS00NzdiLTkyZGMtMTM2NjYxMGFmYWI1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1280,
+        "height": 720
+      },
+      "startYear": 1979,
+      "genres": [
+        "Animation",
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 4.7,
+        "voteCount": 142
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5186096",
+      "type": "short",
+      "primaryTitle": "Houdini: The Untold Story",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2JlZDIxZjMtMDZhYS00Y2QxLThiMWUtOTJjMGI4ZmVmMDg3XkEyXkFqcGc@._V1_.jpg",
+        "width": 739,
+        "height": 489
+      },
+      "startYear": 1971,
+      "genres": [
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 4.6,
+        "voteCount": 137
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5186094",
+      "type": "short",
+      "primaryTitle": "Prehistoric Caveman",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODA4MzI0M2QtZmQ5ZC00YTcxLThmMTgtNmVlMDkyMGU2YzBkXkEyXkFqcGc@._V1_.jpg",
+        "width": 1626,
+        "height": 1089
+      },
+      "startYear": 1971,
+      "genres": [
+        "Animation",
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 3.5,
+        "voteCount": 117
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5186100",
+      "type": "short",
+      "primaryTitle": "Tim's Dreams",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTdhZjhhMjMtNmU4OC00ZTc5LThhMzEtMDYxZmE0MGQxZDEzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1581,
+        "height": 1164
+      },
+      "startYear": 1972,
+      "genres": [
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 5.6,
+        "voteCount": 51
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5186106",
+      "type": "short",
+      "primaryTitle": "1997",
+      "startYear": 1974,
+      "genres": [
+        "Animation",
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 5.3,
+        "voteCount": 30
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt31122436",
+      "type": "movie",
+      "primaryTitle": "Attack of the Fifty Foot Woman",
+      "genres": [
+        "Sci-Fi"
+      ],
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  }
+]

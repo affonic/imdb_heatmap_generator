@@ -1,0 +1,726 @@
+[
+  {
+    "title": {
+      "id": "tt0110912",
+      "type": "movie",
+      "primaryTitle": "Pulp Fiction",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_.jpg",
+        "width": 1055,
+        "height": 1536
+      },
+      "startYear": 1994,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 8.8,
+        "voteCount": 2368906
+      },
+      "metacritic": {
+        "score": 95,
+        "reviewCount": 27
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1853728",
+      "type": "movie",
+      "primaryTitle": "Django Unchained",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      },
+      "startYear": 2012,
+      "genres": [
+        "Western"
+      ],
+      "rating": {
+        "aggregateRating": 8.5,
+        "voteCount": 1821889
+      },
+      "metacritic": {
+        "score": 81,
+        "reviewCount": 42
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0361748",
+      "type": "movie",
+      "primaryTitle": "Inglourious Basterds",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      },
+      "startYear": 2009,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "rating": {
+        "aggregateRating": 8.4,
+        "voteCount": 1716983
+      },
+      "metacritic": {
+        "score": 69,
+        "reviewCount": 36
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "DE",
+          "name": "Germany"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0266697",
+      "type": "movie",
+      "primaryTitle": "Kill Bill: Vol. 1",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmMyYzJlZmYtY2I3NC00NjAyLTkyZWItZjdjZDI1YTYyYTEwXkEyXkFqcGc@._V1_.jpg",
+        "width": 554,
+        "height": 831
+      },
+      "startYear": 2003,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.2,
+        "voteCount": 1267784
+      },
+      "metacritic": {
+        "score": 69,
+        "reviewCount": 43
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0105236",
+      "type": "movie",
+      "primaryTitle": "Reservoir Dogs",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_.jpg",
+        "width": 667,
+        "height": 994
+      },
+      "startYear": 1992,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.3,
+        "voteCount": 1146009
+      },
+      "metacritic": {
+        "score": 81,
+        "reviewCount": 24
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt7131622",
+      "type": "movie",
+      "primaryTitle": "Once Upon a Time... in Hollywood",
+      "originalTitle": "Once Upon a Time in... Hollywood",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzMzNmViNjYtN2ViNi00NDM3LWFlMmItNDYyMGIzY2EzZjE2XkEyXkFqcGc@._V1_.jpg",
+        "width": 6072,
+        "height": 9000
+      },
+      "startYear": 2019,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 927938
+      },
+      "metacritic": {
+        "score": 84,
+        "reviewCount": 62
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "CN",
+          "name": "China"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0378194",
+      "type": "movie",
+      "primaryTitle": "Kill Bill: Vol. 2",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2FiNzhiZTctNzU1Mi00NDkwLWExNDMtZTg0MjYyNzhkNWNkXkEyXkFqcGc@._V1_.jpg",
+        "width": 580,
+        "height": 859
+      },
+      "startYear": 2004,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8,
+        "voteCount": 847099
+      },
+      "metacritic": {
+        "score": 83,
+        "reviewCount": 42
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0401792",
+      "type": "movie",
+      "primaryTitle": "Sin City",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWE2YmYyYzQtNGMwMi00Yzk0LTk3ZTYtYTcxNmFjMDE1MGExXkEyXkFqcGc@._V1_.jpg",
+        "width": 1020,
+        "height": 1436
+      },
+      "startYear": 2005,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8,
+        "voteCount": 812764
+      },
+      "metacritic": {
+        "score": 74,
+        "reviewCount": 40
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt3460252",
+      "type": "movie",
+      "primaryTitle": "The Hateful Eight",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      },
+      "startYear": 2015,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller",
+        "Western"
+      ],
+      "rating": {
+        "aggregateRating": 7.8,
+        "voteCount": 703009
+      },
+      "metacritic": {
+        "score": 68,
+        "reviewCount": 51
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0119396",
+      "type": "movie",
+      "primaryTitle": "Jackie Brown",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmUxZjY3MDktNGI5NS00MTQ5LWE0YWItZWQzNmZhNjhkZDYyXkEyXkFqcGc@._V1_.jpg",
+        "width": 1200,
+        "height": 1755
+      },
+      "startYear": 1997,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 394741
+      },
+      "metacritic": {
+        "score": 62,
+        "reviewCount": 23
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1028528",
+      "type": "movie",
+      "primaryTitle": "Death Proof",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjRlOTM0OTktZTBjNi00ZjZiLWJkMzktMmU2ZDBkMTQxN2FmXkEyXkFqcGc@._V1_.jpg",
+        "width": 1169,
+        "height": 1654
+      },
+      "startYear": 2007,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7,
+        "voteCount": 327715
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0462322",
+      "type": "movie",
+      "primaryTitle": "Grindhouse",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MzExNzc3MV5BMl5BanBnXkFtZTcwODAxMzM0MQ@@._V1_.jpg",
+        "width": 496,
+        "height": 755
+      },
+      "startYear": 2007,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 195097
+      },
+      "metacritic": {
+        "score": 77,
+        "reviewCount": 36
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "CA",
+          "name": "Canada"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0113101",
+      "type": "movie",
+      "primaryTitle": "Four Rooms",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmNlMjE5YTEtZTU1My00MDc1LTgwNzctNTZlYmJmNTM3ZjYzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1240,
+        "height": 1753
+      },
+      "startYear": 1995,
+      "genres": [
+        "Comedy"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 115091
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0247082",
+      "type": "tvSeries",
+      "primaryTitle": "CSI: Crime Scene Investigation",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWRjMjU2NmUtMmQ0MS00NDMyLTg4NGItNjg1OWY2OGI4ZDM5XkEyXkFqcGc@._V1_.jpg",
+        "width": 2660,
+        "height": 3600
+      },
+      "startYear": 2000,
+      "endYear": 2015,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.7,
+        "voteCount": 92690
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "CA",
+          "name": "Canada"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 2
+  },
+  {
+    "title": {
+      "id": "tt0108757",
+      "type": "tvSeries",
+      "primaryTitle": "ER",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzM5NjQ4M2QtNWQyMy00OWUxLWIyZjktNmY2ZjMyZjA2NWE0XkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1426
+      },
+      "startYear": 1994,
+      "endYear": 2009,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.9,
+        "voteCount": 74320
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 1
+  },
+  {
+    "title": {
+      "id": "tt6019206",
+      "type": "movie",
+      "primaryTitle": "Kill Bill: The Whole Bloody Affair",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDQ5N2U5Y2QtMzA4Ny00MTBiLTg4NzUtNTFjMjNkMDg1MGI4XkEyXkFqcGc@._V1_.jpg",
+        "width": 800,
+        "height": 1200
+      },
+      "startYear": 2006,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.7,
+        "voteCount": 19490
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0320037",
+      "type": "tvSeries",
+      "primaryTitle": "Jimmy Kimmel Live!",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2M1OGJiOTctNDg2Yi00M2I1LThjMTktY2NhN2VjZWU2NDllXkEyXkFqcGc@._V1_.jpg",
+        "width": 502,
+        "height": 755
+      },
+      "startYear": 2003,
+      "genres": [
+        "Comedy",
+        "Music",
+        "Talk-Show"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 18388
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 1
+  },
+  {
+    "title": {
+      "id": "tt30425533",
+      "type": "tvSeries",
+      "primaryTitle": "The Hateful Eight: Extended Version",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODQ5OTA0ZDYtNjlmMy00ZWUyLTk4MDgtMWVmZTU2ODRlN2ViXkEyXkFqcGc@._V1_.jpg",
+        "width": 1688,
+        "height": 2500
+      },
+      "startYear": 2019,
+      "endYear": 2019,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller",
+        "Western"
+      ],
+      "rating": {
+        "aggregateRating": 8.5,
+        "voteCount": 5882
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 4
+  },
+  {
+    "title": {
+      "id": "tt0359715",
+      "type": "movie",
+      "primaryTitle": "My Best Friend's Birthday",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWRmZDc5NDctZmM5Zi00Mjg2LWJhODEtZWE4NWE1NzY3MzY5XkEyXkFqcGc@._V1_.jpg",
+        "width": 1280,
+        "height": 1886
+      },
+      "startYear": 1987,
+      "genres": [
+        "Comedy"
+      ],
+      "rating": {
+        "aggregateRating": 5.5,
+        "voteCount": 5008
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0534695",
+      "type": "tvEpisode",
+      "primaryTitle": "Grave Danger (1)",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ5MDIwNjIzOF5BMl5BanBnXkFtZTgwOTUwNzEzMjE@._V1_.jpg",
+        "width": 500,
+        "height": 375
+      },
+      "startYear": 2005,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.5,
+        "voteCount": 3212
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0534696",
+      "type": "tvEpisode",
+      "primaryTitle": "Grave Danger (2)",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTAyNzcyNDgtMjBjZC00NmVjLTk5NmQtZGQ1NzZmMDMxYWQ1XkEyXkFqcGc@._V1_.jpg",
+        "width": 672,
+        "height": 384
+      },
+      "startYear": 2005,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 8.5,
+        "voteCount": 2874
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt6493238",
+      "type": "video",
+      "primaryTitle": "Reservoir Dogs: Sundance Institute 1991 June Film Lab",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTJlYzNhMDctZTc1MC00OWE4LWExZTItZDIzZTlhZDM1YTYwXkEyXkFqcGc@._V1_.jpg",
+        "width": 680,
+        "height": 1000
+      },
+      "startYear": 1991,
+      "genres": [
+        "Short",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 1150
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0568048",
+      "type": "tvEpisode",
+      "primaryTitle": "Motherhood",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY0Mzc5NTI3MV5BMl5BanBnXkFtZTgwNDEwODQ2MjE@._V1_.jpg",
+        "width": 500,
+        "height": 375
+      },
+      "startYear": 1995,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.8,
+        "voteCount": 851
+      }
+    },
+    "category": "director"
+  }
+]

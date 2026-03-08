@@ -1,0 +1,1207 @@
+[
+  {
+    "title": {
+      "id": "tt0469494",
+      "type": "movie",
+      "primaryTitle": "There Will Be Blood",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_.jpg",
+        "width": 510,
+        "height": 755
+      },
+      "startYear": 2007,
+      "genres": [
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 8.2,
+        "voteCount": 682571
+      },
+      "metacritic": {
+        "score": 93,
+        "reviewCount": 42
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0175880",
+      "type": "movie",
+      "primaryTitle": "Magnolia",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWY0Zjk1YTMtMGFlYi00OTFmLWEyOTAtNmRkYjE0ZDJiZWMwXkEyXkFqcGc@._V1_.jpg",
+        "width": 1752,
+        "height": 2771
+      },
+      "startYear": 1999,
+      "genres": [
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 8,
+        "voteCount": 341271
+      },
+      "metacritic": {
+        "score": 78,
+        "reviewCount": 34
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0118749",
+      "type": "movie",
+      "primaryTitle": "Boogie Nights",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTFmZmE4OTMtNDYxNi00MmZmLThlYjktMmExMzMwY2YzOTFiXkEyXkFqcGc@._V1_.jpg",
+        "width": 600,
+        "height": 891
+      },
+      "startYear": 1997,
+      "genres": [
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7.9,
+        "voteCount": 294821
+      },
+      "metacritic": {
+        "score": 86,
+        "reviewCount": 28
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1560747",
+      "type": "movie",
+      "primaryTitle": "The Master",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2NjQ5MzMwMF5BMl5BanBnXkFtZTcwMjczNTAzOA@@._V1_.jpg",
+        "width": 630,
+        "height": 933
+      },
+      "startYear": 2012,
+      "genres": [
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 194917
+      },
+      "metacritic": {
+        "score": 86,
+        "reviewCount": 43
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0272338",
+      "type": "movie",
+      "primaryTitle": "Punch-Drunk Love",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTYyMTQ2MDAtMzYzYS00YjZiLWJiNDUtZjEwNzM4YzE1ZDhhXkEyXkFqcGc@._V1_.jpg",
+        "width": 620,
+        "height": 916
+      },
+      "startYear": 2002,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 189316
+      },
+      "metacritic": {
+        "score": 78,
+        "reviewCount": 37
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5776858",
+      "type": "movie",
+      "primaryTitle": "Phantom Thread",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTMzNWNhNDctMTM2MC00N2EwLThjYTEtMmQ2ZDAyNDVlNzgyXkEyXkFqcGc@._V1_.jpg",
+        "width": 1962,
+        "height": 2898
+      },
+      "startYear": 2017,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 154007
+      },
+      "metacritic": {
+        "score": 90,
+        "reviewCount": 51
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "CN",
+          "name": "China"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt11271038",
+      "type": "movie",
+      "primaryTitle": "Licorice Pizza",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjU5MjRiOWMtNmI0OC00ZTU1LThlNGItYTViNzU2YzAzMWMxXkEyXkFqcGc@._V1_.jpg",
+        "width": 831,
+        "height": 1200
+      },
+      "startYear": 2021,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 151519
+      },
+      "metacritic": {
+        "score": 90,
+        "reviewCount": 55
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        },
+        {
+          "code": "CA",
+          "name": "Canada"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt1791528",
+      "type": "movie",
+      "primaryTitle": "Inherent Vice",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmU3YjYzZWEtZDEzYy00YjA4LWI0YTUtY2RiMzVlYzZkZjg3XkEyXkFqcGc@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      },
+      "startYear": 2014,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 115645
+      },
+      "metacritic": {
+        "score": 81,
+        "reviewCount": 43
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0119256",
+      "type": "movie",
+      "primaryTitle": "Hard Eight",
+      "originalTitle": "Sydney",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWQyNjBiZWMtYzFjMS00ZDEzLWEyNTYtZGFiZDE4Mjk4M2E2XkEyXkFqcGc@._V1_.jpg",
+        "width": 1961,
+        "height": 2902
+      },
+      "startYear": 1996,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 57721
+      },
+      "metacritic": {
+        "score": 78,
+        "reviewCount": 14
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0072562",
+      "type": "tvSeries",
+      "primaryTitle": "Saturday Night Live",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGI0ODc4MjAtZDA4Mi00ZGUyLTg2NmItYzhmZTJiYjM5Mjc1XkEyXkFqcGc@._V1_.jpg",
+        "width": 675,
+        "height": 1000
+      },
+      "startYear": 1975,
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 8,
+        "voteCount": 56251
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director",
+    "episodeCount": 1
+  },
+  {
+    "title": {
+      "id": "tt10516984",
+      "type": "short",
+      "primaryTitle": "Anima",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTZmZmMzZDctZjk2Ny00YmMzLThhZWMtMTFmYTgzZWUxNWNlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1500,
+        "height": 2222
+      },
+      "startYear": 2019,
+      "genres": [
+        "Short",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 14191
+      },
+      "originCountries": [
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt4995590",
+      "type": "movie",
+      "primaryTitle": "Junun",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTc2Njc1NTAxNl5BMl5BanBnXkFtZTgwODYyODM1NzE@._V1_.jpg",
+        "width": 375,
+        "height": 500
+      },
+      "startYear": 2015,
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 2307
+      },
+      "metacritic": {
+        "score": 78,
+        "reviewCount": 6
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0138363",
+      "type": "short",
+      "primaryTitle": "Cigarettes & Coffee",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDIxZWE5YTAtOTI5Zi00NWU4LTlmYWUtNDVkMjUwZTRmMWQzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1500
+      },
+      "startYear": 1993,
+      "genres": [
+        "Drama",
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 7,
+        "voteCount": 2198
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0378338",
+      "type": "video",
+      "primaryTitle": "Mattress Man Commercial",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODU1M2FhNmMtYjQwYy00MzZlLWJjODctMGFmNjBlMDM5MjkzXkEyXkFqcGc@._V1_.jpg",
+        "width": 2163,
+        "height": 2880
+      },
+      "startYear": 2003,
+      "genres": [
+        "Short",
+        "Comedy"
+      ],
+      "rating": {
+        "aggregateRating": 7.3,
+        "voteCount": 1823
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0365082",
+      "type": "video",
+      "primaryTitle": "Couch",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWRjMWUyNGItNWI1YS00NjNiLTlhMzgtMDYxZDhlMzJkOTAxXkEyXkFqcGc@._V1_.jpg",
+        "width": 833,
+        "height": 1242
+      },
+      "startYear": 2003,
+      "genres": [
+        "Short",
+        "Comedy"
+      ],
+      "rating": {
+        "aggregateRating": 4.5,
+        "voteCount": 1510
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5699478",
+      "type": "musicVideo",
+      "primaryTitle": "Radiohead: Daydreaming",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzZjMTM0MjYtYjg3MS00OTFiLTllNDQtMDBiY2U2NmQzOTI0XkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      "startYear": 2016,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 8.4,
+        "voteCount": 1325
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0138403",
+      "type": "short",
+      "primaryTitle": "The Dirk Diggler Story",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDExZTg0N2UtZDExOC00YmQwLWEyY2UtMGEyOTE1MDgxZTc4XkEyXkFqcGc@._V1_.jpg",
+        "width": 666,
+        "height": 954
+      },
+      "startYear": 1988,
+      "genres": [
+        "Short",
+        "Biography",
+        "Drama"
+      ],
+      "rating": {
+        "aggregateRating": 5.9,
+        "voteCount": 1259
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5094696",
+      "type": "musicVideo",
+      "primaryTitle": "Aimee Mann: Save Me",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmE0MTRkMDEtMzFlMy00YTI4LTgxZGYtYjBiMDUyNjg3ZGJhXkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      "startYear": 1999,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 517
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt7359992",
+      "type": "video",
+      "primaryTitle": "Punch-Drunk Love: 12 Scopitones",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODU1M2FhNmMtYjQwYy00MzZlLWJjODctMGFmNjBlMDM5MjkzXkEyXkFqcGc@._V1_.jpg",
+        "width": 2163,
+        "height": 2880
+      },
+      "startYear": 2003,
+      "genres": [
+        "Short",
+        "Romance"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 496
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt6073548",
+      "type": "musicVideo",
+      "primaryTitle": "Radiohead: Present Tense, Jonny, Thom & a CR78",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWI1YTQzZWItZjQyYi00MmQ4LTkwMjgtZjc3YjNkOWY1YTIzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      "startYear": 2016,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 471
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt6793564",
+      "type": "musicVideo",
+      "primaryTitle": "Radiohead: The Numbers",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWI1YTQzZWItZjQyYi00MmQ4LTkwMjgtZjc3YjNkOWY1YTIzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      "startYear": 2016,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 433
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5094378",
+      "type": "musicVideo",
+      "primaryTitle": "Fiona Apple: Across the Universe",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjE0MDVlMzQtMmE0ZS00NGVjLWE1YzMtNGY5ZmIwNmRhMjFlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      "startYear": 1998,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.9,
+        "voteCount": 419
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0331625",
+      "type": "tvShort",
+      "primaryTitle": "SNL Fanatic",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWRmMDU3OWItZGY1NS00ZTE3LTkxYzMtNjRlNWZlZjM0YWYwXkEyXkFqcGc@._V1_.jpg",
+        "width": 1562,
+        "height": 1170
+      },
+      "startYear": 2000,
+      "genres": [
+        "Comedy",
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 5.2,
+        "voteCount": 365
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5094720",
+      "type": "musicVideo",
+      "primaryTitle": "Fiona Apple: Hot Knife",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWIzMzMwZDAtNjYzMi00M2M1LWIzMzgtZTg5MTZkYjljN2E3XkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      "startYear": 2013,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.5,
+        "voteCount": 338
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5081994",
+      "type": "musicVideo",
+      "primaryTitle": "Joanna Newsom: Sapokanikan",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjMyZjczYjEtOTUxZi00MTk3LTg4ODgtNTBlMTc0N2I1Y2M1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      "startYear": 2015,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 6.9,
+        "voteCount": 265
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5094674",
+      "type": "musicVideo",
+      "primaryTitle": "Fiona Apple: Paper Bag",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDNhYzExMWItZmZkMC00YTJiLTljMjktYmE2Y2FiOTM0ZDE1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      "startYear": 2000,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 263
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt6837160",
+      "type": "musicVideo",
+      "primaryTitle": "Haim: Right Now",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2Y5MTM3MTEtMTg5NS00Mjc3LTlkYWQtOWZlM2MyYWE5OTZiXkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 3000
+      },
+      "startYear": 2017,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 255
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt8150920",
+      "type": "musicVideo",
+      "primaryTitle": "Haim: Valentine",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2Y5MTM3MTEtMTg5NS00Mjc3LTlkYWQtOWZlM2MyYWE5OTZiXkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 3000
+      },
+      "startYear": 2017,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.2,
+        "voteCount": 254
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5181568",
+      "type": "musicVideo",
+      "primaryTitle": "Joanna Newsom: Divers",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjMyZjczYjEtOTUxZi00MTk3LTg4ODgtNTBlMTc0N2I1Y2M1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      "startYear": 2015,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 251
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5094408",
+      "type": "musicVideo",
+      "primaryTitle": "Fiona Apple: Fast as You Can",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmFmOTM4NTgtOTNhZS00NGMwLWI2MTQtZDNmYWIzZmI2MDc0XkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      "startYear": 1999,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 231
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5094676",
+      "type": "musicVideo",
+      "primaryTitle": "Michael Penn: Try",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzQ5ZjUwMDMtNWE0ZS00MzBlLTk5NGYtODNmZjAzYmE2Mzk1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      "startYear": 1997,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 228
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0486767",
+      "type": "video",
+      "primaryTitle": "Saturday Night Live: The Best of Molly Shannon",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTUzNDU3MzI4M15BMl5BanBnXkFtZTcwNDg2NjQyMQ@@._V1_.jpg",
+        "width": 328,
+        "height": 475
+      },
+      "startYear": 2001,
+      "genres": [
+        "Comedy"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 220
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt7707022",
+      "type": "musicVideo",
+      "primaryTitle": "Haim: Little of Your Love",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjBlNWU3ZTYtYmIyYi00YmQwLTlkMjMtNDQ4NWQ0YWI3ZTVkXkEyXkFqcGc@._V1_.jpg",
+        "width": 1024,
+        "height": 1024
+      },
+      "startYear": 2017,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 6.9,
+        "voteCount": 199
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt10740192",
+      "type": "musicVideo",
+      "primaryTitle": "Haim: Summer Girl",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWI3MDI4MWEtZThhMC00ODBmLWJmYzQtYzYxYjc2ZWMwM2FmXkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "startYear": 2019,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 197
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt5094514",
+      "type": "musicVideo",
+      "primaryTitle": "Fiona Apple: Limp",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmY1YTkxYjUtNzVmNi00NDczLWE0ZGYtYjUxN2JjZDNhZjgxXkEyXkFqcGc@._V1_.jpg",
+        "width": 600,
+        "height": 601
+      },
+      "startYear": 2000,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 6.4,
+        "voteCount": 184
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt11217908",
+      "type": "musicVideo",
+      "primaryTitle": "Haim: Now I'm in It",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDJhZmM2MjktZjZkMS00ZDczLTliZmYtOGM3MzdjOTUwN2YwXkEyXkFqcGc@._V1_.jpg",
+        "width": 640,
+        "height": 640
+      },
+      "startYear": 2019,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.4,
+        "voteCount": 155
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt8150928",
+      "type": "musicVideo",
+      "primaryTitle": "Haim: Night So Long - Live at the Greek",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2Y5MTM3MTEtMTg5NS00Mjc3LTlkYWQtOWZlM2MyYWE5OTZiXkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 3000
+      },
+      "startYear": 2018,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 131
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt11906292",
+      "type": "musicVideo",
+      "primaryTitle": "Haim: The Steps",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWI3MDI4MWEtZThhMC00ODBmLWJmYzQtYzYxYjc2ZWMwM2FmXkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "startYear": 2020,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 128
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt13236304",
+      "type": "musicVideo",
+      "primaryTitle": "Haim: Man from the Magazine",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWI3MDI4MWEtZThhMC00ODBmLWJmYzQtYzYxYjc2ZWMwM2FmXkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "startYear": 2020,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 124
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt18360798",
+      "type": "musicVideo",
+      "primaryTitle": "Haim: Lost Track",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmYyYThjNDItNDRiNy00NmRlLWIxNGYtNTZkYjk1ZWVkYjE3XkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1000
+      },
+      "startYear": 2022,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 120
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt29958259",
+      "type": "musicVideo",
+      "primaryTitle": "The Smile: Wall of Eyes",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTQwNDBmNjEtY2E4OS00YmI3LWIzZGItOTk1NzA3MTg1OThhXkEyXkFqcGc@._V1_.jpg",
+        "width": 1080,
+        "height": 1350
+      },
+      "startYear": 2023,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.6,
+        "voteCount": 106
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt0255171",
+      "type": "video",
+      "primaryTitle": "Flagpole Special",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2ZkZmRjYjYtMGZkZi00ZjU3LWJkMDMtMzlmYmIzNDUyMDUwXkEyXkFqcGc@._V1_.jpg",
+        "width": 1131,
+        "height": 1707
+      },
+      "startYear": 1998,
+      "genres": [
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 6.2,
+        "voteCount": 98
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt7891984",
+      "type": "short",
+      "primaryTitle": "Paul Thomas Anderson Production Assistant 1992",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGUwOWE3ZjAtMDdiMy00MGQ4LTkwODctOGE5NWRhYzlhMDgyXkEyXkFqcGc@._V1_.jpg",
+        "width": 1942,
+        "height": 1320
+      },
+      "startYear": 2012,
+      "genres": [
+        "Documentary",
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 5.3,
+        "voteCount": 94
+      },
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt6793526",
+      "type": "musicVideo",
+      "primaryTitle": "Jon Brion: Here We Go",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODYwNTUwMDAtZDYzZC00MDFlLTk3MjgtYTRjMTlkMmFhYmY3XkEyXkFqcGc@._V1_.jpg",
+        "width": 2294,
+        "height": 2016
+      },
+      "startYear": 2002,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 6.7,
+        "voteCount": 92
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt31068813",
+      "type": "musicVideo",
+      "primaryTitle": "The Smile: Friend of a Friend",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWVjYjhlODEtYzRhOC00NTVkLWFlYWMtYjBlZDA0MjY4M2E3XkEyXkFqcGc@._V1_.jpg",
+        "width": 763,
+        "height": 1079
+      },
+      "startYear": 2024,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 74
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt15761196",
+      "type": "musicVideo",
+      "primaryTitle": "Haim: Hallelujah",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjc1N2NjOGItMzVmMy00NmRlLWFkZmItMGU3ZjE3ZTlmNWQ1XkEyXkFqcGc@._V1_.jpg",
+        "width": 640,
+        "height": 640
+      },
+      "startYear": 2019,
+      "genres": [
+        "Music"
+      ],
+      "rating": {
+        "aggregateRating": 6.6,
+        "voteCount": 72
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt32743329",
+      "type": "video",
+      "primaryTitle": "The Jon Brion Show's Pilot",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGI4ODY0NjItYmZlYy00YjAwLWI4NGUtYjJmMmU3YzBlNGQ0XkEyXkFqcGc@._V1_.jpg",
+        "width": 500,
+        "height": 500
+      },
+      "startYear": 2000,
+      "genres": [
+        "Short"
+      ],
+      "rating": {
+        "aggregateRating": 7.1,
+        "voteCount": 20
+      }
+    },
+    "category": "director"
+  },
+  {
+    "title": {
+      "id": "tt30144839",
+      "type": "movie",
+      "primaryTitle": "One Battle After Another",
+      "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzA5ZTMyMWYtMWEwZS00MTU4LTgwMjktYTE5OTU1YzFjMGRiXkEyXkFqcGc@._V1_.jpg",
+        "width": 1638,
+        "height": 2048
+      },
+      "startYear": 2025,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "originCountries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ]
+    },
+    "category": "director"
+  }
+]
