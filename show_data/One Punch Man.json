@@ -1,0 +1,1376 @@
+[
+  {
+    "id": "tt4569062",
+    "title": "The Strongest Man",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmY4OTU3MGMtYzBhZS00ODQ5LWE1MWYtMDMwYzViZmEzNjYyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1500,
+    "plot": "Saitama is a guy who's a hero for fun. After saving a child from certain death, he decided to become a hero, training hard for three years.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 7808
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 10,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt5109276",
+    "title": "The Lone Cyborg",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTViNGQzZWUtMzM4NS00ZTE0LWE0MDMtNjQ0YjNjNWQzZTA2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1440,
+    "plot": "A monster is moving toward City Z--one that has been created by the mysterious organization known as The House of Evolution.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 7068
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 10,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt5109278",
+    "title": "The Obsessive Scientist",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDQwOWVlMjQtNjdmMC00YTA2LWFkZjUtMjUxZTI5YTNkZmNkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1440,
+    "plot": "Saitama and Genos glean information about the House of Evolution and its founder, Dr. Genus.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 7039
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 10,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt5152430",
+    "title": "The Modern Ninja",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTJmZGQ5M2YtN2U1ZC00N2Y2LTlkYzMtZDJmNmYxMmJjNGRiXkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1440,
+    "plot": "A group of Bald thugs use body armors to terrorize rich people. Sonic Speed, a hired ninja fights them. Unfortunately he meets with Saitama who is also a Bald.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 6631
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 10,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt5169658",
+    "title": "The Ultimate Mentor",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWZkMjQzYzgtYTlkMy00N2E1LTgxZmYtMTFhNDlkNDFjOWU1XkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1440,
+    "plot": "Determined to get a little recognition, Saitama decides to become a pro hero, but first, he must pass the Hero Association tests and become a full-fledged member.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 7030
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 11,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt5173426",
+    "title": "The Terrifying City",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjcyNzkwMTAtMWU1NC00MzQ3LThiZjgtZTZmN2FiZjRlZmM2XkEyXkFqcGc@._V1_.jpg",
+      "width": 3224,
+      "height": 1814
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1440,
+    "plot": "To remain on the \"Hero\" list Saitama has to show some activity in every week. Currently the City Z is defined as the 'ghost town'. Heroes are gathered together to find out whats going on.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 6445
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 11,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt5203540",
+    "title": "The Ultimate Disciple",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTgzYWZiOGYtNWU2ZS00MGM4LTllMjctMzg0MjAyZTZlMDRhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1440,
+    "plot": "A giant meteor threatens to destroy City Z. All S-Rank heroes are called to City Z to destroy the meteor before its collision.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 6596
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 11,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt5220908",
+    "title": "The Deep Sea King",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjM3MGQ0MWEtZjUzYi00YmVmLTk2ZmUtMGU4NmJmZjZkZjJlXkEyXkFqcGc@._V1_.jpg",
+      "width": 600,
+      "height": 335
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1440,
+    "plot": "Several Sea Folk appear and begin attacking citizens. They are easily defeated until The Deep Sea King appears and defeats many heroes including an S-Class.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 6652
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 11,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5236798",
+    "title": "Unyielding Justice",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzBhODhhN2MtNTM1Ni00YTZjLWIwMzUtNzM1YTA2ZDM5NDYwXkEyXkFqcGc@._V1_.jpg",
+      "width": 3224,
+      "height": 1814
+    },
+    "season": "1",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1440,
+    "plot": "The fight with the Deep Sea King concludes and Saitama and Genos reflect on it as well as Saitama's promotion to B-Class.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 7855
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 11,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt5252356",
+    "title": "Unparalleled Peril",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGM4OTZjOTYtZDdjMy00YjIwLWIxMzgtYWYyNWQ1YmQxODMyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1440,
+    "plot": "Saitama and all class S heroes are gathered together to be informed of an imminent extremely danger threat.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 6366
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 12,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt5257562",
+    "title": "The Dominator of the Universe",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWQ3NmQzYTAtYzA5My00MjJlLTk4NDctNDQ4MDYzZmQwMTQ1XkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    "season": "1",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1440,
+    "plot": "An alien conqueror lands in a spaceship to conquer the Earth during the S class heroes meeting.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 7378
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 12,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt5271822",
+    "title": "The Strongest Hero",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWU2MTEwMjgtNDg4Yy00M2M4LThmYWUtMmVlZjk0ZDc2ZThmXkEyXkFqcGc@._V1_.jpg",
+      "width": 3224,
+      "height": 1814
+    },
+    "season": "1",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1440,
+    "plot": "Saitama takes on the alien leader in epic battle as the S class heroes fight the alien warriors and destroy the spaceship.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 11872
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 12,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt9556748",
+    "title": "Return of the Hero",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2M1ZTBiNDktNDBmZi00NGMxLTg5ZTktNWIzN2M5NTU0OTI5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1380,
+    "plot": "Saitama and Genos are out shopping when they come across G4, a demonic robot on a mission to eliminate King. Meanwhile, Sitch attempts to recruit various assassins and villains.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 4412
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt10050328",
+    "title": "Human Monster",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTQ0MmUxMDYtMTlkMS00NzlmLThmZjUtYzA0NWQ2Yjc4N2VmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1380,
+    "plot": "Garou issues a declaration of war on the Hero Association through terrifying means, Hellish Blizzard gives Saitama an ultimatum, and Genos decides to eliminate his master's stalker, Speed-o'.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 4144
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt10050330",
+    "title": "The Hunt Begins",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmVlNzEzMjQtNDBmMS00NWYzLTlkNTMtMDg4MTRlNzAyZWY2XkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1380,
+    "plot": "Garou attacks the S-rank hero Tank top Master, his followers, and Mumen Rider. Garou continues his pursuit of attacking heroes. Saitama buys a wig to join a martial arts tournament after having a brief exchange with Garou.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 4587
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt10050332",
+    "title": "Metal Bat",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmY4MzVlYjMtN2QzYi00NzgwLWIwOTgtODRjYjhkYTZmOTUzXkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1380,
+    "plot": "Assigned to guard a VIP and his son, Metal Bat couldn't be less thrilled. But when the group is suddenly attacked all hell breaks loose. Meanwhile, Saitama has disguised himself as Charanko in order to enter the \"Super Fight\" martial arts tournament.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3985
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt10050334",
+    "title": "The Martial Arts Tournament",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2ZlNThlZjctODk0Ny00Mjc2LTk0MzgtYWY5YjQyYzgyNzU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1380,
+    "plot": "Metal bat fights Garo. A lot of monsters surface around multiple cities and it is difficult for all the heroes to fight them. Meanwhile, Saitama is at the tournament and Genos is in the audience.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 3938
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt10050336",
+    "title": "The Uprising of the Monsters",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGI5ZTQ1ODAtYmM4NC00MjY0LWJkYzUtMDRlNDQ3Yzc0YzE5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1380,
+    "plot": "Saitama continues facing opponents in the tournament. Genos receives a stress signal depicting that there are 5 monsters in City C and goes to kill them. Blizzard tries to fight a monster but she turns out be very strong.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 3766
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt10050338",
+    "title": "Class S Heroes",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2U3NjRjMzAtZTRjNy00YjliLWE0NzAtYWZmY2VlZDEyOTIyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1065,
+      "height": 599
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1380,
+    "plot": "As the Super Fight tournament heads for its grand finale, the Class S heroes battle to hold back the tide of monster incursions. Meanwhile, Atomic Samurai is setting in motion a plan of his own.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 4244
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt10050340",
+    "title": "The Resistance of the Strong",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2JkN2Q0ODQtYzA3OC00NjAwLTkyZWUtMDMyMDEwYTkzMTI5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1380,
+    "plot": "Goketsu, the first Super Fight Tournament champion, arrives in the stadium. Having now become a monster, he's aiming to force the Super Fight competitors to turn into monsters themselves. When several do, it's up to Suiryu to take them on alone.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 4104
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt10050342",
+    "title": "The Troubles of the Strongest",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjFmYzMwZTgtMzJmZi00YThlLThkNDAtOTlhNDkxMDA3ZmEzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1380,
+    "plot": "Saitama returns to the battle, but is starting to get through a gloomy state because of an obvious reason.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 3732
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt10050346",
+    "title": "The Encircling Net of Justice",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDBmOWJiYjctNGNhZi00MzkxLTlhMDgtNDhiNzg4YmU1OTU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1380,
+    "plot": "The Monster Association invited all of the S-Class heroes to their hideout in City Z. Meanwhile, Garo encounters a serious threat.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 3582
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt10050348",
+    "title": "Everyone's Dignity",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTdlYzBjZjMtNjE2OS00NWVlLWI4OTEtOWNjNGY1MzEwZTcwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1380,
+    "plot": "Garou continues his fight against the A Class heroes while some prominent S Class heroes make special entrances.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 4597
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt10050352",
+    "title": "Cleaning Up the Disciple's Mess",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDg4OWVhYjQtMzRjNi00ZTQxLWJiODctMjdlNmE5YzljNTQzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1380,
+    "plot": "As the fight continues between Garou and his former master, Bang, a prominent threat from the Monster Association reappears.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 4279
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt36061852",
+    "title": "Strategy Meeting",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWZhYmQ4YzctNTNhNC00MTUyLTlhYjktZjY2YzJjMzRmZWQzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 847
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "plot": "The heroes plan a rescue of a child kidnapped by monsters, while Garou awakens deep underground.",
+    "rating": {
+      "aggregateRating": 3.7,
+      "voteCount": 11491
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt38722677",
+    "title": "Monster Traits",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmEwM2IyNWYtZTAzOC00OGJkLTllYjEtOWY3ZmVkYWE5M2MxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1275,
+      "height": 709
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1440,
+    "plot": "On his way to hunt heroes, Garou dines and dashes at a restaurant, but is chased by Saitama.",
+    "rating": {
+      "aggregateRating": 3.5,
+      "voteCount": 10543
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt38740321",
+    "title": "Organism Limits",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjAzMWNmZWYtYjE5Mi00NWZiLWJhMDctZjk0NTVlZDgwMzg4XkEyXkFqcGc@._V1_.jpg",
+      "width": 574,
+      "height": 584
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "plot": "While Garou battles King the Ripper and Insect God, Hedro-Jellyfish emerges and captures Tareo. Dr. Kuseno delivers a present to Saitama.",
+    "rating": {
+      "aggregateRating": 3.5,
+      "voteCount": 10142
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt38740366",
+    "title": "Counterattack Signal",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjc3MmI2MTUtNzBkZC00YzkwLWExNTktMmIwNjY2NWJmMTg5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "plot": "The heroes prepare for battle without Silverfang and Genos. Garou attacks the Monster Association.",
+    "rating": {
+      "aggregateRating": 3.2,
+      "voteCount": 10000
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt38841988",
+    "title": "Monster King",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTY4YzFhZDItZDg5ZC00ZjVmLWJjZTQtYzU3YWE0OWUwMTJkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1114,
+      "height": 627
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "plot": "The S-class heroes hurry to save a kidnapped child while Garou wakes up in the Monster Association's hideout.",
+    "rating": {
+      "aggregateRating": 3.6,
+      "voteCount": 10457
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt38938878",
+    "title": "Motley Heroes",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2E4YWQyNTEtMmQxYi00ODJjLThiNjctZDkyMmIzMzA2ZTY2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "plot": "As the Class-S heroes discuss their plan to infiltrate the Monster Association, top-rated Class-A hero Amai Mask bursts in and starts an argument.",
+    "rating": {
+      "aggregateRating": 1.5,
+      "voteCount": 23090
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt38973451",
+    "title": "Counterstrike",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGM5NmI2ODEtM2RjMy00YTY1LWJiYzItNmQ1OTFkM2MyNTkyXkEyXkFqcGc@._V1_.jpg",
+      "width": 2400,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "plot": "Heroes arriving in City Z are met with a surprise ambush by countless monsters attacking from all sides. As A-class and lower heroes fight fiercely on the ground, Gyorogyoro watches from above, surveying the unfolding battle closely.",
+    "rating": {
+      "aggregateRating": 2.4,
+      "voteCount": 11733
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt38973452",
+    "title": "Ninja Tale",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODY0ZGU4ZjktNmU0ZS00ODhkLTkxNDgtNGRhZTMwYzg2YmM5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "plot": "The S-class heroes race to rescue a child hostage as Garou awakens in the Monster Association's lair.",
+    "rating": {
+      "aggregateRating": 6.4,
+      "voteCount": 10436
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt39103794",
+    "title": "Brave Child",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGRiYzY1NmMtOTAyYi00OTgxLTljYjMtNmIxMTk1OWZkYzYyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1657,
+      "height": 927
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "plot": "Child Emperor finds Waganma and faces Phoenix Man, using his ultimate weapon to protect him.",
+    "rating": {
+      "aggregateRating": 5.2,
+      "voteCount": 6054
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt39150617",
+    "title": "Immortal Bloodbath",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzMzNzUxNDAtYjA2My00YTVjLWIzNGEtMGU0ZWZjZDgzOTc0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1919,
+      "height": 1079
+    },
+    "season": "3",
+    "episodeNumber": 10,
+    "plot": "Zombieman faces Vampire, a descendant of a supernatural bloodline, in a brutal, deadly showdown.",
+    "rating": {
+      "aggregateRating": 2.2,
+      "voteCount": 6454
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt39227004",
+    "title": "Top Dragons",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTk5MmUzMDItMzU1OC00Mzg3LWI1ZDEtNGNjNjFkODg0MjFiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 11,
+    "plot": "Child Emperor rescues Waganma. The heroes take on threat-level Dragon monsters in a deadly fight.",
+    "rating": {
+      "aggregateRating": 4,
+      "voteCount": 3454
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt39283332",
+    "title": "Ultimate Lifeform",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTdkZDlhMjYtNjJhNS00YTdkLWI3OTMtNjE5M2Q3OWYyMmMzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 12,
+    "plot": "The S-class heroes race to rescue a child hostage as Garou awakens in the Monster Association’s lair.",
+    "rating": {
+      "aggregateRating": 5.2,
+      "voteCount": 2536
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt14365086",
+    "title": "Saitama and Those with Reasonable Abilities",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDU5ZmVjZmUtZWEwOS00NmIzLTljYWQtNjg5Mzk5OTQwYzAyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "unknown",
+    "episodeNumber": 13,
+    "runtimeSeconds": 720,
+    "plot": "Saitama meets a group of villains in a public restroom who mistake him for their ally, they introduce themselves to Saitama, but when he reveals he's a hero, attempt to defeat him.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 438
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt5254328",
+    "title": "One Punch Man - Wanpanman: Road to Hero",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2M4YWNjZjEtMWM4Yi00ZjEzLThhMWYtOTIxYmMxZDdkYjE3XkEyXkFqcGc@._V1_.jpg",
+      "width": 838,
+      "height": 1200
+    },
+    "season": "unknown",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1440,
+    "plot": "Before Saitama became a hero, his local tailor tells him that he must close up shop due to pressure from a local gang and Saitama decides to help him out.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2187
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 12,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt14365110",
+    "title": "Old Dudes and Fishing",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDQ4OWVjNjEtZDYxNS00M2Y2LTgxNjYtNWVhNzVhZjRjODNmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1990,
+      "height": 1122
+    },
+    "season": "unknown",
+    "episodeNumber": 14,
+    "runtimeSeconds": 720,
+    "plot": "Atomic Samurai and Bang go out fishing to a lake, and Giant Salamander attacks.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 437
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 11,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt5295974",
+    "title": "A Shadow That Snuck Up Too Close",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjczYzNiYWYtMmRhZS00YzA2LTg3NmMtZTliNTk2NTYxYTQ0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "unknown",
+    "episodeNumber": 14,
+    "runtimeSeconds": 720,
+    "plot": "Genos trying to find out the secret to Saitama's power by stalking him.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1524
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 12,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt11928990",
+    "title": "Genos and Memory Loss",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODgxNWE1MGEtZGMwNS00NTljLWE1M2ItODYyNzY0MjI5OWY0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "unknown",
+    "episodeNumber": 15,
+    "runtimeSeconds": 720,
+    "plot": "Saitama accidentally hits Genos while opening a bag of chips, which causes Genos to forget who he is.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 502
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt36602054",
+    "title": "The Pupil Who Is an Extremely Poor Talker",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDIxZjgyOGEtM2RlNC00ZWI0LThmZjctZTU4ZWI1YWFjODZmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "unknown",
+    "episodeNumber": 15,
+    "runtimeSeconds": 720,
+    "plot": "A story about Genos when he meets Don Pacino, a C class wanted criminal and his gang in a warehouse along with man who is being held captive by the gang.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 406
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 1,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt14365128",
+    "title": "Game and Rivals",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDkxMDAzNDAtMWI2Zi00ZmI5LTk4YjQtOTJiZGU2MmI4YmM3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1990,
+      "height": 1122
+    },
+    "season": "unknown",
+    "episodeNumber": 16,
+    "runtimeSeconds": 720,
+    "plot": "Saitama brings Genos to a tournament for the fighting video game \"Wild Animals\" where they hope to win the grand prize of five million yen.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 437
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt5428852",
+    "title": "The Ninja Who Is Too Complicated",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2I4ZTQ3OTItNmJkYS00MGQ3LWI1NDgtMzBjYmY0MTBiNjFjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1076
+    },
+    "season": "unknown",
+    "episodeNumber": 16,
+    "runtimeSeconds": 720,
+    "plot": "Sonic faces his fear and meets a new friend.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1302
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 2,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt12502738",
+    "title": "Puri Puri Prisoner and the Escaped Prisoners",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmMzYWFhM2EtNTY0ZC00ZThjLTg2NTItOTdhYTA0MGZhNGEzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "unknown",
+    "episodeNumber": 17,
+    "runtimeSeconds": 720,
+    "plot": "Puri-Puri Prisoner accidentally releases the inmates of Smelly Lid Prison while fighting against a monster. Realizing that the incident may cost a certain cute employee his job, Puri-Puri Prisoner heads out to find the escaped inmates.",
+    "rating": {
+      "aggregateRating": 6.6,
+      "voteCount": 451
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 2,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt5594224",
+    "title": "Bang, Who Is Too Overbearing",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM1Y2IwMzUtNjVmYS00ODYzLWE1Y2MtOWE1Yzk3ZTc5YzA5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "unknown",
+    "episodeNumber": 17,
+    "runtimeSeconds": 720,
+    "plot": "Silverfang stalks and pursues Saitama and Genos to come to his dojo where he tries to compete with Saitama in old martial arts ways.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1405
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 3,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt14365170",
+    "title": "Zombieman Murder Case 2: A Chalet Amid the Blizzard, and the Ones Bothered by the Cold",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjlkOTY4MjUtMGJhOS00NWRiLWE3YTQtZDFmMWZlMjQyYzVhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "unknown",
+    "episodeNumber": 18,
+    "runtimeSeconds": 720,
+    "plot": "Child Emperor, Zombieman, Superalloy Darkshine, and Metal Bat are dispatched to a forlorn, snowy mountain to hunt down a monster.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 439
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 3,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt5594226",
+    "title": "One Punch Man - Special: The Sisters Who Have Too Many Things Happening",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzQ2YTNlMjEtMzUzNC00MWY3LTg3ZTktZGMyZjc3OTU4ZWE0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "unknown",
+    "episodeNumber": 18,
+    "runtimeSeconds": 720,
+    "plot": "Story goes around frustrated Fubuki because of her elder sister Tatsumaki. Showing domination of elder sister over little one.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1286
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 4,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5594228",
+    "title": "The Murder Case That Is Too Impossible",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjk0OWVjMGYtNjY1Yy00MDVmLWJiOTUtOWE1ZWE3ZDRhOWYwXkEyXkFqcGc@._V1_.jpg",
+      "width": 864,
+      "height": 482
+    },
+    "season": "unknown",
+    "episodeNumber": 19,
+    "runtimeSeconds": 720,
+    "plot": "Child Emperor investigates the murder of Zombieman.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1354
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt14306928",
+    "title": "A Serious Look Back at the Anime ONE-PUNCH MAN",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjM1YTI2Y2UtYTMyYi00MTcwLWIzNTctZGFiZTU0YjE1NGQ3XkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 450
+    },
+    "season": "unknown",
+    "runtimeSeconds": 1440,
+    "plot": "Learn the history of One-Punch Man, and get ready for season 2 with a super serious recap.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 1115
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt14365086",
+    "title": "Saitama and Those with Reasonable Abilities",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDU5ZmVjZmUtZWEwOS00NmIzLTljYWQtNjg5Mzk5OTQwYzAyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "unknown",
+    "episodeNumber": 13,
+    "runtimeSeconds": 720,
+    "plot": "Saitama meets a group of villains in a public restroom who mistake him for their ally, they introduce themselves to Saitama, but when he reveals he's a hero, attempt to defeat him.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 438
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt5254328",
+    "title": "One Punch Man - Wanpanman: Road to Hero",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2M4YWNjZjEtMWM4Yi00ZjEzLThhMWYtOTIxYmMxZDdkYjE3XkEyXkFqcGc@._V1_.jpg",
+      "width": 838,
+      "height": 1200
+    },
+    "season": "unknown",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1440,
+    "plot": "Before Saitama became a hero, his local tailor tells him that he must close up shop due to pressure from a local gang and Saitama decides to help him out.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2187
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 12,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt14365110",
+    "title": "Old Dudes and Fishing",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDQ4OWVjNjEtZDYxNS00M2Y2LTgxNjYtNWVhNzVhZjRjODNmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1990,
+      "height": 1122
+    },
+    "season": "unknown",
+    "episodeNumber": 14,
+    "runtimeSeconds": 720,
+    "plot": "Atomic Samurai and Bang go out fishing to a lake, and Giant Salamander attacks.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 437
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 11,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt5295974",
+    "title": "A Shadow That Snuck Up Too Close",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjczYzNiYWYtMmRhZS00YzA2LTg3NmMtZTliNTk2NTYxYTQ0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "unknown",
+    "episodeNumber": 14,
+    "runtimeSeconds": 720,
+    "plot": "Genos trying to find out the secret to Saitama's power by stalking him.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1524
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 12,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt11928990",
+    "title": "Genos and Memory Loss",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODgxNWE1MGEtZGMwNS00NTljLWE1M2ItODYyNzY0MjI5OWY0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "unknown",
+    "episodeNumber": 15,
+    "runtimeSeconds": 720,
+    "plot": "Saitama accidentally hits Genos while opening a bag of chips, which causes Genos to forget who he is.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 502
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt36602054",
+    "title": "The Pupil Who Is an Extremely Poor Talker",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDIxZjgyOGEtM2RlNC00ZWI0LThmZjctZTU4ZWI1YWFjODZmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "unknown",
+    "episodeNumber": 15,
+    "runtimeSeconds": 720,
+    "plot": "A story about Genos when he meets Don Pacino, a C class wanted criminal and his gang in a warehouse along with man who is being held captive by the gang.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 406
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 1,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt14365128",
+    "title": "Game and Rivals",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDkxMDAzNDAtMWI2Zi00ZmI5LTk4YjQtOTJiZGU2MmI4YmM3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1990,
+      "height": 1122
+    },
+    "season": "unknown",
+    "episodeNumber": 16,
+    "runtimeSeconds": 720,
+    "plot": "Saitama brings Genos to a tournament for the fighting video game \"Wild Animals\" where they hope to win the grand prize of five million yen.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 437
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt5428852",
+    "title": "The Ninja Who Is Too Complicated",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2I4ZTQ3OTItNmJkYS00MGQ3LWI1NDgtMzBjYmY0MTBiNjFjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1076
+    },
+    "season": "unknown",
+    "episodeNumber": 16,
+    "runtimeSeconds": 720,
+    "plot": "Sonic faces his fear and meets a new friend.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1302
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 2,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt12502738",
+    "title": "Puri Puri Prisoner and the Escaped Prisoners",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmMzYWFhM2EtNTY0ZC00ZThjLTg2NTItOTdhYTA0MGZhNGEzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "unknown",
+    "episodeNumber": 17,
+    "runtimeSeconds": 720,
+    "plot": "Puri-Puri Prisoner accidentally releases the inmates of Smelly Lid Prison while fighting against a monster. Realizing that the incident may cost a certain cute employee his job, Puri-Puri Prisoner heads out to find the escaped inmates.",
+    "rating": {
+      "aggregateRating": 6.6,
+      "voteCount": 451
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 2,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt5594224",
+    "title": "Bang, Who Is Too Overbearing",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM1Y2IwMzUtNjVmYS00ODYzLWE1Y2MtOWE1Yzk3ZTc5YzA5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "unknown",
+    "episodeNumber": 17,
+    "runtimeSeconds": 720,
+    "plot": "Silverfang stalks and pursues Saitama and Genos to come to his dojo where he tries to compete with Saitama in old martial arts ways.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1405
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 3,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt14365170",
+    "title": "Zombieman Murder Case 2: A Chalet Amid the Blizzard, and the Ones Bothered by the Cold",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjlkOTY4MjUtMGJhOS00NWRiLWE3YTQtZDFmMWZlMjQyYzVhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "unknown",
+    "episodeNumber": 18,
+    "runtimeSeconds": 720,
+    "plot": "Child Emperor, Zombieman, Superalloy Darkshine, and Metal Bat are dispatched to a forlorn, snowy mountain to hunt down a monster.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 439
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 3,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt5594226",
+    "title": "One Punch Man - Special: The Sisters Who Have Too Many Things Happening",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzQ2YTNlMjEtMzUzNC00MWY3LTg3ZTktZGMyZjc3OTU4ZWE0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "unknown",
+    "episodeNumber": 18,
+    "runtimeSeconds": 720,
+    "plot": "Story goes around frustrated Fubuki because of her elder sister Tatsumaki. Showing domination of elder sister over little one.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1286
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 4,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt5594228",
+    "title": "The Murder Case That Is Too Impossible",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjk0OWVjMGYtNjY1Yy00MDVmLWJiOTUtOWE1ZWE3ZDRhOWYwXkEyXkFqcGc@._V1_.jpg",
+      "width": 864,
+      "height": 482
+    },
+    "season": "unknown",
+    "episodeNumber": 19,
+    "runtimeSeconds": 720,
+    "plot": "Child Emperor investigates the murder of Zombieman.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1354
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 27
+    }
+  }
+]

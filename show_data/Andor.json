@@ -1,0 +1,530 @@
+[
+  {
+    "id": "tt9419264",
+    "title": "Kassa",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjBjNzc1OTUtNDhlMC00M2Y2LThlODgtMTRhMWZiZjBmMDU5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2460,
+    "plot": "Cassian Andor's reckless search for his sister makes him a wanted man.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 22800
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 9,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt13834702",
+    "title": "That Would Be Me",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjM0ZTYzMWYtOTgxYi00ZGUyLWI3YWQtOTAzY2U4ZTA0MjRkXkEyXkFqcGc@._V1_.jpg",
+      "width": 3000,
+      "height": 2160
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2280,
+    "plot": "Cassian attempts to lay low on Ferrix as agents of the law close in.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 20577
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 9,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt13847540",
+    "title": "Reckoning",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTE3MDM2ZDktOTUyZS00M2FjLWI4MTgtMTk3NzUxODhjZDhhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 854
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2400,
+    "plot": "Cassian's desperation to avoid arrest leads him to a mysterious man with unknown connections.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 22363
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 9,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt13847542",
+    "title": "Aldhani",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA4YTE1ODMtZTY2ZS00MzRlLTlmNjYtOWJlNWIwMzc5NDYzXkEyXkFqcGc@._V1_.jpg",
+      "width": 2068,
+      "height": 1062
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2820,
+    "plot": "Out of options, Cassian is recruited for a dangerous mission to infiltrate an Imperial garrison.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 19158
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 9,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt13847622",
+    "title": "The Axe Forgets",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTE1MWJhYTItOWFlZi00NWE5LTkxYzYtMjk5Mzc5ZDVjMDM2XkEyXkFqcGc@._V1_.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2760,
+    "plot": "Cassian must carefully navigate the distrust inherent in being the new member of a secret operation.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 18357
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt13847624",
+    "title": "The Eye",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2Y4NTc3NmMtNTM2Yy00ZWY1LWJkZGMtMzM1N2U2YmI0ODY4XkEyXkFqcGc@._V1_.jpg",
+      "width": 780,
+      "height": 438
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3000,
+    "plot": "With cover from a spectacular local festival, the Aldhani mission reaches a point of no return.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 24525
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt13847652",
+    "title": "Announcement",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGVkMGIyNjItYWNlMi00OGQyLTkyYzMtNzAzZDVlMTljMmI4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 800
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3000,
+    "plot": "The repercussions of the Aldhani heist reach all the way to Coruscant. Meanwhile Cassian returns home.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 18047
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt13847656",
+    "title": "Narkina 5",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWQ1ZmM2MjUtMGYxOC00MDJlLTk4ZDMtNWNkN2E2OTI4ZWNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 1270
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 3180,
+    "plot": "The Empire catches up to Cassian, but are as yet unaware of his identity and past.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 18125
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt13847926",
+    "title": "Nobody's Listening!",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2NmOTg4ZDktZjA2NC00MDU0LThiMDItMTU3YThkY2M5MzNlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 640
+    },
+    "season": "1",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2820,
+    "plot": "Under intense scrutiny while imprisoned, Cassian makes allies to plan an impossible escape.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 18541
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 11,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt13847928",
+    "title": "One Way Out",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmQ3Njk0ZDktYzRkYi00MmRlLWFiNTMtMzQzMzk1ZjU2OGJlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2580,
+    "plot": "A rare opportunity opens and the time for Cassian and his fellow inmates to act is now.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 27886
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 11,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt13848060",
+    "title": "Daughter of Ferrix",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2VmYmMzNjMtZGVjMC00ODEzLTkwNjMtMzVlYTU4ZmM3ZjY2XkEyXkFqcGc@._V1_.jpg",
+      "width": 6000,
+      "height": 4000
+    },
+    "season": "1",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2580,
+    "plot": "A fugitive once more, Cassian must make his next move before it is too late.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 17458
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 11,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt13848062",
+    "title": "Rix Road",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDFjYzEwYTYtOTI1YS00MDI0LTg1ZjQtMDdhMjY1NWM1NTBlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 800
+    },
+    "season": "1",
+    "episodeNumber": 12,
+    "runtimeSeconds": 3420,
+    "plot": "Cassian returns home to Ferrix, a tinderbox that is experiencing a spark of rebellion.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 21877
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 11,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt20258964",
+    "title": "One Year Later",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjZlNmFmNTQtMDAzMS00M2QyLWIzMGEtMjZjZDE4MGMxZWNmXkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 1126
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3060,
+    "plot": "An undercover mission. A sanctuary threatened. A Chandrilan wedding. A chilling Imperial plan.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 16630
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 4,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt20603288",
+    "title": "Sagrona Teema",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWIyZWRmOWItZWNlNy00YWQ0LTkwMmItMzFmYzJhOGNkYjU5XkEyXkFqcGc@._V1_.jpg",
+      "width": 768,
+      "height": 432
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2640,
+    "plot": "Cassian caught in a rebel turf war. Mon's wedding woes mount. The Ferrix survivors face inspection.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 15731
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 4,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt20603292",
+    "title": "Harvest",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTRlYWQ5MjQtYTU2Yy00NjUwLTk1MjctYzUxYzliMzA1Zjg2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1373,
+      "height": 899
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3180,
+    "plot": "Time is running out for everyone.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 17351
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 4,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt20603294",
+    "title": "Ever Been to Ghorman?",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTAyY2QwNDYtYzJhYS00NTcxLTkwZjAtZTczMWM3ZWQyNGE4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1236,
+      "height": 817
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3240,
+    "plot": "Cassian and Bix adjust to a Luthen safehouse. All eyes are on Ghorman. Wilmon visits Saw Gerrera.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 14177
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 4,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt20603298",
+    "title": "I Have Friends Everywhere",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTgyMGMwNDUtMGM0Ny00ZTFiLWFlODEtZGJiMzM2ODkwN2FiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3240,
+    "plot": "Cassian on Ghorman. Syril on Coruscant. Bix failing. Wilmon trapped. Kleya has a serious problem.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 14222
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 4,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt20603302",
+    "title": "What a Festive Evening",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2IyOTY5YjItNTk5OS00YzliLWFlMTktYjFkNzg3M2ZjN2VjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1050,
+      "height": 754
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3240,
+    "plot": "Vel and Cinta to Ghorman. Cassian home to Bix. An argument. A heist. A party. Everything at risk.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 15700
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 4,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt20603306",
+    "title": "Messenger",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWUyNGE3MGEtMzQwMi00M2Q5LTlkZDQtOTg2OTMzNGYzYzUwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1708,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2640,
+    "plot": "Yavin is growing. Wilmon comes for help. Dedra's on Ghorman. Cassian heeds the call.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 15361
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt20603308",
+    "title": "Who Are You?",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2EzODU4YzQtNDQ3Ni00OWU1LWFhZjItNDM3NmIxOWZkMmQ0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1911,
+      "height": 796
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2820,
+    "plot": "Imperial manipulation. Ghorman frustration. Cassian and Syril center stage as Palmo erupts.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 29108
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt20603310",
+    "title": "Welcome to the Rebellion",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTdiOTJjN2MtZmM2Ni00MTAzLTgzZDItNjE5MzMwYzczMzMyXkEyXkFqcGc@._V1_.jpg",
+      "width": 3488,
+      "height": 2160
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 3480,
+    "plot": "In the Ghorman aftermath, Mon Mothma takes a stand. Cassian must carry out a difficult extraction.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 25445
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt20603318",
+    "title": "Make It Stop",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzczNzI3ODctNzIxOS00OWYxLWI4MzMtZGY1OTMxZjg3NGJhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1074,
+      "height": 767
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2880,
+    "plot": "Lonni Jung taps out. Dedra closes in. Luthen scrambles. Kleya delivers.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 20298
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt20603320",
+    "title": "Who Else Knows?",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTgxZDYxYmYtNGUxOS00ODAwLTk5NjgtZTAwNDI0ZTRlMDllXkEyXkFqcGc@._V1_.jpg",
+      "width": 1239,
+      "height": 794
+    },
+    "season": "2",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2520,
+    "plot": "Cassian returns to Coruscant for one last extraction.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 18620
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt20603322",
+    "title": "Jedha, Kyber, Erso",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWE4ZGM0NGYtZGZiYy00ZmVhLWIxMzUtMTZkZWRkMjIxOTdhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 744
+    },
+    "season": "2",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2760,
+    "plot": "Cassian returns to Yavin with intel that will change everything.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 19892
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 13
+    }
+  }
+]

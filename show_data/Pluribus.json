@@ -1,0 +1,228 @@
+[
+  {
+    "id": "tt30759782",
+    "title": "We Is Us",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjNlNzRiYjEtYjJmMS00YTY0LThkMDItOTFmMjE4ZGMyZjFlXkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 1604
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3360,
+    "plot": "An astronomer's discovery turns the planet upside-down; curmudgeonly novelist Carol Sturka is terrified by this strange new world.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 24812
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt32767308",
+    "title": "Pirate Lady",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjMzNjdlYjQtNDMyNS00ZjhhLTgzYzctNDcxMTk4Y2IxOWUxXkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 1608
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3780,
+    "plot": "A curiously familiar face introduces Carol to the bizarre new normal. A gathering in Europe brings strangers together...and causes friction.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 19838
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt32767323",
+    "title": "Grenade",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGU1ZmRlMjAtNTFlNS00OGYwLTg4NjctNzc2MjkxMzhjMWM4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1290,
+      "height": 718
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2580,
+    "plot": "The World just wants to help - which infuriates Carol. A heart-to-heart conversation ends with a bang.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 17238
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt32767327",
+    "title": "Please, Carol",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTc0NTkwODctYWQyNS00YWM3LWJkOWMtMjVmMzkyMDI5NjIzXkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 1606
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2760,
+    "plot": "Carol tests the boundaries of this weirdly honest world at the expense of her ego. Far away, a resolute individual learns he's not alone.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 14463
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt32777418",
+    "title": "Got Milk",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmMyYWM0YjEtNTRmMi00ZmM1LWFiMjctYzRjOWY1YzcyZWYxXkEyXkFqcGc@._V1_.jpg",
+      "width": 968,
+      "height": 545
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2760,
+    "plot": "Carol doubles down on her investigation -- loneliness be damned. Meanwhile, howls in the night reveal a new source of danger.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 13238
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt32777420",
+    "title": "HDP",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzc4MTBmY2UtMjE4OC00NTVkLTg3MTAtNjYyNGUyMmM0OGE3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1179,
+      "height": 647
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3000,
+    "plot": "Carol shares a horrific discovery and learns new truths in the process. Mr. Diabaté lives life to the fullest in Sin City.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 12027
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt32777421",
+    "title": "The Gap",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTlmMDI1NjEtODZiOS00OWFjLTkzNzctZjhkODM1YzUwMmNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2760,
+    "plot": "Manousos begins a dangerous trek to meet Carol. Returning home from Las Vegas, Carol gets creative with her rebellion.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 14005
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt32777424",
+    "title": "Charm Offensive",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTlhNzFiMDItMTRhOS00NDZmLTgxMDQtMjFmY2EyYjkyNzcwXkEyXkFqcGc@._V1_.jpg",
+      "width": 2400,
+      "height": 1350
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2580,
+    "plot": "Carol takes a different tack with The Others and discovers more than she anticipated. Manousos awakens in unfamiliar surroundings.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 10938
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt32777427",
+    "title": "La Chica o El Mundo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTNmMDg1N2YtMDY2YS00NmMwLWJhNGYtYTcyYWUxOTYxYzAxXkEyXkFqcGc@._V1_.jpg",
+      "width": 2400,
+      "height": 1350
+    },
+    "season": "1",
+    "episodeNumber": 9,
+    "runtimeSeconds": 3420,
+    "plot": "Manousos arrives in Albuquerque and complications ensue. Carol visits the last best place on Earth.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 10181
+    },
+    "releaseDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt32767335",
+    "title": "Episode #1.10",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDYwM2I1MWMtMjE3OC00ZjI3LTk2ZmItN2RmYmQwNjg0ZGRkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 1280
+    },
+    "season": "1",
+    "episodeNumber": 10,
+    "releaseDate": {
+      "year": 2025
+    }
+  },
+  {
+    "id": "tt32767339",
+    "title": "Episode #2.1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 3000
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "releaseDate": {
+      "year": 2026
+    }
+  }
+]

@@ -40,7 +40,11 @@ Shows = {
     "American Sweethearts: Dallas Cowboys Cheerleaders" : "tt32146518",
     "True Detective" : "tt2356777",
     "Sherlock" : "tt1475582",
-    "Avatar" : "tt0417299"
+    "Avatar" : "tt0417299",
+    "Pluribus" : "tt22202452",
+    "Andor" : "tt9253284",
+    "One Punch Man" : "tt4508902",
+    "The Blacklist": "tt2741602"
 }
 
 def fetch_imdb_data(show_name):
@@ -103,15 +107,17 @@ def generate_ratings_array(show_name):
     padded = [season + [np.nan]*(maxEps - len(season)) for season in Ratings2D]
     return np.array(padded)
 
-def subplot_gen(ax, Ratings2D, cmap, count):
+def subplot_gen(ax, Ratings2D, cmap, count=None):
 
     norm = colors.Normalize(vmin=0.4, vmax=1)
 
     ax.imshow(Ratings2D, cmap=cmap, norm=norm, interpolation="nearest")
     ax.axis("off")
+    if count == None:
+        return
     ax.text(
         0.5, -0.1,                     # x, y in axis coordinates (0–1 range)
-        f"“{fav_shows[count]}”",         # the caption text
+        f"“{input_shows[count]}”",         # the caption text
         ha="center", va="top",         # center align horizontally
         fontsize=10, fontstyle="italic",
         transform=ax.transAxes         # make coords relative to axes
@@ -142,13 +148,25 @@ def generate_heat_map(shows): #shows is a list of show titles (as strings)
     
     plt.show()
 
-shows_for_heatmap = ["AOT", "BreakingBad", "Archer", "HIMYM", "Friends", "Bojack", 
+input_shows = ["AOT", "BreakingBad", "Archer", "HIMYM", "Friends", "Bojack", 
                      "RickAndMorty", "ParksAndRecreation", "House", 
                      "RvB", "Simpsons", "ModernFamily", "GameOfThrones",
                      "TheOffice", "Brooklyn99", "SouthPark", "TheSopranos", "TheWire",
                      "Futurama", "StrangerThings", "Lost", "Dexter", "Suits", "TeenWolf",
-                     "LoveDeathRobots", "DerryGirls", "DeathNote", "BobsBurgers", "PrettyLittleLiars"]
+                     "LoveDeathRobots", "DerryGirls", "DeathNote", "BobsBurgers", "PrettyLittleLiars", "One Punch Man"]
 
-requested_shows = ["RvB", "Merlin", "American Sweethearts: Dallas Cowboys Cheerleaders",
-                   "True Detective", "SouthPark", "Sherlock", "GameOfThrones", "BreakingBad", "Avatar"]
-generate_heat_map(requested_shows)    
+input_shows_short = ["RvB", "Merlin", "American Sweethearts: Dallas Cowboys Cheerleaders", "Pluribus",
+                   "True Detective", "SouthPark", "Sherlock", "GameOfThrones", "BreakingBad", "Avatar", "Andor", "AOT"]
+
+
+
+if __name__ == "__main__":
+
+    ShowId = input("What is the Show ID?: ")
+    ShowName = input("What is the Show Name?: ")
+
+    Shows[ShowName] = ShowId
+
+    #generate_heat_map(input_shows)    
+
+    generate_heat_map([ShowName])

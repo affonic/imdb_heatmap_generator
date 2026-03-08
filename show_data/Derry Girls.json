@@ -1,0 +1,420 @@
+[
+  {
+    "id": "tt7714670",
+    "title": "Episode #1.1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWMxMjM0YTItZmE4Ni00OTExLTk4YTktNDU5ZGQ5N2MyMzBlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1352,
+      "height": 755
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1500,
+    "plot": "It's the early 90s, the first day of school and a terrible start for 16-year-old Erin as she wakes up to find her cousin Orla reading her diary; Granda Joe announces there's a bomb on the bridge.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2209
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 12,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt7795750",
+    "title": "Episode #1.2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTRmZDUzNjAtZjVkNC00NTRiLWJiNDMtYzYzNDU4ZDcwOWE4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1450,
+      "height": 749
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1500,
+    "plot": "Everyone is really excited when Sister Michael announces the school trip to Paris; Back at the Quinn house, Uncle Colm is visiting and the whole family are losing the will to live.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1853
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 1,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt7795756",
+    "title": "Episode #1.3",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODhiYTUwN2EtMTM1MC00Y2QwLTg4NGYtYWE0NzU4MmExYTUwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1466,
+      "height": 785
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1500,
+    "plot": "The girls are tense about a big exam and naturally jump at a dubious opportunity to get out of it, especially as it involves spending time with the beautiful Father Peter.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1767
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 1,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt7795762",
+    "title": "Episode #1.4",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTBiMjQ2ZWYtN2U3NS00YThhLTk5MmQtZThiYmQxNTkyOTk2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1233,
+      "height": 787
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1500,
+    "plot": "Erin is so excited that teenage Katya 'a child of Chernobyl' is coming to stay, but Katya is not exactly grateful to be in Derry; there are developments in Granda Joe's love life.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1652
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 1,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt7795766",
+    "title": "Episode #1.5",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjIyNjMxZDgtOWNlYS00MTMzLTg5MDktMzc0YTM5OGMwYzhkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1167,
+      "height": 786
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1500,
+    "plot": "The Quinn family rush to get out of Derry before the Orange Parades start, but Aunt Sarah's tarot cards predict a disaster for this trip and, for once, she might be right.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 1632
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 2,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt7795770",
+    "title": "Episode #1.6",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDg1M2QxNzUtOTA1Ni00YzNjLWFlNTktOGYyOWRiMzgxYTFiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1474,
+      "height": 745
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1500,
+    "plot": "Erin is over the moon when she becomes editor of the school magazine; Orla's obsessed by step aerobics; Da Gerry is in trouble with Ma Mary; There's romance for Aunt Sarah.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 1816
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 2,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt7863128",
+    "title": "Across the Barricade",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODRlNDExYjEtNzk0Ny00N2Q3LThmN2ItYTAzNDk3YmEwZGY4XkEyXkFqcGc@._V1_.jpg",
+      "width": 2835,
+      "height": 1890
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1500,
+    "plot": "Erin and co are excited to attend an outdoor pursuits weekend as part of a peace initiative, but peace is the last thing on Michelle's mind once she finds out that there will be Protestant lads there.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 1591
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt9856140",
+    "title": "Ms De Brún and the Child of Prague",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2YwZTY1ZTktZDgwMS00ZWZmLWJlNzAtNDE0ZGFjYjk5Y2VlXkEyXkFqcGc@._V1_.jpg",
+      "width": 2835,
+      "height": 1890
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1500,
+    "plot": "A new English teacher arrives at Our Lady Immaculate, and the girls find themselves inspired.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1461
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt9895782",
+    "title": "The Concert",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGRjZjlkMTEtMzBlMS00NmU3LTg2MmUtYWRhOGYwM2YwZWM5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1640,
+      "height": 1093
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1500,
+    "plot": "When Ma Mary forbids the girls from seeing Take That in Belfast, they will stop at nothing to get there.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 1479
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt9895038",
+    "title": "The Curse",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjE0ZWQyMWUtYmM3Yi00ZjAyLTkzMjEtZTVjNDM2ODM0MmE3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1184,
+      "height": 659
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1500,
+    "plot": "The Quinn family cause uproar at a family wedding, and the consequences of the girls' bad behaviour are very serious, especially for cousin Eammon.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 1545
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt9895046",
+    "title": "The Prom",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGUwMGEyYTAtOGJlZi00YTExLThiZWItYWNjY2MyZjg3ZWI4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1270,
+      "height": 674
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1500,
+    "plot": "Jenny Joyce organises a 50s style prom, but the girls are more intrigued by the arrival of a new girl. Erin, Clare and Michelle are looking for prom dates, but Orla has got someone special in mind.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 1442
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt9895050",
+    "title": "The President",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWY1NjM3NWYtNWFhNS00M2QyLWE1ZDUtNGUwMGRhZGVkYTQxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1045,
+      "height": 659
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1500,
+    "plot": "As Christmas approaches, excitement in Derry is at fever pitch for President Bill Clinton's visit, while James gets a surprise and Granda Joe embarks on a mysterious plan of his own.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 1710
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt10205774",
+    "title": "The Night Before",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGMzNGVlZmUtNDMwZi00NjcwLWI5ZTgtOGJlOTZlMGI2NjM1XkEyXkFqcGc@._V1_.jpg",
+      "width": 960,
+      "height": 500
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1500,
+    "plot": "After a run-in with Sister Michael leaves them worrying about their GCSEs, the girls attempt to break into the school to see their results early.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1439
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt17979360",
+    "title": "The Affair",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODFlNWEzYWItZjlmMy00MmY0LWFhYTgtZGRjNzQ0Zjc5N2RkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1333,
+      "height": 656
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1500,
+    "plot": "Jenny Joyce has big plans for the fundraiser talent show. The gang plans to outshine the competition and thus put back Jenny in her place.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 1292
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 10,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt17982346",
+    "title": "Stranger on a Train",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGVjZTkyZGItNWUxNC00M2M2LWJkOTMtMmI2OWM2YWE2MTgwXkEyXkFqcGc@._V1_.jpg",
+      "width": 750,
+      "height": 500
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1500,
+    "plot": "There's a huge buzz in the Quinn household as preparations are made for the annual day trip to Barry's amusement park in Portrush. Surely an unfeasible amount of sandwiches and a massive surfboard is all they could possibly need.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1235
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt17983202",
+    "title": "The Haunting",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGNkYjE0NGUtNjY3NC00YzA1LWE2MDEtZTQ1OTVmODY5NDE3XkEyXkFqcGc@._V1_.jpg",
+      "width": 900,
+      "height": 450
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1560,
+    "plot": "James's driving skills are put to the test as the gang set off in a van full of hooch and high hopes to an adult-free house in Donegal. The Quinns visit a local psychic in the hope of making contact with a much-loved family spirit.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 1260
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt17984650",
+    "title": "The Reunion",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjk5NzZkNmQtNmI3MC00NGZhLWExYzgtY2VkYzA0MGZkZjI2XkEyXkFqcGc@._V1_.jpg",
+      "width": 750,
+      "height": 500
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1560,
+    "plot": "Ma Mary and Aunt Sarah are in preparation for the highly anticipated reunion class of 1977.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1337
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt17988804",
+    "title": "Halloween",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzBlZjBmMjctNWM3ZS00ZjUyLTk5YmEtNTI5ZmY3NWEyNDNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 900,
+      "height": 450
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1500,
+    "plot": "Halloween the biggest night in Derry and the gang have secured tickets to the gig of the century thus came the chance to meet their idol, Fatboy Slim.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 1252
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt19883936",
+    "title": "The Agreement",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzBmMWIxODYtYmVhZi00NDdjLTkwYjctOTc1MTVkODkxZGFjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2880,
+    "plot": "Erin and Orla's joint 18th birthday, threatens to be overshadowed. Meanwhile the family try to get their heads around the outcome of the vote, the friends realize that they are not ready for what the future holds.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 2047
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 7
+    }
+  }
+]
